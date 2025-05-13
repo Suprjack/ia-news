@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Actualités IA{% endblock %}</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&family=Pacifico&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    {% block head_extra %}{% endblock %}
+</head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="{{ url_for('home') }}">Actualités IA</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto align-items-center">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('home') }}">Accueil</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <span id="darkModeToggle" class="nav-link">
+                            <i class="fas fa-moon"></i> <!-- Icône pour mode sombre -->
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main role="main" class="container mt-4">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3 mt-5">
+        <div class="container">
+            <p>&copy; {{ current_year }} Actualités IA - Tous droits réservés.</p>
+            <div class="social-icons">
+                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const darkModeToggle = document.getElementById('darkModeToggle');
+            const body = document.body;
+            const moonIcon = '<i class="fas fa-moon"></i>';
+            const sunIcon = '<i class="fas fa-sun"></i>';
+
+            // Fonction pour appliquer le mode sombre
+            function enableDarkMode() {
+                body.classList.add('dark-mode');
+                localStorage.setItem('darkMode', 'enabled');
+                if(darkModeToggle) darkModeToggle.innerHTML = sunIcon;
+            }
+
+            // Fonction pour désactiver le mode sombre
+            function disableDarkMode() {
+                body.classList.remove('dark-mode');
+                localStorage.setItem('darkMode', 'disabled');
+                if(darkModeToggle) darkModeToggle.innerHTML = moonIcon;
+            }
+
+            // Vérifier l'état initial du mode sombre depuis localStorage
+            if (localStorage.getItem('darkMode') === 'enabled') {
+                enableDarkMode();
+            } else {
+                // Si le localStorage n'est pas défini mais que la classe dark-mode est sur le body (via session Flask par ex)
+                if (body.classList.contains('dark-mode') && localStorage.getItem('darkMode') !== 'disabled') {
+                     enableDarkMode(); // S'assurer que l'icône est correcte
+                } else {
+                    disableDarkMode(); // S'assurer que l'icône est correcte
+                }
+            }
+
+            // Gérer le clic sur le bouton de bascule
+            if(darkModeToggle) {
+                darkModeToggle.addEventListener('click', () => {
+                    if (body.classList.contains('dark-mode')) {
+                        disableDarkMode();
+                        // Optionnel: Informer le serveur du changement
+                        fetch('{{ url_for("toggle_dark_mode") }}', { method: 'POST' });
+                    } else {
+                        enableDarkMode();
+                        // Optionnel: Informer le serveur du changement
+                        fetch('{{ url_for("toggle_dark_mode") }}', { method: 'POST' });
+                    }
+                });
+            }
+        });
+    </script>
+    {% block scripts %}{% endblock %}
+</body>
+</html>
