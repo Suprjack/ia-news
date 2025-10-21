@@ -41,26 +41,51 @@ python3 app.py
 # http://localhost:8001
 ```
 
-## Configuration Automatisée (Cron)
+## 🤖 Automatisation avec GitHub Actions
 
-Pour mettre à jour les actualités automatiquement toutes les 3 heures:
+### Mise à jour automatique toutes les 6 heures
 
-### Sur macOS/Linux:
+Le projet utilise GitHub Actions pour automatiser la mise à jour du site:
+
+**Workflow**: [`.github/workflows/update-news.yml`](.github/workflows/update-news.yml:1)
+
+**Fonctionnement**:
+1. S'exécute automatiquement toutes les 6 heures (à 00:00, 06:00, 12:00, 18:00 UTC)
+2. Lance le scraper pour récupérer les nouvelles actualités
+3. Rebuild le site statique
+4. Commit et push les changements si de nouveaux articles sont trouvés
+5. Netlify redéploie automatiquement le site
+
+**Déclenchement manuel**:
+1. Aller sur GitHub → Actions
+2. Sélectionner "Update News and Rebuild Site"
+3. Cliquer sur "Run workflow"
+4. Choisir la branche et lancer
+
+**Vérifier l'état**:
+- Aller sur l'onglet "Actions" de votre repo GitHub
+- Voir l'historique des exécutions et les logs détaillés
+
+### Configuration Locale (Cron) - Alternative
+
+Si vous préférez une automatisation locale:
+
+#### Sur macOS/Linux:
 
 ```bash
 # Ouvrir l'éditeur crontab
 crontab -e
 
-# Ajouter cette ligne:
-0 */3 * * * cd /chemin/vers/ia_news_site && /path/to/venv/bin/python3 run_update_and_build.py >> /var/log/ia_news.log 2>&1
+# Ajouter cette ligne pour une mise à jour toutes les 6 heures:
+0 */6 * * * cd /chemin/vers/ia_news_site && /path/to/venv/bin/python3 run_update_and_build.py >> /var/log/ia_news.log 2>&1
 ```
 
-### Sur Windows:
+#### Sur Windows:
 
 Utiliser Task Scheduler ou l'outil `schtasks`:
 
 ```bash
-schtasks /create /tn "IA News Scraper" /tr "python C:\path\to\run_update_and_build.py" /sc HOURLY /mo 3
+schtasks /create /tn "IA News Scraper" /tr "python C:\path\to\run_update_and_build.py" /sc HOURLY /mo 6
 ```
 
 ## Déploiement sur Netlify

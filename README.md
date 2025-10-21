@@ -10,7 +10,7 @@ Découvrez les dernières innovations en LLMs, Image Generation, Video Synthesis
 - 🌐 **Site web moderne** - Design sleek, responsive, animations fluides
 - 📱 **Mobile-first** - Parfait sur tous les appareils
 - 🌓 **Dark mode** - Thème clair/sombre
-- 🔄 **Auto-update** - Mise à jour toutes les 3 heures
+- 🔄 **Auto-update** - Mise à jour automatique toutes les 6 heures via GitHub Actions
 - 📡 **Flux RSS** - S'abonner à un lecteur RSS standard
 - 🔍 **Catégories** - Filtrez par LLMs, Image Gen, Video Gen, Coding, Fun AI
 - 📊 **API** - Accédez aux données en JSON
@@ -22,15 +22,18 @@ Le scraper collecte depuis:
 
 | Source | Type | Fréquence |
 |--------|------|-----------|
-| Hacker News | Web | 3h |
-| The Verge | Web + RSS | 3h |
-| Artificial Intelligence News | Web + RSS | 3h |
-| VentureBeat | Web | 3h |
-| Reddit (r/StableDiffusion) | Web | 3h |
-| Reddit (r/OpenAI) | Web | 3h |
-| KDnuggets | RSS | 3h |
-| DeepLearning.AI | RSS | 3h |
-| Ars Technica | RSS | 3h |
+| OpenAI Blog | RSS | 6h |
+| Anthropic News | RSS | 6h |
+| Google AI Blog | RSS | 6h |
+| Hugging Face Blog | RSS | 6h |
+| The Verge AI | RSS | 6h |
+| TechCrunch AI | RSS | 6h |
+| VentureBeat AI | RSS | 6h |
+| MIT Technology Review | RSS | 6h |
+| Wired AI | RSS | 6h |
+| NVIDIA Blog | RSS | 6h |
+| KDnuggets | RSS | 6h |
+| Ars Technica | RSS | 6h |
 
 ## 🚀 Installation Rapide
 
