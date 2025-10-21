@@ -3,110 +3,133 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}Actualités IA{% endblock %}</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    <!-- Google Fonts -->
+    <title>{% block title %}IA News - Les Dernières Actualités en IA{% endblock %}</title>
+    <meta name="description" content="Découvrez les dernières nouveautés en Intelligence Artificielle, LLMs, Image Generation, et plus encore.">
+    <meta name="theme-color" content="#6366f1">
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
     {% block head_extra %}{% endblock %}
 </head>
-    <body>
-    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
         <div class="container">
-            <a class="navbar-brand" href="{{ url_for('home') }}">Actualités IA</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto align-items-center">
-                    <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('home') }}">Accueil</a>
-                    </li>
-                    
-                    <li class="nav-item">
-                        <span id="darkModeToggle" class="nav-link">
-                            <i class="fas fa-moon"></i> <!-- Icône pour mode sombre -->
-                        </span>
-                    </li>
-                </ul>
+            <div class="flex justify-between items-center">
+                <a href="{{ url_for('home') }}" class="navbar-brand">
+                    <i class="fas fa-brain"></i> IA News
+                </a>
+
+                <div class="nav-links">
+                    <a href="{{ url_for('home') }}" class="nav-link">Accueil</a>
+                    <a href="#" class="nav-link">Catégories</a>
+                    <a href="#" class="nav-link">À Propos</a>
+                    <button id="darkModeToggle" class="dark-mode-toggle" title="Basculer thème">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                </div>
+
+                <!-- Mobile Menu Toggle -->
+                <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                    <i class="fas fa-bars"></i>
+                </button>
             </div>
         </div>
     </nav>
 
-    <main role="main" class="container mt-4">
+    <!-- Main Content -->
+    <main role="main" class="container">
         {% block content %}{% endblock %}
     </main>
 
-    <footer class="bg-dark text-white text-center py-3 mt-5">
+    <!-- Footer -->
+    <footer>
         <div class="container">
-            <p>&copy; {{ current_year }} Actualités IA - Tous droits réservés.</p>
-            <div class="social-icons">
-                <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                <a href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>À Propos</h4>
+                    <p>IA News agrège automatiquement les dernières actualités en intelligence artificielle, LLMs, image generation et plus.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Catégories</h4>
+                    <a href="#">LLMs & Chatbots</a>
+                    <a href="#">Image Generation</a>
+                    <a href="#">Video Generation</a>
+                    <a href="#">Coding AI</a>
+                    <a href="#">AI Fun</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Ressources</h4>
+                    <a href="#">Blog</a>
+                    <a href="#">API</a>
+                    <a href="#">Flux RSS</a>
+                    <a href="#">Contact</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Suivez-nous</h4>
+                    <div class="social-links">
+                        <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" title="Discord"><i class="fab fa-discord"></i></a>
+                        <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+                        <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 IA News. Mis à jour automatiquement avec ❤️ par un agent Python.</p>
             </div>
         </div>
     </footer>
 
-    <!-- Bootstrap JS, Popper.js, and jQuery -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Scripts -->
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener('DOMContentLoaded', function() {
             const darkModeToggle = document.getElementById('darkModeToggle');
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
             const body = document.body;
-            const moonIcon = '<i class="fas fa-moon"></i>';
-            const sunIcon = '<i class="fas fa-sun"></i>';
 
-            // Fonction pour appliquer le mode sombre
-            function enableDarkMode() {
+            // Dark Mode Toggle
+            const savedDarkMode = localStorage.getItem('darkMode');
+            if (savedDarkMode === 'true') {
                 body.classList.add('dark-mode');
-                localStorage.setItem('darkMode', 'enabled');
-                if(darkModeToggle) darkModeToggle.innerHTML = sunIcon;
+                updateDarkModeIcon();
             }
 
-            // Fonction pour désactiver le mode sombre
-            function disableDarkMode() {
-                body.classList.remove('dark-mode');
-                localStorage.setItem('darkMode', 'disabled');
-                if(darkModeToggle) darkModeToggle.innerHTML = moonIcon;
-            }
+            darkModeToggle.addEventListener('click', () => {
+                body.classList.toggle('dark-mode');
+                localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
+                updateDarkModeIcon();
+            });
 
-            // Vérifier l'état initial du mode sombre depuis localStorage
-            if (localStorage.getItem('darkMode') === 'enabled') {
-                enableDarkMode();
-            } else {
-                // Si le localStorage n'est pas défini mais que la classe dark-mode est sur le body (via session Flask par ex)
-                if (body.classList.contains('dark-mode') && localStorage.getItem('darkMode') !== 'disabled') {
-                     enableDarkMode(); // S'assurer que l'icône est correcte
+            function updateDarkModeIcon() {
+                const icon = darkModeToggle.querySelector('i');
+                if (body.classList.contains('dark-mode')) {
+                    icon.classList.remove('fa-moon');
+                    icon.classList.add('fa-sun');
                 } else {
-                    disableDarkMode(); // S'assurer que l'icône est correcte
+                    icon.classList.remove('fa-sun');
+                    icon.classList.add('fa-moon');
                 }
             }
 
-            // Gérer le clic sur le bouton de bascule
-            if(darkModeToggle) {
-                darkModeToggle.addEventListener('click', () => {
-                    if (body.classList.contains('dark-mode')) {
-                        disableDarkMode();
-                        // Optionnel: Informer le serveur du changement
-                        fetch('{{ url_for("toggle_dark_mode") }}', { method: 'POST' });
-                    } else {
-                        enableDarkMode();
-                        // Optionnel: Informer le serveur du changement
-                        fetch('{{ url_for("toggle_dark_mode") }}', { method: 'POST' });
-                    }
+            // Mobile Menu Toggle
+            if (mobileMenuToggle) {
+                mobileMenuToggle.addEventListener('click', () => {
+                    document.querySelector('.nav-links').classList.toggle('active');
                 });
             }
         });
     </script>
+
     {% block scripts %}{% endblock %}
 </body>
 </html>

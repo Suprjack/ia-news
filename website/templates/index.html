@@ -1,0 +1,190 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!-- Hero Section -->
+<section class="hero slide-up">
+    <div class="hero-content">
+        <h1>Intelligence Artificielle</h1>
+        <p>Découvrez les dernières actualités en IA : LLMs, Image Generation, Video Synthesis, Coding AI et plus encore. Mis à jour automatiquement.</p>
+        <div class="flex gap-1" style="margin-top: 1.5rem;">
+            <button class="btn btn-primary">
+                <i class="fas fa-bell"></i> S'abonner
+            </button>
+            <button class="btn btn-secondary">
+                <i class="fas fa-rss"></i> Flux RSS
+            </button>
+        </div>
+    </div>
+</section>
+
+<!-- Category Filters -->
+<div class="category-filters">
+    <button class="category-filter-btn active" data-category="all">
+        <i class="fas fa-star"></i> Tous
+    </button>
+    <button class="category-filter-btn" data-category="llms">
+        <i class="fas fa-wand-magic-sparkles"></i> LLMs
+    </button>
+    <button class="category-filter-btn" data-category="image_gen">
+        <i class="fas fa-image"></i> Image Gen
+    </button>
+    <button class="category-filter-btn" data-category="video_gen">
+        <i class="fas fa-video"></i> Video Gen
+    </button>
+    <button class="category-filter-btn" data-category="coding">
+        <i class="fas fa-code"></i> Coding
+    </button>
+    <button class="category-filter-btn" data-category="fun">
+        <i class="fas fa-smile"></i> Fun
+    </button>
+</div>
+
+<!-- Main News Grid -->
+<section class="section">
+    <h2 class="section-title">
+        <i class="fas fa-newspaper"></i> Actualités Récentes
+    </h2>
+
+    {% if news %}
+        <div class="news-grid">
+            {% for article in news[:12] %}
+                <article class="news-card fade-in" data-category="{{ article.get('category', 'general') }}">
+                    <div class="news-card-image">
+                        <img src="{{ article.image_url | default('/static/images/default.png') }}" alt="{{ article.title }}" loading="lazy">
+                        <span class="news-card-badge">
+                            {% if article.source_type == 'website' %}
+                                <i class="fas fa-globe"></i> Web
+                            {% elif article.source_type == 'rss' %}
+                                <i class="fas fa-rss"></i> RSS
+                            {% elif article.source_type == 'influencer' %}
+                                <i class="fas fa-star"></i> Expert
+                            {% else %}
+                                {{ article.source_type|capitalize }}
+                            {% endif %}
+                        </span>
+                    </div>
+                    <div class="news-card-content">
+                        <h3 class="news-card-title">{{ article.title }}</h3>
+                        <p class="news-card-description">{{ article.description }}</p>
+                        <div class="news-card-meta">
+                            <span>
+                                <i class="fas fa-calendar"></i> {{ article.published_date }}
+                            </span>
+                            <span class="text-muted">{{ article.source|truncate(20) }}</span>
+                        </div>
+                        <div class="news-card-footer">
+                            <a href="{{ article.url }}" target="_blank" rel="noopener" class="btn btn-primary btn-small">
+                                <i class="fas fa-external-link-alt"></i> Lire
+                            </a>
+                            <a href="{{ article.url }}" target="_blank" rel="noopener" class="btn btn-secondary btn-small">
+                                <i class="fas fa-share"></i> Partager
+                            </a>
+                        </div>
+                    </div>
+                </article>
+            {% endfor %}
+        </div>
+    {% else %}
+        <div class="featured-section" style="text-align: center; padding: 3rem;">
+            <p style="font-size: 1.125rem;">
+                <i class="fas fa-inbox" style="font-size: 2rem; margin-bottom: 1rem; display: block;"></i>
+                Pas encore d'actualités. Lancez le scraper pour commencer.
+            </p>
+        </div>
+    {% endif %}
+</section>
+
+<!-- Featured Articles Section (if available) -->
+{% if news|length > 10 %}
+    <section class="section">
+        <h2 class="section-title">
+            <i class="fas fa-fire"></i> Tendances
+        </h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+            {% for article in news[12:16] %}
+                <article class="news-card">
+                    <div class="news-card-image">
+                        <img src="{{ article.image_url | default('/static/images/default.png') }}" alt="{{ article.title }}" loading="lazy">
+                    </div>
+                    <div class="news-card-content">
+                        <h3 class="news-card-title">{{ article.title }}</h3>
+                        <p class="news-card-description">{{ article.description|truncate(100) }}</p>
+                        <a href="{{ article.url }}" target="_blank" class="btn btn-primary btn-small" style="width: 100%; justify-content: center; margin-top: 1rem;">
+                            Découvrir
+                        </a>
+                    </div>
+                </article>
+            {% endfor %}
+        </div>
+    </section>
+{% endif %}
+
+<!-- About Section -->
+<section class="featured-section" style="text-align: center;">
+    <h2 style="margin-bottom: 1rem;">
+        <i class="fas fa-info-circle"></i> À Propos de IA News
+    </h2>
+    <p style="max-width: 600px; margin: 0 auto;">
+        IA News est alimenté par un agent Python qui scrape automatiquement les sources les plus pertinentes en intelligence artificielle.
+        Les actualités sont mises à jour automatiquement plusieurs fois par jour pour vous tenir informé des dernières innovations.
+    </p>
+</section>
+
+<!-- Statistics -->
+<section class="section" style="text-align: center;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem;">
+        <div class="sidebar-card">
+            <h3 style="font-size: 2rem; color: var(--primary);">
+                {{ news|length }}
+            </h3>
+            <p class="text-muted">Articles Collectés</p>
+        </div>
+        <div class="sidebar-card">
+            <h3 style="font-size: 2rem; color: var(--secondary);">
+                8+
+            </h3>
+            <p class="text-muted">Sources Actives</p>
+        </div>
+        <div class="sidebar-card">
+            <h3 style="font-size: 2rem; color: var(--accent);">
+                3h
+            </h3>
+            <p class="text-muted">Mise à jour</p>
+        </div>
+    </div>
+</section>
+
+<!-- Newsletter Signup -->
+<section class="featured-section" style="text-align: center; margin-bottom: 2rem;">
+    <h2 style="margin-bottom: 1rem;">Restez Informé</h2>
+    <p style="margin-bottom: 1.5rem;">Recevez les meilleures actualités IA directement dans votre boîte mail</p>
+    <form style="max-width: 400px; margin: 0 auto; display: flex; gap: 0.5rem;">
+        <input type="email" placeholder="votre@email.com" required style="flex: 1; padding: 0.75rem 1rem; border: none; border-radius: 0.5rem;">
+        <button type="submit" class="btn btn-primary">S'abonner</button>
+    </form>
+</section>
+
+<script>
+    // Category Filter
+    document.querySelectorAll('.category-filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            document.querySelectorAll('.category-filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const category = btn.dataset.category;
+            const cards = document.querySelectorAll('.news-card');
+
+            cards.forEach(card => {
+                if (category === 'all' || card.dataset.category === category) {
+                    card.style.display = '';
+                    card.classList.add('fade-in');
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+</script>
+
+{% endblock %}
