@@ -2,7 +2,7 @@ import requests
 import json
 import re
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 import time
 import random
@@ -16,6 +16,9 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+# Configuration du filtre de date
+MAX_ARTICLE_AGE_HOURS = 24  # Ne garder que les articles des dernières 24 heures
 
 class IANewsScraper:
     def __init__(self):
@@ -93,8 +96,64 @@ class IANewsScraper:
         except Exception as e:
             logger.error(f"Erreur lors de la sauvegarde: {e}")
 
+    def is_recent_article(self, published_date, max_hours=MAX_ARTICLE_AGE_HOURS):
+        """Vérifier si un article a été publié dans les dernières max_hours heures"""
+        if not published_date:
+            logger.debug("❌ Article rejeté: pas de date disponible")
+            return False
+        
+        try:
+            # Parser la date de publication
+            if isinstance(published_date, str):
+                # Essayer différents formats
+                formats = [
+                    "%Y-%m-%d",
+                    "%Y-%m-%dT%H:%M:%S",
+                    "%Y-%m-%dT%H:%M:%S.%f",
+                    "%Y-%m-%dT%H:%M:%S%z",
+                    "%Y-%m-%d %H:%M:%S",
+                ]
+                
+                article_date = None
+                for fmt in formats:
+                    try:
+                        # Nettoyer la date pour enlever les timezone si présentes
+                        clean_date = published_date.split('+')[0].split('Z')[0].strip()
+                        article_date = datetime.strptime(clean_date, fmt)
+                        break
+                    except:
+                        continue
+                
+                if not article_date:
+                    logger.debug(f"❌ Article rejeté: format de date non reconnu ({published_date})")
+                    return False
+            else:
+                article_date = published_date
+            
+            # Calculer la différence avec maintenant
+            now = datetime.now()
+            time_diff = now - article_date
+            
+            # Vérifier si l'article est dans la fenêtre de temps
+            if time_diff.total_seconds() < 0:
+                # Article dans le futur (peut arriver avec des timezone)
+                logger.debug(f"⚠️  Article dans le futur ignoré: {published_date}")
+                return False
+            
+            hours_old = time_diff.total_seconds() / 3600
+            
+            if hours_old <= max_hours:
+                return True
+            else:
+                logger.debug(f"❌ Article trop vieux: {hours_old:.1f}h ({published_date})")
+                return False
+                
+        except Exception as e:
+            logger.debug(f"❌ Erreur validation date: {e}")
+            return False
+
     def add_news_item(self, item):
-        """Ajouter un nouvel article s'il n'existe pas déjà"""
+        """Ajouter un nouvel article s'il n'existe pas déjà et s'il est récent"""
         if not item.get('url'):
             return False
 
@@ -106,6 +165,11 @@ class IANewsScraper:
         item['collected_at'] = datetime.now().isoformat()
         if 'published_date' not in item or not item['published_date']:
             item['published_date'] = datetime.now().strftime("%Y-%m-%d")
+        
+        # Vérifier si l'article est récent (filtre 24h)
+        if not self.is_recent_article(item['published_date']):
+            logger.debug(f"⏰ Article ignoré (trop vieux): {item.get('title', 'N/A')[:60]}")
+            return False
 
         self.news.append(item)
         logger.info(f"✅ {item.get('source', 'N/A')}: {item.get('title', 'N/A')[:60]}")
@@ -329,10 +393,12 @@ class IANewsScraper:
         """Exécuter le scraper complet"""
         logger.info("\n" + "="*70)
         logger.info("🚀 SCRAPER IA NEWS - FOCUS LLM & ACTUALITÉS RÉCENTES")
+        logger.info(f"⏰ Filtre: Articles des dernières {MAX_ARTICLE_AGE_HOURS}h uniquement")
         logger.info("="*70)
 
         start_time = time.time()
         initial_count = len(self.news)
+        rejected_count = 0
 
         # PHASE 1: Scraper les flux RSS (prioritaire pour avoir des dates précises)
         logger.info("\n📡 PHASE 1: Flux RSS (sources principales)")
@@ -356,6 +422,7 @@ class IANewsScraper:
         logger.info(f"✅ SCRAPING TERMINÉ!")
         logger.info(f"📊 Total: {len(self.news)} articles")
         logger.info(f"🆕 Nouveaux: {new_articles} articles")
+        logger.info(f"⏰ Filtre: Dernières {MAX_ARTICLE_AGE_HOURS}h")
         logger.info(f"⏱️  Durée: {elapsed_time:.2f}s")
         logger.info("="*70 + "\n")
 
