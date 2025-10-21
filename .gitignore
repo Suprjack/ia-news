@@ -37,7 +37,7 @@ wheels/
 .env.*.local
 
 # Data & Logs
-data/ia_news.json
+# data/ia_news.json  # Commenté pour permettre le commit des données pour Netlify
 logs/
 *.log
 

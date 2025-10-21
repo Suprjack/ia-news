@@ -65,28 +65,43 @@ schtasks /create /tn "IA News Scraper" /tr "python C:\path\to\run_update_and_bui
 
 ## Déploiement sur Netlify
 
-### 1. **Générer le site statique**
+### 1. **Préparer les fichiers**
+
+Assurez-vous que le fichier `data/ia_news.json` est bien commité dans Git:
 
 ```bash
-python3 build_static.py
+git add data/ia_news.json
+git commit -m "Add news data for Netlify build"
+git push origin main
 ```
 
-Cela créera un dossier `_site/` avec les fichiers HTML statiques.
-
-### 2. **Connecter à GitHub**
-
-```bash
-git add .
-git commit -m "Update news site"
-git push origin master
-```
-
-### 3. **Configurer Netlify**
+### 2. **Configurer Netlify**
 
 1. Aller sur [netlify.com](https://netlify.com)
 2. Connecter votre repo GitHub
-3. Build command: `python3 build_static.py`
-4. Publish directory: `_site`
+3. Configuration du build:
+   - **Build command**: `bash build.sh`
+   - **Publish directory**: `public`
+   - **Python version**: Automatiquement détectée via `runtime.txt` (Python 3.11.0)
+
+### 3. **Fichiers de configuration**
+
+Le projet utilise:
+- [`netlify.toml`](netlify.toml:1) - Configuration Netlify (redirections, headers)
+- [`build.sh`](build.sh:1) - Script de build (installe les dépendances et génère le site)
+- [`runtime.txt`](runtime.txt:1) - Spécifie la version Python
+- [`requirements.txt`](requirements.txt:1) - Dépendances Python
+
+### 4. **Déploiement automatique**
+
+Une fois configuré, Netlify déploiera automatiquement à chaque push sur la branche principale.
+
+### 5. **Notes importantes**
+
+⚠️ **Changements récents pour Netlify:**
+- Le script [`build.sh`](build.sh:1) a été simplifié (suppression de `apt-get` qui n'est pas supporté)
+- Le fichier [`data/ia_news.json`](data/ia_news.json:1) doit être commité (retiré du `.gitignore`)
+- Les dépendances système pour `lxml` ne sont plus nécessaires (pip les gère automatiquement)
 
 ## Déploiement avec Docker
 
