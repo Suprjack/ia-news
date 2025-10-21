@@ -39,7 +39,7 @@ def main():
         # Commit and push changes to Git
         try:
             logging.info("Commiting changes to git...")
-            subprocess.run(["git", "add", "data/ia_news.json", "_site"], check=True, cwd=os.getcwd())
+            subprocess.run(["git", "add", "data/ia_news.json", "public"], check=True, cwd=os.getcwd())
             subprocess.run(["git", "commit", "-m", "Update news and regenerate site"], check=True, cwd=os.getcwd())
             logging.info("Pushing changes to git...")
             subprocess.run(["git", "push"], check=True, cwd=os.getcwd())

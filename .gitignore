@@ -43,6 +43,7 @@ logs/
 
 # Generated Files
 _site/
+public/
 *.pyc
 .pytest_cache/
 .coverage

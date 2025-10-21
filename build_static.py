@@ -1,17 +1,22 @@
-# build_static.py
+#!/usr/bin/env python3
+"""
+Build static HTML from news JSON and templates
+For use with GitHub Actions + Netlify
+"""
+
 import os
 import json
 import shutil
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from slugify import slugify # pip install python-slugify
 from datetime import datetime
+import sys
 
 # --- Configuration ---
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 TEMPLATES_DIR = os.path.join(ROOT_DIR, 'website', 'templates')
 STATIC_SOURCE_DIR = os.path.join(ROOT_DIR, 'website', 'static')
-DATA_FILE = os.path.join(ROOT_DIR, 'data', 'ia_news.json') # Assure-toi que ce chemin est correct
-OUTPUT_DIR = os.path.join(ROOT_DIR, '_site') # Netlify publiera ce dossier
+DATA_FILE = os.path.join(ROOT_DIR, 'data', 'ia_news.json')
+OUTPUT_DIR = os.path.join(ROOT_DIR, 'public')  # Netlify publiera ce dossier
 
 # --- Fonctions utilitaires Jinja ---
 def format_date_filter(value, format_str='%d %B %Y'):
@@ -42,8 +47,10 @@ def format_date_filter(value, format_str='%d %B %Y'):
 
 def generate_unique_slug(text, existing_slugs_set):
     """Génère un slug unique en ajoutant un compteur si nécessaire."""
-    base_slug = slugify(text, max_length=80)
-    if not base_slug: # Si le titre ne donne rien (ex: que des symboles)
+    import re
+    # Simple slug generation without slugify
+    base_slug = re.sub(r'[^a-z0-9]+', '-', text.lower())[:80].strip('-')
+    if not base_slug:
         base_slug = "article"
     slug = base_slug
     counter = 1
