@@ -26,67 +26,44 @@ class IANewsScraper:
         os.makedirs(self.data_dir, exist_ok=True)
         self.news_file = os.path.join(self.data_dir, 'ia_news.json')
 
-        # 🎯 SOURCES GRAND PUBLIC & ACCESSIBLES - FRANÇAISES & SYMPAS!
+        # 🎯 SOURCES LLM & IA ACCESSIBLES - FOCUS SUR L'ACTUALITÉ RÉCENTE
         self.sources = {
-            'sites': [
-                # 🎉 TRENDY & FUN
-                {'url': 'https://www.producthunt.com/search?q=AI', 'category': 'fun', 'type': 'producthunt', 'name': 'Product Hunt'},
-
-                # 🤖 GRANDS MODÈLES DE LANGAGE (LLM) - ACCESSIBLE
-                {'url': 'https://www.popsci.com/technology/', 'category': 'llms', 'type': 'popsci', 'name': 'Popular Science'},
-                {'url': 'https://www.techtarget.com/searchenterpriseai/', 'category': 'llms', 'type': 'techtarget', 'name': 'TechTarget'},
-                {'url': 'https://huggingface.co/', 'category': 'llms', 'type': 'huggingface', 'name': 'HuggingFace'},
-                {'url': 'https://openai.com/news', 'category': 'llms', 'type': 'openai', 'name': 'OpenAI'},
-
-                # 🎨 GÉNÉRATEURS D'IMAGES IA
-                {'url': 'https://zapier.com/blog/', 'category': 'image_gen', 'type': 'zapier', 'name': 'Zapier Magazine'},
-                {'url': 'https://www.pcmag.com/news', 'category': 'image_gen', 'type': 'pcmag', 'name': 'PCMag'},
-                {'url': 'https://www.reddit.com/r/StableDiffusion/', 'category': 'image_gen', 'type': 'reddit', 'name': 'Reddit Stable Diffusion'},
-                {'url': 'https://www.reddit.com/r/Midjourney/', 'category': 'image_gen', 'type': 'reddit', 'name': 'Reddit Midjourney'},
-
-                # 🎬 GÉNÉRATEURS VIDÉO IA
-                {'url': 'https://www.nytimes.com/section/technology', 'category': 'video_gen', 'type': 'nytimes', 'name': 'New York Times - Tech'},
-                {'url': 'https://www.reddit.com/r/VideoGeneration/', 'category': 'video_gen', 'type': 'reddit', 'name': 'Reddit Vidéo IA'},
-
-                # 💻 PROGRAMMATION & CODING
-                {'url': 'https://www.geeksforgeeks.org/', 'category': 'coding', 'type': 'geeksforgeeks', 'name': 'GeeksforGeeks'},
-                {'url': 'https://www.theverge.com/ai-artificial-intelligence', 'category': 'general', 'type': 'theverge', 'name': 'The Verge'},
-
-                # 🎵 MUSIQUE IA
-                {'url': 'https://www.rollingstone.com/', 'category': 'fun', 'type': 'rollingstone', 'name': 'Rolling Stone'},
-
-                # 🌟 ACTUALITÉS GÉNÉRALES IA ACCESSIBLES
-                {'url': 'https://www.artificialintelligence-news.com/', 'category': 'general', 'type': 'ai_news', 'name': 'IA News'},
-                {'url': 'https://venturebeat.com/category/ai/', 'category': 'general', 'type': 'venturebeat', 'name': 'VentureBeat'},
-            ],
-
             'rss_feeds': [
-                # 📡 FLUX RSS GRAND PUBLIC
-                {'url': 'https://feeds.theverge.com/feed.xml', 'category': 'general', 'type': 'theverge', 'name': 'The Verge'},
-                {'url': 'https://feeds.arstechnica.com/arstechnica/index', 'category': 'tech', 'type': 'arstechnica', 'name': 'Ars Technica'},
-
-                # 🤖 MACHINE LEARNING & DATA ACCESSIBLE
+                # 🤖 SOURCES PRINCIPALES LLM & IA
+                {'url': 'https://openai.com/blog/rss.xml', 'category': 'llms', 'type': 'openai', 'name': 'OpenAI Blog'},
+                {'url': 'https://www.anthropic.com/news/rss.xml', 'category': 'llms', 'type': 'anthropic', 'name': 'Anthropic News'},
+                {'url': 'https://blog.google/technology/ai/rss/', 'category': 'llms', 'type': 'google', 'name': 'Google AI Blog'},
+                {'url': 'https://huggingface.co/blog/feed.xml', 'category': 'llms', 'type': 'huggingface', 'name': 'Hugging Face Blog'},
+                
+                # 📰 TECH NEWS - IA FOCUS
+                {'url': 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', 'category': 'general', 'type': 'theverge', 'name': 'The Verge AI'},
+                {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'category': 'general', 'type': 'techcrunch', 'name': 'TechCrunch AI'},
+                {'url': 'https://venturebeat.com/category/ai/feed/', 'category': 'general', 'type': 'venturebeat', 'name': 'VentureBeat AI'},
+                {'url': 'https://www.technologyreview.com/topic/artificial-intelligence/feed', 'category': 'general', 'type': 'mittr', 'name': 'MIT Technology Review AI'},
+                
+                # 🔬 TECH & SCIENCE
+                {'url': 'https://feeds.arstechnica.com/arstechnica/technology-lab', 'category': 'tech', 'type': 'arstechnica', 'name': 'Ars Technica'},
+                {'url': 'https://www.wired.com/feed/tag/ai/latest/rss', 'category': 'general', 'type': 'wired', 'name': 'Wired AI'},
+                {'url': 'https://www.artificialintelligence-news.com/feed/', 'category': 'general', 'type': 'ainews', 'name': 'AI News'},
+                
+                # 🎮 NVIDIA & HARDWARE
+                {'url': 'https://blogs.nvidia.com/feed/', 'category': 'hardware', 'type': 'nvidia', 'name': 'NVIDIA Blog'},
+                
+                # 📊 ML & DATA SCIENCE
                 {'url': 'https://feeds.feedburner.com/kdnuggets-data-mining-analytics', 'category': 'ml', 'type': 'kdnuggets', 'name': 'KDnuggets'},
-                {'url': 'https://www.deeplearning.ai/feed/', 'category': 'ml', 'type': 'deeplearning', 'name': 'Deep Learning.AI'},
-
-                # 🎬 NVIDIA (GPU & IA hardware grand public)
-                {'url': 'https://blogs.nvidia.com/feed/', 'category': 'general', 'type': 'nvidia', 'name': 'NVIDIA'},
-
-                # 🎮 INDIE HACKERS & STARTUPS
-                {'url': 'https://www.indiehackers.com/feed.xml', 'category': 'fun', 'type': 'indiehackers', 'name': 'Indie Hackers'},
-
-                # 📰 POPULAR SCIENCE
-                {'url': 'https://www.popsci.com/feed/', 'category': 'general', 'type': 'popsci', 'name': 'Popular Science'},
-
-                # 🎵 MUSIQUE & CRÉATIF
-                {'url': 'https://www.rollingstone.com/feed/', 'category': 'fun', 'type': 'rollingstone', 'name': 'Rolling Stone'},
+                {'url': 'https://www.deeplearning.ai/feed/', 'category': 'ml', 'type': 'deeplearning', 'name': 'DeepLearning.AI'},
+                
+                # 🚀 STARTUPS & INNOVATION
+                {'url': 'https://www.indiehackers.com/feed.xml', 'category': 'startups', 'type': 'indiehackers', 'name': 'Indie Hackers'},
             ],
 
-            'special_sources': [
-                # 🎯 SOURCES SPÉCIALES SYMPAS & ACCESSIBLES
-                {'name': 'Product Hunt IA', 'url': 'https://www.producthunt.com/topics/artificial-intelligence', 'category': 'fun'},
-                {'name': 'Zapier - Générateurs IA', 'url': 'https://zapier.com/blog/', 'category': 'image_gen'},
-                {'name': 'PCMag - Tests IA', 'url': 'https://www.pcmag.com/news', 'category': 'image_gen'},
+            'sites': [
+                # Sites web à scraper (backup si RSS ne fonctionne pas)
+                {'url': 'https://openai.com/blog/', 'category': 'llms', 'type': 'openai', 'name': 'OpenAI Blog'},
+                {'url': 'https://www.anthropic.com/news', 'category': 'llms', 'type': 'anthropic', 'name': 'Anthropic News'},
+                {'url': 'https://blog.google/technology/ai/', 'category': 'llms', 'type': 'google', 'name': 'Google AI'},
+                {'url': 'https://huggingface.co/blog', 'category': 'llms', 'type': 'huggingface', 'name': 'Hugging Face'},
+                {'url': 'https://www.theverge.com/ai-artificial-intelligence', 'category': 'general', 'type': 'theverge', 'name': 'The Verge AI'},
             ]
         }
 
@@ -106,8 +83,10 @@ class IANewsScraper:
     def save_news(self):
         """Sauvegarder les actualités dans le fichier JSON"""
         try:
-            # Garder seulement les 800 derniers articles (plus pour avoir du contenu)
-            self.news = self.news[-800:]
+            # Trier par date (plus récent en premier)
+            self.news.sort(key=lambda x: x.get('published_date', ''), reverse=True)
+            # Garder seulement les 500 derniers articles
+            self.news = self.news[:500]
             with open(self.news_file, 'w', encoding='utf-8') as f:
                 json.dump(self.news, f, ensure_ascii=False, indent=2)
             logger.info(f"✅ News sauvegardées: {len(self.news)} articles")
@@ -129,112 +108,104 @@ class IANewsScraper:
             item['published_date'] = datetime.now().strftime("%Y-%m-%d")
 
         self.news.append(item)
-        logger.info(f"✅ {item.get('title', 'N/A')[:60]}")
+        logger.info(f"✅ {item.get('source', 'N/A')}: {item.get('title', 'N/A')[:60]}")
         return True
 
-    def scrape_website(self, site):
-        """Scraper un site web pour récupérer les actualités"""
-        logger.info(f"🌐 Scraping {site['url'][:50]}...")
+    def parse_date(self, date_string):
+        """Parser une date depuis différents formats"""
+        if not date_string:
+            return datetime.now().strftime("%Y-%m-%d")
+        
         try:
-            response = requests.get(site['url'], headers=self.headers, timeout=15)
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, 'html.parser')
-
-                # Chercher tous les liens possibles
-                articles = soup.find_all(['article', 'div', 'a'], class_=re.compile(r'post|article|entry|item|story|card|link', re.I))
-
-                for article in articles[:20]:  # Augmenté à 20 articles par site
-                    try:
-                        # Chercher le titre
-                        title_tag = article.find(['h1', 'h2', 'h3', 'h4', 'a', 'span'])
-                        if not title_tag or not title_tag.get_text(strip=True):
-                            continue
-
-                        title = title_tag.get_text(strip=True)
-                        if len(title) < 10:  # Filtrer les titres trop courts
-                            continue
-
-                        # Chercher l'URL
-                        url_tag = article.find('a', href=True)
-                        if not url_tag:
-                            url_tag = article if article.name == 'a' else None
-                        if not url_tag:
-                            continue
-
-                        url = url_tag['href']
-                        if not url.startswith('http'):
-                            url = urljoin(site['url'], url)
-
-                        # Chercher la description
-                        desc_tag = article.find(['p', 'div', 'span'], class_=re.compile(r'excerpt|summary|description|subtitle', re.I))
-                        description = desc_tag.get_text(strip=True)[:300] if desc_tag else title
-
-                        # Chercher une image
-                        img_tag = article.find('img')
-                        image_url = ''
-                        if img_tag:
-                            image_url = img_tag.get('src', img_tag.get('data-src', ''))
-                            if image_url and not image_url.startswith('http'):
-                                image_url = urljoin(site['url'], image_url)
-
-                        news_item = {
-                            'title': title[:200],
-                            'url': url,
-                            'description': description,
-                            'image_url': image_url,
-                            'published_date': datetime.now().strftime("%Y-%m-%d"),
-                            'source': site['url'],
-                            'source_type': 'website',
-                            'category': site.get('category', 'general')
-                        }
-
-                        self.add_news_item(news_item)
-                        time.sleep(random.uniform(0.3, 0.8))
-
-                    except Exception as e:
-                        logger.debug(f"Erreur parsing: {e}")
-                        continue
-
-        except Exception as e:
-            logger.error(f"❌ Erreur {site['url'][:30]}: {str(e)[:50]}")
+            # Essayer différents formats
+            formats = [
+                "%a, %d %b %Y %H:%M:%S %z",
+                "%a, %d %b %Y %H:%M:%S %Z",
+                "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%d %H:%M:%S",
+                "%Y-%m-%d",
+            ]
+            
+            for fmt in formats:
+                try:
+                    dt = datetime.strptime(date_string[:25], fmt)
+                    return dt.strftime("%Y-%m-%d")
+                except:
+                    continue
+            
+            # Si aucun format ne fonctionne, retourner la date actuelle
+            return datetime.now().strftime("%Y-%m-%d")
+        except:
+            return datetime.now().strftime("%Y-%m-%d")
 
     def scrape_rss_feed(self, feed):
         """Scraper un flux RSS pour récupérer les actualités"""
-        logger.info(f"📡 RSS {feed['url'][:40]}...")
+        logger.info(f"📡 RSS: {feed['name']}")
         try:
             news_feed = feedparser.parse(feed['url'])
 
-            for entry in news_feed.entries[:25]:  # Augmenté à 25
-                try:
-                    title = entry.get('title', '')
-                    url = entry.get('link', '')
-                    description = entry.get('summary', '')
+            if not news_feed.entries:
+                logger.warning(f"⚠️  Aucune entrée trouvée pour {feed['name']}")
+                return
 
+            for entry in news_feed.entries[:30]:  # Limiter à 30 articles par feed
+                try:
+                    title = entry.get('title', '').strip()
+                    url = entry.get('link', '').strip()
+                    
                     if not title or not url:
                         continue
 
                     # Nettoyage de la description HTML
-                    if description:
-                        soup = BeautifulSoup(description, 'html.parser')
-                        description = soup.get_text(strip=True)[:300]
+                    description = ''
+                    if 'summary' in entry:
+                        soup = BeautifulSoup(entry['summary'], 'html.parser')
+                        description = soup.get_text(strip=True)[:400]
+                    elif 'description' in entry:
+                        soup = BeautifulSoup(entry['description'], 'html.parser')
+                        description = soup.get_text(strip=True)[:400]
+                    
+                    if not description:
+                        description = title
 
                     # Récupérer la date
                     published_date = ''
                     if 'published' in entry:
-                        published_date = entry['published'][:10]
+                        published_date = self.parse_date(entry['published'])
                     elif 'updated' in entry:
-                        published_date = entry['updated'][:10]
-
-                    if not published_date:
+                        published_date = self.parse_date(entry['updated'])
+                    else:
                         published_date = datetime.now().strftime("%Y-%m-%d")
 
                     # Chercher une image
                     image_url = ''
-                    if 'media_content' in entry:
+                    
+                    # Méthode 1: media_content
+                    if hasattr(entry, 'media_content') and entry.media_content:
                         for media in entry.media_content:
                             if 'url' in media:
                                 image_url = media['url']
                                 break
+                    
+                    # Méthode 2: media_thumbnail
+                    if not image_url and hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+                        image_url = entry.media_thumbnail[0].get('url', '')
+                    
+                    # Méthode 3: chercher dans le contenu
+                    if not image_url and 'content' in entry:
+                        for content in entry.content:
+                            soup = BeautifulSoup(content.value, 'html.parser')
+                            img = soup.find('img')
+                            if img and img.get('src'):
+                                image_url = img['src']
+                                break
+                    
+                    # Méthode 4: chercher dans summary
+                    if not image_url and 'summary' in entry:
+                        soup = BeautifulSoup(entry['summary'], 'html.parser')
+                        img = soup.find('img')
+                        if img and img.get('src'):
+                            image_url = img['src']
 
                     news_item = {
                         'title': title[:200],
@@ -242,7 +213,7 @@ class IANewsScraper:
                         'description': description,
                         'image_url': image_url,
                         'published_date': published_date,
-                        'source': feed.get('type', 'rss'),
+                        'source': feed.get('name', 'RSS'),
                         'source_type': 'rss',
                         'category': feed.get('category', 'general')
                     }
@@ -250,90 +221,130 @@ class IANewsScraper:
                     self.add_news_item(news_item)
 
                 except Exception as e:
-                    logger.debug(f"Erreur RSS: {e}")
+                    logger.debug(f"Erreur parsing entrée RSS: {e}")
                     continue
 
         except Exception as e:
-            logger.error(f"❌ Erreur RSS {feed['url'][:30]}: {str(e)[:50]}")
+            logger.error(f"❌ Erreur RSS {feed['name']}: {str(e)[:100]}")
 
-    def scrape_special_sources(self):
-        """Scraper les sources spéciales sympas"""
-        logger.info("🎯 Sources spéciales...")
-
-        # Product Hunt curated AI tools
+    def scrape_website(self, site):
+        """Scraper un site web pour récupérer les actualités"""
+        logger.info(f"🌐 Web: {site['name']}")
         try:
-            response = requests.get('https://www.producthunt.com/api/feed', headers=self.headers, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                for item in data.get('data', [])[:10]:
+            response = requests.get(site['url'], headers=self.headers, timeout=15)
+            if response.status_code != 200:
+                logger.warning(f"⚠️  Status {response.status_code} pour {site['name']}")
+                return
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # Stratégies de scraping selon le type de site
+            articles = []
+            
+            # Chercher les articles avec différentes stratégies
+            selectors = [
+                'article',
+                '[class*="post"]',
+                '[class*="article"]',
+                '[class*="entry"]',
+                '[class*="story"]',
+                '[class*="card"]',
+            ]
+            
+            for selector in selectors:
+                found = soup.select(selector)
+                if found:
+                    articles.extend(found[:20])
+                    break
+
+            if not articles:
+                logger.warning(f"⚠️  Aucun article trouvé pour {site['name']}")
+                return
+
+            for article in articles[:15]:  # Limiter à 15 articles par site
+                try:
+                    # Chercher le titre
+                    title_tag = article.find(['h1', 'h2', 'h3', 'h4'])
+                    if not title_tag:
+                        title_tag = article.find('a')
+                    
+                    if not title_tag:
+                        continue
+
+                    title = title_tag.get_text(strip=True)
+                    if len(title) < 10:
+                        continue
+
+                    # Chercher l'URL
+                    url_tag = article.find('a', href=True)
+                    if not url_tag:
+                        continue
+
+                    url = url_tag['href']
+                    if not url.startswith('http'):
+                        url = urljoin(site['url'], url)
+
+                    # Chercher la description
+                    desc_tag = article.find(['p', 'div'], class_=re.compile(r'excerpt|summary|description|subtitle|deck', re.I))
+                    description = desc_tag.get_text(strip=True)[:400] if desc_tag else title
+
+                    # Chercher une image
+                    img_tag = article.find('img')
+                    image_url = ''
+                    if img_tag:
+                        image_url = img_tag.get('src', img_tag.get('data-src', ''))
+                        if image_url and not image_url.startswith('http'):
+                            image_url = urljoin(site['url'], image_url)
+
+                    # Chercher la date
+                    date_tag = article.find(['time', 'span'], class_=re.compile(r'date|time|published', re.I))
+                    published_date = datetime.now().strftime("%Y-%m-%d")
+                    if date_tag:
+                        date_str = date_tag.get('datetime', date_tag.get_text(strip=True))
+                        published_date = self.parse_date(date_str)
+
                     news_item = {
-                        'title': item.get('name', '')[:200],
-                        'url': f"https://www.producthunt.com/posts/{item.get('slug', '')}",
-                        'description': item.get('tagline', '')[:300],
-                        'image_url': item.get('thumbnail', {}).get('image_url', ''),
-                        'published_date': datetime.now().strftime("%Y-%m-%d"),
-                        'source': 'Product Hunt',
-                        'source_type': 'producthunt',
-                        'category': 'fun'
+                        'title': title[:200],
+                        'url': url,
+                        'description': description,
+                        'image_url': image_url,
+                        'published_date': published_date,
+                        'source': site.get('name', 'Web'),
+                        'source_type': 'website',
+                        'category': site.get('category', 'general')
                     }
+
                     self.add_news_item(news_item)
-        except:
-            pass
 
-    def scrape_influencers(self):
-        """Récupérer les contenus des influenceurs AI"""
-        logger.info("👤 Influenceurs IA...")
+                except Exception as e:
+                    logger.debug(f"Erreur parsing article: {e}")
+                    continue
 
-        curated_news = [
-            {
-                'title': '🚀 Top AI Influencers Updates',
-                'description': 'Follow: Sam Altman, Andrej Karpathy, Yann LeCun, Jeremy Howard & Demis Hassabis',
-                'category': 'trending',
-                'source': 'AI Influencers'
-            },
-        ]
+            time.sleep(random.uniform(1, 2))
 
-        for item in curated_news:
-            news_item = {
-                'title': item['title'],
-                'url': 'https://twitter.com/search?q=%23AI%20-filter%3Areplies&type=latest',
-                'description': item['description'],
-                'image_url': '',
-                'published_date': datetime.now().strftime("%Y-%m-%d"),
-                'source': item['source'],
-                'source_type': 'influencer',
-                'category': item.get('category', 'general')
-            }
-            self.add_news_item(news_item)
+        except Exception as e:
+            logger.error(f"❌ Erreur {site['name']}: {str(e)[:100]}")
 
     def run(self):
         """Exécuter le scraper complet"""
         logger.info("\n" + "="*70)
-        logger.info("🚀 DÉMARRAGE SCRAPER IA NEWS - SOURCES FRAÎCHES!")
+        logger.info("🚀 SCRAPER IA NEWS - FOCUS LLM & ACTUALITÉS RÉCENTES")
         logger.info("="*70)
 
         start_time = time.time()
         initial_count = len(self.news)
 
-        # Scraper les sites web
-        logger.info("\n📍 PHASE 1: Sites Web")
-        for site in self.sources['sites']:
-            self.scrape_website(site)
-            time.sleep(random.uniform(1, 2))
-
-        # Scraper les flux RSS
-        logger.info("\n📡 PHASE 2: Flux RSS")
+        # PHASE 1: Scraper les flux RSS (prioritaire pour avoir des dates précises)
+        logger.info("\n📡 PHASE 1: Flux RSS (sources principales)")
         for feed in self.sources['rss_feeds']:
             self.scrape_rss_feed(feed)
             time.sleep(random.uniform(0.5, 1.5))
 
-        # Sources spéciales
-        logger.info("\n🎯 PHASE 3: Sources Spéciales")
-        self.scrape_special_sources()
-
-        # Scraper les influenceurs
-        logger.info("\n👤 PHASE 4: Influenceurs")
-        self.scrape_influencers()
+        # PHASE 2: Scraper les sites web (backup)
+        logger.info("\n🌐 PHASE 2: Sites Web (backup)")
+        for site in self.sources['sites']:
+            self.scrape_website(site)
+            time.sleep(random.uniform(1, 2))
 
         # Sauvegarder les actualités
         self.save_news()

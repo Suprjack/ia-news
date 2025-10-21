@@ -1,135 +1,245 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{% block title %}IA News - Les Dernières Actualités en IA{% endblock %}</title>
-    <meta name="description" content="Découvrez les dernières nouveautés en Intelligence Artificielle, LLMs, Image Generation, et plus encore.">
+    <title>{% block title %}AI News - Latest LLM & AI Updates{% endblock %}</title>
+    <meta name="description" content="{% block description %}Stay updated with the latest news on Large Language Models, AI breakthroughs, and cutting-edge technology from OpenAI, Anthropic, Google, and more.{% endblock %}">
     <meta name="theme-color" content="#6366f1">
-
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{% block og_title %}AI News - Latest LLM & AI Updates{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}Stay updated with the latest AI news{% endblock %}">
+    
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    
     <!-- Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-
+    
     {% block head_extra %}{% endblock %}
 </head>
 <body>
     <!-- Navigation -->
-    <nav class="navbar">
+    <nav class="navbar" id="navbar">
         <div class="container">
-            <div class="flex justify-between items-center">
-                <a href="{{ url_for('home') }}" class="navbar-brand">
-                    <i class="fas fa-brain"></i> IA News
+            <div class="nav-wrapper">
+                <a href="{{ url_for('home') }}" class="logo">
+                    <div class="logo-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <span class="logo-text">AI<span class="logo-accent">News</span></span>
                 </a>
-
-                <div class="nav-links">
-                    <a href="{{ url_for('home') }}" class="nav-link">Accueil</a>
-                    <a href="#" class="nav-link">Catégories</a>
-                    <a href="#" class="nav-link">À Propos</a>
-                    <button id="darkModeToggle" class="dark-mode-toggle" title="Basculer thème">
+                
+                <div class="nav-menu" id="navMenu">
+                    <a href="{{ url_for('home') }}" class="nav-link active">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                    <a href="#llms" class="nav-link">
+                        <i class="fas fa-robot"></i>
+                        <span>LLMs</span>
+                    </a>
+                    <a href="#tech" class="nav-link">
+                        <i class="fas fa-microchip"></i>
+                        <span>Tech</span>
+                    </a>
+                    <a href="#trending" class="nav-link">
+                        <i class="fas fa-fire"></i>
+                        <span>Trending</span>
+                    </a>
+                </div>
+                
+                <div class="nav-actions">
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
                         <i class="fas fa-moon"></i>
                     </button>
+                    <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
                 </div>
-
-                <!-- Mobile Menu Toggle -->
-                <button class="mobile-menu-toggle" id="mobileMenuToggle">
-                    <i class="fas fa-bars"></i>
-                </button>
             </div>
         </div>
     </nav>
-
+    
     <!-- Main Content -->
-    <main role="main" class="container">
+    <main class="main-content">
         {% block content %}{% endblock %}
     </main>
-
+    
     <!-- Footer -->
-    <footer>
+    <footer class="footer">
         <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <h4>À Propos</h4>
-                    <p>IA News agrège automatiquement les dernières actualités en intelligence artificielle, LLMs, image generation et plus.</p>
-                </div>
-                <div class="footer-section">
-                    <h4>Catégories</h4>
-                    <a href="#">LLMs & Chatbots</a>
-                    <a href="#">Image Generation</a>
-                    <a href="#">Video Generation</a>
-                    <a href="#">Coding AI</a>
-                    <a href="#">AI Fun</a>
-                </div>
-                <div class="footer-section">
-                    <h4>Ressources</h4>
-                    <a href="#">Blog</a>
-                    <a href="#">API</a>
-                    <a href="#">Flux RSS</a>
-                    <a href="#">Contact</a>
-                </div>
-                <div class="footer-section">
-                    <h4>Suivez-nous</h4>
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-brand">
+                        <div class="logo-icon">
+                            <i class="fas fa-brain"></i>
+                        </div>
+                        <span class="logo-text">AI<span class="logo-accent">News</span></span>
+                    </div>
+                    <p class="footer-desc">Your daily source for the latest AI and LLM news, curated from top tech sources worldwide.</p>
                     <div class="social-links">
-                        <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a href="#" title="Discord"><i class="fab fa-discord"></i></a>
-                        <a href="#" title="GitHub"><i class="fab fa-github"></i></a>
-                        <a href="#" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" class="social-link" aria-label="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="Discord">
+                            <i class="fab fa-discord"></i>
+                        </a>
                     </div>
                 </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Categories</h4>
+                    <ul class="footer-links">
+                        <li><a href="#llms">Large Language Models</a></li>
+                        <li><a href="#tech">Tech News</a></li>
+                        <li><a href="#ml">Machine Learning</a></li>
+                        <li><a href="#hardware">AI Hardware</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Resources</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">RSS Feed</a></li>
+                        <li><a href="#">API</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Sources</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI</a></li>
+                        <li><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic</a></li>
+                        <li><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI</a></li>
+                        <li><a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face</a></li>
+                    </ul>
+                </div>
             </div>
+            
             <div class="footer-bottom">
-                <p>&copy; 2024 IA News. Mis à jour automatiquement avec ❤️ par un agent Python.</p>
+                <p>&copy; 2025 AI News. Auto-updated with <i class="fas fa-heart"></i> by Python.</p>
+                <p class="footer-note">News aggregated from public sources. All rights belong to original publishers.</p>
             </div>
         </div>
     </footer>
-
+    
     <!-- Scripts -->
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const darkModeToggle = document.getElementById('darkModeToggle');
-            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
-            const body = document.body;
-
-            // Dark Mode Toggle
-            const savedDarkMode = localStorage.getItem('darkMode');
-            if (savedDarkMode === 'true') {
-                body.classList.add('dark-mode');
-                updateDarkModeIcon();
+        // Theme Toggle
+        const themeToggle = document.getElementById('themeToggle');
+        const body = document.body;
+        const navbar = document.getElementById('navbar');
+        
+        // Check for saved theme preference or default to light mode
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            body.classList.add('dark-mode');
+            updateThemeIcon();
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            const theme = body.classList.contains('dark-mode') ? 'dark' : 'light';
+            localStorage.setItem('theme', theme);
+            updateThemeIcon();
+        });
+        
+        function updateThemeIcon() {
+            const icon = themeToggle.querySelector('i');
+            if (body.classList.contains('dark-mode')) {
+                icon.classList.remove('fa-moon');
+                icon.classList.add('fa-sun');
+            } else {
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
             }
-
-            darkModeToggle.addEventListener('click', () => {
-                body.classList.toggle('dark-mode');
-                localStorage.setItem('darkMode', body.classList.contains('dark-mode'));
-                updateDarkModeIcon();
-            });
-
-            function updateDarkModeIcon() {
-                const icon = darkModeToggle.querySelector('i');
-                if (body.classList.contains('dark-mode')) {
-                    icon.classList.remove('fa-moon');
-                    icon.classList.add('fa-sun');
-                } else {
-                    icon.classList.remove('fa-sun');
-                    icon.classList.add('fa-moon');
-                }
-            }
-
-            // Mobile Menu Toggle
-            if (mobileMenuToggle) {
-                mobileMenuToggle.addEventListener('click', () => {
-                    document.querySelector('.nav-links').classList.toggle('active');
-                });
+        }
+        
+        // Mobile Menu Toggle
+        const mobileToggle = document.getElementById('mobileToggle');
+        const navMenu = document.getElementById('navMenu');
+        
+        mobileToggle.addEventListener('click', () => {
+            mobileToggle.classList.toggle('active');
+            navMenu.classList.toggle('active');
+            body.classList.toggle('menu-open');
+        });
+        
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!navbar.contains(e.target) && navMenu.classList.contains('active')) {
+                mobileToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+                body.classList.remove('menu-open');
             }
         });
+        
+        // Navbar scroll effect
+        let lastScroll = 0;
+        window.addEventListener('scroll', () => {
+            const currentScroll = window.pageYOffset;
+            
+            if (currentScroll <= 0) {
+                navbar.classList.remove('scroll-up');
+                navbar.classList.remove('scrolled');
+                return;
+            }
+            
+            if (currentScroll > lastScroll && !navbar.classList.contains('scroll-down')) {
+                // Scroll Down
+                navbar.classList.remove('scroll-up');
+                navbar.classList.add('scroll-down');
+            } else if (currentScroll < lastScroll && navbar.classList.contains('scroll-down')) {
+                // Scroll Up
+                navbar.classList.remove('scroll-down');
+                navbar.classList.add('scroll-up');
+            }
+            
+            if (currentScroll > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+            
+            lastScroll = currentScroll;
+        });
+        
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href !== '#' && href !== '') {
+                    e.preventDefault();
+                    const target = document.querySelector(href);
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                }
+            });
+        });
     </script>
-
+    
     {% block scripts %}{% endblock %}
 </body>
 </html>

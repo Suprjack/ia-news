@@ -1,138 +1,172 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - AI News{% endblock %}
+{% block description %}{{ article.description[:160] }}{% endblock %}
+
+{% block og_title %}{{ article.title }}{% endblock %}
+{% block og_description %}{{ article.description[:160] }}{% endblock %}
 
 {% block content %}
-<div class="container">
-    <div class="row">
+<article class="article-page">
+    <div class="container article-container">
+        <!-- Article Header -->
+        <header class="article-header">
+            <div class="article-meta-top">
+                <a href="{{ url_for('home') }}" class="back-link">
+                    <i class="fas fa-arrow-left"></i>
+                    Back to news
+                </a>
+                <span class="article-category">
+                    {% if article.category == 'llms' %}
+                    <i class="fas fa-robot"></i> LLMs
+                    {% elif article.category == 'tech' %}
+                    <i class="fas fa-microchip"></i> Tech
+                    {% elif article.category == 'ml' %}
+                    <i class="fas fa-brain"></i> ML
+                    {% elif article.category == 'hardware' %}
+                    <i class="fas fa-server"></i> Hardware
+                    {% else %}
+                    <i class="fas fa-newspaper"></i> General
+                    {% endif %}
+                </span>
+            </div>
+            
+            <h1 class="article-title">{{ article.title }}</h1>
+            
+            <div class="article-meta">
+                <div class="meta-item">
+                    <i class="fas fa-rss"></i>
+                    <span>{{ article.source }}</span>
+                </div>
+                <div class="meta-item">
+                    <i class="far fa-clock"></i>
+                    <span>{{ article.published_date }}</span>
+                </div>
+                <div class="meta-item">
+                    <i class="fas fa-tag"></i>
+                    <span>{{ article.category|title }}</span>
+                </div>
+            </div>
+        </header>
+        
+        <!-- Article Image -->
+        {% if article.image_url %}
+        <div class="article-image">
+            <img src="{{ article.image_url }}" 
+                 alt="{{ article.title }}"
+                 onerror="this.style.display='none'">
+        </div>
+        {% endif %}
+        
         <!-- Article Content -->
-        <div class="col-lg-8">
-            <!-- Breadcrumb -->
-            <nav aria-label="breadcrumb" class="mb-4">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="{{ url_for('home') }}">Accueil</a></li>
-                    <li class="breadcrumb-item"><a href="{{ url_for('home', source=article.source_type) }}">{{ article.source_type|capitalize }}</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Article</li>
-                </ol>
-            </nav>
-            
-            <!-- Article Header -->
-            <div class="mb-4">
-                <span class="badge bg-{{ 'primary' if article.source_type == 'website' else 'info' if article.source_type == 'rss' else 'danger' if article.source_type == 'youtube' else 'secondary' }} mb-2">{{ article.source_type|capitalize }}</span>
-                <h1 class="display-5 fw-bold">{{ article.title_fr if article.title_fr else article.title }}</h1>
-                <div class="text-muted mb-2">
-                    <i class="fas fa-calendar-alt me-1"></i> {{ article.published_date|format_date }}
-                    <i class="fas fa-globe ms-3 me-1"></i> Source: <a href="{{ article.url }}" target="_blank">{{ article.source }}</a>
-                </div>
+        <div class="article-content">
+            <div class="article-description">
+                {{ article.description }}
             </div>
             
-            <!-- Featured Image -->
-            {% if article.image_url %}
-            <figure class="figure mb-4 w-100">
-                <img src="{{ article.image_url | default(url_for('static', filename='images/default.jpg')) }}" class="figure-img img-fluid rounded shadow" alt="{{ article.title_fr if article.title_fr else article.title }}">
-                <figcaption class="figure-caption text-end">Image originale de l'article</figcaption>
-            </figure>
-            {% endif %}
-            
-            <!-- Article Content -->
-            <div class="article-content mb-5">
-                <div class="lead mb-4">
-                    {{ article.description_fr if article.description_fr else article.description }}
-                </div>
-                
-                <p>Cet article a été collecté par notre agent automatisé à partir de la source originale. Pour lire l'article complet, veuillez cliquer sur le lien ci-dessous.</p>
-                
-                <a href="{{ article.url }}" target="_blank" class="btn btn-primary mb-4">
-                    <i class="fas fa-external-link-alt me-2"></i>Lire l'article original
+            <div class="article-cta">
+                <a href="{{ article.url }}" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="read-original-btn">
+                    <span>Read Full Article</span>
+                    <i class="fas fa-external-link-alt"></i>
                 </a>
-                
-                <hr>
-                
-                <!-- Article Metadata -->
-                <div class="card bg-light mb-4">
-                    <div class="card-body">
-                        <h5 class="card-title">Informations supplémentaires</h5>
-                        <ul class="list-unstyled mb-0">
-                            <li><strong>Source :</strong> {{ article.source }}</li>
-                            <li><strong>Type :</strong> {{ article.source_type|capitalize }}</li>
-                            <li><strong>Date de publication :</strong> {{ article.published_date|format_date }}</li>
-                            <li><strong>Collecté le :</strong> {{ article.collected_at if article.collected_at else 'Non spécifié' }}</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Social Sharing -->
-            <div class="d-flex justify-content-center mb-5">
-                <a href="https://twitter.com/intent/tweet?url={{ article.url|urlencode }}&text={{ (article.title_fr if article.title_fr else article.title)|urlencode }}" target="_blank" class="btn btn-outline-primary mx-1">
-                    <i class="fab fa-twitter me-1"></i> Twitter
-                </a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ article.url|urlencode }}" target="_blank" class="btn btn-outline-primary mx-1">
-                    <i class="fab fa-facebook-f me-1"></i> Facebook
-                </a>
-                <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ article.url|urlencode }}&title={{ (article.title_fr if article.title_fr else article.title)|urlencode }}" target="_blank" class="btn btn-outline-primary mx-1">
-                    <i class="fab fa-linkedin-in me-1"></i> LinkedIn
-                </a>
-                <a href="mailto:?subject={{ article.title|urlencode }}&body={{ article.url|urlencode }}" class="btn btn-outline-primary mx-1">
-                    <i class="fas fa-envelope me-1"></i> Email
-                </a>
+                <p class="cta-note">
+                    This will open the original article on {{ article.source }}
+                </p>
             </div>
         </div>
         
-        <!-- Sidebar -->
-        <div class="col-lg-4">
-            <!-- Related Articles -->
-            {% if related_articles %}
-            <div class="card shadow-sm mb-4">
-                <div class="card-header bg-dark text-white">
-                    <h5 class="mb-0"><i class="fas fa-link me-2"></i>Articles connexes</h5>
-                </div>
-                <div class="list-group list-group-flush">
-                    {% for related in related_articles %}
-                    <a href="{{ url_for('article_detail_page', article_slug=related.slug) }}" class="list-group-item list-group-item-action">
-                        <div class="d-flex w-100 justify-content-between">
-                            <h6 class="mb-1">{{ related.title_fr if related.title_fr else related.title }}</h6>
-                        </div>
-                        <small class="text-muted">
-                            <i class="fas fa-calendar-alt me-1"></i> {{ related.published_date|format_date }}
-                            <span class="badge bg-{{ 'primary' if related.source_type == 'website' else 'info' if related.source_type == 'rss' else 'danger' if related.source_type == 'youtube' else 'secondary' }} ms-2">{{ related.source_type|capitalize }}</span>
-                        </small>
-                    </a>
-                    {% endfor %}
-                </div>
-            </div>
-            {% endif %}
-            
-            <!-- Original Source -->
-            <div class="card shadow-sm mb-4">
-                <div class="card-header bg-dark text-white">
-                    <h5 class="mb-0"><i class="fas fa-globe me-2"></i>Source originale</h5>
-                </div>
-                <div class="card-body">
-                    <p>Cet article a été collecté à partir de :</p>
-                    <p class="text-center">
-                        <a href="{{ article.url }}" target="_blank" class="btn btn-outline-primary">
-                            <i class="fas fa-external-link-alt me-2"></i>Visiter la source
-                        </a>
-                    </p>
-                    <p class="small text-muted mb-0">L'ouverture du lien vous redirigera vers le site d'origine.</p>
-                </div>
-            </div>
-            
-            <!-- About -->
-            <div class="card shadow-sm">
-                <div class="card-header bg-dark text-white">
-                    <h5 class="mb-0"><i class="fas fa-info-circle me-2"></i>À propos</h5>
-                </div>
-                <div class="card-body">
-                    <p>ActualitésIA est alimenté par un agent Python qui collecte automatiquement les dernières actualités sur l'intelligence artificielle.</p>
-                    <p class="mb-0">Les données sont mises à jour régulièrement et traduites automatiquement en français.</p>
-                </div>
-                <div class="card-footer bg-transparent">
-                    <a href="{{ url_for('home') }}" class="btn btn-outline-primary btn-sm w-100">
-                        <i class="fas fa-home me-2"></i>Retour à l'accueil
-                    </a>
-                </div>
+        <!-- Share Section -->
+        <div class="article-share">
+            <h3 class="share-title">Share this article</h3>
+            <div class="share-buttons">
+                <button class="share-btn twitter" onclick="shareOnTwitter()">
+                    <i class="fab fa-twitter"></i>
+                    Twitter
+                </button>
+                <button class="share-btn linkedin" onclick="shareOnLinkedIn()">
+                    <i class="fab fa-linkedin"></i>
+                    LinkedIn
+                </button>
+                <button class="share-btn facebook" onclick="shareOnFacebook()">
+                    <i class="fab fa-facebook"></i>
+                    Facebook
+                </button>
+                <button class="share-btn copy" onclick="copyLink()">
+                    <i class="fas fa-link"></i>
+                    Copy Link
+                </button>
             </div>
         </div>
+        
+        <!-- Related Articles -->
+        {% if related_articles %}
+        <section class="related-articles">
+            <h2 class="related-title">Related Articles</h2>
+            <div class="related-grid">
+                {% for related in related_articles[:3] %}
+                <a href="{{ url_for('article', article_id=loop.index0) }}" class="related-card">
+                    {% if related.image_url %}
+                    <div class="related-image">
+                        <img src="{{ related.image_url }}" 
+                             alt="{{ related.title }}"
+                             loading="lazy"
+                             onerror="this.style.display='none'">
+                    </div>
+                    {% endif %}
+                    <div class="related-content">
+                        <h3 class="related-card-title">{{ related.title }}</h3>
+                        <div class="related-meta">
+                            <span>{{ related.source }}</span>
+                            <span>{{ related.published_date }}</span>
+                        </div>
+                    </div>
+                </a>
+                {% endfor %}
+            </div>
+        </section>
+        {% endif %}
     </div>
-</div>
+</article>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const articleTitle = {{ article.title|tojson }};
+    const articleUrl = window.location.href;
+    
+    function shareOnTwitter() {
+        const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(articleTitle)}&url=${encodeURIComponent(articleUrl)}`;
+        window.open(url, '_blank', 'width=550,height=420');
+    }
+    
+    function shareOnLinkedIn() {
+        const url = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(articleUrl)}`;
+        window.open(url, '_blank', 'width=550,height=420');
+    }
+    
+    function shareOnFacebook() {
+        const url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(articleUrl)}`;
+        window.open(url, '_blank', 'width=550,height=420');
+    }
+    
+    function copyLink() {
+        navigator.clipboard.writeText(articleUrl).then(() => {
+            const btn = document.querySelector('.share-btn.copy');
+            const originalHTML = btn.innerHTML;
+            btn.innerHTML = '<i class="fas fa-check"></i> Copied!';
+            btn.classList.add('copied');
+            
+            setTimeout(() => {
+                btn.innerHTML = originalHTML;
+                btn.classList.remove('copied');
+            }, 2000);
+        }).catch(err => {
+            console.error('Failed to copy:', err);
+            alert('Failed to copy link');
+        });
+    }
+</script>
 {% endblock %}
