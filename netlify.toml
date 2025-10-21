@@ -1,5 +1,5 @@
 [build]
-  command = "python3 build_static.py"
+  command = "pip install -r requirements.txt && python3 build_static.py"
   publish = "public"
 
 # Redirect all paths to index.html for SPA-like behavior
