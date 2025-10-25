@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Sources - AI News</title>
+    <meta name="description" content="Stay updated with the latest news on Large Language Models, AI breakthroughs, and cutting-edge technology from OpenAI, Anthropic, Google, and more.">
+    <meta name="theme-color" content="#6366f1">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="AI News - Latest LLM & AI Updates">
+    <meta property="og:description" content="Stay updated with the latest AI news">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="/" class="logo">
+                    <div class="logo-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <span class="logo-text">AI<span class="logo-accent">News</span></span>
+                </a>
+                
+                <div class="nav-menu" id="navMenu">
+                    <a href="/" class="nav-link active">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                    <a href="/archives/" class="nav-link">
+                        <i class="fas fa-archive"></i>
+                        <span>Archives</span>
+                    </a>
+                    <a href="#llms" class="nav-link">
+                        <i class="fas fa-robot"></i>
+                        <span>LLMs</span>
+                    </a>
+                    <a href="#tech" class="nav-link">
+                        <i class="fas fa-microchip"></i>
+                        <span>Tech</span>
+                    </a>
+                </div>
+                
+                <div class="nav-actions">
+                    <div class="language-buttons">
+                        <button class="language-toggle active" data-language="fr" onclick="i18n.setLanguage('fr')" title="Français">
+                            <i class="fas fa-globe"></i> FR
+                        </button>
+                        <span class="lang-separator">|</span>
+                        <button class="language-toggle" data-language="en" onclick="i18n.setLanguage('en')" title="English">
+                            <i class="fas fa-globe"></i> EN
+                        </button>
+                    </div>
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Main Content -->
+    <main class="main-content">
+<!-- Hero Section -->
+<section class="hero">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title" data-i18n="sources.title">
+                Our Sources
+            </h1>
+            <p class="hero-subtitle" data-i18n="sources.subtitle">
+                Discover all the news sources we scrape to bring you the best AI information
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Sources Grid -->
+<section class="news-section">
+    <div class="container">
+        <div class="news-grid" id="sourcesGrid">
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">OpenAI Blog</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">38</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-robot"></i> LLMs
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Google AI Blog</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">23</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-robot"></i> LLMs
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Hugging Face Blog</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">36</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-robot"></i> LLMs
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">TechCrunch AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">40</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">VentureBeat AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">37</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">MIT Technology Review AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">13</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Ars Technica</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">22</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-microchip"></i> Tech
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Wired AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">19</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">AI News</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">24</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">NVIDIA Blog</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">22</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-server"></i> Hardware
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Journal du Net - IA</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">30</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Maddyness - IA</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">2</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">PetaPixel - AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">20</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-palette"></i> Creative
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">Hugging Face</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">23</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-robot"></i> LLMs
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">PetaPixel</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">5</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-25</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-palette"></i> Creative
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">The Verge AI</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">11</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-24</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+            <article class="news-card source-card">
+                <div class="card-content">
+                    <div class="source-header">
+                        <div class="source-icon">
+                            <i class="fas fa-rss"></i>
+                        </div>
+                        <h2 class="card-title">KDnuggets</h2>
+                    </div>
+
+                    <div class="source-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-newspaper"></i>
+                            <span class="stat-value">10</span>
+                            <span class="stat-label" data-i18n="sources.total_articles">Articles</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="far fa-clock"></i>
+                            <span class="stat-value">2025-10-21</span>
+                            <span class="stat-label" data-i18n="sources.last_update">Last Update</span>
+                        </div>
+                    </div>
+
+                    <div class="card-footer">
+                        <span class="card-category">
+                            <i class="fas fa-newspaper"></i> General
+                        </span>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-brand">
+                        <div class="logo-icon">
+                            <i class="fas fa-brain"></i>
+                        </div>
+                        <span class="logo-text">AI<span class="logo-accent">News</span></span>
+                    </div>
+                    <p class="footer-desc">Your daily source for the latest AI and LLM news, curated from top tech sources worldwide.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link" aria-label="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="Discord">
+                            <i class="fab fa-discord"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Categories</h4>
+                    <ul class="footer-links">
+                        <li><a href="#llms">Large Language Models</a></li>
+                        <li><a href="#tech">Tech News</a></li>
+                        <li><a href="#ml">Machine Learning</a></li>
+                        <li><a href="#hardware">AI Hardware</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Resources</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">RSS Feed</a></li>
+                        <li><a href="#">API</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="/sources/" data-i18n="footer.sources_title">Sources</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Sources</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI</a></li>
+                        <li><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic</a></li>
+                        <li><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI</a></li>
+                        <li><a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 AI News. Auto-updated with <i class="fas fa-heart"></i> by Python.</p>
+                <p class="footer-note">News aggregated from public sources. All rights belong to original publishers.</p>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- Scripts -->
+    <script>
+        // Theme Toggle
+        const themeToggle = document.getElementById('themeToggle');
+        const body = document.body;
+        const navbar = document.getElementById('navbar');
+        
+        // Check for saved theme preference or default to light mode
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            body.classList.add('dark-mode');
+            updateThemeIcon();
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            const theme = body.classList.contains('dark-mode') ? 'dark' : 'light';
+            localStorage.setItem('theme', theme);
+            updateThemeIcon();
+        });
+        
+        function updateThemeIcon() {
+            const icon = themeToggle.querySelector('i');
+            if (body.classList.contains('dark-mode')) {
+                icon.classList.remove('fa-moon');
+                icon.classList.add('fa-sun');
+            } else {
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
+            }
+        }
+        
+        // Mobile Menu Toggle
+        const mobileToggle = document.getElementById('mobileToggle');
+        const navMenu = document.getElementById('navMenu');
+        
+        mobileToggle.addEventListener('click', () => {
+            mobileToggle.classList.toggle('active');
+            navMenu.classList.toggle('active');
+            body.classList.toggle('menu-open');
+        });
+        
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!navbar.contains(e.target) && navMenu.classList.contains('active')) {
+                mobileToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+                body.classList.remove('menu-open');
+            }
+        });
+        
+        // Navbar scroll effect
+        let lastScroll = 0;
+        window.addEventListener('scroll', () => {
+            const currentScroll = window.pageYOffset;
+            
+            if (currentScroll <= 0) {
+                navbar.classList.remove('scroll-up');
+                navbar.classList.remove('scrolled');
+                return;
+            }
+            
+            if (currentScroll > lastScroll && !navbar.classList.contains('scroll-down')) {
+                // Scroll Down
+                navbar.classList.remove('scroll-up');
+                navbar.classList.add('scroll-down');
+            } else if (currentScroll < lastScroll && navbar.classList.contains('scroll-down')) {
+                // Scroll Up
+                navbar.classList.remove('scroll-down');
+                navbar.classList.add('scroll-up');
+            }
+            
+            if (currentScroll > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+            
+            lastScroll = currentScroll;
+        });
+        
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href !== '#' && href !== '') {
+                    e.preventDefault();
+                    const target = document.querySelector(href);
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                }
+            });
+        });
+    </script>
+
+    <script src="/static/js/i18n.js"></script>
+    <script src="/static/js/search.js"></script>
+
+<script>
+    // Add animation on scroll
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('animate-in');
+            }
+        });
+    }, observerOptions);
+
+    document.querySelectorAll('.news-card').forEach(card => {
+        observer.observe(card);
+    });
+</script>
+</body>
+</html>

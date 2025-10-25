@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Archives - Explore Past Updates</title>
+    <meta name="description" content="Stay updated with the latest news on Large Language Models, AI breakthroughs, and cutting-edge technology from OpenAI, Anthropic, Google, and more.">
+    <meta name="theme-color" content="#6366f1">
+    
+    <!-- Open Graph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="AI News - Latest LLM & AI Updates">
+    <meta property="og:description" content="Stay updated with the latest AI news">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="container">
+            <div class="nav-wrapper">
+                <a href="/" class="logo">
+                    <div class="logo-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <span class="logo-text">AI<span class="logo-accent">News</span></span>
+                </a>
+                
+                <div class="nav-menu" id="navMenu">
+                    <a href="/" class="nav-link active">
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                    <a href="/archives/" class="nav-link">
+                        <i class="fas fa-archive"></i>
+                        <span>Archives</span>
+                    </a>
+                    <a href="#llms" class="nav-link">
+                        <i class="fas fa-robot"></i>
+                        <span>LLMs</span>
+                    </a>
+                    <a href="#tech" class="nav-link">
+                        <i class="fas fa-microchip"></i>
+                        <span>Tech</span>
+                    </a>
+                </div>
+                
+                <div class="nav-actions">
+                    <div class="language-buttons">
+                        <button class="language-toggle active" data-language="fr" onclick="i18n.setLanguage('fr')" title="Français">
+                            <i class="fas fa-globe"></i> FR
+                        </button>
+                        <span class="lang-separator">|</span>
+                        <button class="language-toggle" data-language="en" onclick="i18n.setLanguage('en')" title="English">
+                            <i class="fas fa-globe"></i> EN
+                        </button>
+                    </div>
+                    <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+                        <i class="fas fa-moon"></i>
+                    </button>
+                    <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <!-- Main Content -->
+    <main class="main-content">
+<!-- Hero Section for Archives -->
+<section class="hero hero--archives">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title" data-i18n="archives.title">
+                📚 Archives
+            </h1>
+            <p class="hero-subtitle" data-i18n="archives.subtitle" data-i18n-options='{"count": "0"}'>
+                Explore 0 articles from our complete AI news history, organized by category and date.
+            </p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <div class="stat-value">0</div>
+                    <div class="stat-label" data-i18n="archives.categories">Categories</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">0</div>
+                    <div class="stat-label" data-i18n="archives.archived_articles">Archived Articles</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">7+ Days</div>
+                    <div class="stat-label" data-i18n="archives.old_content">Old Content</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Category Filter Section -->
+<section class="archive-filters">
+    <div class="container">
+        <div class="filter-wrapper">
+            <a href="/archives/" class="filter-btn active">
+                <i class="fas fa-inbox"></i>
+                <span data-i18n="archives.all_categories">All Categories</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Archives Timeline Section -->
+<section class="archives-section">
+    <div class="container">
+            <!-- Show all categories -->
+
+
+        <div class="empty-state">
+            <div class="empty-icon">
+                <i class="fas fa-inbox"></i>
+            </div>
+            <h3 data-i18n="archives.no_archived">No archived articles yet</h3>
+            <p data-i18n="archives.articles_appear_here">Articles older than 7 days will appear here.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Call to action back to home -->
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-box">
+            <div class="cta-text">
+                <h2 data-i18n="archives.looking_for_fresh">Looking for Fresh News?</h2>
+                <p data-i18n="archives.check_latest">Check out the latest AI updates from the last 7 days</p>
+            </div>
+            <a href="/" class="cta-button">
+                <i class="fas fa-arrow-left"></i>
+                <span data-i18n="archives.back_to_latest">Back to Latest</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+    .hero--archives {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .archive-filters {
+        padding: 2rem 0;
+        background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+        border-bottom: 1px solid #e0e0e0;
+    }
+
+    .archive-category {
+        margin: 3rem 0;
+    }
+
+    .category-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 2px solid #667eea;
+    }
+
+    .category-title {
+        font-size: 1.8rem;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .category-count {
+        background: #667eea;
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        font-size: 0.875rem;
+    }
+
+    .timeline {
+        position: relative;
+        padding: 2rem 0;
+    }
+
+    .timeline::before {
+        content: '';
+        position: absolute;
+        left: 20px;
+        top: 0;
+        bottom: 0;
+        width: 2px;
+        background: linear-gradient(to bottom, #667eea, #e0e0e0);
+    }
+
+    .timeline-item {
+        position: relative;
+        margin-bottom: 2rem;
+        padding-left: 60px;
+    }
+
+    .timeline-marker {
+        position: absolute;
+        left: 8px;
+        top: 0;
+        width: 24px;
+        height: 24px;
+        background: white;
+        border: 3px solid #667eea;
+        border-radius: 50%;
+        transition: all 0.3s ease;
+    }
+
+    .timeline-item:hover .timeline-marker {
+        background: #667eea;
+        box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+    }
+
+    .timeline-content {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+
+    .timeline-item:hover .timeline-content {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .month-title {
+        font-size: 1.25rem;
+        margin: 0 0 0.5rem 0;
+        color: #333;
+    }
+
+    .article-count {
+        margin: 0;
+        color: #999;
+        font-size: 0.875rem;
+        margin-bottom: 1rem;
+    }
+
+    .articles-list {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .archive-article {
+        border-left: 3px solid #667eea;
+        padding-left: 1rem;
+        transition: all 0.3s ease;
+    }
+
+    .archive-article:hover {
+        border-left-color: #764ba2;
+        padding-left: 1.25rem;
+    }
+
+    .article-link {
+        text-decoration: none;
+        display: block;
+    }
+
+    .article-title {
+        margin: 0 0 0.5rem 0;
+        font-size: 1rem;
+        color: #667eea;
+        transition: color 0.3s ease;
+    }
+
+    .archive-article:hover .article-title {
+        color: #764ba2;
+    }
+
+    .article-meta {
+        display: flex;
+        gap: 1rem;
+        font-size: 0.75rem;
+        color: #999;
+    }
+
+    .article-source::before {
+        content: '📡 ';
+    }
+
+    .article-date::before {
+        content: '📅 ';
+    }
+
+    .cta-section {
+        padding: 3rem 0;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        margin-top: 3rem;
+    }
+
+    .cta-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: white;
+        padding: 2rem;
+        border-radius: 8px;
+    }
+
+    .cta-text h2 {
+        margin: 0 0 0.5rem 0;
+        font-size: 1.5rem;
+    }
+
+    .cta-text p {
+        margin: 0;
+        opacity: 0.9;
+    }
+
+    .cta-button {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: white;
+        color: #667eea;
+        padding: 0.75rem 1.5rem;
+        border-radius: 20px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: all 0.3s ease;
+    }
+
+    .cta-button:hover {
+        transform: translateX(-5px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 768px) {
+        .category-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .cta-box {
+            flex-direction: column;
+            text-align: center;
+            gap: 1.5rem;
+        }
+
+        .timeline::before {
+            left: 10px;
+        }
+
+        .timeline-item {
+            padding-left: 40px;
+        }
+
+        .timeline-marker {
+            left: 0;
+        }
+    }
+</style>
+
+    </main>
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-brand">
+                        <div class="logo-icon">
+                            <i class="fas fa-brain"></i>
+                        </div>
+                        <span class="logo-text">AI<span class="logo-accent">News</span></span>
+                    </div>
+                    <p class="footer-desc">Your daily source for the latest AI and LLM news, curated from top tech sources worldwide.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link" aria-label="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="#" class="social-link" aria-label="Discord">
+                            <i class="fab fa-discord"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Categories</h4>
+                    <ul class="footer-links">
+                        <li><a href="#llms">Large Language Models</a></li>
+                        <li><a href="#tech">Tech News</a></li>
+                        <li><a href="#ml">Machine Learning</a></li>
+                        <li><a href="#hardware">AI Hardware</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Resources</h4>
+                    <ul class="footer-links">
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">RSS Feed</a></li>
+                        <li><a href="#">API</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="/sources/" data-i18n="footer.sources_title">Sources</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-col">
+                    <h4 class="footer-title">Sources</h4>
+                    <ul class="footer-links">
+                        <li><a href="https://openai.com/blog" target="_blank" rel="noopener">OpenAI</a></li>
+                        <li><a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic</a></li>
+                        <li><a href="https://blog.google/technology/ai/" target="_blank" rel="noopener">Google AI</a></li>
+                        <li><a href="https://huggingface.co/blog" target="_blank" rel="noopener">Hugging Face</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 AI News. Auto-updated with <i class="fas fa-heart"></i> by Python.</p>
+                <p class="footer-note">News aggregated from public sources. All rights belong to original publishers.</p>
+            </div>
+        </div>
+    </footer>
+    
+    <!-- Scripts -->
+    <script>
+        // Theme Toggle
+        const themeToggle = document.getElementById('themeToggle');
+        const body = document.body;
+        const navbar = document.getElementById('navbar');
+        
+        // Check for saved theme preference or default to light mode
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            body.classList.add('dark-mode');
+            updateThemeIcon();
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            body.classList.toggle('dark-mode');
+            const theme = body.classList.contains('dark-mode') ? 'dark' : 'light';
+            localStorage.setItem('theme', theme);
+            updateThemeIcon();
+        });
+        
+        function updateThemeIcon() {
+            const icon = themeToggle.querySelector('i');
+            if (body.classList.contains('dark-mode')) {
+                icon.classList.remove('fa-moon');
+                icon.classList.add('fa-sun');
+            } else {
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
+            }
+        }
+        
+        // Mobile Menu Toggle
+        const mobileToggle = document.getElementById('mobileToggle');
+        const navMenu = document.getElementById('navMenu');
+        
+        mobileToggle.addEventListener('click', () => {
+            mobileToggle.classList.toggle('active');
+            navMenu.classList.toggle('active');
+            body.classList.toggle('menu-open');
+        });
+        
+        // Close mobile menu when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!navbar.contains(e.target) && navMenu.classList.contains('active')) {
+                mobileToggle.classList.remove('active');
+                navMenu.classList.remove('active');
+                body.classList.remove('menu-open');
+            }
+        });
+        
+        // Navbar scroll effect
+        let lastScroll = 0;
+        window.addEventListener('scroll', () => {
+            const currentScroll = window.pageYOffset;
+            
+            if (currentScroll <= 0) {
+                navbar.classList.remove('scroll-up');
+                navbar.classList.remove('scrolled');
+                return;
+            }
+            
+            if (currentScroll > lastScroll && !navbar.classList.contains('scroll-down')) {
+                // Scroll Down
+                navbar.classList.remove('scroll-up');
+                navbar.classList.add('scroll-down');
+            } else if (currentScroll < lastScroll && navbar.classList.contains('scroll-down')) {
+                // Scroll Up
+                navbar.classList.remove('scroll-down');
+                navbar.classList.add('scroll-up');
+            }
+            
+            if (currentScroll > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+            
+            lastScroll = currentScroll;
+        });
+        
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href !== '#' && href !== '') {
+                    e.preventDefault();
+                    const target = document.querySelector(href);
+                    if (target) {
+                        target.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                }
+            });
+        });
+    </script>
+
+    <script src="/static/js/i18n.js"></script>
+    <script src="/static/js/search.js"></script>
+
+<script>
+    // Smooth transitions for archive items
+    document.addEventListener('DOMContentLoaded', () => {
+        const archiveArticles = document.querySelectorAll('.archive-article');
+        archiveArticles.forEach((article, index) => {
+            article.style.animation = `fadeIn 0.5s ease forwards`;
+            article.style.animationDelay = `${index * 0.05}s`;
+        });
+    });
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateX(-10px);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+</script>
+</body>
+</html>
