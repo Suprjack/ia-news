@@ -183,10 +183,15 @@
                         </div>
                         
                         <h2 class="card-title">{{ article.title }}</h2>
-                        
+
                         <p class="card-description">
                             {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
                         </p>
+
+                        <div class="card-language-note">
+                            <i class="fas fa-globe-americas"></i>
+                            <span data-i18n="news.in_english">Article in English</span>
+                        </div>
                         
                         <div class="card-footer">
                             <span class="read-more">

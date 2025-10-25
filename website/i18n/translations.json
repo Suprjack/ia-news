@@ -38,7 +38,8 @@
       "read_article": "Lire l'article",
       "read_more": "Lire la suite",
       "no_articles": "Aucun article pour le moment",
-      "check_back": "Reviens bientôt pour les dernières actualités IA"
+      "check_back": "Reviens bientôt pour les dernières actualités IA",
+      "in_english": "Article en anglais"
     },
     "newsletter": {
       "title": "Ne manquez jamais une mise à jour",
@@ -169,7 +170,8 @@
       "read_article": "Read Article",
       "read_more": "Read More",
       "no_articles": "No articles yet",
-      "check_back": "Check back soon for the latest AI news"
+      "check_back": "Check back soon for the latest AI news",
+      "in_english": "Article in English"
     },
     "newsletter": {
       "title": "Never Miss an Update",

@@ -60,10 +60,15 @@
         
         <!-- Article Content -->
         <div class="article-content">
+            <div class="article-language-banner">
+                <i class="fas fa-globe-americas"></i>
+                <span data-i18n="news.in_english">Article in English</span>
+            </div>
+
             <div class="article-description">
                 {{ article.description }}
             </div>
-            
+
             <div class="article-cta">
                 <a href="{{ article.url }}"
                    target="_blank"

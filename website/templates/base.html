@@ -153,28 +153,14 @@
     
     <!-- Scripts -->
     <script>
-        // Theme Toggle
-        const themeToggle = document.getElementById('themeToggle');
-        const body = document.body;
-        const navbar = document.getElementById('navbar');
-
-        // Check for saved theme preference, default to dark mode
-        const currentTheme = localStorage.getItem('theme') || 'dark';
-        if (currentTheme === 'dark') {
-            body.classList.add('dark-mode');
-            updateThemeIcon();
-        }
-        
-        themeToggle.addEventListener('click', () => {
-            body.classList.toggle('dark-mode');
-            const theme = body.classList.contains('dark-mode') ? 'dark' : 'light';
-            localStorage.setItem('theme', theme);
-            updateThemeIcon();
-        });
-        
+        // Theme Toggle - Must be early before page renders
         function updateThemeIcon() {
+            const themeToggle = document.getElementById('themeToggle');
+            if (!themeToggle) return;
             const icon = themeToggle.querySelector('i');
-            if (body.classList.contains('dark-mode')) {
+            if (!icon) return;
+            const isDarkMode = document.body.classList.contains('dark-mode');
+            if (isDarkMode) {
                 icon.classList.remove('fa-moon');
                 icon.classList.add('fa-sun');
             } else {
@@ -182,6 +168,29 @@
                 icon.classList.add('fa-moon');
             }
         }
+
+        // Apply saved theme or default to dark
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        if (savedTheme === 'dark') {
+            document.body.classList.add('dark-mode');
+        } else {
+            document.body.classList.remove('dark-mode');
+        }
+
+        // Setup theme toggle listener
+        document.addEventListener('DOMContentLoaded', () => {
+            const themeToggle = document.getElementById('themeToggle');
+            if (themeToggle) {
+                themeToggle.addEventListener('click', () => {
+                    document.body.classList.toggle('dark-mode');
+                    const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+                    localStorage.setItem('theme', theme);
+                    updateThemeIcon();
+                });
+                // Update icon on load
+                updateThemeIcon();
+            }
+        });
         
         // Mobile Menu Toggle
         const mobileToggle = document.getElementById('mobileToggle');
