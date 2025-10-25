@@ -8,33 +8,91 @@
     <div class="container">
         <div class="hero-content">
             <h1 class="hero-title">
-                Stay Ahead with <span class="gradient-text">AI News</span>
+                <span data-i18n="hero.title">Stay Ahead with</span> <span class="gradient-text" data-i18n="hero.title_highlight">AI News</span>
             </h1>
-            <p class="hero-subtitle">
+            <p class="hero-subtitle" data-i18n="hero.subtitle">
                 Curated daily updates on Large Language Models, AI breakthroughs, and cutting-edge technology from the world's leading sources. Last 7 days.
             </p>
             <div class="hero-stats">
                 <div class="stat">
                     <div class="stat-value">{{ news|length }}</div>
-                    <div class="stat-label">Fresh Articles</div>
+                    <div class="stat-label" data-i18n="hero.fresh_articles">Fresh Articles</div>
                 </div>
                 <div class="stat">
                     <div class="stat-value">{{ archive_count|default(0) }}</div>
-                    <div class="stat-label">In Archives</div>
+                    <div class="stat-label" data-i18n="hero.in_archives">In Archives</div>
                 </div>
                 <div class="stat">
                     <div class="stat-value">7 Days</div>
-                    <div class="stat-label">Window</div>
+                    <div class="stat-label" data-i18n="hero.window">Window</div>
                 </div>
             </div>
             {% if archive_count and archive_count > 0 %}
             <div class="hero-cta">
                 <a href="{{ url_for('archives') }}" class="btn btn-secondary">
                     <i class="fas fa-archive"></i>
-                    Explore Archives ({{ archive_count }})
+                    <span data-i18n="hero.explore_archives">Explore Archives</span> ({{ archive_count }})
                 </a>
             </div>
             {% endif %}
+        </div>
+    </div>
+</section>
+
+<!-- Trending Section -->
+<section class="trending-section" id="trending">
+    <div class="container">
+        <h2 class="trending-title" data-i18n="trending.title">🔥 Trending</h2>
+        <p data-i18n="trending.subtitle">The most recent articles from the last 24 hours</p>
+        <div class="trending-grid">
+            {% set trending_articles = news|selectattr('is_recent', 'equalto', true)|list %}
+            {% for article in trending_articles[:5] %}
+            <article class="news-card trending-card" data-category="{{ article.category }}">
+                <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="card-link">
+                    <div class="card-image">
+                        {% if article.image_url %}
+                        <img src="{{ article.image_url }}"
+                             alt="{{ article.title }}"
+                             loading="lazy"
+                             onerror="this.src='{{ url_for('static', filename='images/default.png') }}'">
+                        {% else %}
+                        <img src="{{ url_for('static', filename='images/default.png') }}"
+                             alt="{{ article.title }}"
+                             loading="lazy">
+                        {% endif %}
+                        <div class="card-category">
+                            <span class="hot-badge" data-i18n="trending.hot">🔥 Hot</span>
+                        </div>
+                    </div>
+
+                    <div class="card-content">
+                        <div class="card-meta">
+                            <span class="card-source">
+                                <i class="fas fa-rss"></i>
+                                {{ article.source }}
+                            </span>
+                            <span class="card-date">
+                                <i class="far fa-clock"></i>
+                                {{ article.published_date }}
+                            </span>
+                        </div>
+
+                        <h2 class="card-title">{{ article.title }}</h2>
+
+                        <p class="card-description">
+                            {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
+                        </p>
+
+                        <div class="card-footer">
+                            <span class="read-more">
+                                <span data-i18n="news.read_article">Read article</span>
+                                <i class="fas fa-arrow-right"></i>
+                            </span>
+                        </div>
+                    </div>
+                </a>
+            </article>
+            {% endfor %}
         </div>
     </div>
 </section>
@@ -45,27 +103,35 @@
         <div class="filter-wrapper">
             <button class="filter-btn active" data-category="all">
                 <i class="fas fa-globe"></i>
-                All News
+                <span data-i18n="filters.all_news">All News</span>
             </button>
             <button class="filter-btn" data-category="llms">
                 <i class="fas fa-robot"></i>
-                LLMs
+                <span data-i18n="filters.llms">LLMs</span>
             </button>
             <button class="filter-btn" data-category="general">
                 <i class="fas fa-newspaper"></i>
-                General
+                <span data-i18n="filters.general">General</span>
             </button>
             <button class="filter-btn" data-category="tech">
                 <i class="fas fa-microchip"></i>
-                Tech
+                <span data-i18n="filters.tech">Tech</span>
             </button>
             <button class="filter-btn" data-category="ml">
                 <i class="fas fa-brain"></i>
-                ML & Data
+                <span data-i18n="filters.ml">ML & Data</span>
             </button>
             <button class="filter-btn" data-category="hardware">
                 <i class="fas fa-server"></i>
-                Hardware
+                <span data-i18n="filters.hardware">Hardware</span>
+            </button>
+            <button class="filter-btn" data-category="creative">
+                <i class="fas fa-palette"></i>
+                <span data-i18n="filters.creative">Creative</span>
+            </button>
+            <button class="filter-btn" data-category="nocode">
+                <i class="fas fa-puzzle-piece"></i>
+                <span data-i18n="filters.nocode">No-Code</span>
             </button>
         </div>
     </div>
@@ -124,7 +190,7 @@
                         
                         <div class="card-footer">
                             <span class="read-more">
-                                Read article
+                                <span data-i18n="news.read_article">Read article</span>
                                 <i class="fas fa-arrow-right"></i>
                             </span>
                         </div>
@@ -139,8 +205,8 @@
             <div class="empty-icon">
                 <i class="fas fa-newspaper"></i>
             </div>
-            <h3>No articles yet</h3>
-            <p>Check back soon for the latest AI news!</p>
+            <h3 data-i18n="news.no_articles">No articles yet</h3>
+            <p data-i18n="news.check_back">Check back soon for the latest AI news!</p>
         </div>
         {% endif %}
     </div>
@@ -151,14 +217,14 @@
     <div class="container">
         <div class="newsletter-content">
             <div class="newsletter-text">
-                <h2 class="newsletter-title">Never Miss an Update</h2>
-                <p class="newsletter-subtitle">Get the latest AI news delivered to your inbox</p>
+                <h2 class="newsletter-title" data-i18n="newsletter.title">Never Miss an Update</h2>
+                <p class="newsletter-subtitle" data-i18n="newsletter.subtitle">Get the latest AI news delivered to your inbox</p>
             </div>
             <div class="newsletter-form">
                 <form action="#" method="post" class="subscribe-form">
-                    <input type="email" placeholder="Enter your email" class="email-input" required>
+                    <input type="email" data-i18n-placeholder="newsletter.placeholder" placeholder="Enter your email" class="email-input" required>
                     <button type="submit" class="subscribe-btn">
-                        <span>Subscribe</span>
+                        <span data-i18n="newsletter.subscribe">Subscribe</span>
                         <i class="fas fa-paper-plane"></i>
                     </button>
                 </form>

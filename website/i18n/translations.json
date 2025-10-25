@@ -1,0 +1,264 @@
+{
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "archives": "Archives",
+      "search_placeholder": "Rechercher des articles...",
+      "language": "Langue"
+    },
+    "hero": {
+      "title": "Restez à la pointe avec",
+      "title_highlight": "l'IA News",
+      "subtitle": "Les dernières actualités sur les Modèles de Langage, les percées en IA et les technologies de pointe des meilleures sources mondiales. 7 derniers jours.",
+      "fresh_articles": "Articles Frais",
+      "in_archives": "En Archives",
+      "window": "Fenêtre",
+      "explore_archives": "Explorer les Archives"
+    },
+    "filters": {
+      "all_news": "Toutes les Actualités",
+      "llms": "LLMs",
+      "general": "Général",
+      "tech": "Tech",
+      "ml": "ML & Data",
+      "hardware": "Hardware",
+      "creative": "Créatif",
+      "nocode": "No-Code"
+    },
+    "categories": {
+      "llms": "LLMs & Modèles de Langage",
+      "creative": "IA Créative & Générative",
+      "nocode": "No-Code & Automation",
+      "hardware": "Hardware & Infrastructure",
+      "tech": "Technologie",
+      "general": "Actualités Générales",
+      "ml": "Machine Learning"
+    },
+    "news": {
+      "read_article": "Lire l'article",
+      "read_more": "Lire la suite",
+      "no_articles": "Aucun article pour le moment",
+      "check_back": "Reviens bientôt pour les dernières actualités IA"
+    },
+    "newsletter": {
+      "title": "Ne manquez jamais une mise à jour",
+      "subtitle": "Recevez les dernières actualités IA dans votre boîte de réception",
+      "placeholder": "Entrez votre e-mail",
+      "subscribe": "S'abonner"
+    },
+    "articles": {
+      "back_to_news": "Retour aux actualités",
+      "source": "Source",
+      "published": "Publié",
+      "category": "Catégorie",
+      "read_original": "Lire l'article original",
+      "share": "Partager",
+      "related": "Articles connexes",
+      "estimated_reading": "Lecture estimée"
+    },
+    "archives": {
+      "title": "📚 Archives",
+      "subtitle": "Explorez {{count}} articles de notre historique complet d'actualités IA, organisés par catégorie et date.",
+      "categories": "Catégories",
+      "archived_articles": "Articles archivés",
+      "old_content": "Contenu ancien",
+      "all_categories": "Toutes les catégories",
+      "months": "mois",
+      "articles": "article",
+      "articles_plural": "articles",
+      "looking_for_fresh": "Cherchez des actualités fraîches ?",
+      "check_latest": "Consultez les dernières mises à jour IA des 7 derniers jours",
+      "back_to_latest": "Retour aux dernières actualités",
+      "no_archived": "Aucun article archivé pour le moment",
+      "articles_appear_here": "Les articles de plus de 7 jours apparaîtront ici."
+    },
+    "sources": {
+      "title": "Nos sources",
+      "subtitle": "Découvrez toutes les sources d'actualités que nous scrapons pour vous apporter les meilleures infos IA",
+      "total_articles": "Articles",
+      "last_update": "Dernière MAJ",
+      "openai": "OpenAI",
+      "anthropic": "Anthropic",
+      "google": "Google AI",
+      "huggingface": "Hugging Face",
+      "theverge": "The Verge",
+      "techcrunch": "TechCrunch",
+      "venturebeat": "VentureBeat",
+      "mittr": "MIT Technology Review",
+      "nvidia": "NVIDIA",
+      "arstechnica": "Ars Technica",
+      "wired": "Wired",
+      "jdn": "Journal du Net",
+      "siecledigital": "Siècle Digital",
+      "maddyness": "Maddyness",
+      "petapixel": "PetaPixel",
+      "runwayml": "RunwayML",
+      "webflow": "Webflow",
+      "bubble": "Bubble"
+    },
+    "search": {
+      "title": "Résultats de recherche",
+      "query": "Résultats pour \"{{query}}\"",
+      "found": "{{count}} résultat trouvé",
+      "found_plural": "{{count}} résultats trouvés",
+      "no_results": "Aucun résultat trouvé",
+      "try_different": "Essayez une recherche différente ou un autre filtre",
+      "filter_by_category": "Filtrer par catégorie",
+      "filter_by_source": "Filtrer par source",
+      "clear_filters": "Effacer les filtres"
+    },
+    "footer": {
+      "description": "Votre source quotidienne pour les dernières actualités IA et LLM, organisées à partir des meilleures sources tech du monde.",
+      "categories_title": "Catégories",
+      "resources_title": "Ressources",
+      "sources_title": "Sources",
+      "copyright": "© 2025 AI News. Mis à jour automatiquement avec ❤️ par Python.",
+      "note": "Les actualités sont agrégées à partir de sources publiques. Tous les droits appartiennent aux éditeurs originaux."
+    },
+    "trending": {
+      "title": "🔥 Trending",
+      "subtitle": "Les articles les plus récents des dernières 24 heures",
+      "hot": "Hot"
+    },
+    "common": {
+      "loading": "Chargement...",
+      "error": "Une erreur est survenue",
+      "try_again": "Réessayer",
+      "close": "Fermer",
+      "search": "Rechercher",
+      "filter": "Filtrer",
+      "sort": "Trier"
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "archives": "Archives",
+      "search_placeholder": "Search articles...",
+      "language": "Language"
+    },
+    "hero": {
+      "title": "Stay Ahead with",
+      "title_highlight": "AI News",
+      "subtitle": "Curated daily updates on Large Language Models, AI breakthroughs, and cutting-edge technology from the world's leading sources. Last 7 days.",
+      "fresh_articles": "Fresh Articles",
+      "in_archives": "In Archives",
+      "window": "Window",
+      "explore_archives": "Explore Archives"
+    },
+    "filters": {
+      "all_news": "All News",
+      "llms": "LLMs",
+      "general": "General",
+      "tech": "Tech",
+      "ml": "ML & Data",
+      "hardware": "Hardware",
+      "creative": "Creative",
+      "nocode": "No-Code"
+    },
+    "categories": {
+      "llms": "LLMs & Language Models",
+      "creative": "Creative & Generative AI",
+      "nocode": "No-Code & Automation",
+      "hardware": "Hardware & Infrastructure",
+      "tech": "Technology",
+      "general": "General News",
+      "ml": "Machine Learning"
+    },
+    "news": {
+      "read_article": "Read Article",
+      "read_more": "Read More",
+      "no_articles": "No articles yet",
+      "check_back": "Check back soon for the latest AI news"
+    },
+    "newsletter": {
+      "title": "Never Miss an Update",
+      "subtitle": "Get the latest AI news delivered to your inbox",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "articles": {
+      "back_to_news": "Back to news",
+      "source": "Source",
+      "published": "Published",
+      "category": "Category",
+      "read_original": "Read original article",
+      "share": "Share",
+      "related": "Related Articles",
+      "estimated_reading": "Estimated reading"
+    },
+    "archives": {
+      "title": "📚 Archives",
+      "subtitle": "Explore {{count}} articles from our complete AI news history, organized by category and date.",
+      "categories": "Categories",
+      "archived_articles": "Archived Articles",
+      "old_content": "Old Content",
+      "all_categories": "All Categories",
+      "months": "months",
+      "articles": "article",
+      "articles_plural": "articles",
+      "looking_for_fresh": "Looking for Fresh News?",
+      "check_latest": "Check out the latest AI updates from the last 7 days",
+      "back_to_latest": "Back to Latest",
+      "no_archived": "No archived articles yet",
+      "articles_appear_here": "Articles older than 7 days will appear here."
+    },
+    "sources": {
+      "title": "Our Sources",
+      "subtitle": "Discover all the news sources we scrape to bring you the best AI information",
+      "total_articles": "Articles",
+      "last_update": "Last Update",
+      "openai": "OpenAI",
+      "anthropic": "Anthropic",
+      "google": "Google AI",
+      "huggingface": "Hugging Face",
+      "theverge": "The Verge",
+      "techcrunch": "TechCrunch",
+      "venturebeat": "VentureBeat",
+      "mittr": "MIT Technology Review",
+      "nvidia": "NVIDIA",
+      "arstechnica": "Ars Technica",
+      "wired": "Wired",
+      "jdn": "Journal du Net",
+      "siecledigital": "Siècle Digital",
+      "maddyness": "Maddyness",
+      "petapixel": "PetaPixel",
+      "runwayml": "RunwayML",
+      "webflow": "Webflow",
+      "bubble": "Bubble"
+    },
+    "search": {
+      "title": "Search Results",
+      "query": "Results for \"{{query}}\"",
+      "found": "{{count}} result found",
+      "found_plural": "{{count}} results found",
+      "no_results": "No results found",
+      "try_different": "Try a different search or filter",
+      "filter_by_category": "Filter by category",
+      "filter_by_source": "Filter by source",
+      "clear_filters": "Clear filters"
+    },
+    "footer": {
+      "description": "Your daily source for the latest AI and LLM news, curated from top tech sources worldwide.",
+      "categories_title": "Categories",
+      "resources_title": "Resources",
+      "sources_title": "Sources",
+      "copyright": "© 2025 AI News. Auto-updated with ❤️ by Python.",
+      "note": "News aggregated from public sources. All rights belong to original publishers."
+    },
+    "trending": {
+      "title": "🔥 Trending",
+      "subtitle": "The most recent articles from the last 24 hours",
+      "hot": "Hot"
+    },
+    "common": {
+      "loading": "Loading...",
+      "error": "An error occurred",
+      "try_again": "Try Again",
+      "close": "Close",
+      "search": "Search",
+      "filter": "Filter",
+      "sort": "Sort"
+    }
+  }
+}

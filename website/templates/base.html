@@ -57,6 +57,15 @@
                 </div>
                 
                 <div class="nav-actions">
+                    <div class="language-buttons">
+                        <button class="language-toggle active" data-language="fr" onclick="i18n.setLanguage('fr')" title="Français">
+                            <i class="fas fa-globe"></i> FR
+                        </button>
+                        <span class="lang-separator">|</span>
+                        <button class="language-toggle" data-language="en" onclick="i18n.setLanguage('en')" title="English">
+                            <i class="fas fa-globe"></i> EN
+                        </button>
+                    </div>
                     <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
                         <i class="fas fa-moon"></i>
                     </button>
@@ -120,6 +129,7 @@
                         <li><a href="#">RSS Feed</a></li>
                         <li><a href="#">API</a></li>
                         <li><a href="#">Contact</a></li>
+                        <li><a href="/sources/" data-i18n="footer.sources_title">Sources</a></li>
                     </ul>
                 </div>
                 
@@ -239,7 +249,10 @@
             });
         });
     </script>
-    
+
+    <script src="{{ url_for('static', filename='js/i18n.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/search.js') }}"></script>
+
     {% block scripts %}{% endblock %}
 </body>
 </html>

@@ -14,7 +14,7 @@
             <div class="article-meta-top">
                 <a href="{{ url_for('home') }}" class="back-link">
                     <i class="fas fa-arrow-left"></i>
-                    Back to news
+                    <span data-i18n="articles.back_to_news">Back to news</span>
                 </a>
                 <span class="article-category">
                     {% if article.category == 'llms' %}
@@ -65,11 +65,11 @@
             </div>
             
             <div class="article-cta">
-                <a href="{{ article.url }}" 
-                   target="_blank" 
-                   rel="noopener noreferrer" 
+                <a href="{{ article.url }}"
+                   target="_blank"
+                   rel="noopener noreferrer"
                    class="read-original-btn">
-                    <span>Read Full Article</span>
+                    <span data-i18n="articles.read_original">Read Full Article</span>
                     <i class="fas fa-external-link-alt"></i>
                 </a>
                 <p class="cta-note">
@@ -80,7 +80,7 @@
         
         <!-- Share Section -->
         <div class="article-share">
-            <h3 class="share-title">Share this article</h3>
+            <h3 class="share-title" data-i18n="articles.share">Share this article</h3>
             <div class="share-buttons">
                 <button class="share-btn twitter" onclick="shareOnTwitter()">
                     <i class="fab fa-twitter"></i>
@@ -104,7 +104,7 @@
         <!-- Related Articles -->
         {% if related_articles %}
         <section class="related-articles">
-            <h2 class="related-title">Related Articles</h2>
+            <h2 class="related-title" data-i18n="articles.related">Related Articles</h2>
             <div class="related-grid">
                 {% for related in related_articles[:3] %}
                 <a href="{{ url_for('article', article_id=loop.index0) }}" class="related-card">

@@ -277,6 +277,38 @@ def build_site():
     else:
         print(f"AVERTISSEMENT: Le dossier statique source {STATIC_SOURCE_DIR} n'existe pas.")
 
+    # 6.5 Copier translations.json vers static/
+    print("Copie du fichier translations.json...")
+    translations_source = os.path.join(ROOT_DIR, 'website/i18n/translations.json')
+    translations_dest_dir = os.path.join(OUTPUT_DIR, 'static/i18n')
+    os.makedirs(translations_dest_dir, exist_ok=True)
+    shutil.copy(translations_source, os.path.join(translations_dest_dir, 'translations.json'))
+
+    # 7. Générer la page des sources
+    print("Génération de la page des sources...")
+    sources_stats = {}
+    for article in all_processed:
+        source_name = article.get('source', 'Unknown')
+        if source_name not in sources_stats:
+            sources_stats[source_name] = {
+                'count': 0,
+                'last_update': article.get('published_date', 'N/A'),
+                'category': article.get('category', 'general'),
+                'type': article.get('source_type', 'rss')
+            }
+        sources_stats[source_name]['count'] += 1
+        # Garder la date la plus récente
+        if article.get('published_date', '') > sources_stats[source_name]['last_update']:
+            sources_stats[source_name]['last_update'] = article.get('published_date', 'N/A')
+
+    sources_template = jinja_env.get_template('sources.html')
+    sources_html = sources_template.render(sources=sources_stats)
+    sources_dir = os.path.join(OUTPUT_DIR, 'sources')
+    os.makedirs(sources_dir, exist_ok=True)
+    with open(os.path.join(sources_dir, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(sources_html)
+    print(f"Page sources générée avec {len(sources_stats)} sources")
+
     print("Génération du site statique terminée !")
     print(f"Le site a été généré dans : {OUTPUT_DIR}")
     print(f"📰 Page d'accueil: {len(processed_recent)} articles récents")
