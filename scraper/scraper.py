@@ -37,27 +37,33 @@ class IANewsScraper:
                 {'url': 'https://www.anthropic.com/news/rss.xml', 'category': 'llms', 'type': 'anthropic', 'name': 'Anthropic News'},
                 {'url': 'https://blog.google/technology/ai/rss/', 'category': 'llms', 'type': 'google', 'name': 'Google AI Blog'},
                 {'url': 'https://huggingface.co/blog/feed.xml', 'category': 'llms', 'type': 'huggingface', 'name': 'Hugging Face Blog'},
-                
+
                 # 📰 TECH NEWS - IA FOCUS
                 {'url': 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml', 'category': 'general', 'type': 'theverge', 'name': 'The Verge AI'},
                 {'url': 'https://techcrunch.com/category/artificial-intelligence/feed/', 'category': 'general', 'type': 'techcrunch', 'name': 'TechCrunch AI'},
                 {'url': 'https://venturebeat.com/category/ai/feed/', 'category': 'general', 'type': 'venturebeat', 'name': 'VentureBeat AI'},
                 {'url': 'https://www.technologyreview.com/topic/artificial-intelligence/feed', 'category': 'general', 'type': 'mittr', 'name': 'MIT Technology Review AI'},
-                
+
                 # 🔬 TECH & SCIENCE
                 {'url': 'https://feeds.arstechnica.com/arstechnica/technology-lab', 'category': 'tech', 'type': 'arstechnica', 'name': 'Ars Technica'},
                 {'url': 'https://www.wired.com/feed/tag/ai/latest/rss', 'category': 'general', 'type': 'wired', 'name': 'Wired AI'},
                 {'url': 'https://www.artificialintelligence-news.com/feed/', 'category': 'general', 'type': 'ainews', 'name': 'AI News'},
-                
+
                 # 🎮 NVIDIA & HARDWARE
                 {'url': 'https://blogs.nvidia.com/feed/', 'category': 'hardware', 'type': 'nvidia', 'name': 'NVIDIA Blog'},
-                
-                # 📊 ML & DATA SCIENCE
-                {'url': 'https://feeds.feedburner.com/kdnuggets-data-mining-analytics', 'category': 'ml', 'type': 'kdnuggets', 'name': 'KDnuggets'},
-                {'url': 'https://www.deeplearning.ai/feed/', 'category': 'ml', 'type': 'deeplearning', 'name': 'DeepLearning.AI'},
-                
-                # 🚀 STARTUPS & INNOVATION
-                {'url': 'https://www.indiehackers.com/feed.xml', 'category': 'startups', 'type': 'indiehackers', 'name': 'Indie Hackers'},
+
+                # 🇫🇷 SOURCES FRANÇAISES IA
+                {'url': 'https://www.journaldunet.com/intelligence-artificielle/rss', 'category': 'general', 'type': 'jdn', 'name': 'Journal du Net - IA'},
+                {'url': 'https://www.siecledigital.fr/tag/intelligence-artificielle/feed/', 'category': 'general', 'type': 'siecledigital', 'name': 'Siècle Digital - IA'},
+                {'url': 'https://www.maddyness.com/feed/?tag=intelligence-artificielle', 'category': 'general', 'type': 'maddyness', 'name': 'Maddyness - IA'},
+
+                # 🎨 GÉNÉRATION D'IMAGES, VIDÉOS & MUSIQUE
+                {'url': 'https://petapixel.com/feed/', 'category': 'creative', 'type': 'petapixel', 'name': 'PetaPixel - AI'},
+                {'url': 'https://runwayml.com/blog/feed.xml', 'category': 'creative', 'type': 'runwayml', 'name': 'RunwayML Blog'},
+
+                # 💻 NO-CODE
+                {'url': 'https://webflow.com/blog/feed.xml', 'category': 'nocode', 'type': 'webflow', 'name': 'Webflow Blog'},
+                {'url': 'https://bubble.io/blog/feed.xml', 'category': 'nocode', 'type': 'bubble', 'name': 'Bubble Blog'},
             ],
 
             'sites': [
@@ -67,6 +73,14 @@ class IANewsScraper:
                 {'url': 'https://blog.google/technology/ai/', 'category': 'llms', 'type': 'google', 'name': 'Google AI'},
                 {'url': 'https://huggingface.co/blog', 'category': 'llms', 'type': 'huggingface', 'name': 'Hugging Face'},
                 {'url': 'https://www.theverge.com/ai-artificial-intelligence', 'category': 'general', 'type': 'theverge', 'name': 'The Verge AI'},
+
+                # Sources françaises
+                {'url': 'https://www.journaldunet.com/intelligence-artificielle/', 'category': 'general', 'type': 'jdn', 'name': 'Journal du Net - IA'},
+                {'url': 'https://www.siecledigital.fr/intelligence-artificielle/', 'category': 'general', 'type': 'siecledigital', 'name': 'Siècle Digital'},
+
+                # Créatif & No-Code
+                {'url': 'https://petapixel.com/', 'category': 'creative', 'type': 'petapixel', 'name': 'PetaPixel'},
+                {'url': 'https://webflow.com/blog', 'category': 'nocode', 'type': 'webflow', 'name': 'Webflow Blog'},
             ]
         }
 
