@@ -54,7 +54,7 @@ jobs:
           git config --local user.name "GitHub Action"
 
           if [[ -n $(git status -s) ]]; then
-            git add data/ia_news.json
+            git add data/ia_news.json docs/
             git commit -m "🤖 Auto-update: Scrape news articles"
             git push
           else
