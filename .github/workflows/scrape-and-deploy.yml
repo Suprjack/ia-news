@@ -22,9 +22,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: 🐍 Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
+          cache: 'pip'
 
       - name: 📦 Install dependencies
         run: |
@@ -33,7 +34,7 @@ jobs:
 
       - name: 🔄 Run scraper
         run: |
-          python3 run.py scraper
+          python3 -m scraper.scraper
         env:
           PYTHONUNBUFFERED: 1
 
@@ -41,7 +42,11 @@ jobs:
         run: |
           python3 build_static.py
 
-      - name: 📤 Commit and push changes
+      - name: 🔄 Move build output to docs/
+        run: |
+          mv public docs
+
+      - name: � Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -57,7 +62,7 @@ jobs:
       - name: 🚀 Deploy to Netlify
         uses: nwtgck/actions-netlify@v2.0
         with:
-          publish-dir: './public'
+          publish-dir: './docs'
           production-deploy: true
           netlify-config-path: ./netlify.toml
         env:
