@@ -1639,6 +1639,116 @@
     "collected_at": "2025-10-25T03:20:43.142465"
   },
   {
+    "title": "OpenAI made ChatGPT better at sifting through your work or school information",
+    "url": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update",
+    "description": "OpenAI has launched a new ChatGPT feature that makes it easier to search for workspace information without switching between apps. The “company knowledge” ChatGPT update for Business, Enterprise, and Education users is powered by a version of GPT‑5 that directly connects with tools like Slack, SharePoint, Google Drive, and GitHub, allowing the chatbot to sift […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/HowItWorks_16x9_desktop.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-24",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.970514"
+  },
+  {
+    "title": "Oreo-maker Mondelez will use AI for TV ads next year",
+    "url": "https://www.theverge.com/news/806047/mondelez-ai-generated-ads",
+    "description": "Snacking giant Mondelez is using generative AI to slash marketing costs and is preparing to release AI-generated TV ads next year, a senior executive told Reuters. Jon Halvorson, Mondelez’s global senior vice president of consumer experience, said the company has spent more than $40 million on an AI video tool that can halve production costs. […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oreo.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-24",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.971288"
+  },
+  {
+    "title": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+    "url": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+    "description": "Microsoft is joining the AI browser wave with the official launch of a new “Copilot Mode” in Edge. The option, first announced in July, turns Copilot into your portal to the web, with each new tab opening a chat window where you can either ask a question, conduct a search, or enter a URL. Copilot […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.972201"
+  },
+  {
+    "title": "EA partners with Stability AI for &#8216;transformative&#8217; AI game-making tools",
+    "url": "https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools",
+    "description": "EA is partnering with Stability AI, the company that develops the Stable Diffusion AI image model, to help infuse AI into its development processes. The two companies will “co-develop transformative AI models, tools, and workflows that empower our artists, designers, and developers to reimagine how content is built,” EA says. The company says that humans […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK098_ELECTRONIC_ARTS5_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.973006"
+  },
+  {
+    "title": "PUBG maker Krafton is turning into an &#8216;AI first&#8217; game company",
+    "url": "https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster",
+    "description": "Krafton, the company behind games such as PUBG: Battlegrounds and the Sims-like InZOI, is making a big push into using AI within the company. Under this new “AI First” strategy, Krafton plans to use agentic AI to help automate work and implement an “AI-centric” management system, according to a press release. The company also plans […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.973940"
+  },
+  {
+    "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+    "url": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
+    "description": "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting. The upgrade for all paid subscribers should make Claude more useful and convenient.  Max subscribers will be able to turn on Claude’s “memory” in their settings from today, Anthropic said. The feature, which has been available […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1-Memory-Modal_blog-inline.png?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.974828"
+  },
+  {
+    "title": "Meet Mico, Microsoft&#8217;s AI version of Clippy",
+    "url": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
+    "description": "It’s been nearly 30 years since Microsoft’s Office assistant, Clippy, first graced our screens as an annoying paperclip. After the Groucho-browed interruptions of Clippy came to an end in 2001 with Office XP, Microsoft tried to revive the spirit of an assistant with Cortana on Windows Phone. The technology still wasn’t quite there a decade […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_P7wxXjb8cg.png?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.975857"
+  },
+  {
+    "title": "Copilot is getting more personality with a ‘real talk’ mode and group chats",
+    "url": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features",
+    "description": "Microsoft is rolling out some significant changes to its Copilot AI assistant today. There’s a new groups feature that connects multiple people into a Copilot chat, memory to let Copilot learn things about you, a new “real talk” mode that will bring back some of Copilot’s early personality, and more. Copilot Groups is designed for […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.976758"
+  },
+  {
+    "title": "Amazon&#8217;s latest attempt at selling stuff with AI is the &#8216;Help me decide&#8217; button",
+    "url": "https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide",
+    "description": "Amazon is launching a new AI-powered tool that’s supposed to help you choose which product to buy. Now, when you look at multiple similar items on Amazon’s app or mobile website, it may display a “Help me decide” button that picks one for you based on your browsing activity, searches, shopping history, and preferences. As […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/amazon-help-me-decide.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.977502"
+  },
+  {
+    "title": "Google Earth&#8217;s expanded AI features make it easier to ask it questions",
+    "url": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features",
+    "description": "Google is expanding its AI features within Google Earth. It’s now easier to chat with Google Earth AI models, introduced in July, to identify infrastructure vulnerable to an oncoming storm, for example, or spot communities at risk of dust storms during a drought.  Geospatial Reasoning now uses Gemini to connect various Earth AI models — […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1_zhxeIkbWyps7mB8jU2KhFQ.webp?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-23",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T03:27:06.995226"
+  },
+  {
     "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
     "url": "https://openai.com/index/plex-coffee",
     "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
