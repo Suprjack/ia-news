@@ -79,8 +79,14 @@
 
                         <h2 class="card-title">{{ article.title }}</h2>
 
-                        <p class="card-description">
-                            {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
+                        <p class="card-description"
+                           data-description-en="{{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}"
+                           data-description-fr="{{ article.description_fr[:150] if article.description_fr else article.description[:150] }}{% if (article.description_fr or article.description)|length > 150 %}...{% endif %}">
+                            {% if article.description_fr %}
+                                {{ article.description_fr[:150] }}{% if article.description_fr|length > 150 %}...{% endif %}
+                            {% else %}
+                                {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
+                            {% endif %}
                         </p>
 
                         <div class="card-footer">
@@ -184,8 +190,14 @@
                         
                         <h2 class="card-title">{{ article.title }}</h2>
 
-                        <p class="card-description">
-                            {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
+                        <p class="card-description"
+                           data-description-en="{{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}"
+                           data-description-fr="{{ article.description_fr[:150] if article.description_fr else article.description[:150] }}{% if (article.description_fr or article.description)|length > 150 %}...{% endif %}">
+                            {% if article.description_fr %}
+                                {{ article.description_fr[:150] }}{% if article.description_fr|length > 150 %}...{% endif %}
+                            {% else %}
+                                {{ article.description[:150] }}{% if article.description|length > 150 %}...{% endif %}
+                            {% endif %}
                         </p>
 
                         <div class="card-language-note">

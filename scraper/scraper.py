@@ -9,6 +9,7 @@ import random
 from urllib.parse import urlparse, urljoin
 import feedparser
 import logging
+from .translator import translate_articles
 
 # Configuration du logging
 logging.basicConfig(
@@ -428,6 +429,15 @@ class IANewsScraper:
         for site in self.sources['sites']:
             self.scrape_website(site)
             time.sleep(random.uniform(1, 2))
+
+        # PHASE 3: Traduire les articles en français
+        logger.info("\n🌍 PHASE 3: Traduction en français")
+        try:
+            self.news = translate_articles(self.news)
+            logger.info("✅ Traduction terminée")
+        except Exception as e:
+            logger.error(f"⚠️  Erreur traduction: {str(e)[:100]}")
+            logger.info("ℹ️  Continuant sans traduction...")
 
         # Sauvegarder les actualités
         self.save_news()

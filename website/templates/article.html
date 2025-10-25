@@ -65,8 +65,14 @@
                 <span data-i18n="news.in_english">Article in English</span>
             </div>
 
-            <div class="article-description">
-                {{ article.description }}
+            <div class="article-description"
+                 data-article-description-en="{{ article.description }}"
+                 data-article-description-fr="{{ article.description_fr or article.description }}">
+                {% if article.description_fr %}
+                    {{ article.description_fr }}
+                {% else %}
+                    {{ article.description }}
+                {% endif %}
             </div>
 
             <div class="article-cta">
