@@ -2015,6 +2015,32 @@
     "title_fr": "How the First Five Principles of Art and Design Can Make You a Better Photographer"
   },
   {
+    "title": "ICE is building a social media panopticon",
+    "url": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault",
+    "description": "As Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that ICE is paying $5.7 million to use an AI-powered social media monitoring platform called Zignal […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK471_Government_Surveillance_CVirginia_B-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-25",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T18:28:08.925778",
+    "description_fr": "As Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that ICE is paying $5.7 million to use an AI-powered social media monitoring platform called Zignal […]",
+    "title_fr": "ICE is building a social media panopticon"
+  },
+  {
+    "title": "Who are AI browsers for?",
+    "url": "https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/",
+    "description": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
+    "image_url": "",
+    "published_date": "2025-10-25",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-25T18:28:09.910309",
+    "description_fr": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
+    "title_fr": "Who are AI browsers for?"
+  },
+  {
     "title": "OpenAI made ChatGPT better at sifting through your work or school information",
     "url": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update",
     "description": "OpenAI has launched a new ChatGPT feature that makes it easier to search for workspace information without switching between apps. The “company knowledge” ChatGPT update for Business, Enterprise, and Education users is powered by a version of GPT‑5 that directly connects with tools like Slack, SharePoint, Google Drive, and GitHub, allowing the chatbot to sift […]",
