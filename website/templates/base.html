@@ -157,9 +157,9 @@
         const themeToggle = document.getElementById('themeToggle');
         const body = document.body;
         const navbar = document.getElementById('navbar');
-        
-        // Check for saved theme preference or default to light mode
-        const currentTheme = localStorage.getItem('theme') || 'light';
+
+        // Check for saved theme preference, default to dark mode
+        const currentTheme = localStorage.getItem('theme') || 'dark';
         if (currentTheme === 'dark') {
             body.classList.add('dark-mode');
             updateThemeIcon();
@@ -252,6 +252,9 @@
 
     <script src="{{ url_for('static', filename='js/i18n.js') }}"></script>
     <script src="{{ url_for('static', filename='js/search.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/filters.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/badge-styler.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/article-randomizer.js') }}"></script>
 
     {% block scripts %}{% endblock %}
 </body>

@@ -61,9 +61,11 @@ class IANewsScraper:
                 {'url': 'https://petapixel.com/feed/', 'category': 'creative', 'type': 'petapixel', 'name': 'PetaPixel - AI'},
                 {'url': 'https://runwayml.com/blog/feed.xml', 'category': 'creative', 'type': 'runwayml', 'name': 'RunwayML Blog'},
 
-                # 💻 NO-CODE
+                # 💻 NO-CODE & AUTOMATION
                 {'url': 'https://webflow.com/blog/feed.xml', 'category': 'nocode', 'type': 'webflow', 'name': 'Webflow Blog'},
                 {'url': 'https://bubble.io/blog/feed.xml', 'category': 'nocode', 'type': 'bubble', 'name': 'Bubble Blog'},
+                {'url': 'https://zapier.com/blog/feed', 'category': 'nocode', 'type': 'zapier', 'name': 'Zapier Blog'},
+                {'url': 'https://www.make.com/en/blog/feed', 'category': 'nocode', 'type': 'make', 'name': 'Make.com Blog'},
             ],
 
             'sites': [
@@ -81,6 +83,7 @@ class IANewsScraper:
                 # Créatif & No-Code
                 {'url': 'https://petapixel.com/', 'category': 'creative', 'type': 'petapixel', 'name': 'PetaPixel'},
                 {'url': 'https://webflow.com/blog', 'category': 'nocode', 'type': 'webflow', 'name': 'Webflow Blog'},
+                {'url': 'https://zapier.com/blog', 'category': 'nocode', 'type': 'zapier', 'name': 'Zapier Blog'},
             ]
         }
 
