@@ -1,0 +1,442 @@
+{% extends "base.html" %}
+
+{% block title %}AI News Archives - Explore Past Updates{% endblock %}
+
+{% block content %}
+<!-- Hero Section for Archives -->
+<section class="hero hero--archives">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                📚 Archives
+            </h1>
+            <p class="hero-subtitle">
+                Explore {{ archive_count|default(0) }} articles from our complete AI news history, organized by category and date.
+            </p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <div class="stat-value">{{ organized_archives|length }}</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">{{ archive_count|default(0) }}</div>
+                    <div class="stat-label">Archived Articles</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">7+ Days</div>
+                    <div class="stat-label">Old Content</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Category Filter Section -->
+<section class="archive-filters">
+    <div class="container">
+        <div class="filter-wrapper">
+            <a href="{{ url_for('archives') }}" class="filter-btn {% if category == 'all' %}active{% endif %}">
+                <i class="fas fa-inbox"></i>
+                All Categories
+            </a>
+            {% for cat in organized_archives.keys()|sort %}
+            <a href="{{ url_for('archives_category', category=cat.lower().replace(' ', '-')) }}" class="filter-btn {% if category == cat %}active{% endif %}">
+                {% if cat == 'llms' %}
+                    <i class="fas fa-robot"></i>
+                {% elif cat == 'creative' %}
+                    <i class="fas fa-palette"></i>
+                {% elif cat == 'nocode' %}
+                    <i class="fas fa-code"></i>
+                {% elif cat == 'hardware' %}
+                    <i class="fas fa-server"></i>
+                {% else %}
+                    <i class="fas fa-newspaper"></i>
+                {% endif %}
+                {{ cat|capitalize }}
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- Archives Timeline Section -->
+<section class="archives-section">
+    <div class="container">
+        {% if category == 'all' %}
+            <!-- Show all categories -->
+            {% for cat_name, months_data in organized_archives.items()|sort %}
+            <div class="archive-category">
+                <div class="category-header">
+                    <h2 class="category-title">
+                        {% if cat_name == 'llms' %}
+                            <i class="fas fa-robot"></i> LLMs & Language Models
+                        {% elif cat_name == 'creative' %}
+                            <i class="fas fa-palette"></i> Creative & Generative AI
+                        {% elif cat_name == 'nocode' %}
+                            <i class="fas fa-code"></i> No-Code & Automation
+                        {% elif cat_name == 'hardware' %}
+                            <i class="fas fa-server"></i> Hardware & Infrastructure
+                        {% elif cat_name == 'tech' %}
+                            <i class="fas fa-microchip"></i> Technology
+                        {% else %}
+                            <i class="fas fa-newspaper"></i> {{ cat_name|capitalize }}
+                        {% endif %}
+                    </h2>
+                    <span class="category-count">{{ months_data|length }} months</span>
+                </div>
+
+                <div class="timeline">
+                    {% for month_key in months_data.keys()|sort(reverse=True) %}
+                    {% set month_data = months_data[month_key] %}
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <h3 class="month-title">{{ month_data.label }}</h3>
+                            <p class="article-count">{{ month_data.articles|length }} article{{ 's' if month_data.articles|length > 1 else '' }}</p>
+
+                            <div class="articles-list">
+                                {% for article in month_data.articles %}
+                                <article class="archive-article">
+                                    <a href="{{ url_for('article_detail_page', article_slug=article.slug) }}" class="article-link">
+                                        <h4 class="article-title">{{ article.title }}</h4>
+                                        <div class="article-meta">
+                                            <span class="article-source">{{ article.source }}</span>
+                                            <span class="article-date">{{ article.published_date }}</span>
+                                        </div>
+                                    </a>
+                                </article>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+
+        {% else %}
+            <!-- Show specific category -->
+            {% set cat_data = organized_archives[category] %}
+            <div class="archive-category">
+                <div class="category-header">
+                    <h2 class="category-title">
+                        {% if category == 'llms' %}
+                            <i class="fas fa-robot"></i> LLMs & Language Models
+                        {% elif category == 'creative' %}
+                            <i class="fas fa-palette"></i> Creative & Generative AI
+                        {% elif category == 'nocode' %}
+                            <i class="fas fa-code"></i> No-Code & Automation
+                        {% elif category == 'hardware' %}
+                            <i class="fas fa-server"></i> Hardware & Infrastructure
+                        {% elif category == 'tech' %}
+                            <i class="fas fa-microchip"></i> Technology
+                        {% else %}
+                            <i class="fas fa-newspaper"></i> {{ category|capitalize }}
+                        {% endif %}
+                    </h2>
+                    <span class="category-count">{{ cat_data|length }} months</span>
+                </div>
+
+                <div class="timeline">
+                    {% for month_key in cat_data.keys()|sort(reverse=True) %}
+                    {% set month_data = cat_data[month_key] %}
+                    <div class="timeline-item">
+                        <div class="timeline-marker"></div>
+                        <div class="timeline-content">
+                            <h3 class="month-title">{{ month_data.label }}</h3>
+                            <p class="article-count">{{ month_data.articles|length }} article{{ 's' if month_data.articles|length > 1 else '' }}</p>
+
+                            <div class="articles-list">
+                                {% for article in month_data.articles %}
+                                <article class="archive-article">
+                                    <a href="{{ url_for('article_detail_page', article_slug=article.slug) }}" class="article-link">
+                                        <h4 class="article-title">{{ article.title }}</h4>
+                                        <div class="article-meta">
+                                            <span class="article-source">{{ article.source }}</span>
+                                            <span class="article-date">{{ article.published_date }}</span>
+                                        </div>
+                                    </a>
+                                </article>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+
+        {% if not archives %}
+        <div class="empty-state">
+            <div class="empty-icon">
+                <i class="fas fa-inbox"></i>
+            </div>
+            <h3>No archived articles yet</h3>
+            <p>Articles older than 7 days will appear here.</p>
+        </div>
+        {% endif %}
+    </div>
+</section>
+
+<!-- Call to action back to home -->
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-box">
+            <div class="cta-text">
+                <h2>Looking for Fresh News?</h2>
+                <p>Check out the latest AI updates from the last 7 days</p>
+            </div>
+            <a href="/" class="cta-button">
+                <i class="fas fa-arrow-left"></i>
+                Back to Latest
+            </a>
+        </div>
+    </div>
+</section>
+
+<style>
+    .hero--archives {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+
+    .archive-filters {
+        padding: 2rem 0;
+        background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+        border-bottom: 1px solid #e0e0e0;
+    }
+
+    .archive-category {
+        margin: 3rem 0;
+    }
+
+    .category-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 2px solid #667eea;
+    }
+
+    .category-title {
+        font-size: 1.8rem;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .category-count {
+        background: #667eea;
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        font-size: 0.875rem;
+    }
+
+    .timeline {
+        position: relative;
+        padding: 2rem 0;
+    }
+
+    .timeline::before {
+        content: '';
+        position: absolute;
+        left: 20px;
+        top: 0;
+        bottom: 0;
+        width: 2px;
+        background: linear-gradient(to bottom, #667eea, #e0e0e0);
+    }
+
+    .timeline-item {
+        position: relative;
+        margin-bottom: 2rem;
+        padding-left: 60px;
+    }
+
+    .timeline-marker {
+        position: absolute;
+        left: 8px;
+        top: 0;
+        width: 24px;
+        height: 24px;
+        background: white;
+        border: 3px solid #667eea;
+        border-radius: 50%;
+        transition: all 0.3s ease;
+    }
+
+    .timeline-item:hover .timeline-marker {
+        background: #667eea;
+        box-shadow: 0 0 10px rgba(102, 126, 234, 0.5);
+    }
+
+    .timeline-content {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+    }
+
+    .timeline-item:hover .timeline-content {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+
+    .month-title {
+        font-size: 1.25rem;
+        margin: 0 0 0.5rem 0;
+        color: #333;
+    }
+
+    .article-count {
+        margin: 0;
+        color: #999;
+        font-size: 0.875rem;
+        margin-bottom: 1rem;
+    }
+
+    .articles-list {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .archive-article {
+        border-left: 3px solid #667eea;
+        padding-left: 1rem;
+        transition: all 0.3s ease;
+    }
+
+    .archive-article:hover {
+        border-left-color: #764ba2;
+        padding-left: 1.25rem;
+    }
+
+    .article-link {
+        text-decoration: none;
+        display: block;
+    }
+
+    .article-title {
+        margin: 0 0 0.5rem 0;
+        font-size: 1rem;
+        color: #667eea;
+        transition: color 0.3s ease;
+    }
+
+    .archive-article:hover .article-title {
+        color: #764ba2;
+    }
+
+    .article-meta {
+        display: flex;
+        gap: 1rem;
+        font-size: 0.75rem;
+        color: #999;
+    }
+
+    .article-source::before {
+        content: '📡 ';
+    }
+
+    .article-date::before {
+        content: '📅 ';
+    }
+
+    .cta-section {
+        padding: 3rem 0;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        margin-top: 3rem;
+    }
+
+    .cta-box {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: white;
+        padding: 2rem;
+        border-radius: 8px;
+    }
+
+    .cta-text h2 {
+        margin: 0 0 0.5rem 0;
+        font-size: 1.5rem;
+    }
+
+    .cta-text p {
+        margin: 0;
+        opacity: 0.9;
+    }
+
+    .cta-button {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        background: white;
+        color: #667eea;
+        padding: 0.75rem 1.5rem;
+        border-radius: 20px;
+        text-decoration: none;
+        font-weight: bold;
+        transition: all 0.3s ease;
+    }
+
+    .cta-button:hover {
+        transform: translateX(-5px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    @media (max-width: 768px) {
+        .category-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 1rem;
+        }
+
+        .cta-box {
+            flex-direction: column;
+            text-align: center;
+            gap: 1.5rem;
+        }
+
+        .timeline::before {
+            left: 10px;
+        }
+
+        .timeline-item {
+            padding-left: 40px;
+        }
+
+        .timeline-marker {
+            left: 0;
+        }
+    }
+</style>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Smooth transitions for archive items
+    document.addEventListener('DOMContentLoaded', () => {
+        const archiveArticles = document.querySelectorAll('.archive-article');
+        archiveArticles.forEach((article, index) => {
+            article.style.animation = `fadeIn 0.5s ease forwards`;
+            article.style.animationDelay = `${index * 0.05}s`;
+        });
+    });
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateX(-10px);
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+</script>
+{% endblock %}

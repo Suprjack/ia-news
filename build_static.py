@@ -8,7 +8,7 @@ import os
 import json
 import shutil
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from datetime import datetime
+from datetime import datetime, timedelta
 import sys
 
 # --- Configuration ---
@@ -74,7 +74,7 @@ def custom_url_for(endpoint, **values):
             # nécessitent du JS côté client ou des pages pré-générées par filtre.
             # Ici, on génère un lien qui pourrait être utilisé par du JS.
             query_params.append(f"source={values['source']}")
-        
+
         base_url = "/" # La page d'accueil est à la racine
         if query_params:
             return f"{base_url}?{'&'.join(query_params)}"
@@ -83,9 +83,79 @@ def custom_url_for(endpoint, **values):
     if endpoint == 'article_detail_page': # Nom utilisé pour lier vers un article
         slug = values.get('article_slug', 'default-slug')
         return f"/article/{slug}.html"
-    
+
+    if endpoint == 'archives':
+        return "/archives/"
+
+    if endpoint == 'archives_category':
+        category = values.get('category', 'all')
+        return f"/archives/{category}/"
+
     # Fallback pour d'autres endpoints non gérés
     return f"/{endpoint}/not-configured/"
+
+def separate_articles_by_date(articles):
+    """Sépare les articles en récents (< 7 jours) et archives (>= 7 jours)"""
+    now = datetime.now()
+    seven_days_ago = now - timedelta(days=7)
+
+    recent_articles = []
+    archived_articles = []
+
+    for article in articles:
+        try:
+            date_str = article.get('published_date', '')
+            if isinstance(date_str, str):
+                # Parser la date
+                date_obj = datetime.strptime(date_str.split('T')[0], '%Y-%m-%d')
+                if date_obj >= seven_days_ago:
+                    recent_articles.append(article)
+                else:
+                    archived_articles.append(article)
+            else:
+                recent_articles.append(article)
+        except:
+            recent_articles.append(article)
+
+    return recent_articles, archived_articles
+
+def organize_archives(articles):
+    """Organise les articles archivés par catégorie et mois"""
+    organized = {}
+
+    for article in articles:
+        category = article.get('category', 'general')
+        date_str = article.get('published_date', '')
+
+        # Extraire le mois et l'année
+        try:
+            date_obj = datetime.strptime(date_str.split('T')[0], '%Y-%m-%d')
+            month_key = date_obj.strftime('%Y-%m')  # Format: 2024-10
+            month_label = date_obj.strftime('%B %Y')  # Format: October 2024
+        except:
+            month_key = 'unknown'
+            month_label = 'Unknown Date'
+
+        # Créer la structure imbriquée
+        if category not in organized:
+            organized[category] = {}
+        if month_key not in organized[category]:
+            organized[category][month_key] = {
+                'label': month_label,
+                'articles': []
+            }
+
+        organized[category][month_key]['articles'].append(article)
+
+    # Trier par date décroissante
+    for category in organized:
+        for month in organized[category]:
+            organized[category][month]['articles'].sort(
+                key=lambda x: x.get('published_date', ''),
+                reverse=True
+            )
+
+    return organized
 
 # --- Script principal de génération ---
 def build_site():
@@ -97,11 +167,18 @@ def build_site():
     os.makedirs(OUTPUT_DIR)
     articles_output_dir = os.path.join(OUTPUT_DIR, 'article')
     os.makedirs(articles_output_dir)
+    archives_output_dir = os.path.join(OUTPUT_DIR, 'archives')
+    os.makedirs(archives_output_dir)
 
     # 1. Charger les données
     print(f"Chargement des données depuis {DATA_FILE}...")
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
         all_news_items = json.load(f)
+
+    # 1.5 Séparer récents et archives
+    recent_articles, archived_articles = separate_articles_by_date(all_news_items)
+    organized_archives = organize_archives(archived_articles)
+    print(f"📊 Articles récents: {len(recent_articles)} | Archives: {len(archived_articles)}")
 
     # 2. Préparer l'environnement Jinja2
     jinja_env = Environment(
@@ -116,39 +193,79 @@ def build_site():
 
     # 3. Pré-traiter les articles (ajouter slugs uniques, etc.)
     print("Pré-traitement des articles (ajout de slugs)...")
-    processed_articles = []
+    processed_recent = []
+    processed_archived = []
     article_slugs = set()
-    for index, item in enumerate(all_news_items):
-        item['id'] = item.get('id', index) # Utiliser un ID existant ou l'index
+
+    for index, item in enumerate(recent_articles):
+        item['id'] = item.get('id', index)
         title_for_slug = item.get('title_fr') or item.get('title') or f"sans-titre-{item['id']}"
         item['slug'] = generate_unique_slug(title_for_slug, article_slugs)
-        processed_articles.append(item)
+        processed_recent.append(item)
+
+    for index, item in enumerate(archived_articles):
+        item['id'] = item.get('id', f"archive-{index}")
+        title_for_slug = item.get('title_fr') or item.get('title') or f"sans-titre-{item['id']}"
+        item['slug'] = generate_unique_slug(title_for_slug, article_slugs)
+        processed_archived.append(item)
+
+    all_processed = processed_recent + processed_archived
 
     # 4. Générer les pages d'articles
     print(f"Génération des pages d'articles dans {articles_output_dir}...")
     article_template = jinja_env.get_template('article.html')
-    for article_data in processed_articles:
-        # Logique pour les articles connexes (exemple : 3 articles aléatoires différents)
-        # Adaptez cette logique selon vos besoins (par ex., même source, mots-clés communs)
-        related_candidates = [art for art in processed_articles if art['id'] != article_data['id']]
-        # Pour cet exemple, on prend les 3 premiers autres articles (ou moins s'il n'y en a pas assez)
+    for article_data in all_processed:
+        related_candidates = [art for art in all_processed if art['id'] != article_data['id']]
         related_articles_list = related_candidates[:min(3, len(related_candidates))]
 
         html_page_content = article_template.render(
             article=article_data,
             related_articles=related_articles_list,
-            news=processed_articles # La liste complète, si `news.index()` est toujours utilisé quelque part
+            news=all_processed
         )
         with open(os.path.join(articles_output_dir, f"{article_data['slug']}.html"), 'w', encoding='utf-8') as f:
             f.write(html_page_content)
-    print(f"{len(processed_articles)} pages d'articles générées.")
+    print(f"{len(all_processed)} pages d'articles générées.")
 
-    # 5. Générer la page d'accueil (et autres pages principales si besoin)
+    # 4.5 Générer les pages d'archives par catégorie
+    print(f"Génération des pages d'archives...")
+    archives_template = jinja_env.get_template('archives.html')
+
+    for category, months in organized_archives.items():
+        # Créer un sous-dossier par catégorie
+        category_dir = os.path.join(archives_output_dir, category.lower().replace(' ', '-'))
+        os.makedirs(category_dir, exist_ok=True)
+
+        # Page d'accueil de la catégorie
+        category_archives = [art for art in processed_archived if art.get('category') == category]
+        archives_content = archives_template.render(
+            category=category,
+            months=months,
+            archives=category_archives,
+            organized_archives=organized_archives
+        )
+        with open(os.path.join(category_dir, 'index.html'), 'w', encoding='utf-8') as f:
+            f.write(archives_content)
+
+    # Page générale des archives
+    archives_main = archives_template.render(
+        category='all',
+        months=organized_archives,
+        archives=processed_archived,
+        organized_archives=organized_archives
+    )
+    with open(os.path.join(archives_output_dir, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(archives_main)
+
+    print(f"Pages d'archives générées pour {len(organized_archives)} catégories")
+
+    # 5. Générer la page d'accueil (SEULEMENT articles récents)
     print(f"Génération de la page d'accueil ({os.path.join(OUTPUT_DIR, 'index.html')})...")
-    home_template = jinja_env.get_template('index.html') # Assurez-vous que home.html existe
+    home_template = jinja_env.get_template('index.html')
     home_html_content = home_template.render(
-        news=processed_articles # Passer tous les articles à la page d'accueil
-        # Ajoutez d'autres variables si home.html en a besoin
+        news=processed_recent,  # SEULEMENT les articles récents!
+        recent_count=len(processed_recent),
+        archive_count=len(processed_archived)
     )
     with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
         f.write(home_html_content)
@@ -162,6 +279,8 @@ def build_site():
 
     print("Génération du site statique terminée !")
     print(f"Le site a été généré dans : {OUTPUT_DIR}")
+    print(f"📰 Page d'accueil: {len(processed_recent)} articles récents")
+    print(f"📚 Archives: {len(processed_archived)} articles archivés")
 
 if __name__ == '__main__':
     build_site()

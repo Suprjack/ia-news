@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration du filtre de date
-MAX_ARTICLE_AGE_HOURS = 24  # Ne garder que les articles des dernières 24 heures
+MAX_ARTICLE_AGE_HOURS = 168  # Ne garder que les articles des 7 derniers jours (7 * 24h)
 
 class IANewsScraper:
     def __init__(self):

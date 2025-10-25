@@ -11,22 +11,30 @@
                 Stay Ahead with <span class="gradient-text">AI News</span>
             </h1>
             <p class="hero-subtitle">
-                Curated daily updates on Large Language Models, AI breakthroughs, and cutting-edge technology from the world's leading sources.
+                Curated daily updates on Large Language Models, AI breakthroughs, and cutting-edge technology from the world's leading sources. Last 7 days.
             </p>
             <div class="hero-stats">
                 <div class="stat">
                     <div class="stat-value">{{ news|length }}</div>
-                    <div class="stat-label">Articles</div>
+                    <div class="stat-label">Fresh Articles</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-value">15+</div>
-                    <div class="stat-label">Sources</div>
+                    <div class="stat-value">{{ archive_count|default(0) }}</div>
+                    <div class="stat-label">In Archives</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-value">Daily</div>
-                    <div class="stat-label">Updates</div>
+                    <div class="stat-value">7 Days</div>
+                    <div class="stat-label">Window</div>
                 </div>
             </div>
+            {% if archive_count and archive_count > 0 %}
+            <div class="hero-cta">
+                <a href="{{ url_for('archives') }}" class="btn btn-secondary">
+                    <i class="fas fa-archive"></i>
+                    Explore Archives ({{ archive_count }})
+                </a>
+            </div>
+            {% endif %}
         </div>
     </div>
 </section>
