@@ -1,5 +1,44 @@
 [
   {
+    "title": "OpenAI reportedly developing new generative music tool",
+    "url": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/",
+    "description": "Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.",
+    "image_url": "",
+    "published_date": "2025-10-26",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-26T01:47:54.344645",
+    "description_fr": "Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.",
+    "title_fr": "OpenAI reportedly developing new generative music tool"
+  },
+  {
+    "title": "High school’s AI security system confuses Doritos bag for a possible firearm",
+    "url": "https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/",
+    "description": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.",
+    "image_url": "",
+    "published_date": "2025-10-26",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-26T01:47:54.344948",
+    "description_fr": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.",
+    "title_fr": "High school’s AI security system confuses Doritos bag for a possible firearm"
+  },
+  {
+    "title": "When your AI browser becomes your enemy: The Comet security disaster",
+    "url": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster",
+    "description": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now thatAI browserslike Perplexity's Comet promise to do everything for you — browse, click, type, think.But here's the plot twist nobody saw coming: That helpful AI assistant browsing the web for you? It might just be taking orders from the very websites it's supposed to pro",
+    "image_url": "",
+    "published_date": "2025-10-26",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-26T01:47:56.072645",
+    "description_fr": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now thatAI browserslike Perplexity's Comet promise to do everything for you — browse, click, type, think.But here's the plot twist nobody saw coming: That helpful AI assistant browsing the web for you? It might just be taking orders from the very websites it's supposed to pro",
+    "title_fr": "When your AI browser becomes your enemy: The Comet security disaster"
+  },
+  {
     "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
     "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
     "description": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
