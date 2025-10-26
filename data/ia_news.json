@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T12:40:20.356137",
-    "description_fr": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal morass of AI, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The song was called \"Heart on My Sleeve,\" and […]",
-    "title_fr": "The next legal frontier is your face and AI"
+    "description_fr": "Il s'agit de The Stepback, un bulletin hebdomadaire détaillant une histoire essentielle du monde de la technologie. Pour en savoir plus sur le bourbier juridique de l'IA, suivez Adi Robertson. Le Stepback arrive dans les boîtes de réception de nos abonnés à 8 H HE. Inscrivez-vous à The Stepback ici. Comment ça a commencé La chanson s'appelait « Heart on My Sleeve », et […]",
+    "title_fr": "La prochaine frontière juridique est votre visage et votre IA"
   },
   {
     "title": "My favorite e-reader just got a big update",
@@ -61,8 +61,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T12:40:20.357467",
-    "description_fr": "Hi, friends! Welcome to Installer No. 103, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry everything's so expensive this week, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about gooning and Costco and protein bars and […]",
-    "title_fr": "My favorite e-reader just got a big update"
+    "description_fr": "Bonjour, les amis ! Bienvenue à l'installateur n ° 103, votre guide des meilleures et des plus belles choses au monde. (Si vous êtes nouveau ici, bienvenue, désolé, tout est si cher cette semaine, et vous pouvez également lire toutes les anciennes éditions sur la page d'accueil de l'installateur.) Cette semaine, j'ai lu des articles sur Gooning, Costco, les barres protéinées et […]",
+    "title_fr": "Ma liseuse électronique préférée vient de recevoir une mise à jour importante"
   },
   {
     "title": "Real Estate Is Entering Its AI Slop Era",
@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T12:40:25.904825",
-    "description_fr": "Fake video walk-throughs, a magically expanding loft, and stair hallucinations are just some of the new AI-generated features house hunters are coming across.",
-    "title_fr": "Real Estate Is Entering Its AI Slop Era"
+    "description_fr": "Les faux parcours vidéo, un loft en expansion magique et les hallucinations dans les escaliers ne sont que quelques-unes des nouvelles fonctionnalités générées par l'IA que les chasseurs de maisons découvrent.",
+    "title_fr": "L'immobilier entre dans son ère de l'IA Slop"
   },
   {
     "title": "Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T12:40:25.905082",
-    "description_fr": "The $430 Casio Moflin is a pointless but adorable robot you can’t help but love. Unless you’re a dog.",
-    "title_fr": "Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart"
+    "description_fr": "Le Casio Moflin à 430 $ est un robot inutile mais adorable que vous ne pouvez pas vous empêcher d'aimer. Sauf si vous êtes un chien.",
+    "title_fr": "Le robot IA moelleux de Casio s'est faufilé dans mon cœur"
   },
   {
     "title": "Vision Tokens vs Text Tokens: Understanding the 10× Compression",
@@ -100,8 +100,34 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-10-26T12:40:52.391314",
-    "description_fr": "Vision Tokens vs Text Tokens: Understanding the 10× Compression",
-    "title_fr": "Vision Tokens vs Text Tokens: Understanding the 10× Compression"
+    "description_fr": "Jetons de vision vs jetons de texte : comprendre la compression 10×",
+    "title_fr": "Jetons de vision vs jetons de texte : comprendre la compression 10×"
+  },
+  {
+    "title": "Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise",
+    "url": "https://techcrunch.com/2025/10/26/less-than-24-hours-until-10000-founders-investors-and-innovators-hit-techcrunch-disrupt-2025-and-ticket-rates-rise/",
+    "description": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
+    "image_url": "",
+    "published_date": "2025-10-26",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-26T18:28:50.292093",
+    "description_fr": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
+    "title_fr": "Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise"
+  },
+  {
+    "title": "Good Boys and Girls Star in the Dog Photography Awards 2025",
+    "url": "https://petapixel.com/2025/10/26/dog-photography-awards-2025/",
+    "description": "The winners of the 2025 Dog Photography Awards have been revealed and Belinda Richards from Melbourne, Australia, has been crowned Dog Photographer of the Year.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Dog-Photography-Awards-2025.jpg",
+    "published_date": "2025-10-26",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-26T18:29:05.102673",
+    "description_fr": "The winners of the 2025 Dog Photography Awards have been revealed and Belinda Richards from Melbourne, Australia, has been crowned Dog Photographer of the Year.[Read More]",
+    "title_fr": "Good Boys and Girls Star in the Dog Photography Awards 2025"
   },
   {
     "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
@@ -711,8 +737,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:08.171709",
-    "description_fr": "Présentée par ArmA, une pile logicielle plus simple est la clé d'une IA portable et évolutive dans le cloud et la périphérie. L'IA alimente maintenant des applications du monde réel, mais des piles logicielles fragmentées la retiennent. Les développeurs reconstruisent régulièrement les mêmes modèles pour différentes cibles matérielles, perdant ainsi du temps à coller du code au lieu des fonctionnalités d'expédition. La bonne nouvelle est qu'un changement est en cours. Chaînes d'outils unifiées et optimisation",
-    "title_fr": "Simplifier la pile de l'IA : la clé d'une intelligence évolutive et portable du cloud à la périphérie"
+    "description_fr": "Presented by ArmA simpler software stack is the key to portable, scalable AI across cloud and edge.AI is now powering real-world applications, yet fragmented software stacks are holding it back. Developers routinely rebuild the same models for different hardware targets, losing time to glue code instead of shipping features. The good news is that a shift is underway. Unified toolchains and optimiz",
+    "title_fr": "Simplifying the AI stack: The key to scalable, portable intelligence from cloud to edge"
   },
   {
     "title": "Qwen's new Deep Research update lets you turn its reports into webpages, podcasts in seconds",
@@ -724,8 +750,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:08.175411",
-    "description_fr": "Le célèbre et prolifique géant chinois du commerce électronique Alibaba, Qwen Teamof AI model researchers and engineers, a introduit une extension majeure de son outil Qwen Deep Research, disponible en tant que modalité optionnelle que l'utilisateur peut activer sur le chat Qwen basé sur le Web (un concurrent de ChatGPT). La mise à jour permet aux utilisateurs de générer non seulement des rapports de recherche complets avec des citations bien organisées, mais également des rapports interac.",
-    "title_fr": "La nouvelle mise à jour Deep Research de Qwen vous permet de transformer ses rapports en pages Web, podcasts en quelques secondes"
+    "description_fr": "Chinese e-commerce giant Alibaba’sfamously prolific Qwen Teamof AI model researchers and engineers has introduced a major expansion to its Qwen Deep Research tool, which is available as an optional modality the user can activate on the web-based Qwen Chat (a competitor to ChatGPT).The update lets users generate not only comprehensive research reports with well-organized citations, but also interac",
+    "title_fr": "Qwen's new Deep Research update lets you turn its reports into webpages, podcasts in seconds"
   },
   {
     "title": "DeepSeek drops open-source model that compresses text 10x through images, defying conventions",
