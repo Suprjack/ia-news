@@ -1,5 +1,70 @@
 [
   {
+    "title": "Introducing vibe coding in Google AI Studio",
+    "url": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
+    "description": "Vibe Coding in Google AI Studio",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame_2147223720.max-600x600.format-webp.webp",
+    "published_date": "2025-10-27",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-10-27T01:51:26.453006",
+    "description_fr": "Vibe Coding in Google AI Studio",
+    "title_fr": "Introducing vibe coding in Google AI Studio"
+  },
+  {
+    "title": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals",
+    "url": "https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/",
+    "description": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
+    "image_url": "",
+    "published_date": "2025-10-27",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-27T01:51:30.362772",
+    "description_fr": "Le compte à rebours est presque terminé — demain est le jour ! En moins de 24 heures, TechCrunch Disrupt 2025 prend le contrôle de Moscone West. Du 27 au 29 octobre, 10 000 fondateurs, investisseurs et innovateurs inonderont San Francisco pendant trois jours de construction, de connexion et de négociation. Nous ne sommes qu'à quelques jours de démonstrations en direct de technologies jamais vues auparavant et de pitchs à enjeux élevés en tant que […]",
+    "title_fr": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals"
+  },
+  {
+    "title": "From human clicks to machine intent: Preparing the web for agentic AI",
+    "url": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
+    "description": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-driven agents begin to browse on our behalf, the human-first assumptions built into the internet are being exposed as fragile.The rise ofagentic browsing— where a browser doesn’t just show pages but takes action — marks the beginning of this shift. Too",
+    "image_url": "",
+    "published_date": "2025-10-27",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-27T01:51:32.379492",
+    "description_fr": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-driven agents begin to browse on our behalf, the human-first assumptions built into the internet are being exposed as fragile.The rise ofagentic browsing— where a browser doesn’t just show pages but takes action — marks the beginning of this shift. Too",
+    "title_fr": "From human clicks to machine intent: Preparing the web for agentic AI"
+  },
+  {
+    "title": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development",
+    "url": "https://blogs.nvidia.com/blog/roscon-2025-open-framework-robotics/",
+    "description": "This year’s ROSCon conference heads to Singapore, bringing together the global robotics developer community behind Robot Operating System (ROS) — the world’s most widely adopted open framework for building robots. At the conference, running through Wednesday, Oct. 29, NVIDIA announced collaborations with partners and the Open Source Robotics Alliance (OSRA), as well as new roboticsRead Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/roscon.jpg",
+    "published_date": "2025-10-27",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-10-27T01:51:39.234291",
+    "description_fr": "This year’s ROSCon conference heads to Singapore, bringing together the global robotics developer community behind Robot Operating System (ROS) — the world’s most widely adopted open framework for building robots. At the conference, running through Wednesday, Oct. 29, NVIDIA announced collaborations with partners and the Open Source Robotics Alliance (OSRA), as well as new roboticsRead Article",
+    "title_fr": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development"
+  },
+  {
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+    "description": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
+    "published_date": "2025-10-27",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-27T01:52:00.485393",
+    "description_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "title_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
+  },
+  {
     "title": "OpenAI reportedly developing new generative music tool",
     "url": "https://techcrunch.com/2025/10/25/openai-reportedly-developing-new-generative-music-tool/",
     "description": "Such a tool could be used to add music to existing videos, or to add guitar accompaniment to an existing vocal track, sources said.",
@@ -113,8 +178,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T18:28:50.292093",
-    "description_fr": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
-    "title_fr": "Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise"
+    "description_fr": "Le compte à rebours est presque terminé — demain est le jour ! En moins de 24 heures, TechCrunch Disrupt 2025 prend le contrôle de Moscone West. Du 27 au 29 octobre, 10 000 fondateurs, investisseurs et innovateurs inonderont San Francisco pendant trois jours de construction, de connexion et de négociation. Nous ne sommes qu'à quelques jours de démonstrations en direct de technologies jamais vues auparavant et de pitchs à enjeux élevés en tant que […]",
+    "title_fr": "Moins de 24 heures avant que 10 000 fondateurs, investisseurs et innovateurs n'atteignent TechCrunch Disrupt 2025 — et les prix des billets augmentent"
   },
   {
     "title": "Good Boys and Girls Star in the Dog Photography Awards 2025",
@@ -126,7 +191,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-26T18:29:05.102673",
-    "description_fr": "The winners of the 2025 Dog Photography Awards have been revealed and Belinda Richards from Melbourne, Australia, has been crowned Dog Photographer of the Year.[Read More]",
+    "description_fr": "Les lauréats des Prix de la photographie canine 2025 ont été révélés et Belinda Richards de Melbourne, en Australie, a été couronnée Photographe canine de l'année.[En savoir plus]",
     "title_fr": "Good Boys and Girls Star in the Dog Photography Awards 2025"
   },
   {
@@ -711,8 +776,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:08.161456",
-    "description_fr": "L'un des principaux architectes du boom actuel de l'IA générative — le PDG de Microsoft, Satya Nadella, célèbre pour avoir fait investir le géant du logiciel dans OpenAI (et pour avoir déclaré plus tard qu'il était « bon pour mes 80 milliards de $ ») — a publié sa dernière lettre annuelle hier sur LinkedIn(une filiale de Microsoft), et elle regorge d'idées intéressantes sur l'avenir à court terme de la décision technique de l'entreprise",
-    "title_fr": "Ce que les entreprises peuvent retenir de la lettre aux actionnaires du PDG de Microsoft, Satya Nadella"
+    "description_fr": "One of the leading architects of the current generative AI boom — Microsoft CEO Satya Nadella, famed for having the software giant take an early investment in OpenAI (and later saying he was \"good for my $80 billion\") — published hislatest annual letter yesterday on LinkedIn(a Microsoft subsidiary), and it's chock full of interesting ideas about the near-term future that enterprise technical decis",
+    "title_fr": "What enterprises can take away from Microsoft CEO Satya Nadella's shareholder letter"
   },
   {
     "title": "Kai-Fu Lee's brutal assessment: America is already losing the AI hardware war to China",
@@ -724,8 +789,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:08.167663",
-    "description_fr": "La Chine est sur le point de dominer les applications d'intelligence artificielle grand public et la fabrication de robots d'ici quelques années, mais les États-Unis maintiendront leur avance substantielle dans l'adoption de l'IA par les entreprises et la recherche de pointe, selon Kai-Fu Lee, l'un des scientifiques et investisseurs en IA les plus éminents au monde. Dans une évaluation rare et sans fard fournie par liaison vidéo de Beijing à la société d'IA TED",
-    "title_fr": "L'évaluation brutale de Kai-Fu Lee : l'Amérique est déjà en train de perdre la guerre du matériel IA au profit de la Chine"
+    "description_fr": "China is on track to dominate consumer artificial intelligence applications and robotics manufacturing within years, but the United States will maintain its substantial lead in enterprise AI adoption and cutting-edge research, according toKai-Fu Lee, one of the world's most prominent AI scientists and investors.In a rare, unvarnished assessment delivered via video link from Beijing to theTED AI co",
+    "title_fr": "Kai-Fu Lee's brutal assessment: America is already losing the AI hardware war to China"
   },
   {
     "title": "Simplifying the AI stack: The key to scalable, portable intelligence from cloud to edge",
