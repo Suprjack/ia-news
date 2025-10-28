@@ -1,5 +1,200 @@
 [
   {
+    "title": "Seizing the AI opportunity",
+    "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+    "description": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-10-28T01:41:54.501773",
+    "description_fr": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+    "title_fr": "Seizing the AI opportunity"
+  },
+  {
+    "title": "A law and tax firm redefines efficiency with ChatGPT Business",
+    "url": "https://openai.com/index/steuerrecht",
+    "description": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-10-28T01:41:54.502573",
+    "description_fr": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.",
+    "title_fr": "A law and tax firm redefines efficiency with ChatGPT Business"
+  },
+  {
+    "title": "Zoom CEO Eric Yuan says AI will shorten our workweek",
+    "url": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
+    "description": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:01.411578",
+    "description_fr": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
+    "title_fr": "Zoom CEO Eric Yuan says AI will shorten our workweek"
+  },
+  {
+    "title": "Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/",
+    "description": "Mbodi users prompt the software with natural language, and its cluster of AI agents works to make training easier.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:01.411905",
+    "description_fr": "Mbodi users prompt the software with natural language, and its cluster of AI agents works to make training easier.",
+    "title_fr": "Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025"
+  },
+  {
+    "title": "OpenAI says over a million people talk to ChatGPT about suicide weekly",
+    "url": "https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/",
+    "description": "OpenAI released data on just how many of ChatGPT's users are facing mental health challenges, and how it's addressing them.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:01.412177",
+    "description_fr": "OpenAI released data on just how many of ChatGPT's users are facing mental health challenges, and how it's addressing them.",
+    "title_fr": "OpenAI says over a million people talk to ChatGPT about suicide weekly"
+  },
+  {
+    "title": "Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users",
+    "url": "https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/",
+    "description": "Called “Coach,” this feature is designed to be your all-in-one fitness trainer, sleep coach, and health and wellness advisor.",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:01.412489",
+    "description_fr": "Called “Coach,” this feature is designed to be your all-in-one fitness trainer, sleep coach, and health and wellness advisor.",
+    "title_fr": "Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users"
+  },
+  {
+    "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)",
+    "url": "https://venturebeat.com/ai/minimax-m2-is-the-new-king-of-open-source-llms-especially-for-agentic-tool",
+    "description": "Watch out, DeepSeek and Qwen! There's a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — that is, the ability to go off and use other software capabilities like web search or bespoke applications — without much human guidance.That model is none other thanMiniMax-M2, the latest LLM from the Chinese s",
+    "image_url": "",
+    "published_date": "2025-10-28",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:03.210964",
+    "description_fr": "Watch out, DeepSeek and Qwen! There's a new king of open source large language models (LLMs), especially when it comes to something enterprises are increasingly valuing: agentic tool use — that is, the ability to go off and use other software capabilities like web search or bespoke applications — without much human guidance.That model is none other thanMiniMax-M2, the latest LLM from the Chinese s",
+    "title_fr": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling)"
+  },
+  {
+    "title": "Elon Musk's Grokipedia Pushes Far-Right Talking Points",
+    "url": "https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/",
+    "description": "The new AI-powered Wikipedia competitor falsely claims that pornography worsened the AIDS epidemic and that social media may be fueling a rise in transgender people.",
+    "image_url": "https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/master/pass/Grokipedia-Business-2212189919.jpg",
+    "published_date": "2025-10-28",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:42:06.978929",
+    "description_fr": "The new AI-powered Wikipedia competitor falsely claims that pornography worsened the AIDS epidemic and that social media may be fueling a rise in transgender people.",
+    "title_fr": "Elon Musk's Grokipedia Pushes Far-Right Talking Points"
+  },
+  {
+    "title": "Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect",
+    "url": "https://petapixel.com/2025/10/27/ethical-wildlife-photography-a-field-guide-to-photographing-animals-with-respect/",
+    "description": "A crew working for an unnamed wildlife photographer fed and used cellophane paper to lure a fox for the 'perfect shot' in Grand Teton National Park. Since the fox was conditioned to human food, park officials euthanized it. The photographer got his shot. The fox paid with its life. Learning about this event became the North Star for Arthur Lefo, an OM SYSTEM Ambassador who has spent almost a decad",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Art-Lefo-Cover-v2.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:17.135701",
+    "description_fr": "A crew working for an unnamed wildlife photographer fed and used cellophane paper to lure a fox for the 'perfect shot' in Grand Teton National Park. Since the fox was conditioned to human food, park officials euthanized it. The photographer got his shot. The fox paid with its life. Learning about this event became the North Star for Arthur Lefo, an OM SYSTEM Ambassador who has spent almost a decad",
+    "title_fr": "Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect"
+  },
+  {
+    "title": "Canon Teases Upcoming Camera Launch for November 6, 2025",
+    "url": "https://petapixel.com/2025/10/27/canon-teases-upcoming-camera-launch-for-november-6-2025/",
+    "description": "Canon is teasing what appears to be a new camera launch set for November 6. While the company did not provide any details, there is a bit that can be extracted from what little it has shown. Namely, this looks like it will be a photo-focused camera.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Canon-Teases-Upcoming-Camera-Launch-for-Early-November.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:17.136473",
+    "description_fr": "Canon is teasing what appears to be a new camera launch set for November 6. While the company did not provide any details, there is a bit that can be extracted from what little it has shown. Namely, this looks like it will be a photo-focused camera.[Read More]",
+    "title_fr": "Canon Teases Upcoming Camera Launch for November 6, 2025"
+  },
+  {
+    "title": "The Best Video Cameras to Take On Long-Distance Backpacking",
+    "url": "https://petapixel.com/2025/10/27/the-best-video-cameras-to-take-on-long-distance-backpacking/",
+    "description": "It was sunset on top of the tallest mountain in the continental United States, and I had two immediate priorities. One was dinner. As a long-distance backpacker on the Pacific Crest Trail, I was burning between 4,000 and 6,000 calories a day, and losing too much weight was a constant concern for myself and my friends. The other priority was 32.4 ounces of metal and glass clipped to the shoulder st",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/The-Best-Video-Cameras-to-Take-On-Long-Distance-Backpacking.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:17.137164",
+    "description_fr": "It was sunset on top of the tallest mountain in the continental United States, and I had two immediate priorities. One was dinner. As a long-distance backpacker on the Pacific Crest Trail, I was burning between 4,000 and 6,000 calories a day, and losing too much weight was a constant concern for myself and my friends. The other priority was 32.4 ounces of metal and glass clipped to the shoulder st",
+    "title_fr": "The Best Video Cameras to Take On Long-Distance Backpacking"
+  },
+  {
+    "title": "Photographer Documents Australia’s Fading Towns and Forgotten Buildings",
+    "url": "https://petapixel.com/2025/10/27/photographer-helin-bereket-documents-australias-fading-towns-and-forgotten-buildings/",
+    "description": "A photographer traveled across rural parts of South Australia, documenting abandoned buildings and towns that have fallen into decline.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Helin-Bereket-Abandoned-Australia.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:17.137844",
+    "description_fr": "A photographer traveled across rural parts of South Australia, documenting abandoned buildings and towns that have fallen into decline.[Read More]",
+    "title_fr": "Photographer Documents Australia’s Fading Towns and Forgotten Buildings"
+  },
+  {
+    "title": "How a Ladder Company Turned Louvre Heist Photo Into a Viral Ad Campaign",
+    "url": "https://petapixel.com/2025/10/27/how-a-ladder-company-turned-louvre-heist-photo-into-a-viral-ad-campaign/",
+    "description": "As the saying attributed to P.T. Barnum goes, \"There is no such thing as bad publicity.\" German company Böcker certainly subscribes to the view after turning a press photo of one of its ladders used in the daring Louvre Museum heist into a viral marketing campaign.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/bocker-ad-featured.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:17.138549",
+    "description_fr": "As the saying attributed to P.T. Barnum goes, \"There is no such thing as bad publicity.\" German company Böcker certainly subscribes to the view after turning a press photo of one of its ladders used in the daring Louvre Museum heist into a viral marketing campaign.[Read More]",
+    "title_fr": "How a Ladder Company Turned Louvre Heist Photo Into a Viral Ad Campaign"
+  },
+  {
+    "title": "Advancing Predictive ADMET Modeling Through Community-Driven Science: The ExpansionRx-OpenADMET Blind Challenge",
+    "url": "https://huggingface.co/blog/hugging-science/the-expansionrx-openadmet-blind-challenge",
+    "description": "Advancing Predictive ADMET Modeling Through Community-Driven Science: The ExpansionRx-OpenADMET Blind Challenge",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/680ff4388f704be391757780/-9cmzdDMCol0OfkTYK8jF.png",
+    "published_date": "2025-10-28",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-28T01:42:32.680048",
+    "description_fr": "Advancing Predictive ADMET Modeling Through Community-Driven Science: The ExpansionRx-OpenADMET Blind Challenge",
+    "title_fr": "Advancing Predictive ADMET Modeling Through Community-Driven Science: The ExpansionRx-OpenADMET Blind Challenge"
+  },
+  {
+    "title": "Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect",
+    "url": "https://petapixel.com/author/michaelbonocore/",
+    "description": "A crew working for an unnamed wildlife photographer fed and used cellophane paper to lure a fox for the 'perfect shot' in Grand Teton National Park. Since the fox was conditioned to human food, park officials euthanized it. The photographer got his shot. The fox paid with its life. Learning about this event became the North Star for Arthur Lefo, an OM SYSTEM Ambassador who has spent almost a decad",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Art-Lefo-Cover-v2.jpg",
+    "published_date": "2025-10-28",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-10-28T01:42:42.173641",
+    "description_fr": "A crew working for an unnamed wildlife photographer fed and used cellophane paper to lure a fox for the 'perfect shot' in Grand Teton National Park. Since the fox was conditioned to human food, park officials euthanized it. The photographer got his shot. The fox paid with its life. Learning about this event became the North Star for Arthur Lefo, an OM SYSTEM Ambassador who has spent almost a decad",
+    "title_fr": "Ethical Wildlife Photography: A Field Guide to Photographing Animals with Respect"
+  },
+  {
     "title": "Introducing vibe coding in Google AI Studio",
     "url": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
     "description": "Vibe Coding in Google AI Studio",
@@ -269,8 +464,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:01.591346",
-    "description_fr": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
-    "title_fr": "Strengthening ChatGPT’s responses in sensitive conversations"
+    "description_fr": "OpenAI a collaboré avec plus de 170 experts en santé mentale pour améliorer la capacité de ChatGPT à reconnaître la détresse, à réagir avec empathie et à guider les utilisateurs vers un soutien réel, réduisant jusqu'à 80 % les réponses dangereuses. Découvrez comment nous rendons ChatGPT plus sûr et plus solidaire dans les moments sensibles.",
+    "title_fr": "Renforcer les réponses de ChatGPT dans les conversations sensibles"
   },
   {
     "title": "Addendum to GPT-5 System Card: Sensitive conversations",
@@ -282,8 +477,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:01.591764",
-    "description_fr": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-    "title_fr": "Addendum to GPT-5 System Card: Sensitive conversations"
+    "description_fr": "Cette carte système détaille les améliorations de GPT-5 dans le traitement des conversations sensibles, y compris de nouveaux repères pour la dépendance émotionnelle, la santé mentale et la résistance au jailbreak.",
+    "title_fr": "Addendum à la carte système GPT-5 : Conversations sensibles"
   },
   {
     "title": "Google Beam is working with the USO to support military families.",
@@ -295,8 +490,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:04.486043",
-    "description_fr": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-    "title_fr": "Google Beam is working with the USO to support military families."
+    "description_fr": "En savoir plus sur le travail de Google avec l'OSU et sur la façon dont il prévoit de lancer un programme qui permettra aux membres du service de rester en contact avec leurs proches.",
+    "title_fr": "Google Beam travaille avec l'USO pour soutenir les familles de militaires."
   },
   {
     "title": "Streaming datasets: 100x More Efficient",
@@ -308,8 +503,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:06.060827",
-    "description_fr": "Streaming datasets: 100x More Efficient",
-    "title_fr": "Streaming datasets: 100x More Efficient"
+    "description_fr": "Ensembles de données de streaming : 100 fois plus efficaces",
+    "title_fr": "Ensembles de données de streaming : 100 fois plus efficaces"
   },
   {
     "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
@@ -321,8 +516,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:06.061062",
-    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
+    "description_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert",
+    "title_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert"
   },
   {
     "title": "LexisNexis CEO says the AI law era is already here",
@@ -334,8 +529,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:06.814736",
-    "description_fr": "Today, I’m talking with Sean Fitzpatrick, the CEO of LexisNexis, one of the most important companies in the entire legal system. For years — including when I was in law school — LexisNexis was basically the library. It’s where you went to look up case law, do legal research, and find the laws and precedents […]",
-    "title_fr": "LexisNexis CEO says the AI law era is already here"
+    "description_fr": "Aujourd'hui, je parle avec Sean Fitzpatrick, le PDG de LexisNexis, l'une des entreprises les plus importantes de tout le système juridique. Pendant des années — y compris lorsque j'étais en faculté de droit — LexisNexis était essentiellement la bibliothèque. C'est là que vous êtes allé chercher de la jurisprudence, faire des recherches juridiques et trouver les lois et les précédents […]",
+    "title_fr": "Le PDG de LexisNexis affirme que l'ère du droit de l'IA est déjà là"
   },
   {
     "title": "Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia",
@@ -347,8 +542,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:06.849747",
-    "description_fr": "Qualcomm is launching a pair of new AI chips in an attempt to challenge Nvidia’s dominance in the market. On Monday, Qualcomm announced plans to release its new AI200 chip next year, followed by the AI250 in 2027 — both of which are built on the company’s mobile neural processing technology.  The new chips are […]",
-    "title_fr": "Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia"
+    "description_fr": "Qualcomm lance une paire de nouvelles puces d'IA dans le but de contester la domination de Nvidia sur le marché. Lundi, Qualcomm a annoncé son intention de lancer sa nouvelle puce AI200 l'année prochaine, suivie de l'AI250 en 2027, toutes deux basées sur la technologie de traitement neuronal mobile de la société.  Les nouveaux jetons sont […]",
+    "title_fr": "Qualcomm transforme des pièces de puces de téléphones portables en puces d'IA pour rivaliser avec Nvidia"
   },
   {
     "title": "Sora is showing us how broken deepfake detection is",
@@ -360,8 +555,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:06.850499",
-    "description_fr": "OpenAI's new deepfake machine, Sora, has proven that artificial intelligence is alarmingly good at faking reality. The AI-generated video platform, powered by OpenAI's new Sora 2 model, has churned out detailed (and often offensive or harmful) videos of famous people like Martin Luther King Jr., Michael Jackson, and Bryan Cranston, as well as copyrighted characters […]",
-    "title_fr": "Sora is showing us how broken deepfake detection is"
+    "description_fr": "La nouvelle machine deepfake d'OpenAI, Sora, a prouvé que l'intelligence artificielle est extrêmement douée pour simuler la réalité. La plate-forme vidéo générée par l'IA, alimentée par le nouveau modèle Sora 2 d'OpenAI, a produit des vidéos détaillées (et souvent offensantes ou nuisibles) de personnes célèbres comme Martin Luther King Jr., Michael Jackson et Bryan Cranston, ainsi que des personnages […]",
+    "title_fr": "Sora nous montre à quel point la détection de deepfake est défectueuse"
   },
   {
     "title": "If you can’t afford a vacation, an AI app will sell you pictures of one",
@@ -373,8 +568,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:06.851375",
-    "description_fr": "Faking wealth has always been big business, from buying designer dupes to renting private jet “sets” for photoshoots. But these days, people are using AI to make it a little more personal: creating photos of themselves living in leisure and luxury not to chase clout, but as a form of personal escapism or an attempt […]",
-    "title_fr": "If you can’t afford a vacation, an AI app will sell you pictures of one"
+    "description_fr": "La fausse richesse a toujours été une grosse affaire, de l'achat de dupes de créateurs à la location de « sets » de jets privés pour des séances photo. Mais ces jours-ci, les gens utilisent l'IA pour la rendre un peu plus personnelle : créer des photos d'eux-mêmes vivant dans les loisirs et le luxe non pas pour poursuivre leur influence, mais comme une forme d'évasion personnelle ou une tentative […]",
+    "title_fr": "Si vous ne pouvez pas vous permettre de prendre des vacances, une application d'IA vous vendra des photos d'une"
   },
   {
     "title": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing",
@@ -386,8 +581,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:06.852012",
-    "description_fr": "Earlier this month, Lyra Health announced a \"clinical-grade\" AI chatbot to help users with \"challenges\" like burnout, sleep disruptions, and stress. There are eighteen mentions of \"clinical\" in its press release, including \"clinically designed,\" \"clinically rigorous,\" and \"clinical training.\" For most people, myself included, \"clinical\" suggests \"medical.\" The problem is, it doesn't mean medical. ",
-    "title_fr": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing"
+    "description_fr": "Plus tôt ce mois-ci, Lyra Health a annoncé un chatbot IA de « qualité clinique » pour aider les utilisateurs à relever des « défis » tels que l'épuisement professionnel, les perturbations du sommeil et le stress. Il y a dix-huit mentions de « clinique » dans son communiqué de presse, y compris « conçu cliniquement », « rigoureux cliniquement » et « formation clinique ». « Pour la plupart des gens, moi y compris, « clinique » suggère « médical. « Le problème, c'est que ça ne veut pas dire médical.",
+    "title_fr": "« IA de qualité clinique » : un nouveau mot d'IA à la mode qui ne signifie absolument rien"
   },
   {
     "title": "Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025",
@@ -399,8 +594,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:08.262059",
-    "description_fr": "“What we really do is we took the most constrained, complex, and costly medical imaging solution in radiology, and we supplanted it with what is the most accessible, simple and affordable, which is CT,” Sean Walsh, RADiCAIT’s CEO told TechCrunch.",
-    "title_fr": "Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025"
+    "description_fr": "« Ce que nous faisons vraiment, c'est que nous avons pris la solution d'imagerie médicale la plus contrainte, la plus complexe et la plus coûteuse en radiologie, et nous l'avons remplacée par la plus accessible, la plus simple et la plus abordable, à savoir la tomodensitométrie », a déclaré Sean Walsh, PDG de RADiCAIT, à TechCrunch.",
+    "title_fr": "Oxford spinout RADiCAIT utilise l'IA pour rendre l'imagerie diagnostique plus abordable et accessible — attrapez-la à TechCrunch Disrupt 2025"
   },
   {
     "title": "Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025",
@@ -412,8 +607,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:08.262381",
-    "description_fr": "When Demetri Maxim was seven years old, his mother’s kidneys stopped working. She was put on dialysis, which meant that she had to go to the hospital four times a week to have her blood filtered by a machine since her own kidneys could no longer function independently. Two years later, Maxim’s mother received a […]",
-    "title_fr": "Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025"
+    "description_fr": "Lorsque Demetri Maxim avait sept ans, les reins de sa mère ont cessé de fonctionner. Elle a été mise sous dialyse, ce qui signifie qu'elle a dû se rendre à l'hôpital quatre fois par semaine pour faire filtrer son sang par une machine car ses propres reins ne pouvaient plus fonctionner de manière indépendante. Deux ans plus tard, la mère de Maxim a reçu un […]",
+    "title_fr": "Biotech Nephrogen combine l'IA et la thérapie génique pour inverser la maladie rénale — consultez-le sur TechCrunch Disrupt 2025"
   },
   {
     "title": "Mercor quintuples valuation to $10B with $350M Series C",
@@ -425,8 +620,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:08.262660",
-    "description_fr": "Mercor, which connects AI labs with domain experts for training their foundational AI models, is close to raising $350 million at a $10 billion valuation.",
-    "title_fr": "Mercor quintuples valuation to $10B with $350M Series C"
+    "description_fr": "Mercor, qui met en relation des laboratoires d'IA avec des experts du domaine pour la formation de leurs modèles d'IA de base, est sur le point de lever 350 millions de dollars pour une valorisation de 10 milliards de dollars.",
+    "title_fr": "Mercor quintuples valorisation à $ 10B avec $ 350M Série C"
   },
   {
     "title": "Pinterest experiments with new AI-powered personalized boards",
@@ -438,8 +633,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:08.262946",
-    "description_fr": "Pinterest is testing an AI-driven collage to help users create outfits from saved Pins and personalized boards curated with AI.",
-    "title_fr": "Pinterest experiments with new AI-powered personalized boards"
+    "description_fr": "Pinterest teste un collage basé sur l'IA pour aider les utilisateurs à créer des tenues à partir d'épingles enregistrées et de tableaux personnalisés organisés avec l'IA.",
+    "title_fr": "Expériences Pinterest avec de nouveaux tableaux personnalisés alimentés par l'IA"
   },
   {
     "title": "TechCrunch Disrupt 2025: Day 1",
@@ -451,8 +646,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:08.263198",
-    "description_fr": "Today is the first day of TechCrunch Disrupt 2025, where 10,000 founders, investors, and builders are flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conversations are everywhere, and the breakthroughs are only just beginning. Don't miss out. Register here or head straight to Moscone West to join.",
-    "title_fr": "TechCrunch Disrupt 2025: Day 1"
+    "description_fr": "Aujourd'hui est le premier jour de TechCrunch Disrupt 2025, où 10 000 fondateurs, investisseurs et constructeurs inondent Moscone West pour une série ininterrompue d'idées, de démonstrations et d'offres. L'énergie est électrique, les conversations sont partout et les percées ne font que commencer. Ne passez pas à côté. Inscrivez-vous ici ou rendez-vous directement à Moscone West pour vous inscrire.",
+    "title_fr": "TechCrunch Disrupt 2025 : Jour 1"
   },
   {
     "title": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot",
@@ -464,8 +659,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:09.998874",
-    "description_fr": "Anthropicis making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed itsClaude AIassistant directly intoMicrosoft Exceland connect it to real-time market data from some of the world's most influential financial information providers.The San Francisco-based AI startup announced Monday it is releasingClaude for Excel, allowing fi",
-    "title_fr": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot"
+    "description_fr": "Anthropic fait sa poussée la plus agressive encore dans l'industrie des services financiers de trillions de dollars, dévoilant une suite d'outils qui intègrent son Claude AIassistant directement dans Microsoft Excel et le connectent aux données de marché en temps réel de certains des fournisseurs d'informations financières les plus influents du monde. La startup IA basée à San Francisco a annoncé lundi qu'elle publiaitClaude pour Excel, ce qui permet de fi",
+    "title_fr": "Anthropic déploie Claude AI pour la finance, s'intègre à Excel pour rivaliser avec Microsoft Copilot"
   },
   {
     "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
@@ -477,8 +672,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:10.001929",
-    "description_fr": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan tobuild their own models, a project that would require access to GPUs.Google Cloud wants to play a bigger role in enterprises’ model-making journey with its new service,Vertex AI Training. The service gives enterprises looking to train their own models access to a managed Slurm environment, ",
-    "title_fr": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training"
+    "description_fr": "Certaines entreprises sont mieux servies en ajustant les grands modèles à leurs besoins, mais un certain nombre d'entreprises prévoient de construire leurs propres modèles, un projet qui nécessiterait un accès aux GPU. Google Cloud veut jouer un rôle plus important dans le parcours de création de modèles des entreprises avec son nouveau service,Vertex AI Training. Le service permet aux entreprises cherchant à former leurs propres modèles d'accéder à un environnement Slurm géré,",
+    "title_fr": "Google Cloud vise CoreWeave et AWS avec Slurm géré pour la formation à l'IA à l'échelle de l'entreprise"
   },
   {
     "title": "Google's 'Watch & Learn' framework cracks the data bottleneck for training computer-use agents",
@@ -490,8 +685,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:10.033247",
-    "description_fr": "A new framework developed by researchers at Google Cloud and DeepMind aims to address one of the key challenges of developing computer use agents (CUAs): Gathering high-quality training examples at scale.The framework, dubbedWatch & Learn(W&L), addresses the problem of training data generation in a way that doesn’t require human annotation and can automatically extract demonstrations from raw vide",
-    "title_fr": "Google's 'Watch & Learn' framework cracks the data bottleneck for training computer-use agents"
+    "description_fr": "Un nouveau cadre développé par des chercheurs de Google Cloud et de DeepMind vise à relever l'un des principaux défis du développement d'agents d'utilisation de l'ordinateur (CUA) : rassembler des exemples de formation de haute qualité à grande échelle. Le cadre, baptisé Watch & Learn(W&L), aborde le problème de la génération de données de formation d'une manière qui ne nécessite pas d'annotation humaine et peut automatiquement extraire des démonstrations du vide brut",
+    "title_fr": "Le cadre « Watch & Learn » de Google fissure le goulot d'étranglement des données pour la formation des agents d'utilisation d'ordinateurs"
   },
   {
     "title": "OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week",
@@ -503,8 +698,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T18:32:14.317530",
-    "description_fr": "OpenAI released initial estimates about the share of users who may be experiencing symptoms like delusional thinking, mania, or suicidal ideation, and says it has tweaked GPT-5 to respond more effectively.",
-    "title_fr": "OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week"
+    "description_fr": "OpenAI a publié des estimations initiales sur la proportion d'utilisateurs qui peuvent présenter des symptômes tels que la pensée délirante, la manie ou les idées suicidaires, et affirme avoir modifié le GPT-5 pour y répondre plus efficacement.",
+    "title_fr": "OpenAI affirme que des centaines de milliers d'utilisateurs de ChatGPT peuvent montrer des signes de crise maniaque ou psychotique chaque semaine"
   },
   {
     "title": "Lightroom Now Supports Native Tethering for Leica SL3 and Q3",
@@ -516,8 +711,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.347072",
-    "description_fr": "Leica photographers are finally getting support for tethering in Lightroom Classic. With version 15.0, the SL3 and Q3 camera systems are natively supported, meaning that no additional plugins are necessary for tethering to work.[Read More]",
-    "title_fr": "Lightroom Now Supports Native Tethering for Leica SL3 and Q3"
+    "description_fr": "Les photographes Leica bénéficient enfin d'un support pour le raccordement dans Lightroom Classic. Avec la version 15.0, les systèmes de caméras SL3 et Q3 sont pris en charge en mode natif, ce qui signifie qu'aucun plugin supplémentaire n'est nécessaire pour que la connexion fonctionne.[En savoir plus]",
+    "title_fr": "Lightroom prend désormais en charge la connexion native pour Leica SL3 et Q3"
   },
   {
     "title": "Sigma Says Full-Frame Foveon Sensor Still in Development, But It’s Not Close",
@@ -529,8 +724,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.347727",
-    "description_fr": "Sigma's full-frame Foveon image sensor project has faced significant challenges, but the company's CEO says it is still working on Foveon image sensor development.[Read More]",
-    "title_fr": "Sigma Says Full-Frame Foveon Sensor Still in Development, But It’s Not Close"
+    "description_fr": "Le projet de capteur d'image Foveon plein cadre de Sigma a été confronté à des défis importants, mais le PDG de la société affirme qu'il travaille toujours sur le développement du capteur d'image Foveon.[En savoir plus]",
+    "title_fr": "Sigma indique que le capteur de fovéon plein format est toujours en développement, mais qu'il n'est pas proche"
   },
   {
     "title": "Real Estate Agents Are Using AI Images Instead of Actual Photos",
@@ -542,8 +737,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.348363",
-    "description_fr": "House hunters have begun to notice that real estate listings increasingly contain AI images and are calling them misleading.[Read More]",
-    "title_fr": "Real Estate Agents Are Using AI Images Instead of Actual Photos"
+    "description_fr": "Les chasseurs de maisons ont commencé à remarquer que les annonces immobilières contiennent de plus en plus d'images d'IA et les qualifient de trompeuses.[En savoir plus]",
+    "title_fr": "Les agents immobiliers utilisent des images IA au lieu de photos réelles"
   },
   {
     "title": "Four Photographers Narrowly Avoid Disaster in Violent Motorsports Crash",
@@ -555,8 +750,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.349036",
-    "description_fr": "Four photographers were taken to the hospital but seemingly avoided disaster following a violent crash during the Gold Coast 500 Supercars race in Australia over the weekend.[Read More]",
-    "title_fr": "Four Photographers Narrowly Avoid Disaster in Violent Motorsports Crash"
+    "description_fr": "Quatre photographes ont été emmenés à l'hôpital, mais ont apparemment évité un désastre à la suite d'un violent accident survenu lors de la course Gold Coast 500 Supercars en Australie ce week-end.[En savoir plus]",
+    "title_fr": "Quatre photographes évitent de justesse les catastrophes lors d'un accident violent de sport automobile"
   },
   {
     "title": "City Fines Homeowner $300,000 After Using Drone to Spot Illegal Fireworks",
@@ -568,8 +763,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.349684",
-    "description_fr": "A week after Fourth of July celebrations, PetaPixel reported that multiple California police departments had used drones to surveil and spot people illegally shooting off fireworks. Promised fines have been rolling out since, including a new $300,000 one levied against an Orange County homeowner who claims they were not even home on July 4.[Read More]",
-    "title_fr": "City Fines Homeowner $300,000 After Using Drone to Spot Illegal Fireworks"
+    "description_fr": "Une semaine après les célébrations du 4 juillet, PetaPixel a signalé que plusieurs services de police californiens avaient utilisé des drones pour surveiller et repérer des personnes tirant illégalement des feux d'artifice. Des amendes promises ont été mises en place depuis, y compris une nouvelle amende de 300 000 $ prélevée contre un propriétaire du comté d'Orange qui prétend qu'il n'était même pas à la maison le 4 juillet.[En savoir plus]",
+    "title_fr": "La ville inflige une amende de 300 000 $ au propriétaire après avoir utilisé un drone pour repérer des feux d'artifice illégaux"
   },
   {
     "title": "Artist Sues Photographer Over Iconic Portrait of Queen Elizabeth",
@@ -581,8 +776,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.350346",
-    "description_fr": "Photographer Chris Levine, who captured an iconic holographic portrait of Queen Elizabeth II, is being sued by artist Rob Munday who claims that he is the co-creator of the works Equanimity and Lightness of Being.[Read More]",
-    "title_fr": "Artist Sues Photographer Over Iconic Portrait of Queen Elizabeth"
+    "description_fr": "Le photographe Chris Levine, qui a capturé un portrait holographique emblématique de la reine Elizabeth II, est poursuivi en justice par l'artiste Rob Munday qui affirme être le co-créateur des œuvres Equanimity et Lightness of Being.[En savoir plus]",
+    "title_fr": "L'artiste poursuit le photographe sur le portrait emblématique de la reine Elizabeth"
   },
   {
     "title": "US Will Soon Begin Photographing All Non-Americans When They Enter and Exit Country",
@@ -594,8 +789,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T18:32:26.351125",
-    "description_fr": "As part of its expanding crackdown on immigration, the United States government says it will soon begin photographing every non-citizen, including all legal ones with green cards and visas, as they enter and leave the U.S. The government claims that improved facial recognition and more photos will prevent immigration violations and catch criminals.[Read More]",
-    "title_fr": "US Will Soon Begin Photographing All Non-Americans When They Enter and Exit Country"
+    "description_fr": "Dans le cadre de sa répression croissante de l'immigration, le gouvernement des États-Unis affirme qu'il commencera bientôt à photographier tous les non-citoyens, y compris tous les non-citoyens légaux munis de cartes vertes et de visas, lorsqu'ils entrent et sortent des États-Unis. Le gouvernement affirme qu'une meilleure reconnaissance faciale et davantage de photos empêcheront les violations de l'immigration et attraperont les criminels.[En savoir plus]",
+    "title_fr": "Les États-Unis commenceront bientôt à photographier tous les non-Américains lorsqu'ils entreront et sortiront du pays"
   },
   {
     "title": "Projected Abliteration",
@@ -607,8 +802,34 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:41.922589",
-    "description_fr": "Projected Abliteration",
-    "title_fr": "Projected Abliteration"
+    "description_fr": "Ablitération projetée",
+    "title_fr": "Ablitération projetée"
+  },
+  {
+    "title": "Elon Musk’s Grokipedia contains copied Wikipedia pages",
+    "url": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied",
+    "description": "xAI’s Grokipedia, its Wikipedia-like online encyclopedia, is now live. The similarities go deeper than expected. Grokipedia’s design is pretty basic right now; like Wikipedia, the homepage is mostly just a big search bar, and entries resemble very basic Wikipedia entries, with headings, subheadings, and citations. I haven’t seen any photos on the site yet. Wikipedia […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-27-at-5.35.43%E2%80%AFPM-1.png?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-27",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:41:59.824900",
+    "description_fr": "xAI’s Grokipedia, its Wikipedia-like online encyclopedia, is now live. The similarities go deeper than expected. Grokipedia’s design is pretty basic right now; like Wikipedia, the homepage is mostly just a big search bar, and entries resemble very basic Wikipedia entries, with headings, subheadings, and citations. I haven’t seen any photos on the site yet. Wikipedia […]",
+    "title_fr": "Elon Musk’s Grokipedia contains copied Wikipedia pages"
+  },
+  {
+    "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
+    "url": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership",
+    "description": "AMD has sealed a $1 billion deal with the US Department of Energy to develop two supercomputers, Lux and Discovery, in collaboration with Oracle and Hewlett Packard Enterprise (HPE). Both supercomputers will live at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. Lux is slated to come online fairly soon in early 2026, with […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-27",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-28T01:41:59.825965",
+    "description_fr": "AMD has sealed a $1 billion deal with the US Department of Energy to develop two supercomputers, Lux and Discovery, in collaboration with Oracle and Hewlett Packard Enterprise (HPE). Both supercomputers will live at Oak Ridge National Laboratory (ORNL) in Oak Ridge, Tennessee. Lux is slated to come online fairly soon in early 2026, with […]",
+    "title_fr": "AMD, Department of Energy announce $1 billion AI supercomputer partnership"
   },
   {
     "title": "OpenAI reportedly developing new generative music tool",
@@ -737,7 +958,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-26T18:29:05.102673",
-    "description_fr": "Les lauréats des Prix de la photographie canine 2025 ont été révélés et Belinda Richards de Melbourne, en Australie, a été couronnée Photographe canine de l'année.[En savoir plus]",
+    "description_fr": "The winners of the 2025 Dog Photography Awards have been revealed and Belinda Richards from Melbourne, Australia, has been crowned Dog Photographer of the Year.[Read More]",
     "title_fr": "Good Boys and Girls Star in the Dog Photography Awards 2025"
   },
   {
@@ -750,8 +971,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.798601",
-    "description_fr": "OpenAI a acquis Software Applications Incorporated, fabricant de Sky, une interface en langage naturel pour Mac qui intègre l'IA directement dans votre expérience de bureau. Ensemble, nous intégrons les capacités profondes de macOS de Sky dans ChatGPT pour rendre l'IA plus intuitive, contextuelle et orientée vers l'action.",
-    "title_fr": "OpenAI acquiert Software Applications Incorporated, fabricant de Sky"
+    "description_fr": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
+    "title_fr": "OpenAI acquires Software Applications Incorporated, maker of Sky"
   },
   {
     "title": "Consensus accelerates research with GPT-5 and Responses API",
@@ -763,8 +984,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.798974",
-    "description_fr": "Consensus utilise GPT-5 et l'API Responses d'OpenAI pour alimenter un assistant de recherche multi-agent qui lit, analyse et synthétise les preuves en quelques minutes, aidant plus de 8 millions de chercheurs à accélérer les découvertes scientifiques.",
-    "title_fr": "Le consensus accélère la recherche avec GPT-5 et l'API Réponses"
+    "description_fr": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
+    "title_fr": "Consensus accelerates research with GPT-5 and Responses API"
   },
   {
     "title": "Work smarter with your company knowledge in ChatGPT",
@@ -776,8 +997,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.799275",
-    "description_fr": "La connaissance de l'entreprise apporte le contexte de vos applications dans ChatGPT pour des réponses spécifiques à votre entreprise, avec des citations claires, la sécurité, la confidentialité et les contrôles administratifs. Disponible dès maintenant pour les utilisateurs Business, Enterprise et EDU.",
-    "title_fr": "Travaillez plus intelligemment avec les connaissances de votre entreprise dans ChatGPT"
+    "description_fr": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
+    "title_fr": "Work smarter with your company knowledge in ChatGPT"
   },
   {
     "title": "AI in South Korea—OpenAI’s Economic Blueprint",
@@ -789,8 +1010,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.799563",
-    "description_fr": "Le plan économique de la Corée d'OpenAI décrit comment la Corée du Sud peut faire évoluer l'IA de confiance grâce à des capacités souveraines et à des partenariats stratégiques pour stimuler la croissance.",
-    "title_fr": "L'IA en Corée du Sud - Plan économique d'OpenAI"
+    "description_fr": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+    "title_fr": "AI in South Korea—OpenAI’s Economic Blueprint"
   },
   {
     "title": "The next chapter for UK sovereign AI",
@@ -802,8 +1023,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.799835",
-    "description_fr": "OpenAI étend son partenariat au Royaume-Uni avec un nouvel accord avec le ministère de la Justice, apportant ChatGPT aux fonctionnaires. Il introduit également la résidence des données au Royaume-Uni pour ChatGPT Enterprise, ChatGPT Edu et la plate-forme API pour prendre en charge l'adoption fiable et sécurisée de l'IA.",
-    "title_fr": "Le prochain chapitre pour l'IA souveraine du Royaume-Uni"
+    "description_fr": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+    "title_fr": "The next chapter for UK sovereign AI"
   },
   {
     "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
@@ -815,8 +1036,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.800091",
-    "description_fr": "Le plan économique du Japon d'OpenAI décrit comment le Japon peut exploiter l'IA pour stimuler l'innovation, renforcer la compétitivité et permettre une croissance durable et inclusive.",
-    "title_fr": "L'IA au Japon-OpenAI's Japan Economic Blueprint"
+    "description_fr": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+    "title_fr": "AI in Japan—OpenAI’s Japan Economic Blueprint"
   },
   {
     "title": "Continue your ChatGPT experience beyond WhatsApp",
@@ -828,8 +1049,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.800336",
-    "description_fr": "ChatGPT ne sera plus disponible sur WhatsApp après le 15 janvier 2026. Découvrez comment lier votre compte ChatGPT et poursuivre vos conversations sur tous les appareils.",
-    "title_fr": "Poursuivez votre expérience ChatGPT au-delà de WhatsApp"
+    "description_fr": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
+    "title_fr": "Continue your ChatGPT experience beyond WhatsApp"
   },
   {
     "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
@@ -841,8 +1062,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:00.800585",
-    "description_fr": "ChatGPT Atlas, le navigateur avec ChatGPT l'a construit. Obtenez des réponses instantanées, des résumés et une aide Web intelligente, directement à partir de n'importe quelle page. Avec les paramètres de confidentialité, vous pouvez contrôler. Disponible maintenant pour MacOS.",
-    "title_fr": "Voici ChatGPT Atlas, le navigateur avec ChatGPT intégré"
+    "description_fr": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+    "title_fr": "Introducing ChatGPT Atlas, the browser with ChatGPT built in"
   },
   {
     "title": "New updates and more access to Google Earth AI",
@@ -854,8 +1075,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:03.562339",
-    "description_fr": "Google Earth AI aide les entreprises, les organisations à but non lucratif et les villes à tout faire, de la surveillance environnementale à la réponse aux catastrophes",
-    "title_fr": "Nouvelles mises à jour et plus d'accès à Google Earth AI"
+    "description_fr": "Google Earth AI helps enterprises, nonprofits, and cities with everything from environmental monitoring to disaster response",
+    "title_fr": "New updates and more access to Google Earth AI"
   },
   {
     "title": "The CMA’s designation of Google’s mobile ecosystem",
@@ -867,8 +1088,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:03.562553",
-    "description_fr": "Illustration montrant un ordinateur portable avec le drapeau britannique et la silhouette de Londres en arrière-plan.",
-    "title_fr": "Désignation par la CMA de l'écosystème mobile de Google"
+    "description_fr": "Illustration showing a laptop with the British flag and the London skyline in the background.",
+    "title_fr": "The CMA’s designation of Google’s mobile ecosystem"
   },
   {
     "title": "Start learning all things AI on the new Google Skills",
@@ -880,8 +1101,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:03.562787",
-    "description_fr": "Dites bonjour à Google Skills",
-    "title_fr": "Commencez à apprendre tout ce qui concerne l'IA avec les nouvelles compétences Google"
+    "description_fr": "Say hello to Google Skills",
+    "title_fr": "Start learning all things AI on the new Google Skills"
   },
   {
     "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
@@ -893,8 +1114,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.740693",
-    "description_fr": "Construire ensemble l'écosystème des agents ouverts : Présentation d'OpenEnv",
-    "title_fr": "Construire ensemble l'écosystème des agents ouverts : Présentation d'OpenEnv"
+    "description_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+    "title_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv"
   },
   {
     "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
@@ -906,8 +1127,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.740857",
-    "description_fr": "Hugging Face et VirusTotal collaborent pour renforcer la sécurité de l'IA",
-    "title_fr": "Hugging Face et VirusTotal collaborent pour renforcer la sécurité de l'IA"
+    "description_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+    "title_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security"
   },
   {
     "title": "Sentence Transformers is joining Hugging Face!",
@@ -919,8 +1140,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.741023",
-    "description_fr": "Sentence Transformers rejoint Hugging Face !",
-    "title_fr": "Sentence Transformers rejoint Hugging Face !"
+    "description_fr": "Sentence Transformers is joining Hugging Face!",
+    "title_fr": "Sentence Transformers is joining Hugging Face!"
   },
   {
     "title": "Supercharge your OCR Pipelines with Open Models",
@@ -932,8 +1153,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.741176",
-    "description_fr": "Boostez vos pipelines OCR avec des modèles ouverts",
-    "title_fr": "Boostez vos pipelines OCR avec des modèles ouverts"
+    "description_fr": "Supercharge your OCR Pipelines with Open Models",
+    "title_fr": "Supercharge your OCR Pipelines with Open Models"
   },
   {
     "title": "Unlock the power of images with AI Sheets",
@@ -945,8 +1166,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.741331",
-    "description_fr": "Libérez la puissance des images avec AI Sheets",
-    "title_fr": "Libérez la puissance des images avec AI Sheets"
+    "description_fr": "Unlock the power of images with AI Sheets",
+    "title_fr": "Unlock the power of images with AI Sheets"
   },
   {
     "title": "LeRobot v0.4.0: Super Charging OSS Robotics Learning",
@@ -958,8 +1179,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-25T03:20:04.741547",
-    "description_fr": "LeRobot v0.4.0 : Super Charging OSS Robotics Learning",
-    "title_fr": "LeRobot v0.4.0 : Super Charging OSS Robotics Learning"
+    "description_fr": "LeRobot v0.4.0: Super Charging OSS Robotics Learning",
+    "title_fr": "LeRobot v0.4.0: Super Charging OSS Robotics Learning"
   },
   {
     "title": "How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others",
@@ -971,8 +1192,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.133258",
-    "description_fr": "Découvrez comment utiliser Spotify, Canva, Figma, Expedia et d'autres applications directement dans ChatGPT.",
-    "title_fr": "Comment utiliser les nouvelles intégrations d'applications ChatGPT, y compris Spotify, Figma, Canva et autres"
+    "description_fr": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+    "title_fr": "How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others"
   },
   {
     "title": "The browser wars are back, and this time they’re powered by AI",
@@ -984,8 +1205,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.133570",
-    "description_fr": "Les guerres de navigateurs se réchauffent à nouveau, cette fois avec l'IA dans le siège du conducteur.  OpenAI vient de lancer Atlas, un navigateur alimenté par ChatGPT qui permet aux utilisateurs de surfer sur le Web en utilisant un langage naturel, et comprend même un « mode agent » qui peut effectuer des tâches de manière autonome. C'est l'un des plus grands lancements de navigateurs de mémoire récente, mais il fait ses débuts […]",
-    "title_fr": "Les guerres des navigateurs sont de retour, et cette fois-ci, ils sont alimentés par l'IA"
+    "description_fr": "The browser wars are heating up again, this time with AI in the driver’s seat.  OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language, and even includes an “agent mode” that can complete tasks autonomously. It’s one of the biggest browser launches in recent memory, but it’s debuting […]",
+    "title_fr": "The browser wars are back, and this time they’re powered by AI"
   },
   {
     "title": "OpenAI wants to power your browser, and that might be a security nightmare",
@@ -997,8 +1218,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.133875",
-    "description_fr": "Les guerres de navigateurs se réchauffent à nouveau, cette fois avec l'IA dans le siège du conducteur.  OpenAI vient de lancer Atlas, un navigateur alimenté par ChatGPT qui permet aux utilisateurs de surfer sur le Web en utilisant un langage naturel, et comprend même un « mode agent » qui peut effectuer des tâches de manière autonome. C'est l'un des plus grands lancements de navigateurs de mémoire récente, mais il fait ses débuts […]",
-    "title_fr": "OpenAI veut alimenter votre navigateur, et cela pourrait être un cauchemar de sécurité"
+    "description_fr": "The browser wars are heating up again, this time with AI in the driver’s seat.  OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even includes an “agent mode” that can complete tasks autonomously. It’s one of the biggest browser launches in recent memory, but it’s debuting […]",
+    "title_fr": "OpenAI wants to power your browser, and that might be a security nightmare"
   },
   {
     "title": "TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host",
@@ -1010,8 +1231,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.134127",
-    "description_fr": "Avec TechCrunch Disrupt 2025 qui approche à grands pas, nous sommes ravis de présenter les entreprises qui organisent des événements parallèles qui feront vibrer les milliers de participants et les habitants de la Silicon Valley.",
-    "title_fr": "Calendrier des événements parallèles TechCrunch Disrupt 2025 :  Women in Tech, MongoDB, Silkroad Innovation Hub, etc. à organiser"
+    "description_fr": "With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike.",
+    "title_fr": "TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host"
   },
   {
     "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
@@ -1023,8 +1244,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.134381",
-    "description_fr": "L'ordre du jour complet de la séance en petits groupes Disrupt 2025 est maintenant en ligne. Rejoignez-nous pour un apprentissage tactique en petit groupe sur l'IA, la collecte de fonds, les fusions et acquisitions, les flux de travail, etc. Parcourez la gamme complète et inscrivez-vous dès aujourd'hui pour économiser jusqu'à 444 $ et bénéficiez de 60 % de réduction sur un deuxième laissez-passer avant que les prix n'augmentent le 27 octobre.",
-    "title_fr": "L'ordre du jour complet de la session en petits groupes à TechCrunch Disrupt 2025"
+    "description_fr": "The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&A, workflows, and more. Browse the full lineup and register today to save up to $444, and get 60% off a second pass before prices rise on October 27.",
+    "title_fr": "The full breakout session agenda at TechCrunch Disrupt 2025"
   },
   {
     "title": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025",
@@ -1036,8 +1257,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.134616",
-    "description_fr": "Seulement 3 jours avant le décollage de Disrupt 2025 — et la scène spatiale est prête à explorer l'avenir de la technologie spatiale (et toutes les autres frontières de l'innovation). Adam Maher (Ursa), le Dr Lucy Hoag (Violet Labs) et le Dr Debra L. Emmons (The Aerospace Corporation) expliqueront comment l'IA transforme la vie en orbite. Inscrivez-vous maintenant pour économiser jusqu'à 444 $ sur votre pass et 60 % sur une seconde.",
-    "title_fr": "L'IA à la pointe : comment les startups alimentent l'avenir de l'espace à TechCrunch Disrupt 2025"
+    "description_fr": "Just 3 days until liftoff for Disrupt 2025 — and the Space Stage is ready to explore the future of space tech (and every other frontier of innovation). Adam Maher (Ursa), Dr. Lucy Hoag (Violet Labs), and Dr. Debra L. Emmons (The Aerospace Corporation) will unpack how AI is transforming life in orbit. Register now to save up to $444 on your pass, and 60% on a second.",
+    "title_fr": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025"
   },
   {
     "title": "Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city",
@@ -1049,8 +1270,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.134867",
-    "description_fr": "Trois jours. C'est tout. TechCrunch Disrupt 2025 — la plus grande scène de startup au monde — démarre du 27 au 29 octobre au Moscone West à San Francisco. Lorsque Disrupt 2025 arrive, la ville ne se contente pas d'accueillir l'innovation : elle l'amplifie, transformant San Francisco en une vitrine vivante d'idées, de produits et de partenariats à l'origine de la prochaine vague de technologie. Inscrivez-vous avant la hausse des prix dans 3 jours.",
-    "title_fr": "Compte à rebours pour les économies de billets — seulement 3 jours avant que TechCrunch Disrupt 2025 ne transforme San Francisco en ville de démarrage"
+    "description_fr": "Three days. That’s it. TechCrunch Disrupt 2025 — the startup world’s biggest stage — kicks off October 27 – 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesn’t just host innovation — it amplifies it, transforming San Francisco into a living showcase of ideas, products, and partnerships driving the next wave of tech. Register before prices hike in 3 days.",
+    "title_fr": "Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city"
   },
   {
     "title": "With an Intel recovery underway, all eyes turn to its foundry business",
@@ -1062,8 +1283,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.135131",
-    "description_fr": "Intel a ajouté 20 milliards de $ à son bilan au troisième trimestre, mais n'a pas donné beaucoup de détails sur les progrès de son activité de fonderie.",
-    "title_fr": "Avec une reprise d'Intel en cours, tous les regards se tournent vers son activité de fonderie"
+    "description_fr": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
+    "title_fr": "With an Intel recovery underway, all eyes turn to its foundry business"
   },
   {
     "title": "OpenAI buys Sky, an AI interface for Mac",
@@ -1075,8 +1296,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.135412",
-    "description_fr": "OpenAI a acquis Software Applications, Inc., la startup derrière Sky — une interface en langage naturel pour Mac alimentée par l'IA qui peut afficher votre écran et prendre des mesures dans vos applications.",
-    "title_fr": "OpenAI achète Sky, une interface IA pour Mac"
+    "description_fr": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
+    "title_fr": "OpenAI buys Sky, an AI interface for Mac"
   },
   {
     "title": "20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users",
@@ -1088,8 +1309,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.135686",
-    "description_fr": "Rudy Arora et Sarthak Dhawan, deux décrocheurs universitaires de 20 ans, ont développé une application de prise de notes IA pour cinq millions d'utilisateurs et un arr à huit chiffres, disent-ils.",
-    "title_fr": "Les décrocheurs de 20 ans ont construit le preneur de notes d'IA Turbo AI et l'ont porté à 5 millions d'utilisateurs"
+    "description_fr": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, grew an AI note-taker app to five million users and an eight-figure ARR, they say.",
+    "title_fr": "20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users"
   },
   {
     "title": "Instagram users can now use Meta AI editing tools directly in IG Stories",
@@ -1101,8 +1322,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.135980",
-    "description_fr": "Les outils de retouche photo de Meta AI se trouvent dans Instagram Stories lorsque vous appuyez sur l'icône du pinceau. Les utilisateurs peuvent décrire ce qu'ils souhaitent ajouter, supprimer ou modifier.",
-    "title_fr": "Les utilisateurs d'Instagram peuvent désormais utiliser les outils d'édition Meta AI directement dans IG Stories"
+    "description_fr": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
+    "title_fr": "Instagram users can now use Meta AI editing tools directly in IG Stories"
   },
   {
     "title": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser",
@@ -1114,8 +1335,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.136392",
-    "description_fr": "Le mode copilote du navigateur Edge de Microsoft est le point de vue de l'entreprise sur la catégorie des navigateurs IA à longue hype.",
-    "title_fr": "Deux jours après l'Atlas d'OpenAI, Microsoft relance un navigateur d'IA presque identique"
+    "description_fr": "Copilot Mode of Microsoft's Edge browser is the company's take on the long-hyped AI browser category.",
+    "title_fr": "Two days after OpenAI’s Atlas, Microsoft relaunches a nearly identical AI browser"
   },
   {
     "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
@@ -1127,8 +1348,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.136674",
-    "description_fr": "Microsoft a dévoilé « Mico », un nouvel avatar animé pour son IA Copilote qui ramène des nuances de Clippy. Le blob expressif agit comme un visage convivial et personnalisable pour le chatbot.",
-    "title_fr": "Mico de Microsoft est un « Clippy » pour l'ère de l'IA"
+    "description_fr": "Microsoft has unveiled “Mico,” a new animated avatar for its Copilot AI that brings back shades of Clippy. The expressive blob acts as a friendly, customizable face for the chatbot.",
+    "title_fr": "Microsoft’s Mico is a ‘Clippy’ for the AI era"
   },
   {
     "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads",
@@ -1140,8 +1361,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.136975",
-    "description_fr": "Tensormesh utilise une forme étendue de mise en cache KV pour rendre les charges d'inférence jusqu'à 10 fois plus efficaces.",
-    "title_fr": "Tensormesh lève 4,5 M $ pour tirer davantage d'inférences des charges de serveurs IA"
+    "description_fr": "Tensormesh uses an expanded form of KV caching to make inference loads as much as 10 times more efficient.",
+    "title_fr": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads"
   },
   {
     "title": "Palantir enters $200M partnership with telco Lumen to offer enterprise AI services",
@@ -1153,8 +1374,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.137252",
-    "description_fr": "Palantir a déclaré jeudi avoir conclu un partenariat avec Lumen Technologies qui verra la société de télécommunications utiliser le logiciel d'IA de la société de gestion de données pour renforcer les capacités de prise en charge des services d'IA d'entreprise.",
-    "title_fr": "Palantir conclut un partenariat de 200 MILLIONS de $ avec la compagnie de téléphone Lumen pour offrir des services d'IA d'entreprise"
+    "description_fr": "Palantir said on Thursday it had struck a partnership with Lumen Technologies that will see the telecommunications company using the data management company's AI software to build capabilities to support enterprise AI services.",
+    "title_fr": "Palantir enters $200M partnership with telco Lumen to offer enterprise AI services"
   },
   {
     "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
@@ -1166,8 +1387,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.137541",
-    "description_fr": "L'application vidéo d'IA à succès d'OpenAI, Sora, bénéficie d'une vague de nouvelles fonctionnalités, notamment des outils de montage vidéo, des « camées » pour animaux de compagnie et objets et des options sociales améliorées. L'application Android est également « bientôt disponible ».",
-    "title_fr": "Mise à jour de Sora pour apporter des vidéos d'IA de vos animaux de compagnie, de nouvelles fonctionnalités sociales et bientôt une version Android"
+    "description_fr": "OpenAI’s hit AI video app, Sora, is getting a wave of new features, including video editing tools, pet and object “cameos,” and enhanced social options. The Android app is also “coming soon.\"",
+    "title_fr": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version"
   },
   {
     "title": "Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise",
@@ -1179,8 +1400,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.137830",
-    "description_fr": "Roy Lee de Cluely n'a pas peur de remuer le pot — et il emmène cette énergie audacieuse sur la scène Disrupt à TechCrunch Disrupt 2025, qui aura lieu du 27 au 29 octobre au Moscone West de San Francisco. Inscrivez-vous dès maintenant et économisez jusqu'à 444 $ sur votre pass et économisez 60 % par seconde.",
-    "title_fr": "Roy Lee de Cluely se joint à TechCrunch Disrupt 2025 pour montrer comment l'appât de la rage coupe le bruit de l'IA"
+    "description_fr": "Cluely’s Roy Lee isn’t afraid to stir the pot — and he’s taking that bold energy to the Disrupt Stage at TechCrunch Disrupt 2025, happening October 27–29 at San Francisco’s Moscone West. Register now to join, and save up to $444 on your pass and 60% off a second.",
+    "title_fr": "Cluely’s Roy Lee joins TechCrunch Disrupt 2025 to show how rage-baiting cuts through the AI noise"
   },
   {
     "title": "Wonder Studios, backed by OpenAI, DeepMind execs, raised $12M to bring AI content to Hollywood",
@@ -1192,8 +1413,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.138109",
-    "description_fr": "Wonder utilisera les nouveaux fonds pour doubler son équipe d'ingénierie et accélérer sa poussée vers la propriété intellectuelle et la production de contenu original.",
-    "title_fr": "Wonder Studios, soutenu par OpenAI, DeepMind execs, a levé 12 MILLIONS de $ pour apporter du contenu d'IA à Hollywood"
+    "description_fr": "Wonder will use the fresh funds to double its engineering team and accelerate its push into IP ownership and original content production.",
+    "title_fr": "Wonder Studios, backed by OpenAI, DeepMind execs, raised $12M to bring AI content to Hollywood"
   },
   {
     "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025",
@@ -1205,8 +1426,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.138378",
-    "description_fr": "Les tables rondes TechCrunch Disrupt 2025 réunissent des fondateurs, des investisseurs et des opérateurs pour des discussions interactives en petits groupes sur l'IA, la fintech, l'espace, etc. Consultez l'horaire complet et ne manquez pas votre chance d'économiser jusqu'à 444 $ et 60 % de rabais sur un deuxième laissez-passer avant que les prix n'augmentent à la porte.",
-    "title_fr": "Mettez la main à la pâte : la gamme complète de tables rondes interactives à TechCrunch Disrupt 2025"
+    "description_fr": "TechCrunch Disrupt 2025 roundtables bring founders, investors, and operators together for interactive small-group discussions on AI, fintech, space, and more. Check the full schedule, and don’t miss your chance to save up to $444 and 60% off a second pass before prices rise at the door.",
+    "title_fr": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025"
   },
   {
     "title": "Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase",
@@ -1218,7 +1439,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-25T03:20:07.138648",
-    "description_fr": "L'attente de toute l'année est presque terminée ! En seulement 4 jours, TechCrunch Disrupt 2025 prend le contrôle du Moscone West de San Francisco et avec lui l'avenir de la technologie. C'est votre dernière chance de rejoindre les fondateurs, les investisseurs et les innovateurs qui façonnent l'avenir avant que les prix des billets n'augmentent. Économisez jusqu'à 444 $ et 60 % sur un deuxième laissez-passer maintenant.",
+    "description_fr": "The wait all year is almost over! In just 4 days, TechCrunch Disrupt 2025 takes over San Francisco's Moscone West and with it the future of tech. This is your final chance to join the founders, investors, and innovators shaping the future before ticket prices increase. Save up to $444 and 60% on a second pass now.",
     "title_fr": "Only 4 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase"
   },
   {
