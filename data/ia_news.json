@@ -1,5 +1,369 @@
 [
   {
+    "title": "Knowledge preservation powered by ChatGPT",
+    "url": "https://openai.com/index/dai-nippon-printing",
+    "description": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:48:25.635391",
+    "description_fr": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
+    "title_fr": "Knowledge preservation powered by ChatGPT"
+  },
+  {
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
+    "description": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:48:30.211221",
+    "description_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "title_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac"
+  },
+  {
+    "title": "‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/",
+    "description": "Actor Thomas Middleditch had a planned takeover of Australian startup Othelia’s presentation at the pitch showcase stage.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:32.592084",
+    "description_fr": "Actor Thomas Middleditch had a planned takeover of Australian startup Othelia’s presentation at the pitch showcase stage.",
+    "title_fr": "‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025"
+  },
+  {
+    "title": "Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/",
+    "description": "CampusAI is an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:32.592403",
+    "description_fr": "CampusAI is an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
+    "title_fr": "Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025"
+  },
+  {
+    "title": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/",
+    "description": "Super Teacher’s app features animated tutors with AI-generated voices that guide students through interactive lessons. Students talk to the app using voice, like a conversation with a teacher.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:32.592719",
+    "description_fr": "Super Teacher’s app features animated tutors with AI-generated voices that guide students through interactive lessons. Students talk to the app using voice, like a conversation with a teacher.",
+    "title_fr": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025"
+  },
+  {
+    "title": "Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025",
+    "url": "https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
+    "description": "Mappa's AI hiring platform can assess a candidate's behavior based on voice patterns, and aims to take some of the guesswork out of hiring.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:32.592990",
+    "description_fr": "Mappa's AI hiring platform can assess a candidate's behavior based on voice patterns, and aims to take some of the guesswork out of hiring.",
+    "title_fr": "Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025"
+  },
+  {
+    "title": "Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028",
+    "url": "https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/",
+    "description": "To achieve those goals, OpenAI is betting on two key strategies: continued algorithmic innovation and dramatically scaling up \"test time compute\" — essentially how long models spend thinking about problems.",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:32.593266",
+    "description_fr": "To achieve those goals, OpenAI is betting on two key strategies: continued algorithmic innovation and dramatically scaling up \"test time compute\" — essentially how long models spend thinking about problems.",
+    "title_fr": "Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028"
+  },
+  {
+    "title": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser",
+    "url": "https://venturebeat.com/ai/ibms-open-source-granite-4-0-nano-ai-models-are-small-enough-to-run-locally",
+    "description": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that valuesefficiency over enormity, andaccessibility over abstraction.The 114-year-old tech giant'sfour new Granite 4.0 Nano models, released today, range from just 350 million to 1.5 billion parameters, a fraction of the size of their server-bound cousins from the likes of OpenAI, ",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:34.230551",
+    "description_fr": "In an industry where model size is often seen as a proxy for intelligence, IBM is charting a different course — one that valuesefficiency over enormity, andaccessibility over abstraction.The 114-year-old tech giant'sfour new Granite 4.0 Nano models, released today, range from just 350 million to 1.5 billion parameters, a fraction of the size of their server-bound cousins from the likes of OpenAI, ",
+    "title_fr": "IBM's open source Granite 4.0 Nano AI models are small enough to run locally directly in your browser"
+  },
+  {
+    "title": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works",
+    "url": "https://venturebeat.com/ai/microsofts-copilot-can-now-build-apps-and-automate-your-job-heres-how-it",
+    "description": "Microsoftis launching a significant expansion of itsCopilot AI assistanton Tuesday, introducing tools that let employees build applications, automate workflows, and create specialized AI agents using only conversational prompts — no coding required.The new capabilities, calledApp BuilderandWorkflows, mark Microsoft's most aggressive attempt yet to merge artificial intelligence with software develo",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:34.236433",
+    "description_fr": "Microsoftis launching a significant expansion of itsCopilot AI assistanton Tuesday, introducing tools that let employees build applications, automate workflows, and create specialized AI agents using only conversational prompts — no coding required.The new capabilities, calledApp BuilderandWorkflows, mark Microsoft's most aggressive attempt yet to merge artificial intelligence with software develo",
+    "title_fr": "Microsoft’s Copilot can now build apps and automate your job — here’s how it works"
+  },
+  {
+    "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+    "url": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
+    "description": "Sensitive chats are rare but significant given the large user base.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg",
+    "published_date": "2025-10-29",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-10-29T01:48:37.552047",
+    "description_fr": "Sensitive chats are rare but significant given the large user base.",
+    "title_fr": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly"
+  },
+  {
+    "title": "OpenAI restructures, enters ‘next chapter’ of Microsoft partnership",
+    "url": "https://www.artificialintelligence-news.com/news/openai-restructures-next-chapter-microsoft-partnership/",
+    "description": "OpenAI has completed a major reorganisation and, in the same breath, signed a new definitive partnership agreement with Microsoft. Starting with OpenAI’s reorganisation, the aim is to solidify the nonprofit’s control over the for-profit business and establish the newly named OpenAI Foundation as a global philanthropic powerhouse, holding equity in the commercial arm valued at […]The postOpenAI res",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-1.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.535795",
+    "description_fr": "OpenAI has completed a major reorganisation and, in the same breath, signed a new definitive partnership agreement with Microsoft. Starting with OpenAI’s reorganisation, the aim is to solidify the nonprofit’s control over the for-profit business and establish the newly named OpenAI Foundation as a global philanthropic powerhouse, holding equity in the commercial arm valued at […]The postOpenAI res",
+    "title_fr": "OpenAI restructures, enters ‘next chapter’ of Microsoft partnership"
+  },
+  {
+    "title": "OpenAI’s bold India play: Free ChatGPT Go access",
+    "url": "https://www.artificialintelligence-news.com/news/openai-chatgpt-go-free-india-market-strategy/",
+    "description": "OpenAI just made its biggest bet on India yet. Starting November 4, the company will hand out free year-long access to ChatGPT Go — a move that puts every marketing executive on notice about how aggressively AI companies are fighting for the world’s fastest-growing digital market. OpenAI will offer its ChatGPT Go plan to users […]The postOpenAI’s bold India play: Free ChatGPT Go accessappeared fir",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-9.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.537888",
+    "description_fr": "OpenAI just made its biggest bet on India yet. Starting November 4, the company will hand out free year-long access to ChatGPT Go — a move that puts every marketing executive on notice about how aggressively AI companies are fighting for the world’s fastest-growing digital market. OpenAI will offer its ChatGPT Go plan to users […]The postOpenAI’s bold India play: Free ChatGPT Go accessappeared fir",
+    "title_fr": "OpenAI’s bold India play: Free ChatGPT Go access"
+  },
+  {
+    "title": "The engineer’s guide to automating DAST tools",
+    "url": "https://www.artificialintelligence-news.com/news/the-engineers-guide-to-automating-dast-tools/",
+    "description": "In modern software development, speed and security must go hand in hand. Teams are shipping code faster than ever, but such a rapid pace can introduce security vulnerabilities if not managed correctly. Dynamic Application Security Testing (DAST) is an important practice for finding security flaws in running applications. However, manual DAST scans can be slow […]The postThe engineer’s guide to aut",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.541479",
+    "description_fr": "In modern software development, speed and security must go hand in hand. Teams are shipping code faster than ever, but such a rapid pace can introduce security vulnerabilities if not managed correctly. Dynamic Application Security Testing (DAST) is an important practice for finding security flaws in running applications. However, manual DAST scans can be slow […]The postThe engineer’s guide to aut",
+    "title_fr": "The engineer’s guide to automating DAST tools"
+  },
+  {
+    "title": "Why AMD’s work with the DOE matters for enterprise AI strategy",
+    "url": "https://www.artificialintelligence-news.com/news/why-amd-work-with-the-doe-matters-for-enterprise-ai-strategy/",
+    "description": "The U.S. Department of Energy (DOE) and AMD are collaborating on two new AI supercomputers at Oak Ridge National Laboratory (ORNL) as part of a larger AI strategy to advance research in science, energy, and national security — and strengthen the nation’s position in high-performance computing. The two machines represent about $1 billion in public […]The postWhy AMD’s work with the DOE matters for ",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-9.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.543229",
+    "description_fr": "The U.S. Department of Energy (DOE) and AMD are collaborating on two new AI supercomputers at Oak Ridge National Laboratory (ORNL) as part of a larger AI strategy to advance research in science, energy, and national security — and strengthen the nation’s position in high-performance computing. The two machines represent about $1 billion in public […]The postWhy AMD’s work with the DOE matters for ",
+    "title_fr": "Why AMD’s work with the DOE matters for enterprise AI strategy"
+  },
+  {
+    "title": "RavenDB launches database-native AI agent creator to simplify enterprise AI integration",
+    "url": "https://www.artificialintelligence-news.com/news/ravendb-launches-database-native-ai-agent-creator-to-simplify-enterprise-ai-integration/",
+    "description": "Open-source document database platform RavenDB has launched what it calls “the first fully integrated database-native AI Agent Creator,” a tool that makes it easier for enterprises to build and deploy AI agents. The platform tackles a common problem in enterprise AI – the difficulty of connecting models to a company’s own data systems and workflows […]The postRavenDB launches database-native AI ag",
+    "image_url": "",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.545209",
+    "description_fr": "Open-source document database platform RavenDB has launched what it calls “the first fully integrated database-native AI Agent Creator,” a tool that makes it easier for enterprises to build and deploy AI agents. The platform tackles a common problem in enterprise AI – the difficulty of connecting models to a company’s own data systems and workflows […]The postRavenDB launches database-native AI ag",
+    "title_fr": "RavenDB launches database-native AI agent creator to simplify enterprise AI integration"
+  },
+  {
+    "title": "Top 5 AI compute marketplaces reshaping the landscape in 2026",
+    "url": "https://www.artificialintelligence-news.com/news/top-5-ai-compute-marketplaces-reshaping-the-landscape-in-2026/",
+    "description": "With AI workloads becoming more computationally demanding, organisations across the globe are fast realising that traditional centralised providers aren’t always the answer to their burgeoning needs. And while compute giants (like AWS, Google Cloud, and Azure) continue to capture the limelight when it comes to AI processing, a quieter revolution has been brewing. Enter the […]The postTop 5 AI comp",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/Picture2.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.547381",
+    "description_fr": "With AI workloads becoming more computationally demanding, organisations across the globe are fast realising that traditional centralised providers aren’t always the answer to their burgeoning needs. And while compute giants (like AWS, Google Cloud, and Azure) continue to capture the limelight when it comes to AI processing, a quieter revolution has been brewing. Enter the […]The postTop 5 AI comp",
+    "title_fr": "Top 5 AI compute marketplaces reshaping the landscape in 2026"
+  },
+  {
+    "title": "How to fix the AI trust gap in your business",
+    "url": "https://www.artificialintelligence-news.com/news/how-to-fix-the-ai-trust-gap-in-your-business/",
+    "description": "Although people use AI extensively for personal and business purposes, they don’t necessarily fully trust it. For business leaders, using AI is no longer just an option but something they must do to stay competitive. Putting AI into everything, from helpful assistants to automatic processes, could boost productivity and open up new ways to make […]The postHow to fix the AI trust gap in your busine",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-1.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.549334",
+    "description_fr": "Although people use AI extensively for personal and business purposes, they don’t necessarily fully trust it. For business leaders, using AI is no longer just an option but something they must do to stay competitive. Putting AI into everything, from helpful assistants to automatic processes, could boost productivity and open up new ways to make […]The postHow to fix the AI trust gap in your busine",
+    "title_fr": "How to fix the AI trust gap in your business"
+  },
+  {
+    "title": "Re-engineering for better results: The Huawei AI stack",
+    "url": "https://www.artificialintelligence-news.com/news/re-engineering-for-better-results-the-huawei-ai-stack/",
+    "description": "Huawei has released its CloudMatrix 384 AI chip cluster, a new system for AI learning. It employs clusters of Ascend 910C processors, joined via optical links. The distributed architecture means the system can outperform traditional hardware GPU setups, particularly in terms of resource use and on-chip time, despite the individual Ascend chips being less powerful […]The postRe-engineering for bett",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published_date": "2025-10-29",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:41.551580",
+    "description_fr": "Huawei has released its CloudMatrix 384 AI chip cluster, a new system for AI learning. It employs clusters of Ascend 910C processors, joined via optical links. The distributed architecture means the system can outperform traditional hardware GPU setups, particularly in terms of resource use and on-chip time, despite the individual Ascend chips being less powerful […]The postRe-engineering for bett",
+    "title_fr": "Re-engineering for better results: The Huawei AI stack"
+  },
+  {
+    "title": "NPPA Warns Photographers Against Rights Grabs in Credential Agreements",
+    "url": "https://petapixel.com/2025/10/28/nppa-warns-photographers-against-rights-grabs-in-credential-agreements/",
+    "description": "The National Press Photographers Association (NPPA) is warning photojournalists about rights-grabbing credentialing agreements following a recent controversy surrounding The Gazelle Group's credentialing agreements.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/nppa-rights-grabs-gazelle.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.420946",
+    "description_fr": "The National Press Photographers Association (NPPA) is warning photojournalists about rights-grabbing credentialing agreements following a recent controversy surrounding The Gazelle Group's credentialing agreements.[Read More]",
+    "title_fr": "NPPA Warns Photographers Against Rights Grabs in Credential Agreements"
+  },
+  {
+    "title": "KEH’s Annual Gear Expo Is Way More Than a Great Camera Trade-In Event",
+    "url": "https://petapixel.com/2025/10/28/kehs-annual-gear-expo-is-way-more-than-a-great-camera-trade-in-event/",
+    "description": "KEH is gearing up (pun intended) to host its annual Gear Expo & Trade Event, which it calls the Southeast's Ultimate Photography Event. Taking place November 14-15, the pre-owned camera gear dealer promises demos, workshops, and special trade-in savings.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/KEHs-Annual-Gear-Expo-Is-Way-More-Than-a-Great-Camera-Trade-In-Event.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.421764",
+    "description_fr": "KEH is gearing up (pun intended) to host its annual Gear Expo & Trade Event, which it calls the Southeast's Ultimate Photography Event. Taking place November 14-15, the pre-owned camera gear dealer promises demos, workshops, and special trade-in savings.[Read More]",
+    "title_fr": "KEH’s Annual Gear Expo Is Way More Than a Great Camera Trade-In Event"
+  },
+  {
+    "title": "Zettlab’s Sleek New NAS Uses AI to Find the Photos You Want",
+    "url": "https://petapixel.com/2025/10/28/zettlabs-sleek-new-nas-uses-ai-to-find-the-photos-you-want/",
+    "description": "Zettlab, a Shenzhen-based startup founded by former engineers from DJI, Huawei, and ByteDance, has announced a pair of AI-infused storage solutions for digital content creators, the D6 Ultra and D4 NAS.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Zettlab-NAS-AI-PetaPixel-BG.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.422487",
+    "description_fr": "Zettlab, a Shenzhen-based startup founded by former engineers from DJI, Huawei, and ByteDance, has announced a pair of AI-infused storage solutions for digital content creators, the D6 Ultra and D4 NAS.[Read More]",
+    "title_fr": "Zettlab’s Sleek New NAS Uses AI to Find the Photos You Want"
+  },
+  {
+    "title": "How a Photographer Turned His Love of Nature Into an Incredible Career",
+    "url": "https://petapixel.com/2025/10/28/how-a-photographer-turned-his-love-of-nature-into-an-incredible-career/",
+    "description": "Professional landscape photographer Robert Bilos turned his passion for nature and the great outdoors into his career. He explains how his creative philosophy, techniques, and love of the outdoors inform each one of his breathtaking photos.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Robert-Bilos-PetaPixel-BG-3-Panel.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.423194",
+    "description_fr": "Professional landscape photographer Robert Bilos turned his passion for nature and the great outdoors into his career. He explains how his creative philosophy, techniques, and love of the outdoors inform each one of his breathtaking photos.[Read More]",
+    "title_fr": "How a Photographer Turned His Love of Nature Into an Incredible Career"
+  },
+  {
+    "title": "Skylum’s Fall Update Supercharges Luminar Neo With Even More AI",
+    "url": "https://petapixel.com/2025/10/28/skylums-fall-update-supercharges-luminar-neo-with-even-more-ai/",
+    "description": "Skylum has announced the Fall 2025 update to its award-winning Luminar Neo software, promising enhancements to existing tools and all-new features for photographers of all skill levels.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Luminar-Neo-Fall-Update-PetaPixel-BG-3.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.423897",
+    "description_fr": "Skylum has announced the Fall 2025 update to its award-winning Luminar Neo software, promising enhancements to existing tools and all-new features for photographers of all skill levels.[Read More]",
+    "title_fr": "Skylum’s Fall Update Supercharges Luminar Neo With Even More AI"
+  },
+  {
+    "title": "Hollyland Vcore Turns Your Phone Into a Pro Camera Monitor and Much More",
+    "url": "https://petapixel.com/2025/10/28/hollyland-vcore-turns-your-phone-into-a-pro-camera-monitor-and-much-more/",
+    "description": "Hollyland's new Vcore is a compact camera accessory that promises to turn an iPhone or Android smartphone into a professional on-camera monitor, wireless video transmitter, and media management solution.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/hollyland-vcore-4.jpg",
+    "published_date": "2025-10-29",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-10-29T01:48:51.424724",
+    "description_fr": "Hollyland's new Vcore is a compact camera accessory that promises to turn an iPhone or Android smartphone into a professional on-camera monitor, wireless video transmitter, and media management solution.[Read More]",
+    "title_fr": "Hollyland Vcore Turns Your Phone Into a Pro Camera Monitor and Much More"
+  },
+  {
+    "title": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-pii",
+    "description": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
+    "published_date": "2025-10-29",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:49:10.305923",
+    "description_fr": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI",
+    "title_fr": "🛡️ Nemotron PII: Synthesized Data for Privacy-Preserving AI"
+  },
+  {
+    "title": "GSMA Open-Telco LLM Benchmarks 2.0: The first dedicated LLM Evaluation for Telecoms",
+    "url": "https://huggingface.co/blog/otellm/gsma-benchmarks-02",
+    "description": "GSMA Open-Telco LLM Benchmarks 2.0: The first dedicated LLM Evaluation for Telecoms",
+    "image_url": "https://www.gravatar.com/avatar/4935e9d4636208fdd56026e61b44d3c3?d=retro&size=100",
+    "published_date": "2025-10-29",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:49:10.307231",
+    "description_fr": "GSMA Open-Telco LLM Benchmarks 2.0: The first dedicated LLM Evaluation for Telecoms",
+    "title_fr": "GSMA Open-Telco LLM Benchmarks 2.0: The first dedicated LLM Evaluation for Telecoms"
+  },
+  {
+    "title": "Introducing MTEB v2: Evaluation of embedding and retrieval systems for more than just text",
+    "url": "https://huggingface.co/blog/isaacchung/mteb-v2",
+    "description": "Introducing MTEB v2: Evaluation of embedding and retrieval systems for more than just text",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/64cc0e80a257a3212c0c4b24/wqs6WZN8-3OQthcnQXgN7.png",
+    "published_date": "2025-10-29",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:49:10.307753",
+    "description_fr": "Introducing MTEB v2: Evaluation of embedding and retrieval systems for more than just text",
+    "title_fr": "Introducing MTEB v2: Evaluation of embedding and retrieval systems for more than just text"
+  },
+  {
+    "title": "Code a simple RAG from scratch",
+    "url": "https://huggingface.co/blog/ngxson/make-your-own-rag",
+    "description": "Code a simple RAG from scratch",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1674191139776-noauth.png",
+    "published_date": "2025-10-29",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-10-29T01:49:10.308766",
+    "description_fr": "Code a simple RAG from scratch",
+    "title_fr": "Code a simple RAG from scratch"
+  },
+  {
     "title": "Seizing the AI opportunity",
     "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
     "description": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
@@ -503,8 +867,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-28T18:33:34.272674",
-    "description_fr": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
-    "title_fr": "Doppel’s AI defense system stops attacks before they spread"
+    "description_fr": "Découvrez comment Doppel utilise le GPT-5 et le réglage fin de renforcement (RFT) d'OpenAI pour arrêter les attaques de deepfake et d'usurpation d'identité avant qu'elles ne se propagent, réduisant la charge de travail des analystes de 80 % et réduisant la réponse aux menaces de quelques heures à quelques minutes.",
+    "title_fr": "Le système de défense IA de Doppel arrête les attaques avant qu'elles ne se propagent"
   },
   {
     "title": "Built to benefit everyone",
@@ -516,8 +880,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-28T18:33:34.273084",
-    "description_fr": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
-    "title_fr": "Built to benefit everyone"
+    "description_fr": "La recapitalisation d'OpenAI renforce la gouvernance axée sur la mission, élargissant les ressources pour s'assurer que l'IA profite à tous tout en faisant progresser l'innovation de manière responsable.",
+    "title_fr": "Construit pour profiter à tous"
   },
   {
     "title": "The next chapter of the Microsoft–OpenAI partnership",
@@ -529,8 +893,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-28T18:33:34.273409",
-    "description_fr": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
-    "title_fr": "The next chapter of the Microsoft–OpenAI partnership"
+    "description_fr": "Microsoft et OpenAI signent un nouvel accord qui renforce leur partenariat à long terme, élargit l'innovation et garantit des progrès responsables en matière d'IA.",
+    "title_fr": "Le prochain chapitre du partenariat Microsoft-OpenAI"
   },
   {
     "title": "Meet the 11 startups using AI to build a safer digital future in Latin America",
@@ -542,8 +906,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-28T18:33:37.442798",
-    "description_fr": "Google for Startups Accelerator: AI for Cybersecurity Class of 2025 with ten partner logos.",
-    "title_fr": "Meet the 11 startups using AI to build a safer digital future in Latin America"
+    "description_fr": "Google for Startups Accelerator : AI for Cybersecurity Class of 2025 avec dix logos de partenaires.",
+    "title_fr": "Rencontrez les 11 startups qui utilisent l'IA pour construire un avenir numérique plus sûr en Amérique latine"
   },
   {
     "title": "Voice Cloning with Consent",
@@ -555,8 +919,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-28T18:33:38.496726",
-    "description_fr": "Voice Cloning with Consent",
-    "title_fr": "Voice Cloning with Consent"
+    "description_fr": "Clonage vocal avec consentement",
+    "title_fr": "Clonage vocal avec consentement"
   },
   {
     "title": "You’ll be able to pay with PayPal in ChatGPT next year",
@@ -568,8 +932,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:39.479166",
-    "description_fr": "PayPal announced today that you’ll be able to use its wallet to make purchases directly through ChatGPT beginning sometime in 2026. The recently-added Instant Checkout feature in ChatGPT will have an option to pay with PayPal, using the same interface you already see when checking out with PayPal through other services. You’ll have access to […]",
-    "title_fr": "You’ll be able to pay with PayPal in ChatGPT next year"
+    "description_fr": "PayPal a annoncé aujourd'hui que vous pourrez utiliser son portefeuille pour effectuer des achats directement via ChatGPT à partir de 2026. La fonctionnalité de paiement instantané récemment ajoutée dans ChatGPT aura la possibilité de payer avec PayPal, en utilisant la même interface que vous voyez déjà lors du paiement avec PayPal via d'autres services. Vous aurez accès à […]",
+    "title_fr": "Vous pourrez payer avec PayPal dans ChatGPT l'année prochaine"
   },
   {
     "title": "GitHub is launching a hub for multiple AI coding agents",
@@ -581,8 +945,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:39.479924",
-    "description_fr": "GitHub is giving developers access to third-party AI coding agents with the launch of a new “Agent HQ.” Instead of just using GitHub Copilot, developers will get to try OpenAI’s Codex, Anthropic’s Claude, Google’s Jules, xAI, and Cognition’s Devin within GitHub in the coming months. Developers with a GitHub Copilot subscription will be able to […]",
-    "title_fr": "GitHub is launching a hub for multiple AI coding agents"
+    "description_fr": "GitHub donne aux développeurs l'accès à des agents de codage IA tiers avec le lancement d'un nouveau « siège d'agent ». « Au lieu d'utiliser simplement GitHub Copilot, les développeurs pourront essayer le Codex d'OpenAI, Claude d'Anthropic, Jules de Google, xAI et Devin de Cognition dans GitHub dans les mois à venir. Les développeurs disposant d'un abonnement GitHub Copilot pourront […]",
+    "title_fr": "GitHub lance un hub pour plusieurs agents de codage IA"
   },
   {
     "title": "OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft",
@@ -594,8 +958,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:39.481138",
-    "description_fr": "OpenAI’s controversial for-profit restructuring is finally complete, along with a new deal with Microsoft that covers its upcoming plans for consumer hardware and what the next steps are if AGI (artificial general intelligence) is ever achieved. The company’s for-profit arm is now a public benefit corporation, dubbed OpenAI Group PBC. The nonprofit is now called […]",
-    "title_fr": "OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft"
+    "description_fr": "La restructuration controversée à but lucratif d'OpenAI est enfin terminée, ainsi qu'un nouvel accord avec Microsoft qui couvre ses plans à venir pour le matériel grand public et quelles sont les prochaines étapes si l'agi (intelligence générale artificielle) est jamais réalisée. La branche à but lucratif de la société est désormais une société d'utilité publique, baptisée OpenAI Group PBC. L'organisation à but non lucratif s'appelle maintenant […]",
+    "title_fr": "OpenAI a achevé sa restructuration à but lucratif — et a conclu un nouvel accord avec Microsoft"
   },
   {
     "title": "Adobe Max 2025: all the latest creative tools and AI announcements",
@@ -607,8 +971,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:39.482307",
-    "description_fr": "Adobe has kicked off its annual Max design conference, where it’ll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models. The creative software giant is launching new generative AI tools that make digital voiceovers and custom soundtracks for videos, and adding AI assistants to […]",
-    "title_fr": "Adobe Max 2025: all the latest creative tools and AI announcements"
+    "description_fr": "Adobe a lancé sa conférence annuelle sur le design Max, où elle nous donnera un premier aperçu des dernières mises à jour de ses applications Creative Cloud et de ses modèles d'IA Firefly. Le géant des logiciels créatifs lance de nouveaux outils d'IA génératifs qui font des voix off numériques et des bandes sonores personnalisées pour les vidéos, et ajoute des assistants d'IA à […]",
+    "title_fr": "Adobe Max 2025 : tous les derniers outils créatifs et annonces d'IA"
   },
   {
     "title": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025",
@@ -620,8 +984,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.410905",
-    "description_fr": "Elloe AI promises a system capable of fact-checking AI outputs, make sure they don’t violate laws and regulations, and that are safe for the users.",
-    "title_fr": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025"
+    "description_fr": "Elloe AI promet un système capable de vérifier les sorties de l'IA, de s'assurer qu'elles ne violent pas les lois et règlements, et qui sont sans danger pour les utilisateurs.",
+    "title_fr": "Elloe AI veut être le « système immunitaire » de l'IA — consultez-le à Disrupt 2025"
   },
   {
     "title": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI",
@@ -633,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.411242",
-    "description_fr": "Khosla Ventures founder, Vinod Khosla, shares his ideas about sharing the abundance of AI.",
-    "title_fr": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI"
+    "description_fr": "Vinod Khosla, fondateur de Khosla Ventures, partage ses idées sur le partage de l'abondance de l'IA.",
+    "title_fr": "VC Vinod Khosla dit que le gouvernement américain pourrait prendre une participation de 10% dans toutes les entreprises publiques pour adoucir le coup d'agi"
   },
   {
     "title": "Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps",
@@ -646,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.411591",
-    "description_fr": "The idea of memory for AI isn’t new, but it’s quickly becoming a critical battleground.",
-    "title_fr": "Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps"
+    "description_fr": "L'idée de mémoire pour l'IA n'est pas nouvelle, mais elle devient rapidement un champ de bataille critique.",
+    "title_fr": "Mem0 lève 24 M $ auprès de YC, Peak XV et Basis Set pour construire la couche mémoire des applications d'IA"
   },
   {
     "title": "UNC Chancellor Lee Roberts on pushing his university into the AI age",
@@ -659,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.411883",
-    "description_fr": "This week on StrictlyVC Download, Connie Loizos sits down with Lee Roberts, chancellor of the University of North Carolina at Chapel Hill, to discuss his ambitious plan to make AI the university’s North Star amid a tumultuous year. Roberts walks through his decision to merge UNC’s School of Data Science and Society with its School […]",
-    "title_fr": "UNC Chancellor Lee Roberts on pushing his university into the AI age"
+    "description_fr": "Cette semaine, sur StrictlyVC Download, Connie Loizos s'entretient avec Lee Roberts, chancelier de l'Université de Caroline du Nord à Chapel Hill, pour discuter de son plan ambitieux visant à faire de l'IA l'étoile du Nord de l'université au milieu d'une année tumultueuse. Roberts passe en revue sa décision de fusionner l'École des sciences et de la société des données de l'UNC avec son École […]",
+    "title_fr": "Le chancelier de l'UNC Lee Roberts sur la poussée de son université à l'ère de l'IA"
   },
   {
     "title": "OpenAI completes its for-profit recapitalization",
@@ -672,8 +1036,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.412166",
-    "description_fr": "OpenAI has completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation.",
-    "title_fr": "OpenAI completes its for-profit recapitalization"
+    "description_fr": "OpenAI a achevé sa recapitalisation, divisant le laboratoire d'IA en une société à but lucratif nichée au sein d'une fondation à but non lucratif.",
+    "title_fr": "OpenAI achève sa recapitalisation à but lucratif"
   },
   {
     "title": "TechCrunch Disrupt 2025: Day 2",
@@ -685,8 +1049,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:40.412452",
-    "description_fr": "Second day of TechCrunch Disrupt 2025 at San Francisco's Moscone West. Here's the rundown on what to expect, including the 50% discount on passes for remainder of the event.",
-    "title_fr": "TechCrunch Disrupt 2025: Day 2"
+    "description_fr": "Deuxième jour de TechCrunch Disrupt 2025 au Moscone West de San Francisco. Voici le récapitulatif de ce à quoi vous attendre, y compris la réduction de 50 % sur les laissez-passer pour le reste de l'événement.",
+    "title_fr": "TechCrunch Disrupt 2025 : Jour 2"
   },
   {
     "title": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control",
@@ -698,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-28T18:33:42.295663",
-    "description_fr": "GitHubis making a bold bet that enterprises don't need another proprietary coding agent. They need a way to manage all of them.At its Universe 2025 conference, the Microsoft-owned developer platform announced Agent HQ. The new architecture transforms GitHub into a unified control plane for managing multiple AI coding agents from competitors including Anthropic, OpenAI, Google, Cognition and xAI. R",
-    "title_fr": "GitHub's Agent HQ aims to solve enterprises' biggest AI coding problem: Too many agents, no central control"
+    "description_fr": "GitHub fait le pari audacieux que les entreprises n'ont pas besoin d'un autre agent de codage propriétaire. Ils ont besoin d'un moyen de tous les gérer. Lors de sa conférence Universe 2025, la plate-forme de développement appartenant à Microsoft a annoncé Agent HQ. La nouvelle architecture transforme GitHub en un plan de contrôle unifié pour gérer plusieurs agents de codage IA de concurrents, notamment Anthropic, OpenAI, Google, Cognition et xAI. R",
+    "title_fr": "Le siège des agents de GitHub vise à résoudre le plus grand problème de codage de l'IA des entreprises : trop d'agents, pas de contrôle central"
   },
   {
     "title": "Intuit learned to build AI agents for finance the hard way: Trust lost in buckets, earned back in spoonfuls",
@@ -1027,6 +1391,19 @@
     "title_fr": "Granite 4.0 Nano: Just how small can you go?"
   },
   {
+    "title": "Senators propose banning teens from using AI chatbots",
+    "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
+    "description": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News.  The bill comes just weeks […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/30f782a9.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-10-28",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-10-29T01:48:31.180038",
+    "description_fr": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News.  The bill comes just weeks […]",
+    "title_fr": "Senators propose banning teens from using AI chatbots"
+  },
+  {
     "title": "Introducing vibe coding in Google AI Studio",
     "url": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
     "description": "Vibe Coding in Google AI Studio",
@@ -1036,8 +1413,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T01:51:26.453006",
-    "description_fr": "Codage Vibe dans Google AI Studio",
-    "title_fr": "Présentation du vibe coding dans Google AI Studio"
+    "description_fr": "Vibe Coding in Google AI Studio",
+    "title_fr": "Introducing vibe coding in Google AI Studio"
   },
   {
     "title": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals",
@@ -1049,8 +1426,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T01:51:30.362772",
-    "description_fr": "Le compte à rebours est presque terminé — demain est le jour ! En moins de 24 heures, TechCrunch Disrupt 2025 prend le contrôle de Moscone West. Du 27 au 29 octobre, 10 000 fondateurs, investisseurs et innovateurs inonderont San Francisco pendant trois jours de construction, de connexion et de négociation. Nous ne sommes qu'à quelques jours de démonstrations en direct de technologies jamais vues auparavant et de pitchs à enjeux élevés en tant que […]",
-    "title_fr": "TechCrunch Disrupt 2025 commence dans moins de 24 heures — profitez de nos dernières offres de billets"
+    "description_fr": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
+    "title_fr": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals"
   },
   {
     "title": "From human clicks to machine intent: Preparing the web for agentic AI",
@@ -1062,8 +1439,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T01:51:32.379492",
-    "description_fr": "Pendant trois décennies, le web a été conçu avec un seul public en tête : les gens. Les pages sont optimisées pour les yeux humains, les clics et l'intuition. Mais alors que les agents pilotés par l'IA commencent à naviguer en notre nom, les premières hypothèses humaines intégrées à Internet sont exposées comme fragiles. La montée de la navigation authentique - où un navigateur ne se contente pas d'afficher des pages mais agit — marque également le début de ce changement.",
-    "title_fr": "Des clics humains à l'intention de la machine : préparer le Web à l'IA agentique"
+    "description_fr": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-driven agents begin to browse on our behalf, the human-first assumptions built into the internet are being exposed as fragile.The rise ofagentic browsing— where a browser doesn’t just show pages but takes action — marks the beginning of this shift. Too",
+    "title_fr": "From human clicks to machine intent: Preparing the web for agentic AI"
   },
   {
     "title": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development",
@@ -1075,8 +1452,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-10-27T01:51:39.234291",
-    "description_fr": "La conférence ROSCon de cette année se dirige vers Singapour, réunissant la communauté mondiale des développeurs de robotique derrière Robot Operating System (ROS) — le cadre ouvert le plus largement adopté au monde pour la construction de robots. Lors de la conférence, qui s'est déroulée jusqu'au mercredi 29 octobre, NVIDIA a annoncé des collaborations avec des partenaires et l'Open Source Robotics Alliance (OSRA), ainsi qu'un nouvel article sur la robotique.",
-    "title_fr": "NVIDIA contribue aux cadres ouverts pour le développement de la robotique de nouvelle génération"
+    "description_fr": "This year’s ROSCon conference heads to Singapore, bringing together the global robotics developer community behind Robot Operating System (ROS) — the world’s most widely adopted open framework for building robots. At the conference, running through Wednesday, Oct. 29, NVIDIA announced collaborations with partners and the Open Source Robotics Alliance (OSRA), as well as new roboticsRead Article",
+    "title_fr": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development"
   },
   {
     "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
@@ -1088,8 +1465,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-10-27T01:52:00.485393",
-    "description_fr": "Post-entraînement Isaac GR00T N1.5 pour bras LeRobot SO-101",
-    "title_fr": "Post-entraînement Isaac GR00T N1.5 pour bras LeRobot SO-101"
+    "description_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "title_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
   },
   {
     "title": "Are Kids Still Looking for Careers in Tech?",
@@ -1101,8 +1478,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.205539",
-    "description_fr": "L'IA change les carrières possibles pour les étudiants intéressés par les matières STEM. WIRED s'est entretenu avec cinq scientifiques en herbe pour savoir comment ils se préparent pour l'avenir.",
-    "title_fr": "Les enfants sont-ils toujours à la recherche d'une carrière dans la technologie ?"
+    "description_fr": "AI is changing what careers are possible for students interested in STEM subjects. WIRED spoke with five aspiring scientists to find out how they’re preparing for the future.",
+    "title_fr": "Are Kids Still Looking for Careers in Tech?"
   },
   {
     "title": "AI and the End of Accents",
@@ -1114,8 +1491,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.205836",
-    "description_fr": "J'ai l'air coréen - parce que je suis coréen. L'IA peut-elle me faire paraître américain ?",
-    "title_fr": "L'IA et la fin des accents"
+    "description_fr": "I sound Korean—because I am Korean. Can AI make me sound American?",
+    "title_fr": "AI and the End of Accents"
   },
   {
     "title": "AI’s Next Frontier? An Algorithm for Consciousness",
@@ -1127,8 +1504,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.206102",
-    "description_fr": "Certains des penseurs les plus intéressants du monde sur la pensée pensent qu'ils ont peut-être craqué la sensibilité de la machine. Et je pense qu'ils pourraient être sur quelque chose.",
-    "title_fr": "La prochaine frontière de l'IA ? Un algorithme pour la conscience"
+    "description_fr": "Some of the world’s most interesting thinkers about thinking think they might’ve cracked machine sentience. And I think they might be onto something.",
+    "title_fr": "AI’s Next Frontier? An Algorithm for Consciousness"
   },
   {
     "title": "Rise of the Killer Chatbots",
@@ -1140,7 +1517,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.206357",
-    "description_fr": "Sur une piste d'atterrissage quelque part au Texas, un essaim de jets tueurs s'approche - contrôlés par, entre autres, un grand modèle linguistique.",
+    "description_fr": "On an airstrip somewhere in Texas, a swarm of killer jets approaches—controlled by, of all things, a large language model.",
     "title_fr": "Rise of the Killer Chatbots"
   },
   {
@@ -1153,8 +1530,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.206619",
-    "description_fr": "Ils ne voulaient pas mettre leurs enfants au milieu - alors ils y ont mis une machine à la place.",
-    "title_fr": "Divorcé ? Avec des enfants ? Et un ex impossible ? Il y a une IA pour cela"
+    "description_fr": "They didn’t want to put their children in the middle—so they put a machine there instead.",
+    "title_fr": "Divorced? With Kids? And an Impossible Ex? There’s AI for That"
   },
   {
     "title": "AI Is Not God",
@@ -1166,8 +1543,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.206855",
-    "description_fr": "Ces derniers temps, il y a eu deux réveils techno-religieux. Voici le troisième ?",
-    "title_fr": "L'IA n'est pas Dieu"
+    "description_fr": "In recent times, there have been two techno-religious awakenings. Here comes the third?",
+    "title_fr": "AI Is Not God"
   },
   {
     "title": "I Tried to Have Sex With AI Clive Owen",
@@ -1179,8 +1556,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.207088",
-    "description_fr": "Et quand ça n'a pas marché, j'ai fait l'amour avec AI Pedro Pascal.",
-    "title_fr": "J'ai essayé d'avoir des relations sexuelles avec AI Clive Owen"
+    "description_fr": "And when that didn’t work, I did have sex with AI Pedro Pascal.",
+    "title_fr": "I Tried to Have Sex With AI Clive Owen"
   },
   {
     "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
@@ -1192,8 +1569,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.207321",
-    "description_fr": "Il est l'une des voix les plus fortes des haineux de l'IA, tout comme il le fait pour les relations publiques des entreprises de l'IA. Quoi qu'il en soit, Ed Zitron a votre attention.",
-    "title_fr": "Ed Zitron est payé pour aimer l'IA. Il est également payé pour détester l'IA"
+    "description_fr": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+    "title_fr": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI"
   },
   {
     "title": "AI of a Thousand Faces",
@@ -1205,8 +1582,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.207586",
-    "description_fr": "Que se passe-t-il maintenant que l'IA est partout et dans tout ? WIRED ne peut pas prédire l'avenir, mais nous pouvons essayer de lui donner un sens. Voyez : 17 lectures des confins de l'âge de l'IA.",
-    "title_fr": "L'IA aux mille visages"
+    "description_fr": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+    "title_fr": "AI of a Thousand Faces"
   },
   {
     "title": "Millions Are Confessing Their Secrets to Chatbots. Is That Therapy?",
@@ -1218,8 +1595,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:37.207829",
-    "description_fr": "C'est l'histoire de deux personnes - et de leurs compagnons ChatGPT - qui tentent d'améliorer leur vie grâce à l'IA. Ces relations, il est clair, nous changent.",
-    "title_fr": "Des millions de personnes confessent leurs secrets aux chatbots. Est-ce que c'est une thérapie ?"
+    "description_fr": "This is the story of two people—and their ChatGPT companions—trying to improve their lives through AI. These relationships, it is clear, are changing us.",
+    "title_fr": "Millions Are Confessing Their Secrets to Chatbots. Is That Therapy?"
   },
   {
     "title": "L'IA ne remplacera pas l'humain, elle peut aider à le sauver",
@@ -1231,8 +1608,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:42.959950",
-    "description_fr": "Chaque jour, l'intelligence artificielle s'impose un peu plus dans nos vies : elle trie nos e-mails, anticipe nos déplacements, corrige nos mots, bientôt nos gestes.",
-    "title_fr": "L'IA ne remplace pas l'humain, elle peut aider au sauver"
+    "description_fr": "Chaque jour, l'intelligence artificielle s'immisce un peu plus dans nos vies : elle trie nos e-mails, anticipe nos déplacements, corrige nos mots, bientôt nos gestes.",
+    "title_fr": "L'IA ne remplacera pas l'humain, elle peut aider à le sauver"
   },
   {
     "title": "Vers une finance augmentée : les grandes tendances IA à suivre",
@@ -1244,7 +1621,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:42.960466",
-    "description_fr": "En 2025, l'air est venue s'imposer comme un levier stratégique majeur pour la finance, alliant automatisation, agents autonomes et conformité renforcée.",
+    "description_fr": "En 2025, l'IA est venue s'imposer comme un levier stratégique majeur pour la finance, alliant automatisation, agents autonomes et conformité renforcée.",
     "title_fr": "Vers une finance augmentée : les grandes tendances IA à suivre"
   },
   {
@@ -1257,8 +1634,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:42.960965",
-    "description_fr": "En cette période d'expérimentations massives, certaines entreprises ne se contentent pas d'ajouter l'air à leurs pratiques habituelles. Elles l'utilisent pour résoudre des problèmes déjà présents.",
-    "title_fr": "Déploiement de l'air : passer de la tentation technologique à l'impact réel"
+    "description_fr": "En cette période d'expérimentations massives, certaines entreprises ne se contentent pas d'ajouter l'IA à leurs pratiques habituelles. Elles l'utilisent pour résoudre des problèmes déjà présents.",
+    "title_fr": "Déploiement de l'IA : passer de la tentation technologique à l'impact réel"
   },
   {
     "title": "Comment sécuriser vos agents IA en 4 étapes",
@@ -1270,7 +1647,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-27T12:47:42.961422",
-    "description_fr": "Sécuriser un agent d'air relève avant tout d'une bonne connaissance des risques, combinée à une hygiène numérique saine.",
+    "description_fr": "Sécuriser un agent d'IA relève avant tout d'une bonne connaissance des risques, combinée à une hygiène numérique saine.",
     "title_fr": "Comment sécuriser vos agents IA en 4 étapes"
   },
   {
@@ -1283,8 +1660,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-27T12:47:53.343351",
-    "description_fr": "L'iPhone 17 est sorti depuis plus d'un mois maintenant, mais pour les photographes de smartphones qui souhaitent utiliser le projet Indigo d'Adobe pour tourner, ils ont été déçus - jusqu'à présent.[En savoir plus]",
-    "title_fr": "les photographes de l'iPhone 17 peuvent désormais filmer sur l'application Project Indigo d'Adobe"
+    "description_fr": "The iPhone 17 has been out for over a month now, but for smartphone photographers wanting to use Adobe's Project Indigo to shoot on, they have been left disappointed -- until now.[Read More]",
+    "title_fr": "iPhone 17 Photographers Can Now Shoot on Adobe’s Project Indigo App"
   },
   {
     "title": "Strengthening ChatGPT’s responses in sensitive conversations",
@@ -1296,8 +1673,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:01.591346",
-    "description_fr": "OpenAI a collaboré avec plus de 170 experts en santé mentale pour améliorer la capacité de ChatGPT à reconnaître la détresse, à réagir avec empathie et à guider les utilisateurs vers un soutien réel, réduisant jusqu'à 80 % les réponses dangereuses. Découvrez comment nous rendons ChatGPT plus sûr et plus solidaire dans les moments sensibles.",
-    "title_fr": "Renforcer les réponses de ChatGPT dans les conversations sensibles"
+    "description_fr": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
+    "title_fr": "Strengthening ChatGPT’s responses in sensitive conversations"
   },
   {
     "title": "Addendum to GPT-5 System Card: Sensitive conversations",
@@ -1309,7 +1686,7 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-10-27T18:32:01.591764",
-    "description_fr": "Cette carte système détaille les améliorations de GPT-5 dans le traitement des conversations sensibles, y compris de nouveaux repères pour la dépendance émotionnelle, la santé mentale et la résistance au jailbreak.",
+    "description_fr": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
     "title_fr": "Addendum to GPT-5 System Card: Sensitive conversations"
   },
   {
@@ -1777,7 +2154,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-26T18:28:50.292093",
-    "description_fr": "Le compte à rebours est presque terminé — demain est le jour ! En moins de 24 heures, TechCrunch Disrupt 2025 prend le contrôle de Moscone West. Du 27 au 29 octobre, 10 000 fondateurs, investisseurs et innovateurs inonderont San Francisco pendant trois jours de construction, de connexion et de négociation. Nous ne sommes qu'à quelques jours de démonstrations en direct de technologies jamais vues auparavant et de pitchs à enjeux élevés en tant que […]",
+    "description_fr": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
     "title_fr": "Less than 24 hours until 10,000 founders, investors, and innovators hit TechCrunch Disrupt 2025 — and ticket rates rise"
   },
   {
@@ -6121,382 +6498,5 @@
     "collected_at": "2025-10-21T08:07:03.976709",
     "description_fr": "Healthcare regulator MHRA is fast-tracking new AI tools that promise to dramatically improve patient care.  The wait for medical test results can stretch from days, to weeks, or even months. That wait period is often filled with worry and it always feels like an eternity. But what if that wait could be cut from weeks […]The postMHRA fast-tracks next wave of AI tools for patient careappeared first ",
     "title_fr": "MHRA fast-tracks next wave of AI tools for patient care"
-  },
-  {
-    "title": "NVIDIA GPUs to power Oracle’s next-gen enterprise AI services",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-gpus-power-oracle-next-gen-enterprise-ai-services/",
-    "description": "Oracle and NVIDIA have expanded their partnership to make enterprise AI services more available, powerful, and practical. The announcements, made during Oracle AI World, cover everything from monstrously powerful new hardware to deeply integrated software that aims to put AI at the very core of a company’s data. Ian Buck, VP of Hyperscale and High-Performance […]The postNVIDIA GPUs to power Oracle",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-1.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.978281",
-    "description_fr": "Oracle and NVIDIA have expanded their partnership to make enterprise AI services more available, powerful, and practical. The announcements, made during Oracle AI World, cover everything from monstrously powerful new hardware to deeply integrated software that aims to put AI at the very core of a company’s data. Ian Buck, VP of Hyperscale and High-Performance […]The postNVIDIA GPUs to power Oracle",
-    "title_fr": "NVIDIA GPUs to power Oracle’s next-gen enterprise AI services"
-  },
-  {
-    "title": "How Huawei is building agentic AI systems that make decisions independently",
-    "url": "https://www.artificialintelligence-news.com/news/huawei-agentic-ai-systems/",
-    "description": "In a cement plant operated by Conch Group, an agentic AI system built on Huawei infrastructure now predicts the strength of clinker with over 90% accuracy and autonomously adjusts calcination parameters to cut coal consumption by 1%—decisions that previously required human expertise accumulated over decades This exemplifies how Huawei is developing agentic AI systems that […]The postHow Huawei is ",
-    "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f924.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.979714",
-    "description_fr": "In a cement plant operated by Conch Group, an agentic AI system built on Huawei infrastructure now predicts the strength of clinker with over 90% accuracy and autonomously adjusts calcination parameters to cut coal consumption by 1%—decisions that previously required human expertise accumulated over decades This exemplifies how Huawei is developing agentic AI systems that […]The postHow Huawei is ",
-    "title_fr": "How Huawei is building agentic AI systems that make decisions independently"
-  },
-  {
-    "title": "Cisco: Only 13% have a solid AI strategy and they’re lapping rivals",
-    "url": "https://www.artificialintelligence-news.com/news/cisco-only-13-percent-solid-ai-strategy-and-lapping-rivals/",
-    "description": "If you’ve ever thought companies talk more than act when it comes to their AI strategy, a new Cisco report backs you up. It turns out that just 13 percent globally are actually prepared for the AI revolution. However, this small group – which Cisco calls the ‘Pacesetters’ – are lapping the competition. The third […]The postCisco: Only 13% have a solid AI strategy and they’re lapping rivalsappeared",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-1.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.982246",
-    "description_fr": "If you’ve ever thought companies talk more than act when it comes to their AI strategy, a new Cisco report backs you up. It turns out that just 13 percent globally are actually prepared for the AI revolution. However, this small group – which Cisco calls the ‘Pacesetters’ – are lapping the competition. The third […]The postCisco: Only 13% have a solid AI strategy and they’re lapping rivalsappeared",
-    "title_fr": "Cisco: Only 13% have a solid AI strategy and they’re lapping rivals"
-  },
-  {
-    "title": "Salesforce commits $15 billion to boost AI growth in San Francisco",
-    "url": "https://www.artificialintelligence-news.com/news/salesforce-commits-15-billion-to-boost-ai-growth-in-san-francisco/",
-    "description": "Salesforce plans to invest $15 billion in San Francisco over the next five years to help businesses adopt AI. The move underscores the company’s push to stay competitive as AI becomes central to enterprise software. Founded and headquartered in San Francisco since 1999, Salesforce has been adding AI features across its products, including the workplace […]The postSalesforce commits $15 billion to ",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-5.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.983206",
-    "description_fr": "Salesforce plans to invest $15 billion in San Francisco over the next five years to help businesses adopt AI. The move underscores the company’s push to stay competitive as AI becomes central to enterprise software. Founded and headquartered in San Francisco since 1999, Salesforce has been adding AI features across its products, including the workplace […]The postSalesforce commits $15 billion to ",
-    "title_fr": "Salesforce commits $15 billion to boost AI growth in San Francisco"
-  },
-  {
-    "title": "Meta and Oracle choose NVIDIA Spectrum-X for AI data centres",
-    "url": "https://www.artificialintelligence-news.com/news/meta-and-oracle-choose-nvidia-spectrum-x-for-ai-data-centres/",
-    "description": "Meta and Oracle are upgrading their AI data centres with NVIDIA’s Spectrum-X Ethernet networking switches — technology built to handle the growing demands of large-scale AI systems. Both companies are adopting Spectrum-X as part of an open networking framework designed to improve AI training efficiency and accelerate deployment across massive compute clusters. Jensen Huang, NVIDIA’s […]The postMet",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-4.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.984149",
-    "description_fr": "Meta and Oracle are upgrading their AI data centres with NVIDIA’s Spectrum-X Ethernet networking switches — technology built to handle the growing demands of large-scale AI systems. Both companies are adopting Spectrum-X as part of an open networking framework designed to improve AI training efficiency and accelerate deployment across massive compute clusters. Jensen Huang, NVIDIA’s […]The postMet",
-    "title_fr": "Meta and Oracle choose NVIDIA Spectrum-X for AI data centres"
-  },
-  {
-    "title": "Vibe analytics for data insights that are simple to surface",
-    "url": "https://www.artificialintelligence-news.com/news/vibe-analytics-for-data-insights-that-are-simple-to-surface/",
-    "description": "Every business, big or small, has a wealth of valuable data that can inform impactful decisions. But to extract insights, there’s usually a good deal of manual work that needs to be done on raw data, either by semitechnical users (such as founders and product leaders), or dedicated – and expensive – data specialists.  Either […]The postVibe analytics for data insights that are simple to surfaceapp",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-3.png",
-    "published_date": "2025-10-21",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-21T08:07:03.985072",
-    "description_fr": "Every business, big or small, has a wealth of valuable data that can inform impactful decisions. But to extract insights, there’s usually a good deal of manual work that needs to be done on raw data, either by semitechnical users (such as founders and product leaders), or dedicated – and expensive – data specialists.  Either […]The postVibe analytics for data insights that are simple to surfaceapp",
-    "title_fr": "Vibe analytics for data insights that are simple to surface"
-  },
-  {
-    "title": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation",
-    "url": "https://blogs.nvidia.com/blog/open-source-ai-week/",
-    "description": "NVIDIA’s on the ground at Open Source AI Week. Stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward. Follow NVIDIA AI Developer on social channels for additional news and insights. Andrej Karpathy’s Nanochat Teaches Developers How to Train LLMs in Four Hours 🔗 Computer scientist AndrejRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/gtc25-llm-oss-blog-3676650-1280x680-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.518418",
-    "description_fr": "NVIDIA’s on the ground at Open Source AI Week. Stay tuned for a celebration highlighting the spirit of innovation, collaboration and community that drives open-source AI forward. Follow NVIDIA AI Developer on social channels for additional news and insights. Andrej Karpathy’s Nanochat Teaches Developers How to Train LLMs in Four Hours 🔗 Computer scientist AndrejRead Article",
-    "title_fr": "Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation"
-  },
-  {
-    "title": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization",
-    "url": "https://blogs.nvidia.com/blog/nvidia-google-cloud-enterprise-ai-industrial-digitalization/",
-    "description": "NVIDIA and Google Cloud are expanding access to accelerated computing to transform the full spectrum of enterprise workloads, from visual computing to agentic and physical AI. Google Cloud today announced the general availability of G4 VMs, powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs. Plus, NVIDIA Omniverse and NVIDIA Isaac Sim are nowRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/partner-promo-google-cloudg4-blog-1920x1080-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.518596",
-    "description_fr": "NVIDIA and Google Cloud are expanding access to accelerated computing to transform the full spectrum of enterprise workloads, from visual computing to agentic and physical AI. Google Cloud today announced the general availability of G4 VMs, powered by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs. Plus, NVIDIA Omniverse and NVIDIA Isaac Sim are nowRead Article",
-    "title_fr": "NVIDIA and Google Cloud Accelerate Enterprise AI and Industrial Digitalization"
-  },
-  {
-    "title": "How AI Is Unlocking Level 4 Autonomous Driving",
-    "url": "https://blogs.nvidia.com/blog/level-4-autonomous-driving-ai/",
-    "description": "When the Society of Automotive Engineers established its framework for vehicle autonomy in 2014, it created the industry-standard roadmap for self-driving technology. The levels of automation progress from level 1 (driver assistance) to level 2 (partial automation), level 3 (conditional automation), level 4 (high automation) and level 5 (full automation). Predicting when each level wouldRead Artic",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2018/01/automotive-key-visual-corp-blog-level4-av-og-1280x680-1.png",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.518723",
-    "description_fr": "When the Society of Automotive Engineers established its framework for vehicle autonomy in 2014, it created the industry-standard roadmap for self-driving technology. The levels of automation progress from level 1 (driver assistance) to level 2 (partial automation), level 3 (conditional automation), level 4 (high automation) and level 5 (full automation). Predicting when each level wouldRead Artic",
-    "title_fr": "How AI Is Unlocking Level 4 Autonomous Driving"
-  },
-  {
-    "title": "The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US",
-    "url": "https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/",
-    "description": "AI has ignited a new industrial revolution. NVIDIA and TSMC are working together to build the infrastructure that powers the world’s AI factories, right here in America. NVIDIA founder and CEO Jensen Huang today visited TSMC’s semiconductor manufacturing facility in Phoenix to celebrate the first NVIDIA Blackwell wafer produced on U.S. soil, representing that BlackwellRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/tsmc-flag-1280x680-3.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.518843",
-    "description_fr": "AI has ignited a new industrial revolution. NVIDIA and TSMC are working together to build the infrastructure that powers the world’s AI factories, right here in America. NVIDIA founder and CEO Jensen Huang today visited TSMC’s semiconductor manufacturing facility in Phoenix to celebrate the first NVIDIA Blackwell wafer produced on U.S. soil, representing that BlackwellRead Article",
-    "title_fr": "The Engines of American-Made Intelligence: NVIDIA and TSMC Celebrate First NVIDIA Blackwell Wafer Produced in the US"
-  },
-  {
-    "title": "Ready, Set, Reward — GeForce NOW Membership Rewards Await",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-members-reward-program/",
-    "description": "GeForce NOW is more than just a platform to stream fresh games every week — it offers celebrations for the gamers who make it epic, with member rewards to sweeten the deal. This week, GeForce NOW Ultimate members can score a free Borderlands 4 reward and upgrade their setup with the latest SteelSeries Nimbus CloudRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/gfn-thursday-borderlands-4-nv-blog-1280x680-logo.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.518955",
-    "description_fr": "GeForce NOW is more than just a platform to stream fresh games every week — it offers celebrations for the gamers who make it epic, with member rewards to sweeten the deal. This week, GeForce NOW Ultimate members can score a free Borderlands 4 reward and upgrade their setup with the latest SteelSeries Nimbus CloudRead Article",
-    "title_fr": "Ready, Set, Reward — GeForce NOW Membership Rewards Await"
-  },
-  {
-    "title": "How Starcloud Is Bringing Data Centers to Outer Space",
-    "url": "https://blogs.nvidia.com/blog/starcloud/",
-    "description": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/starcloud-featured-video-still-1280x680-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519031",
-    "description_fr": "The NVIDIA Inception startup projects that space-based data centers will offer 10x lower energy costs and reduce the need for energy consumption on Earth.",
-    "title_fr": "How Starcloud Is Bringing Data Centers to Outer Space"
-  },
-  {
-    "title": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation",
-    "url": "https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/",
-    "description": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Del",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/hpc-corp-blog-ai-factories-blog-1280x680-1.png",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519138",
-    "description_fr": "At Oracle AI World, NVIDIA and Oracle announced they are deepening their collaboration to bolster sovereign AI initiatives and accelerate government digital transformation worldwide. By combining NVIDIA’s AI computing platforms with Oracle’s scalable cloud infrastructure, the collaboration enables organizations, such as Abu Dhabi’s Department of Government Enablement (DGE), in partnership with Del",
-    "title_fr": "Oracle and NVIDIA Accelerate Sovereign AI, Enabling Abu Dhabi’s AI-Native Government Transformation"
-  },
-  {
-    "title": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing",
-    "url": "https://blogs.nvidia.com/blog/nvidia-oracle-accelerate-enterprise-ai-data-processing/",
-    "description": "AI is transforming the way enterprises build, deploy and scale intelligent applications. As demand surges for enterprise-grade AI applications that offer speed, scalability and security, industries are swiftly moving toward platforms that can streamline data processing and deliver intelligence at every layer of the business. At Oracle AI World, Oracle today announced a new OCIRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/oracle-ai-world-2025-blog-logo-lockup-1280x680-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519243",
-    "description_fr": "AI is transforming the way enterprises build, deploy and scale intelligent applications. As demand surges for enterprise-grade AI applications that offer speed, scalability and security, industries are swiftly moving toward platforms that can streamline data processing and deliver intelligence at every layer of the business. At Oracle AI World, Oracle today announced a new OCIRead Article",
-    "title_fr": "NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing"
-  },
-  {
-    "title": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX",
-    "url": "https://blogs.nvidia.com/blog/live-dgx-spark-delivery/",
-    "description": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts andRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/L1031167-retouch.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519344",
-    "description_fr": "The future of AI took flight at Starbase, Texas — where NVIDIA CEO Jensen Huang hand-delivered the first DGX Spark to Elon Musk, chief engineer at SpaceX. Amid towering engines and gleaming steel, Huang walked past rows of engineers who waved and grinned. Moments later, Musk appeared in the cafeteria, greeting staff, opening donuts andRead Article",
-    "title_fr": "Elon Musk Gets Just-Launched NVIDIA DGX Spark: Petaflop AI Supercomputer Lands at SpaceX"
-  },
-  {
-    "title": "NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin",
-    "url": "https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/",
-    "description": "At the OCP Global Summit, NVIDIA is offering a glimpse into the future of gigawatt AI factories. NVIDIA will unveil specs of the NVIDIA Vera Rubin NVL144 MGX-generation open architecture rack servers, which more than 50 MGX partners are gearing up for along with ecosystem support for NVIDIA Kyber, which connects 576 Rubin Ultra GPUs,Read Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/vera-press-rubin-vr-nvl144-cpx-rack-1920x1080-2.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519503",
-    "description_fr": "At the OCP Global Summit, NVIDIA is offering a glimpse into the future of gigawatt AI factories. NVIDIA will unveil specs of the NVIDIA Vera Rubin NVL144 MGX-generation open architecture rack servers, which more than 50 MGX partners are gearing up for along with ecosystem support for NVIDIA Kyber, which connects 576 Rubin Ultra GPUs,Read Article",
-    "title_fr": "NVIDIA, Partners Drive Next-Gen Efficient Gigawatt AI Factories in Buildup for Vera Rubin"
-  },
-  {
-    "title": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency",
-    "url": "https://blogs.nvidia.com/blog/blackwell-inferencemax-benchmark-results/",
-    "description": "NVIDIA Blackwell swept the new SemiAnalysis InferenceMAX v1 benchmarks, delivering the highest performance and best overall efficiency. InferenceMax v1 is the first independent benchmark to measure total cost of compute across diverse models and real-world scenarios. Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75Read Ar",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/inference-corp-blog-sa-external-think-smart-1280x680-1.png",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519603",
-    "description_fr": "NVIDIA Blackwell swept the new SemiAnalysis InferenceMAX v1 benchmarks, delivering the highest performance and best overall efficiency. InferenceMax v1 is the first independent benchmark to measure total cost of compute across diverse models and real-world scenarios. Best return on investment: NVIDIA GB200 NVL72 delivers unmatched AI factory economics — a $5 million investment generates $75Read Ar",
-    "title_fr": "NVIDIA Blackwell Raises Bar in New InferenceMAX Benchmarks, Delivering Unmatched Performance and Efficiency"
-  },
-  {
-    "title": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI",
-    "url": "https://blogs.nvidia.com/blog/microsoft-azure-worlds-first-gb300-nvl72-supercomputing-cluster-openai/",
-    "description": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/msft-azure-gb300-1280x680-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519704",
-    "description_fr": "Microsoft Azure today announced the new NDv6 GB300 VM series, delivering the industry’s first supercomputing-scale production cluster of NVIDIA GB300 NVL72 systems, purpose-built for OpenAI’s most demanding AI inference workloads. This supercomputer-scale cluster features over 4,600 NVIDIA Blackwell Ultra GPUs connected via the NVIDIA Quantum-X800 InfiniBand networking platform. Microsoft’s unique",
-    "title_fr": "Microsoft Azure Unveils World’s First NVIDIA GB300 NVL72 Supercomputing Cluster for OpenAI"
-  },
-  {
-    "title": "Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-6/",
-    "description": "Lock, load and stream — the battle is just beginning. EA’s highly anticipated Battlefield 6 is set to storm the cloud when it launches tomorrow with GeForce RTX 5080 power, delivering the high-intensity combat and heart-pounding chaos the series is known for. Catch it as part of the six games joining the cloud, including Bethesda’sRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/gfn-thursday-battlefield-6-nv-blog-1280x680-logo.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519804",
-    "description_fr": "Lock, load and stream — the battle is just beginning. EA’s highly anticipated Battlefield 6 is set to storm the cloud when it launches tomorrow with GeForce RTX 5080 power, delivering the high-intensity combat and heart-pounding chaos the series is known for. Catch it as part of the six games joining the cloud, including Bethesda’sRead Article",
-    "title_fr": "Incoming: ‘Battlefield 6’ Lands on GeForce NOW at Launch"
-  },
-  {
-    "title": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications",
-    "url": "https://blogs.nvidia.com/blog/ai-6g-telecommunications/",
-    "description": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up.   TheRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/telco-corp-blog-gtc24-6g-research1280x680.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.519898",
-    "description_fr": "Telecommunication networks are critical infrastructure for every nation, underpinning the global flow of communications and data across billions of smartphones and connected devices. The next generation of these networks, known as 6G, will for the first time be built to support AI traffic — and can be powered by AI from the ground up.   TheRead Article",
-    "title_fr": "How AI-Powered Wireless Networks Will Revitalize US Global Leadership in Communications"
-  },
-  {
-    "title": "GeForce NOW Brings 18 Games to the Cloud in October for a Spooky Good Time",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-oct-2025/",
-    "description": "Editor’s note: This blog has been updated to include an additional game for October, The Outer Worlds 2. October is creeping in with plenty of gaming treats. From thrilling adventures to spine‑tingling scares, the cloud gaming lineup is packed with 18 new games, including the highly anticipated shooter Battlefield 6, launching on GeForce NOW this month.Read Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/gfn-thursday-10-2-nv-blog-1280x680-logo.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.520005",
-    "description_fr": "Editor’s note: This blog has been updated to include an additional game for October, The Outer Worlds 2. October is creeping in with plenty of gaming treats. From thrilling adventures to spine‑tingling scares, the cloud gaming lineup is packed with 18 new games, including the highly anticipated shooter Battlefield 6, launching on GeForce NOW this month.Read Article",
-    "title_fr": "GeForce NOW Brings 18 Games to the Cloud in October for a Spooky Good Time"
-  },
-  {
-    "title": "Japan’s AI Demand Will Increase 320x by 2030, Industry Leader Says at NVIDIA AI Day Tokyo",
-    "url": "https://blogs.nvidia.com/blog/ai-day-tokyo/",
-    "description": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds of enthusiasts, developers, researchers and startups to discuss and explore the latest technologies making AI breakthroughs possible.",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/ai-day-tokyo-featured-1280x720-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.520075",
-    "description_fr": "NVIDIA AI Days — hosted for and in different pockets of the world — are drawing in hundreds of enthusiasts, developers, researchers and startups to discuss and explore the latest technologies making AI breakthroughs possible.",
-    "title_fr": "Japan’s AI Demand Will Increase 320x by 2030, Industry Leader Says at NVIDIA AI Day Tokyo"
-  },
-  {
-    "title": "How to Get Started With Large Language Models on NVIDIA RTX PCs",
-    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-how-to-get-started-with-llms/",
-    "description": "Many users want to run large language models (LLMs) locally for more privacy and control, and without subscriptions, but until recently, this meant a trade-off in output quality. Newly released open-weight models, like OpenAI’s gpt-oss and Alibaba’s Qwen 3, can run directly on PCs, delivering useful high-quality outputs, especially for local agentic AI. This opensRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/how-to-get-started-with-llms-nv-blog-1280x680-1.jpg",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.520172",
-    "description_fr": "Many users want to run large language models (LLMs) locally for more privacy and control, and without subscriptions, but until recently, this meant a trade-off in output quality. Newly released open-weight models, like OpenAI’s gpt-oss and Alibaba’s Qwen 3, can run directly on PCs, delivering useful high-quality outputs, especially for local agentic AI. This opensRead Article",
-    "title_fr": "How to Get Started With Large Language Models on NVIDIA RTX PCs"
-  },
-  {
-    "title": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing",
-    "url": "https://blogs.nvidia.com/blog/how-quantum-computings-biggest-challenges-solved-accelerated-computing/",
-    "description": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the powerRead ",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/09/quantum-computing-render-gtc25s-silverfix2.png",
-    "published_date": "2025-10-21",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-21T08:07:06.520279",
-    "description_fr": "Quantum computing promises to reshape industries — but progress hinges on solving key problems. Error correction. Simulations of qubit designs. Circuit compilation optimization tasks. These are among the bottlenecks that must be overcome to bring quantum hardware into the era of useful applications. Enter accelerated computing. The parallel processing of accelerated computing offers the powerRead ",
-    "title_fr": "How Quantum Computing’s Biggest Challenges Are Being Solved With Accelerated Computing"
-  },
-  {
-    "title": "Vibe Coding with GLM 4.6 Coding Plan",
-    "url": "https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan",
-    "description": "Discover how to seamlessly integrate the GLM-4.6 model into your workflow with the $3 GLM Coding Plan, and unlock the potential to create dynamic web applications effortlessly.",
-    "image_url": "https://www.kdnuggets.com/wp-content/uploads/awan_vibe_coding_glm_46_coding_plan_7.png",
-    "published_date": "2025-10-21",
-    "source": "KDnuggets",
-    "source_type": "rss",
-    "category": "ml",
-    "collected_at": "2025-10-21T08:07:07.535641",
-    "description_fr": "Discover how to seamlessly integrate the GLM-4.6 model into your workflow with the $3 GLM Coding Plan, and unlock the potential to create dynamic web applications effortlessly.",
-    "title_fr": "Vibe Coding with GLM 4.6 Coding Plan"
-  },
-  {
-    "title": "SQL for Data Analysts: Essential Queries for Data Extraction & Transformation",
-    "url": "https://www.kdnuggets.com/sql-for-data-analysts-essential-queries-for-data-extraction-transformation",
-    "description": "In this article, we’ll look at the most important SQL queries that every data analyst should know.",
-    "image_url": "https://www.kdnuggets.com/wp-content/uploads/kdn-sql-for-data-analysts.png",
-    "published_date": "2025-10-21",
-    "source": "KDnuggets",
-    "source_type": "rss",
-    "category": "ml",
-    "collected_at": "2025-10-21T08:07:07.535860",
-    "description_fr": "In this article, we’ll look at the most important SQL queries that every data analyst should know.",
-    "title_fr": "SQL for Data Analysts: Essential Queries for Data Extraction & Transformation"
-  },
-  {
-    "title": "5 Docker Containers for Your AI Infrastructure",
-    "url": "https://www.kdnuggets.com/5-docker-containers-for-your-ai-infrastructure",
-    "description": "Below are five of the most useful Docker containers that can help you build a powerful AI infrastructure in 2026, without the need to wrestle with environment mismatches or missing dependencies.",
-    "image_url": "https://www.kdnuggets.com/wp-content/uploads/kdn-davies-5-docker-containers-for-your-ai-infrastructure.png",
-    "published_date": "2025-10-21",
-    "source": "KDnuggets",
-    "source_type": "rss",
-    "category": "ml",
-    "collected_at": "2025-10-21T08:07:07.536001",
-    "description_fr": "Below are five of the most useful Docker containers that can help you build a powerful AI infrastructure in 2026, without the need to wrestle with environment mismatches or missing dependencies.",
-    "title_fr": "5 Docker Containers for Your AI Infrastructure"
-  },
-  {
-    "title": "Creating a Text to SQL App with OpenAI + FastAPI + SQLite",
-    "url": "https://www.kdnuggets.com/creating-a-text-to-sql-app-with-openai-fastapi-sqlite",
-    "description": "Develop a simple tool that translates natural language into queries.",
-    "image_url": "https://www.kdnuggets.com/wp-content/uploads/kdn-wijaya-creating-text-to-sal-app.jpg",
-    "published_date": "2025-10-21",
-    "source": "KDnuggets",
-    "source_type": "rss",
-    "category": "ml",
-    "collected_at": "2025-10-21T08:07:07.536114",
-    "description_fr": "Develop a simple tool that translates natural language into queries.",
-    "title_fr": "Creating a Text to SQL App with OpenAI + FastAPI + SQLite"
-  },
-  {
-    "title": "5 Practical Examples for ChatGPT Agents",
-    "url": "https://www.kdnuggets.com/5-practical-examples-for-chatgpt-agents",
-    "description": "Let’s explore five examples that prove ChatGPT Agents aren’t theoretical anymore — they’re here to change how we work, automate, and innovate.",
-    "image_url": "https://www.kdnuggets.com/wp-content/uploads/kdn-davies-5-practical-examples-chatgpt-agent.png",
-    "published_date": "2025-10-21",
-    "source": "KDnuggets",
-    "source_type": "rss",
-    "category": "ml",
-    "collected_at": "2025-10-21T08:07:07.536234",
-    "description_fr": "Let’s explore five examples that prove ChatGPT Agents aren’t theoretical anymore — they’re here to change how we work, automate, and innovate.",
-    "title_fr": "5 Practical Examples for ChatGPT Agents"
   }
 ]
