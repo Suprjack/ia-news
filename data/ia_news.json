@@ -1,5 +1,161 @@
 [
   {
+    "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
+    "url": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
+    "description": "CoreWeave's failed buy of Core Scientific is another sign of an AI bubble. But it's still shopping.",
+    "image_url": "",
+    "published_date": "2025-11-01",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-01T01:48:15.956662",
+    "description_fr": "CoreWeave's failed buy of Core Scientific is another sign of an AI bubble. But it's still shopping.",
+    "title_fr": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo"
+  },
+  {
+    "title": "The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps",
+    "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
+    "description": "Retailers could see up to a 520% increase in traffic from chatbots and AI prompts in 2025 compared to 2024, according to the report. For brands, that means figuring out how to show up in AI-generated recommendations, and fast.",
+    "image_url": "",
+    "published_date": "2025-11-01",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-01T01:48:15.958493",
+    "description_fr": "Retailers could see up to a 520% increase in traffic from chatbots and AI prompts in 2025 compared to 2024, according to the report. For brands, that means figuring out how to show up in AI-generated recommendations, and fast.",
+    "title_fr": "The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps"
+  },
+  {
+    "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+    "url": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+    "description": "Both vulnerabilities are being exploited in wide-scale operations.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg",
+    "published_date": "2025-11-01",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-01T01:48:20.157303",
+    "description_fr": "Both vulnerabilities are being exploited in wide-scale operations.",
+    "title_fr": "Two Windows vulnerabilities, one a 0-day, are under active exploitation"
+  },
+  {
+    "title": "Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’",
+    "url": "https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/",
+    "description": "In a motion to dismiss filed earlier this week, Meta denied claims that employees had downloaded pornography from Strike 3 Holdings to train its artificial intelligence models.",
+    "image_url": "https://media.wired.com/photos/6904c9a2f67493a12f9cae33/master/pass/biz-meta-ai-porn-645731247.jpg",
+    "published_date": "2025-11-01",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-01T01:48:21.131399",
+    "description_fr": "In a motion to dismiss filed earlier this week, Meta denied claims that employees had downloaded pornography from Strike 3 Holdings to train its artificial intelligence models.",
+    "title_fr": "Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’"
+  },
+  {
+    "title": "Vivo X300 Pro Review: An Outstanding Camera That Happens to Be a Phone",
+    "url": "https://petapixel.com/2025/10/31/vivo-x300-pro-review-an-outstanding-camera-that-happens-to-be-a-phone/",
+    "description": "It only takes a few shots to realize just how different the Vivo X300 Pro is as a mobile photography tool. It is laden with improved performance and output, plus a photography kit made up of a 2.35x telephoto lens extender and grip with built-in physical controls and a 2300mAh battery. It's stacked.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/vivo-x300-pro-review-featured.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:31.334878",
+    "description_fr": "It only takes a few shots to realize just how different the Vivo X300 Pro is as a mobile photography tool. It is laden with improved performance and output, plus a photography kit made up of a 2.35x telephoto lens extender and grip with built-in physical controls and a 2300mAh battery. It's stacked.[Read More]",
+    "title_fr": "Vivo X300 Pro Review: An Outstanding Camera That Happens to Be a Phone"
+  },
+  {
+    "title": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
+    "url": "https://huggingface.co/blog/lightonai/lightonocr",
+    "description": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1651597775471-62715572ab9243b5d40cbb1d.png",
+    "published_date": "2025-11-01",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-01T01:48:48.743787",
+    "description_fr": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR",
+    "title_fr": "LightOnOCR-1B: The Case for End-to-End and Efficient Domain-Specific Vision-Language Models for OCR"
+  },
+  {
+    "title": "What happened to Intel?",
+    "url": "https://www.theverge.com/news/811738/pat-gelsingers-christian-ai-startup-gloo-files-for-873-million-ipo",
+    "description": "What happened to Intel?",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25771809/Intel_Innovation_Day1_Keynote_15.JPG?quality=90&strip=all&crop=22.233333333333%2C0%2C58.466666666667%2C87.7&w=2400",
+    "published_date": "2025-11-01",
+    "source": "The Verge AI",
+    "source_type": "website",
+    "category": "general",
+    "collected_at": "2025-11-01T01:48:51.740610",
+    "description_fr": "What happened to Intel?",
+    "title_fr": "What happened to Intel?"
+  },
+  {
+    "title": "Vivo X300 Pro Review: An Outstanding Camera That Happens to Be a Phone",
+    "url": "https://petapixel.com/author/tedkritsonis/",
+    "description": "It only takes a few shots to realize just how different the Vivo X300 Pro is as a mobile photography tool. It is laden with improved performance and output, plus a photography kit made up of a 2.35x telephoto lens extender and grip with built-in physical controls and a 2300mAh battery. It's stacked.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/vivo-x300-pro-review-featured.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:57.978760",
+    "description_fr": "It only takes a few shots to realize just how different the Vivo X300 Pro is as a mobile photography tool. It is laden with improved performance and output, plus a photography kit made up of a 2.35x telephoto lens extender and grip with built-in physical controls and a 2300mAh battery. It's stacked.",
+    "title_fr": "Vivo X300 Pro Review: An Outstanding Camera That Happens to Be a Phone"
+  },
+  {
+    "title": "Hasselblad Sold Out Its Entire First Run of the $469 Vandra Backpacks",
+    "url": "https://petapixel.com/author/jaronschneider/",
+    "description": "Lost in the shuffle of the launch of the X2D II 100C medium format camera in August was the announcement of a Hasselblad backpack called the Vandra. This boxy, high-end bag is pricy at $469, but that didn't stop interested buyers: Hasselblad sold out its entire first run.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Hasselblad-Sold-Out-Its-Entire-First-Run-of-the-500-Vandra-Backpacks-300x157.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:57.979495",
+    "description_fr": "Perdu dans le remaniement du lancement de l'appareil photo moyen format X2D II 100C en août, l'annonce d'un sac à dos Hasselblad appelé Vandra. Ce sac carré haut de gamme coûte 469 $ , mais cela n'a pas empêché les acheteurs intéressés : Hasselblad a vendu toute sa première série.[En savoir plus]",
+    "title_fr": "Hasselblad a épuisé la totalité de sa première série de sacs à dos Vandra à 469 $"
+  },
+  {
+    "title": "From Rainbows to Tornadoes, Weather Photo Contest Winners Capture Nature’s Beauty and Power",
+    "url": "https://petapixel.com/author/kategaribaldi/",
+    "description": "The Royal Meteorological Society's 2025 Standard Chartered Weather Photographer of the Year competition marked its 10th anniversary this year and celebrates the photographers who capture the beauty, drama, and power of weather across the globe.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/2025-Standard-Chartered-Weather-Photographer-of-the-Year-PetaPixel-BG-3-Panel-copy-300x157.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:57.980170",
+    "description_fr": "The Royal Meteorological Society's 2025 Standard Chartered Weather Photographer of the Year competition marked its 10th anniversary this year and celebrates the photographers who capture the beauty, drama, and power of weather across the globe.",
+    "title_fr": "From Rainbows to Tornadoes, Weather Photo Contest Winners Capture Nature’s Beauty and Power"
+  },
+  {
+    "title": "Getty Images and Perplexity Sign Multi-Year Licensing Deal",
+    "url": "https://petapixel.com/author/jeremygray/",
+    "description": "One of the world's leading photo agencies, Getty, has struck a multi-year agreement with Perplexity to display Getty Images across Perplexity's AI-powered search and discovery tools.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/getty-images-perplexity-featured-300x157.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:57.981262",
+    "description_fr": "One of the world's leading photo agencies, Getty, has struck a multi-year agreement with Perplexity to display Getty Images across Perplexity's AI-powered search and discovery tools.",
+    "title_fr": "Getty Images and Perplexity Sign Multi-Year Licensing Deal"
+  },
+  {
+    "title": "Hockey Puck Shatters Photographer’s Lens During NHL Game",
+    "url": "https://petapixel.com/author/mattgrowcoot/",
+    "description": "A photographer's lens \"shattered into about 1,000 pieces\" during an NHL game between the Nashville Predators and Tampa Bay Lightning this week.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Ice-Hockey-300x157.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T01:48:57.982789",
+    "description_fr": "A photographer's lens \"shattered into about 1,000 pieces\" during an NHL game between the Nashville Predators and Tampa Bay Lightning this week.",
+    "title_fr": "Hockey Puck Shatters Photographer’s Lens During NHL Game"
+  },
+  {
     "title": "Expanding Stargate to Michigan",
     "url": "https://openai.com/index/expanding-stargate-to-michigan",
     "description": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
@@ -711,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.088622",
-    "description_fr": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio. These experiments, called “sneaks,” include tools that instantly apply any changes you make to one frame across an entire video, easily manipulate light in images, and correct mispronunciations in […]",
-    "title_fr": "Adobe’s experimental AI tool can edit entire videos using one frame"
+    "description_fr": "Adobe a présenté certains des outils d'IA expérimentaux sur lesquels il travaille lors de sa conférence Max, qui offrent de nouvelles façons d'éditer intuitivement des photos, des vidéos et de l'audio. Ces expériences, appelées « sneaks », comprennent des outils qui appliquent instantanément toutes les modifications que vous apportez à une image sur l'ensemble d'une vidéo, manipulent facilement la lumière dans les images et corrigent les erreurs de prononciation dans […]",
+    "title_fr": "L'outil d'IA expérimental d'Adobe peut éditer des vidéos entières en utilisant une seule image"
   },
   {
     "title": "Perplexity’s new AI tool aims to simplify patent research",
@@ -724,8 +880,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.089365",
-    "description_fr": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of keywords. As an example, Perplexity says you can enter something like, “Are there […]",
-    "title_fr": "Perplexity’s new AI tool aims to simplify patent research"
+    "description_fr": "Les brevets sont notoirement difficiles à rechercher, mais Perplexity a lancé un outil basé sur l'IA qui est censé rendre le processus un peu plus facile. Son nouvel agent de recherche de brevets vous permet de rechercher des brevets en utilisant un langage naturel, plutôt qu'une chaîne de mots-clés. Par exemple, Perplexity dit que vous pouvez entrer quelque chose comme : « Y a-t-il […]",
+    "title_fr": "Le nouvel outil d'IA de Perplexity vise à simplifier la recherche sur les brevets"
   },
   {
     "title": "God will be declared by a panel of experts",
@@ -737,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.090327",
-    "description_fr": "What is AGI? We know it stands for Artificial General Intelligence. That's a good start. But what does AGI mean, really? And how do we know when we've achieved it? For that matter, who decides we've achieved it? Does the AGI decide? This week, as OpenAI completed a long restructuring process that sets it up […]",
-    "title_fr": "God will be declared by a panel of experts"
+    "description_fr": "Qu'est-ce que l'agi ? Nous savons qu'il s'agit de l'intelligence générale artificielle. C'est un bon début. Mais que signifie vraiment agi ? Et comment savons-nous quand nous y sommes parvenus ? D'ailleurs, qui décide que nous l'avons atteint ? Est-ce que l'agi décide ? Cette semaine, alors qu'OpenAI a achevé un long processus de restructuration qui […]",
+    "title_fr": "Dieu sera déclaré par un panel d'experts"
   },
   {
     "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
@@ -750,8 +906,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.808478",
-    "description_fr": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
-    "title_fr": "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    "description_fr": "Une chronologie des mises à jour et des versions des produits ChatGPT, en commençant par les plus récentes, que nous avons mises à jour tout au long de l'année.",
+    "title_fr": "ChatGPT : Tout ce que vous devez savoir sur le chatbot alimenté par l'IA"
   },
   {
     "title": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly",
@@ -763,8 +919,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.808877",
-    "description_fr": "The Equity crew was live at TechCrunch Disrupt 2025! Hosts Kirsten Korosec, Max Zeff, and Anthony Ha took over the Builders Stage on Monday morning to kick off the event with the question everyone’s asking: are we in an AI bubble?  Between valuations that have tripled in months, $300M seed rounds, and $100B commitments flying […]",
-    "title_fr": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly"
+    "description_fr": "L'équipe Equity était en direct à TechCrunch Disrupt 2025 ! Les hôtes Kirsten Korosec, Max Zeff et Anthony Ha ont pris le relais sur la scène des constructeurs lundi matin pour lancer l'événement avec la question que tout le monde se pose : sommes-nous dans une bulle d'IA ?  Entre des valorisations qui ont triplé en mois, des rondes de semences de 300 MILLIONS de dollars et des engagements de 100 milliards de dollars […]",
+    "title_fr": "Equity Live : des tournées de 300 MILLIONS de $ aux constructions de centres de données, l'IA se sent pétillante"
   },
   {
     "title": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high",
@@ -776,8 +932,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809228",
-    "description_fr": "AWS continues to see strong demand as companies gobble up its cloud infrastructure services in the age of AI.",
-    "title_fr": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high"
+    "description_fr": "AWS continue de voir une forte demande alors que les entreprises engloutissent ses services d'infrastructure cloud à l'ère de l'IA.",
+    "title_fr": "AWS dépasse les attentes de Wall Street car la demande d'infrastructures cloud reste élevée"
   },
   {
     "title": "Perplexity strikes multi-year licensing deal with Getty Images",
@@ -789,8 +945,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809571",
-    "description_fr": "Perplexity’s agreement with Getty appears to legitimize some of the startup’s previous use of Getty’s stock photos. Perplexity came under fire last year for a series of plagiarism accusations from several news organizations.",
-    "title_fr": "Perplexity strikes multi-year licensing deal with Getty Images"
+    "description_fr": "L'accord de Perplexity avec Getty semble légitimer une partie de l'utilisation antérieure par la startup des photos de stock de Getty. La perplexité a été critiquée l'année dernière pour une série d'accusations de plagiat émanant de plusieurs organes de presse.",
+    "title_fr": "La perplexité frappe un accord de licence pluriannuel avec Getty Images"
   },
   {
     "title": "Tim Cook says Apple is open to M&A on the AI front",
@@ -802,8 +958,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809885",
-    "description_fr": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
-    "title_fr": "Tim Cook says Apple is open to M&A on the AI front"
+    "description_fr": "Le PDG d'Apple, Tim Cook, a noté dans l'appel de résultats du quatrième trimestre 2025 de la société qu'Apple se préparait à annoncer davantage de partenariats en IA comme celui qu'elle a avec OpenAI pour intégrer ChatGPT dans Siri et Apple Intelligence.",
+    "title_fr": "Tim Cook dit qu'Apple est ouvert aux fusions-acquisitions sur le front de l'IA"
   },
   {
     "title": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot",
@@ -815,8 +971,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.810225",
-    "description_fr": "After generating over 10 million social media impressions with the launch of its text-to-3D model app, Adam has raised a $4.1 million seed round to power its next steps.",
-    "title_fr": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot"
+    "description_fr": "Après avoir généré plus de 10 millions d'impressions sur les réseaux sociaux avec le lancement de son application de modèle text-to-3D, Adam a levé 4,1 millions de $ pour alimenter ses prochaines étapes.",
+    "title_fr": "Adam, ancien élève de YC, lève 4,1 M $ pour transformer l'outil de texte en 3D viral en copilote d'IA"
   },
   {
     "title": "Reddit CEO says chatbots are not a traffic driver",
@@ -828,8 +984,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.810533",
-    "description_fr": "During Reddit's Q3 2025 call, CEO Steve Huffman noted that Google search and direct access continue to be its top traffic drivers.",
-    "title_fr": "Reddit CEO says chatbots are not a traffic driver"
+    "description_fr": "Lors de l'appel de Reddit au troisième trimestre 2025, le PDG Steve Huffman a noté que la recherche Google et l'accès direct continuaient d'être ses principaux moteurs de trafic.",
+    "title_fr": "Le PDG de Reddit affirme que les chatbots ne sont pas un facteur de trafic"
   },
   {
     "title": "Nvidia expands AI ties with Hyundai, Samsung, SK, Naver",
@@ -841,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.810850",
-    "description_fr": "Nvidia CEO Jensen Huang is visiting South Korea to strengthen partnerships with Samsung, Hyundai, SK, and Naver, unveiling plans for AI-powered networks and next-generation intelligent systems.",
-    "title_fr": "Nvidia expands AI ties with Hyundai, Samsung, SK, Naver"
+    "description_fr": "Le PDG de Nvidia, Jensen Huang, se rend en Corée du Sud pour renforcer les partenariats avec Samsung, Hyundai, SK et Naver, dévoilant des plans pour des réseaux alimentés par l'IA et des systèmes intelligents de nouvelle génération.",
+    "title_fr": "Nvidia étend ses liens d'IA avec Hyundai, Samsung, SK, Naver"
   },
   {
     "title": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence",
@@ -854,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:50.096965",
-    "description_fr": "Presented by CelonisAI adoption is accelerating, but results often lag expectations. And enterprise leaders are under pressure to prove measurable ROI from the AI solutions — especially as the use of autonomous agents rises and global tariffs disrupt supply chains.The issue isn’t the AI itself, says Alex Rinke, co-founder and co-CEO of Celonis, a global leader in process intelligence. “To succeed,",
-    "title_fr": "Inside Celosphere 2025: Why there’s no ‘enterprise AI’ without process intelligence"
+    "description_fr": "Présenté par CelonisAI, l'adoption s'accélère, mais les résultats sont souvent en retard par rapport aux attentes. Et les chefs d'entreprise sont sous pression pour prouver le retour sur investissement mesurable des solutions d'IA — d'autant plus que l'utilisation d'agents autonomes augmente et que les tarifs mondiaux perturbent les chaînes d'approvisionnement. Le problème n'est pas l'IA elle-même, déclare Alex Rinke, co-fondateur et co-PDG de Celonis, un leader mondial de l'intelligence des processus. « Pour réussir,",
+    "title_fr": "Inside Celosphere 2025 : Pourquoi il n'y a pas d ‘« IA d'entreprise » sans intelligence de processus"
   },
   {
     "title": "The Man Who Invented AGI",
@@ -867,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:54.029111",
-    "description_fr": "Everyone is obsessed with artificial general intelligence—the stage when AI can match all feats of human cognition. The guy who named it saw it as a threat.",
-    "title_fr": "The Man Who Invented AGI"
+    "description_fr": "Tout le monde est obsédé par l'intelligence générale artificielle - le stade où l'IA peut égaler tous les exploits de la cognition humaine. Le gars qui l'a nommé l'a vu comme une menace.",
+    "title_fr": "L'homme qui a inventé l'agi"
   },
   {
     "title": "How LeapXpert uses AI to bring order and oversight to business messaging",
@@ -880,8 +1036,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:56.686782",
-    "description_fr": "It’s no longer news that AI is transforming how people communicate at work. The bad (and less common) news, however, is that AI is also making those conversations harder to control. From chat apps to collaboration tools, employees exchange thousands of messages every day, many of which now pass through AI systems that summarise, analyse, […]The postHow LeapXpert uses AI to bring order and oversigh",
-    "title_fr": "How LeapXpert uses AI to bring order and oversight to business messaging"
+    "description_fr": "Ce n'est plus une nouvelle que l'IA transforme la façon dont les gens communiquent au travail. Les mauvaises nouvelles (et moins courantes), cependant, sont que l'IA rend également ces conversations plus difficiles à contrôler. Des applications de chat aux outils de collaboration, les employés échangent des milliers de messages chaque jour, dont beaucoup passent maintenant par des systèmes d'IA qui résument, analysent, […]Le postComment LeapXpert utilise l'IA pour mettre de l'ordre et trop clairvoyant",
+    "title_fr": "Comment LeapXpert utilise l'IA pour mettre de l'ordre et superviser la messagerie professionnelle"
   },
   {
     "title": "How Lumana is redefining AI’s role in video surveillance",
@@ -893,8 +1049,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:56.688831",
-    "description_fr": "For all the progress in artificial intelligence, most video security systems still fail at recognising context in real-world conditions. The majority of cameras can capture real-time footage, but struggle to interpret it. This is a problem turning into a growing concern for smart city designers, manufacturers and schools, each of which may depend on AI […]The postHow Lumana is redefining AI’s role",
-    "title_fr": "How Lumana is redefining AI’s role in video surveillance"
+    "description_fr": "Malgré tous les progrès de l'intelligence artificielle, la plupart des systèmes de sécurité vidéo ne parviennent toujours pas à reconnaître le contexte dans des conditions réelles. La majorité des caméras peuvent capturer des images en temps réel, mais ont du mal à les interpréter. C'est un problème qui devient une préoccupation croissante pour les concepteurs de villes intelligentes, les fabricants et les écoles, qui peuvent tous dépendre de l'IA […]L'après-Comment Lumana redéfinit le rôle de l'IA",
+    "title_fr": "Comment Lumana redéfinit le rôle de l'IA dans la vidéosurveillance"
   },
   {
     "title": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit",
@@ -906,8 +1062,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-10-31T18:31:58.736048",
-    "description_fr": "Amidst Gyeongju, South Korea’s ancient temples and modern skylines, Jensen Huang hit the stage at the APEC Summit with historic news: South Korea is leaping into the future with sovereign AI supported by more than a quarter-million NVIDIA GPUs. “It’s vital that we build the ecosystem, not just the AI infrastructure, of Korea,” he said.Read Article",
-    "title_fr": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit"
+    "description_fr": "Au milieu de Gyeongju, les temples anciens et les horizons modernes de la Corée du Sud, Jensen Huang est monté sur la scène du sommet de l'APEC avec des nouvelles historiques : la Corée du Sud bondit vers l'avenir avec une IA souveraine soutenue par plus d'un quart de million de GPU NVIDIA. « Il est essentiel que nous construisions l'écosystème, et pas seulement l'infrastructure d'IA, de la Corée », a-t-il déclaré.Lire l'article",
+    "title_fr": "La Corée rejoint la révolution industrielle de l'IA : Jensen Huang, PDG de NVIDIA, dévoile un partenariat historique au sommet de l'APEC"
   },
   {
     "title": "Hasselblad Sold Out Its Entire First Run of the $469 Vandra Backpacks",
@@ -919,8 +1075,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-31T18:32:04.186025",
-    "description_fr": "Lost in the shuffle of the launch of the X2D II 100C medium format camera in August was the announcement of a Hasselblad backpack called the Vandra. This boxy, high-end bag is pricy at $469, but that didn't stop interested buyers: Hasselblad sold out its entire first run.[Read More]",
-    "title_fr": "Hasselblad Sold Out Its Entire First Run of the $469 Vandra Backpacks"
+    "description_fr": "Perdu dans le remaniement du lancement de l'appareil photo moyen format X2D II 100C en août, l'annonce d'un sac à dos Hasselblad appelé Vandra. Ce sac carré haut de gamme coûte 469 $ , mais cela n'a pas empêché les acheteurs intéressés : Hasselblad a vendu toute sa première série.[En savoir plus]",
+    "title_fr": "Hasselblad a épuisé la totalité de sa première série de sacs à dos Vandra à 469 $"
   },
   {
     "title": "From Rainbows to Tornadoes, Weather Photo Contest Winners Capture Nature’s Beauty and Power",
@@ -1023,8 +1179,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:05.942048",
-    "description_fr": "Roy Lee de Cluely a un message pour les fondateurs de startups : vous devriez réfléchir davantage à la façon de devenir viral.",
-    "title_fr": "Roy Lee de Cluely sur la stratégie ragebait pour le marketing des startups"
+    "description_fr": "Cluely's Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.",
+    "title_fr": "Cluely’s Roy Lee on the ragebait strategy for startup marketing"
   },
   {
     "title": "Solana co-founder Anatoly Yakovenko is a big fan of agentic coding",
@@ -1036,8 +1192,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:05.942385",
-    "description_fr": "S'exprimant à TechCrunch Disrupt, Yakovenko a déclaré qu'il était devenu de plus en plus à l'aise de prendre du recul dans les tâches de développement de logiciels.",
-    "title_fr": "Anatoly Yakovenko, co-fondateur de Solana, est un grand fan du codage agentique"
+    "description_fr": "Speaking at TechCrunch Disrupt, Yakovenko said he's become increasingly comfortable taking a back seat in software development tasks.",
+    "title_fr": "Solana co-founder Anatoly Yakovenko is a big fan of agentic coding"
   },
   {
     "title": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape",
@@ -1049,8 +1205,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:05.942704",
-    "description_fr": "Il a brossé un tableau de l'avenir des logiciels d'entreprise où le SaaS est utilisé pour le flux de travail de base de l'entreprise, puis les agents s'y ajoutent.",
-    "title_fr": "Aaron Levie, PDG de Box, explique comment l'IA change le paysage SaaS de l'entreprise"
+    "description_fr": "He painted a picture of a future of enterprise software where the SaaS is used for the core business workflow, and then the agents ride on top of that.",
+    "title_fr": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape"
   },
   {
     "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
@@ -1062,8 +1218,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:08.147116",
-    "description_fr": "L'outil de codage Vibe Cursor, de startupAnysphere, a introduit Composer, son premier modèle de grand langage de codage (LLM) interne et propriétaire dans le cadre de la mise à jour de sa plate-forme Cursor 2.0. Composer est conçu pour exécuter des tâches de codage rapidement et avec précision dans des environnements à l'échelle de la production, ce qui représente une nouvelle étape dans la programmation assistée par IA. Il est déjà utilisé par le propre personnel d'ingénierie de Cursor à da",
-    "title_fr": "Plateforme de codage Vibe Cursor lance le premier LLM interne, Compositeur, prometteur boost de vitesse 4X"
+    "description_fr": "The vibe coding tool Cursor, from startupAnysphere, hasintroduced Composer, its first in-house, proprietary coding large language model (LLM) as part of itsCursor 2.0 platform update.Composer is designed to execute coding tasks quickly and accurately in production-scale environments, representing a new step in AI-assisted programming. It's already being used by Cursor’s own engineering staff in da",
+    "title_fr": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost"
   },
   {
     "title": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation",
@@ -1075,8 +1231,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:08.161532",
-    "description_fr": "Les entreprises, désireuses de s'assurer que tous les modèles d'IA qu'elles utilisent respectent les politiques de sécurité et d'utilisation sûre, affinent les LLM afin qu'elles ne répondent pas aux requêtes indésirables.Toutefois, une grande partie de la sauvegarde et de l'association rouge se produit avant le déploiement, les politiques de « cuisson » avant que les utilisateurs ne testent pleinement les capacités des modèles en production.OpenAIcroit qu'il peut offrir une option plus flexible pour les entreprises et encourager plus de compa",
-    "title_fr": "Des classificateurs statiques aux moteurs de raisonnement : le nouveau modèle d'OpenAI repense la modération de contenu"
+    "description_fr": "Enterprises, eager to ensure any AI models they useadhere to safety and safe-usepolicies, fine-tune LLMs so they do not respond to unwanted queries.However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in production.OpenAIbelieves it can offer a more flexible option for enterprises and encourage more compa",
+    "title_fr": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation"
   },
   {
     "title": "Nvidia researchers unlock 4-bit LLM training that matches 8-bit performance",
@@ -1088,8 +1244,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:08.163453",
-    "description_fr": "Les chercheurs de Nvidia ont développé une nouvelle approche pour former de grands modèles linguistiques (LLM) au format quantifié 4 bits tout en maintenant leur stabilité et leur précision au niveau des modèles de haute précision. Leur technique, NVFP4, permet de former des modèles qui non seulement surpassent les autres formats 4 bits de premier plan, mais correspondent aux performances du format FP8 8 bits plus grand, tout en utilisant la moitié du MEMO",
-    "title_fr": "Les chercheurs de Nvidia débloquent une formation LLM 4 bits qui correspond aux performances 8 bits"
+    "description_fr": "Researchers at Nvidia have developed anovel approachto train large language models (LLMs) in 4-bit quantized format while maintaining their stability and accuracy at the level of high-precision models. Their technique, NVFP4, makes it possible to train models that not only outperform other leading 4-bit formats but match the performance of the larger 8-bit FP8 format, all while using half the memo",
+    "title_fr": "Nvidia researchers unlock 4-bit LLM training that matches 8-bit performance"
   },
   {
     "title": "From slop to Sotheby’s? AI art enters a new phase",
@@ -1101,8 +1257,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-30T01:48:09.459836",
-    "description_fr": "À l'ère du slop de l'IA, l'idée que des outils d'IA générative comme Midjourney et Runway puissent être utilisés pour créer de l'art peut sembler absurde : quelle valeur artistique possible peut-on trouver dans des artistes comme Shrimp Jesus et Ballerina Cappuccina ? Mais au milieu de toute la boue, il y a des gens qui utilisent des outils d'IA avec…",
-    "title_fr": "De Slop à Sotheby's ? L'IA art entre dans une nouvelle phase"
+    "description_fr": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with…",
+    "title_fr": "From slop to Sotheby’s? AI art enters a new phase"
   },
   {
     "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
@@ -1114,8 +1270,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.564137",
-    "description_fr": "Les packages téléchargés à partir de NPM peuvent récupérer des dépendances à partir de sites non approuvés.",
-    "title_fr": "NPM inondé de paquets malveillants téléchargés plus de 86 000 fois"
+    "description_fr": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
+    "title_fr": "NPM flooded with malicious packages downloaded more than 86,000 times"
   },
   {
     "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
@@ -1127,8 +1283,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.564973",
-    "description_fr": "Selon la décision, vaincre le cryptage de bout en bout dans WhatsApp nuit à l'activité de Meta.",
-    "title_fr": "NSO interdit de manière permanente de cibler les utilisateurs de WhatsApp avec Pegasus spyware"
+    "description_fr": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
+    "title_fr": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware"
   },
   {
     "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
@@ -1140,8 +1296,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.565194",
-    "description_fr": "Les charges utiles malveillantes stockées sur les blockchains Ethereum et BNB sont à l'abri des retraits.",
-    "title_fr": "Les pirates informatiques des États-nations livrent des logiciels malveillants à partir de chaînes de blocs « à l'épreuve des balles »"
+    "description_fr": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
+    "title_fr": "Nation-state hackers deliver malware from “bulletproof” blockchains"
   },
   {
     "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
@@ -1153,8 +1309,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.565450",
-    "description_fr": "Malgré les difficultés de connexion, nous avons couvert les finances d'OpenAI, l'énergie nucléaire et Sam Altman.",
-    "title_fr": "Résumé d'Ars Live : La bulle de l'IA est-elle sur le point de éclater ? Ed Zitron pèse."
+    "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
+    "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
   },
   {
     "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
@@ -1166,8 +1322,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.565710",
-    "description_fr": "Les risques pour les utilisateurs de BIG-IP comprennent les attaques de la chaîne d'approvisionnement, la perte d'informations d'identification et les exploits de vulnérabilité.",
-    "title_fr": "Des milliers de clients en péril après que l'État-nation ait saccagé le réseau de F5"
+    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
   },
   {
     "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
@@ -1179,8 +1335,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.565967",
-    "description_fr": "Le modèle minuscule et rapide atteint des scores de codage similaires à GPT-5 et Sonnet 4.",
-    "title_fr": "Le Claude Haiku 4.5 d'Anthropic correspond au modèle frontière de May à une fraction du coût"
+    "description_fr": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+    "title_fr": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost"
   },
   {
     "title": "ChatGPT erotica coming soon with age verification, CEO says",
@@ -1192,8 +1348,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.566225",
-    "description_fr": "Sam Altman affirme que de nouveaux outils peuvent détecter la détresse mentale tout en assouplissant les limites pour les adultes.",
-    "title_fr": "ChatGPT érotique à venir bientôt avec la vérification de l'âge, dit le PDG"
+    "description_fr": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
+    "title_fr": "ChatGPT erotica coming soon with age verification, CEO says"
   },
   {
     "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
@@ -1205,8 +1361,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.566461",
-    "description_fr": "Des escroqueries comme celle-ci rapportent des milliards de victimes bien éduquées.",
-    "title_fr": "Les autorités fédérales saisissent 15 milliards de $ dans le cadre d'une présumée escroquerie au travail forcé fondée sur la « souffrance humaine »"
+    "description_fr": "Scams like this one net billions from well-educated victims.",
+    "title_fr": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”"
   },
   {
     "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
@@ -1218,8 +1374,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.566701",
-    "description_fr": "Le système 1 petaflop DGX Spark exécute des modèles d'IA avec 200 milliards de paramètres localement pour 4K $ .",
-    "title_fr": "Nvidia vend un nouvel ordinateur minuscule qui met une grande IA sur votre bureau"
+    "description_fr": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
+    "title_fr": "Nvidia sells tiny new computer that puts big AI on your desktop"
   },
   {
     "title": "OpenAI wants to stop ChatGPT from validating users’ political views",
@@ -1231,8 +1387,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.566958",
-    "description_fr": "Un nouveau document révèle que réduire les « préjugés » signifie que ChatGPT cesse de refléter le langage politique des utilisateurs.",
-    "title_fr": "OpenAI veut empêcher ChatGPT de valider les opinions politiques des utilisateurs"
+    "description_fr": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
+    "title_fr": "OpenAI wants to stop ChatGPT from validating users’ political views"
   },
   {
     "title": "Hackers can steal 2FA codes and private messages from Android phones",
@@ -1244,8 +1400,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.567202",
-    "description_fr": "L'application malveillante requise pour faire fonctionner l'attaque « Pixnapping » ne nécessite aucune autorisation.",
-    "title_fr": "Les pirates peuvent voler des codes 2FA et des messages privés sur les téléphones Android"
+    "description_fr": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
+    "title_fr": "Hackers can steal 2FA codes and private messages from Android phones"
   },
   {
     "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
@@ -1257,8 +1413,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.567436",
-    "description_fr": "La nouvelle conception établit une norme élevée pour la préparation post-quantique.",
-    "title_fr": "Pourquoi la métamorphose post-quantique de Signal est une réalisation d'ingénierie incroyable"
+    "description_fr": "New design sets a high standard for post-quantum readiness.",
+    "title_fr": "Why Signal’s post-quantum makeover is an amazing engineering achievement"
   },
   {
     "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
@@ -1270,8 +1426,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.567685",
-    "description_fr": "Entre autres choses, les escrocs contournent l'authentification multifacteur.",
-    "title_fr": "Microsoft met en garde contre la nouvelle escroquerie « Payroll Pirate » qui vole les dépôts directs des employés"
+    "description_fr": "Among other things, the scammers bypass multi-factor authentication.",
+    "title_fr": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits"
   },
   {
     "title": "AI models can acquire backdoors from surprisingly few malicious documents",
@@ -1283,8 +1439,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-10-30T01:48:10.567948",
-    "description_fr": "Une étude anthropique suggère que les attaques d'entraînement « empoisonnées » ne s'adaptent pas à la taille du modèle.",
-    "title_fr": "Les modèles d'IA peuvent acquérir des portes dérobées à partir de étonnamment peu de documents malveillants"
+    "description_fr": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
+    "title_fr": "AI models can acquire backdoors from surprisingly few malicious documents"
   },
   {
     "title": "Rode’s New Wireless Micro Camera Kit Is More Powerful and Easier to Use",
@@ -1296,8 +1452,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-30T01:48:22.178532",
-    "description_fr": "Rode a annoncé le Wireless Micro Camera Kit, le successeur du système Wireless Micro actuel qui promet d'être plus puissant, beaucoup plus flexible grâce à la compatibilité universelle de la caméra et plus facile à utiliser grâce à une unité de réception améliorée avec un écran intégré.[En savoir plus]",
-    "title_fr": "Le nouveau kit de micro-caméra sans fil de Rode est plus puissant et plus facile à utiliser"
+    "description_fr": "Rode has announced the Wireless Micro Camera Kit, the successor to the current Wireless Micro system that promises to be more powerful, significantly more flexible thanks to universal camera compatibility, and easier to use thanks to an improved receiver unit with an integrated display.[Read More]",
+    "title_fr": "Rode’s New Wireless Micro Camera Kit Is More Powerful and Easier to Use"
   },
   {
     "title": "How I Upgraded My Camera Gear Through MPB",
@@ -1309,8 +1465,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-30T01:48:22.179286",
-    "description_fr": "Du nettoyage des appareils photo à la mise à niveau des objectifs, MPB soutient les photographes et les vidéastes à chaque étape de leur parcours créatif. Il offre un hub de confiance pour l'achat et la vente d'équipements usagés de haute qualité. C'est un moyen sûr, fiable et simple de vendre de l'équipement que vous ne voulez pas et de faire de bonnes affaires sur l'équipement que vous faites.[En savoir plus]",
-    "title_fr": "Comment j'ai mis à niveau mon équipement photo via MPB"
+    "description_fr": "From clearing out cameras to upgrading lenses, MPB supports photographers and videographers at every stage of their creative journey. It offers a trusted hub for buying and selling high-quality used gear. It is a safe, reliable, and straightforward way to sell gear you don't want and score great deals on the gear you do.[Read More]",
+    "title_fr": "How I Upgraded My Camera Gear Through MPB"
   },
   {
     "title": "Sandmarc’s New $270 Telephoto Lens Doubles the iPhone 17 Pro’s Zoom",
@@ -1322,8 +1478,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-30T01:48:22.179978",
-    "description_fr": "Sandmarc a annoncé un nouvel objectif Telephoto 48 mm pour les derniers modèles d'iPhone d'Apple, conçu pour pousser encore plus loin l'appareil photo tétraprisme d'Apple.[En savoir plus]",
-    "title_fr": "Le nouvel objectif à téléobjectif de 270 $ de Sandmarc double le zoom de l'iPhone 17 Pro"
+    "description_fr": "Sandmarc has announced a new Telephoto 48mm lens for Apple's latest iPhone models, designed to take Apple's tetraprism camera even further.[Read More]",
+    "title_fr": "Sandmarc’s New $270 Telephoto Lens Doubles the iPhone 17 Pro’s Zoom"
   },
   {
     "title": "Robert Irwin Says His Photography Gear Often Gets Stolen",
@@ -1335,8 +1491,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-30T01:48:22.180641",
-    "description_fr": "Le fils de Steve Irwin, Robert, célèbre à part entière et photographe talentueux, a récemment révélé qu'il doit constamment faire face à des voleurs qui volent son équipement photo.[En savoir plus]",
-    "title_fr": "Robert Irwin dit que son équipement photographique est souvent volé"
+    "description_fr": "Steve Irwin's son Robert, famous in his own right and a talented photographer, recently revealed that he is constantly having to deal with thieves stealing his photo gear.[Read More]",
+    "title_fr": "Robert Irwin Says His Photography Gear Often Gets Stolen"
   },
   {
     "title": "Nature’s Best Photography Awards 2025 Winners Showcase Wonderful Wildlife and Landscapes",
@@ -6342,161 +6498,5 @@
     "collected_at": "2025-10-25T03:20:21.128221",
     "description_fr": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
     "title_fr": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots"
-  },
-  {
-    "title": "Quels sont les composants d’un bon projet d’intelligence artificielle ?",
-    "url": "https://www.maddyness.com/2018/04/25/quels-sont-les-composants-bon-projet-intelligence-artificielle/",
-    "description": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "Maddyness - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:21.128889",
-    "description_fr": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
-    "title_fr": "Quels sont les composants d’un bon projet d’intelligence artificielle ?"
-  },
-  {
-    "title": "Looking Back on Sigma’s Product Launch-Filled 2025 with CEO Kazuto Yamaki | The PetaPixel Podcast",
-    "url": "https://petapixel.com/2025/10/24/looking-back-on-sigmas-product-launch-filled-2025-with-ceo-kazuto-yamaki-the-petapixel-podcast/",
-    "description": "2025 was perhaps Sigma's biggest year ever as far as product launches go, with not only a huge number of lenses released but also the announcement and delivery of the BF camera. With the economic climate shifting, PetaPixel sat with CEO Kazuto Yamaki to discuss what the company's future looks like.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/podcast-tokyo-kazuto-1600x840.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.013279",
-    "description_fr": "2025 was perhaps Sigma's biggest year ever as far as product launches go, with not only a huge number of lenses released but also the announcement and delivery of the BF camera. With the economic climate shifting, PetaPixel sat with CEO Kazuto Yamaki to discuss what the company's future looks like.[Read More]",
-    "title_fr": "Looking Back on Sigma’s Product Launch-Filled 2025 with CEO Kazuto Yamaki | The PetaPixel Podcast"
-  },
-  {
-    "title": "Peakto for Premiere Pro Will Organize All Your Video Clips Using AI",
-    "url": "https://petapixel.com/2025/10/24/peakto-for-premiere-pro-will-organize-all-your-video-clips-using-ai/",
-    "description": "Cyme, the makers of macOS AI-powered photo management app Peakto, announced today that it is bringing a significant new version of Peakto to Adobe MAX 2025 in Los Angeles next week, including a public beta version of its new Peakto plugin for Adobe's video editor, Adobe Premiere Pro.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/peakto-premiere-pro-plugin-featured.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.013941",
-    "description_fr": "Cyme, the makers of macOS AI-powered photo management app Peakto, announced today that it is bringing a significant new version of Peakto to Adobe MAX 2025 in Los Angeles next week, including a public beta version of its new Peakto plugin for Adobe's video editor, Adobe Premiere Pro.[Read More]",
-    "title_fr": "Peakto for Premiere Pro Will Organize All Your Video Clips Using AI"
-  },
-  {
-    "title": "DJI Osmo 360 Review: Ready for Adventure Against Stiff Competition",
-    "url": "https://petapixel.com/2025/10/24/dji-osmo-360-review-ready-for-adventure-against-stiff-competition/",
-    "description": "The Osmo 360 is something of a reverse situation for DJI. Rather than being a category leader in this respect, the device is more of a response to what competitors like Insta360 have been doing. That widens the scope and scrutiny for what a camera like this could and should be, given the versatility DJI claims it has.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/dji-osmo-360-review-featured-1.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.014581",
-    "description_fr": "The Osmo 360 is something of a reverse situation for DJI. Rather than being a category leader in this respect, the device is more of a response to what competitors like Insta360 have been doing. That widens the scope and scrutiny for what a camera like this could and should be, given the versatility DJI claims it has.[Read More]",
-    "title_fr": "DJI Osmo 360 Review: Ready for Adventure Against Stiff Competition"
-  },
-  {
-    "title": "The NBA Arenas Sports Fans Photograph the Most",
-    "url": "https://petapixel.com/2025/10/24/the-nba-arenas-sports-fans-photograph-the-most/",
-    "description": "The 2025-26 NBA season tipped off this week, and Covers.com dove into Instagram data to determine which NBA arena is the most frequently photographed.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/most-instagrammable-nba-arenas-featured.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.015214",
-    "description_fr": "The 2025-26 NBA season tipped off this week, and Covers.com dove into Instagram data to determine which NBA arena is the most frequently photographed.[Read More]",
-    "title_fr": "The NBA Arenas Sports Fans Photograph the Most"
-  },
-  {
-    "title": "ProMaster’s Air Support Stand Changed How I Light My Photos",
-    "url": "https://petapixel.com/2025/10/24/promasters-air-support-stand-changed-how-i-light-my-photos/",
-    "description": "We tested ProMaster’s latest lighting products, including the groundbreaking Air Support Light Stand and the Ultrasoft US1014RGB LED, a great companion to ProMaster's new stand. Together, they comprise a setup that is fast to deploy, easy to control, and capable of producing beautifully soft, color-accurate light -- a combination that feels purpose-built for hybrid creators who move seamlessly bet",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/promaster-showcase-header-2.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.015869",
-    "description_fr": "We tested ProMaster’s latest lighting products, including the groundbreaking Air Support Light Stand and the Ultrasoft US1014RGB LED, a great companion to ProMaster's new stand. Together, they comprise a setup that is fast to deploy, easy to control, and capable of producing beautifully soft, color-accurate light -- a combination that feels purpose-built for hybrid creators who move seamlessly bet",
-    "title_fr": "ProMaster’s Air Support Stand Changed How I Light My Photos"
-  },
-  {
-    "title": "European Wildlife Photographer of the Year Winners Capture Nature’s Tragic Beauty",
-    "url": "https://petapixel.com/2025/10/24/european-wildlife-photographer-of-the-year-winners-capture-natures-tragic-beauty/",
-    "description": "The German Society for Nature Photography (GDT) has announced the winners of its annual European Wildlife Photographer of the Year competition, one of the world's most prestigious nature photography competitions. This year's winning photos are jaw-dropping, and in some cases, heartbreaking. Nature can be as brutal as it is beautiful.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/gdt-wildlife-poty-2025-featured.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.016578",
-    "description_fr": "The German Society for Nature Photography (GDT) has announced the winners of its annual European Wildlife Photographer of the Year competition, one of the world's most prestigious nature photography competitions. This year's winning photos are jaw-dropping, and in some cases, heartbreaking. Nature can be as brutal as it is beautiful.[Read More]",
-    "title_fr": "European Wildlife Photographer of the Year Winners Capture Nature’s Tragic Beauty"
-  },
-  {
-    "title": "Pixii Is Teasing Its First Redesigned Digital Rangefinder Camera",
-    "url": "https://petapixel.com/2025/10/24/pixii-is-teasing-its-first-redesigned-digital-rangefinder-camera/",
-    "description": "French camera company Pixii is teasing a brand new camera. It will be the company's fourth model, following the Pixii, Pixii+, and Pixii Max, all of which shared the same basic form factor. The new camera looks much different.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/pixii-teaser.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.017179",
-    "description_fr": "French camera company Pixii is teasing a brand new camera. It will be the company's fourth model, following the Pixii, Pixii+, and Pixii Max, all of which shared the same basic form factor. The new camera looks much different.[Read More]",
-    "title_fr": "Pixii Is Teasing Its First Redesigned Digital Rangefinder Camera"
-  },
-  {
-    "title": "Aerial Photographer Reveals the Beauty of Sweden’s Island Archipelago",
-    "url": "https://petapixel.com/2025/10/24/aerial-photographer-reveals-the-beauty-of-swedens-island-archipelago/",
-    "description": "The Nordic country of Sweden has over 260,000 islands -- the most of any country in the entire world. Recently, photographer Bernhard Lang explored a handful of them from above, picking out patterns that are invisible from the ground.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Bernhard-Lang.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.017775",
-    "description_fr": "The Nordic country of Sweden has over 260,000 islands -- the most of any country in the entire world. Recently, photographer Bernhard Lang explored a handful of them from above, picking out patterns that are invisible from the ground.[Read More]",
-    "title_fr": "Aerial Photographer Reveals the Beauty of Sweden’s Island Archipelago"
-  },
-  {
-    "title": "Viltrox Opens Up About Zooms, L-Mount Alliance, and Bogus Rumors",
-    "url": "https://petapixel.com/2025/10/24/viltrox-opens-up-about-zooms-l-mount-alliance-and-bogus-rumors/",
-    "description": "Hot on the heels of releasing a pair of new lenses in the past week, including the Viltrox 50mm f/1.4 Pro and the Viltrox AF 85mm f/2 Evo, the prolific Chinese lens maker took to Reddit to host an \"Ask Me Anything,\" or AMA.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/viltrox-logo-ama-reddit-featured.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.018368",
-    "description_fr": "Hot on the heels of releasing a pair of new lenses in the past week, including the Viltrox 50mm f/1.4 Pro and the Viltrox AF 85mm f/2 Evo, the prolific Chinese lens maker took to Reddit to host an \"Ask Me Anything,\" or AMA.[Read More]",
-    "title_fr": "Viltrox Opens Up About Zooms, L-Mount Alliance, and Bogus Rumors"
-  },
-  {
-    "title": "‘I Only Shot One Frame’: How a Student Photographer Made an Iconic Portrait of Bruce Springsteen in 1976",
-    "url": "https://petapixel.com/2025/10/24/i-only-shot-one-frame-how-a-student-photographer-made-an-iconic-portrait-of-bruce-springsteen-in-1976/",
-    "description": "Award-winning photographer Joe Vitti remembers the night he encountered Bruce Springsteen in a small-town campus bar in 1976, ultimately capturing just one single shot. But what a shot it was of the rock star known as \"The Boss.\"[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/bruce-springsteen-featured-joe-vitti.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.018962",
-    "description_fr": "Award-winning photographer Joe Vitti remembers the night he encountered Bruce Springsteen in a small-town campus bar in 1976, ultimately capturing just one single shot. But what a shot it was of the rock star known as \"The Boss.\"[Read More]",
-    "title_fr": "‘I Only Shot One Frame’: How a Student Photographer Made an Iconic Portrait of Bruce Springsteen in 1976"
-  },
-  {
-    "title": "Snake Bites Captured at 1,000 Frames Per Second on High-Speed Camera",
-    "url": "https://petapixel.com/2025/10/24/snake-bites-captured-at-1000-frames-per-second-on-high-speed-camera/",
-    "description": "Scientists used  two high-speed cameras recording at 1,000 frames per second to capture the lightning fast action of a venomous snake bite. The snakes can react in less than 100 milliseconds.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Snake-Camera.jpg",
-    "published_date": "2025-10-25",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-25T03:20:22.019537",
-    "description_fr": "Scientists used  two high-speed cameras recording at 1,000 frames per second to capture the lightning fast action of a venomous snake bite. The snakes can react in less than 100 milliseconds.[Read More]",
-    "title_fr": "Snake Bites Captured at 1,000 Frames Per Second on High-Speed Camera"
   }
 ]
