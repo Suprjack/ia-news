@@ -178,7 +178,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-01T12:40:01.857252",
-    "description_fr": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "description_fr": "L'articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
     "title_fr": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots"
   },
   {
@@ -191,8 +191,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-01T12:40:02.954209",
-    "description_fr": "Merging multiple images into panoramas is a feature available in many editing programs and it is surprisingly easy to accomplish.[Read More]",
-    "title_fr": "How to Easily Create Eye-Catching Panoramic Landscape Photos"
+    "description_fr": "La fusion de plusieurs images dans des panoramas est une fonctionnalité disponible dans de nombreux programmes d'édition et elle est étonnamment facile à réaliser.[En savoir plus]",
+    "title_fr": "Comment créer facilement des photos de paysage panoramiques accrocheuses"
   },
   {
     "title": "How to Easily Create Eye-Catching Panoramic Landscape Photos",
@@ -204,8 +204,60 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-01T12:40:30.573567",
-    "description_fr": "Merging multiple images into panoramas is a feature available in many editing programs and it is surprisingly easy to accomplish.",
-    "title_fr": "How to Easily Create Eye-Catching Panoramic Landscape Photos"
+    "description_fr": "La fusion de plusieurs images dans des panoramas est une fonctionnalité disponible dans de nombreux programmes d'édition et elle est étonnamment facile à réaliser.[En savoir plus]",
+    "title_fr": "Comment créer facilement des photos de paysage panoramiques accrocheuses"
+  },
+  {
+    "title": "Rising energy prices put AI and data centers in the crosshairs",
+    "url": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+    "description": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
+    "image_url": "",
+    "published_date": "2025-11-01",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-01T18:27:28.098140",
+    "description_fr": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
+    "title_fr": "Rising energy prices put AI and data centers in the crosshairs"
+  },
+  {
+    "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams",
+    "url": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+    "description": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+    "image_url": "",
+    "published_date": "2025-11-01",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-01T18:27:28.098480",
+    "description_fr": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+    "title_fr": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams"
+  },
+  {
+    "title": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal",
+    "url": "https://petapixel.com/2025/11/01/sigma-contemporary-20-200mm-f-3-5-6-3-dg-review-a-lens-with-broad-appeal/",
+    "description": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Sigma-20-200mm-f3.5-6.3-Review-A-Lens-with-Broad-Appeal.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-01T18:27:42.408614",
+    "description_fr": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.[Read More]",
+    "title_fr": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal"
+  },
+  {
+    "title": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal",
+    "url": "https://petapixel.com/author/chrisniccolls/",
+    "description": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/Sigma-20-200mm-f3.5-6.3-Review-A-Lens-with-Broad-Appeal.jpg",
+    "published_date": "2025-11-01",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-01T18:28:08.104089",
+    "description_fr": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.",
+    "title_fr": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal"
   },
   {
     "title": "Expanding Stargate to Michigan",
@@ -1023,8 +1075,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.810225",
-    "description_fr": "Après avoir généré plus de 10 millions d'impressions sur les réseaux sociaux avec le lancement de son application de modèle text-to-3D, Adam a levé 4,1 millions de $ pour alimenter ses prochaines étapes.",
-    "title_fr": "Adam, ancien élève de YC, lève 4,1 M $ pour transformer l'outil de texte en 3D viral en copilote d'IA"
+    "description_fr": "After generating over 10 million social media impressions with the launch of its text-to-3D model app, Adam has raised a $4.1 million seed round to power its next steps.",
+    "title_fr": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot"
   },
   {
     "title": "Reddit CEO says chatbots are not a traffic driver",
@@ -1036,8 +1088,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.810533",
-    "description_fr": "Lors de l'appel de Reddit au troisième trimestre 2025, le PDG Steve Huffman a noté que la recherche Google et l'accès direct continuaient d'être ses principaux moteurs de trafic.",
-    "title_fr": "Le PDG de Reddit affirme que les chatbots ne sont pas un facteur de trafic"
+    "description_fr": "During Reddit's Q3 2025 call, CEO Steve Huffman noted that Google search and direct access continue to be its top traffic drivers.",
+    "title_fr": "Reddit CEO says chatbots are not a traffic driver"
   },
   {
     "title": "Nvidia expands AI ties with Hyundai, Samsung, SK, Naver",
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-10-25T03:20:18.338321",
     "description_fr": "Alors que l'expérience client repose depuis longtemps sur des indicateurs fiables – CSAT, NPS, taux de conversion – l'expérience employé reste trop souvent figée dans des pratiques datées.",
     "title_fr": "L'IA redéfinit les indicateurs de l'expérience employés"
-  },
-  {
-    "title": "IA agentique : du mythe à la transformation de la chaîne logistique",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545267-ia-agentique-du-mythe-a-la-transformation-de-la-chaine-logistique/",
-    "description": "L'IA agentique révolutionne la chaîne logistique en automatisant la planification tout en renforçant efficacité et durabilité, à condition de maintenir une supervision humaine et gouvernance solide.",
-    "image_url": "https://img-0.journaldunet.com/MzRh-9EUjVHnghViYdFgPGjxc5g=/1280x/smart/74adaf0dc7554ed7b93f59f1446f29a6/user-jdn/39520069-jean-boilloz.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.338674",
-    "description_fr": "L'IA agentique révolutionne la chaîne logistique en automatisant la planification tout en renforçant efficacité et durabilité, à condition de maintenir une supervision humaine et gouvernance solide.",
-    "title_fr": "IA agentique : du mythe à la transformation de la chaîne logistique"
-  },
-  {
-    "title": "IA, Innover, oui mais pas n'importe comment !",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545265-ia-innover-oui-mais-pas-n-importe-comment/",
-    "description": "À l'heure où chaque entreprise veut \"faire de l'IA\", l'enthousiasme flirte dangereusement avec la précipitation.",
-    "image_url": "https://img-0.journaldunet.com/FhiUvDw-FDt_nWwImKwH5qSLHyA=/1280x/smart/545f2497372c49d7a45cb67be10ab7ec/user-jdn/39523110-natacha-ryanni.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.339041",
-    "description_fr": "À l'heure où chaque entreprise veut \"faire de l'IA\", l'enthousiasme flirte dangereusement avec la précipitation.",
-    "title_fr": "IA, Innover, oui mais pas n'importe comment !"
-  },
-  {
-    "title": "L'IA pour la durabilité, ou comment mettre l'innovation au service de la société",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545253-l-ia-pour-la-durabilite-ou-comment-mettre-l-innovation-au-service-de-la-societe/",
-    "description": "Cent millions d'utilisateurs deux mois après son lancement : jamais une technologie n'avait conquis à ce point les consciences collectives.",
-    "image_url": "https://img-0.journaldunet.com/yOPnesPYsKWcrsBSbL45P4BubVM=/1280x/smart/e5ddce3b9b18423383c640fd352bc944/user-jdn/39528012-patrick-nollet.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.339392",
-    "description_fr": "Cent millions d'utilisateurs deux mois après son lancement : jamais une technologie n'avait conquis à ce point les consciences collectives.",
-    "title_fr": "L'IA pour la durabilité, ou comment mettre l'innovation au service de la société"
-  },
-  {
-    "title": "IA générative : 9 leviers pour réduire la facture",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545257-ia-generative-10-leviers-actionnables-pour-reduire-la-facture/",
-    "description": "Comment optimiser le coût d'un système d'intelligence artificielle générative ? Il existe plusieurs techniques pour limiter les dépenses, que ce soit avec les modèles open source ou propriétaires.",
-    "image_url": "https://img-0.journaldunet.com/VHiYKQ9rbTxsgAEuE3KQBQcOZv0=/1280x/smart/71b71f21671c40628dc432ba92b3763f/ccmcms-jdn/39528020.png",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.339745",
-    "description_fr": "Comment optimiser le coût d'un système d'intelligence artificielle générative ? Il existe plusieurs techniques pour limiter les dépenses, que ce soit avec les modèles open source ou propriétaires.",
-    "title_fr": "IA générative : 9 leviers pour réduire la facture"
   }
 ]
