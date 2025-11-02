@@ -1,5 +1,18 @@
 [
   {
+    "title": "Large reasoning models almost certainly can think",
+    "url": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
+    "description": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. The evidence they provided is that LRMs withchain-of-thought (CoT) reasoning are unable to carry on th",
+    "image_url": "",
+    "published_date": "2025-11-02",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-02T01:50:08.799328",
+    "description_fr": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. The evidence they provided is that LRMs withchain-of-thought (CoT) reasoning are unable to carry on th",
+    "title_fr": "Large reasoning models almost certainly can think"
+  },
+  {
     "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
     "url": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
     "description": "CoreWeave's failed buy of Core Scientific is another sign of an AI bubble. But it's still shopping.",
@@ -217,8 +230,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-01T18:27:28.098140",
-    "description_fr": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
-    "title_fr": "Rising energy prices put AI and data centers in the crosshairs"
+    "description_fr": "Une majorité de consommateurs se disent préoccupés par le fait que les centres de données augmentent les coûts de l'électricité. L'industrie est-elle préparée à une éventuelle réaction ?",
+    "title_fr": "La hausse des prix de l'énergie place l'IA et les centres de données dans le collimateur"
   },
   {
     "title": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams",
@@ -230,8 +243,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-01T18:27:28.098480",
-    "description_fr": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
-    "title_fr": "AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams"
+    "description_fr": "Les chercheurs en IA d'Andon Labs ont intégré diverses LLM dans un robot sous vide pour tester dans quelle mesure elles étaient prêtes à être incorporées. Et l'hilarité s'ensuivit.",
+    "title_fr": "Les chercheurs en IA ont « incarné » un LLM dans un robot – et il a commencé à canaliser Robin Williams"
   },
   {
     "title": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal",
@@ -243,8 +256,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-01T18:27:42.408614",
-    "description_fr": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.[Read More]",
-    "title_fr": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal"
+    "description_fr": "J'ai récemment fait un voyage à Aizuwakamatsu, au Japon, ce qui représentait une situation idéale pour tester également l'objectif Sigma Contemporary 20-200 mm f/3.5-6.3 DG super zoom. Les couleurs de l'automne regardaient juste pour tourner et la zone montagneuse autour du mont. Bandai promettait d'excellentes opportunités en matière de paysages et de faune.[En savoir plus]",
+    "title_fr": "Sigma Contemporary 20-200 mm f/3.5-6.3 DG Review : Un objectif avec un large attrait"
   },
   {
     "title": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal",
@@ -256,8 +269,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-01T18:28:08.104089",
-    "description_fr": "I recently took a trip to Aizuwakamatsu, Japan and this represented an ideal situation to also test the Sigma Contemporary 20-200mm f/3.5-6.3 DG super zoom lens. The autumn colors were just staring to turn and the mountainous area around Mt. Bandai promised some excellent landscape and wildlife opportunities.",
-    "title_fr": "Sigma Contemporary 20-200mm f/3.5-6.3 DG Review: A Lens with Broad Appeal"
+    "description_fr": "J'ai récemment fait un voyage à Aizuwakamatsu, au Japon, ce qui représentait une situation idéale pour tester également l'objectif Sigma Contemporary 20-200 mm f/3.5-6.3 DG super zoom. Les couleurs de l'automne regardaient juste pour tourner et la zone montagneuse autour du mont. Bandai promettait d'excellentes opportunités en matière de paysages et de faune.[En savoir plus]",
+    "title_fr": "Sigma Contemporary 20-200 mm f/3.5-6.3 DG Review : Un objectif avec un large attrait"
   },
   {
     "title": "Expanding Stargate to Michigan",
@@ -1024,7 +1037,7 @@
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.808877",
     "description_fr": "L'équipe Equity était en direct à TechCrunch Disrupt 2025 ! Les hôtes Kirsten Korosec, Max Zeff et Anthony Ha ont pris le relais sur la scène des constructeurs lundi matin pour lancer l'événement avec la question que tout le monde se pose : sommes-nous dans une bulle d'IA ?  Entre des valorisations qui ont triplé en mois, des rondes de semences de 300 MILLIONS de dollars et des engagements de 100 milliards de dollars […]",
-    "title_fr": "Equity Live : des tournées de 300 MILLIONS de $ aux constructions de centres de données, l'IA se sent pétillante"
+    "title_fr": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly"
   },
   {
     "title": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high",
@@ -1036,8 +1049,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809228",
-    "description_fr": "AWS continue de voir une forte demande alors que les entreprises engloutissent ses services d'infrastructure cloud à l'ère de l'IA.",
-    "title_fr": "AWS dépasse les attentes de Wall Street car la demande d'infrastructures cloud reste élevée"
+    "description_fr": "AWS continues to see strong demand as companies gobble up its cloud infrastructure services in the age of AI.",
+    "title_fr": "AWS exceeds Wall Street’s expectations as demand for cloud infra remains high"
   },
   {
     "title": "Perplexity strikes multi-year licensing deal with Getty Images",
@@ -1049,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809571",
-    "description_fr": "L'accord de Perplexity avec Getty semble légitimer une partie de l'utilisation antérieure par la startup des photos de stock de Getty. La perplexité a été critiquée l'année dernière pour une série d'accusations de plagiat émanant de plusieurs organes de presse.",
-    "title_fr": "La perplexité frappe un accord de licence pluriannuel avec Getty Images"
+    "description_fr": "Perplexity’s agreement with Getty appears to legitimize some of the startup’s previous use of Getty’s stock photos. Perplexity came under fire last year for a series of plagiarism accusations from several news organizations.",
+    "title_fr": "Perplexity strikes multi-year licensing deal with Getty Images"
   },
   {
     "title": "Tim Cook says Apple is open to M&A on the AI front",
@@ -1062,8 +1075,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.809885",
-    "description_fr": "Le PDG d'Apple, Tim Cook, a noté dans l'appel de résultats du quatrième trimestre 2025 de la société qu'Apple se préparait à annoncer davantage de partenariats en IA comme celui qu'elle a avec OpenAI pour intégrer ChatGPT dans Siri et Apple Intelligence.",
-    "title_fr": "Tim Cook dit qu'Apple est ouvert aux fusions-acquisitions sur le front de l'IA"
+    "description_fr": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce more AI partnerships like the one it has with OpenAI to integrate ChatGPT into Siri and Apple Intelligence.",
+    "title_fr": "Tim Cook says Apple is open to M&A on the AI front"
   },
   {
     "title": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot",
@@ -6485,18 +6498,5 @@
     "collected_at": "2025-10-25T03:20:18.337959",
     "description_fr": "Les ténors de l'IA multiplient les accords pour enrichir leurs écosystèmes respectifs et maintenir leur croissance sur un marché qui nécessite des ressources colossales en matière d'énergie, de puissance de calcul et de talents.",
     "title_fr": "L'IA entre dans une course effrénée aux écosystèmes géants"
-  },
-  {
-    "title": "L'IA redéfinit les indicateurs de l'expérience employés",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545271-l-ia-redefinit-les-indicateurs-de-l-experience-employes/",
-    "description": "Alors que l'expérience client repose depuis longtemps sur des indicateurs fiables – CSAT, NPS, taux de conversion – l'expérience employé reste trop souvent figée dans des pratiques datées.",
-    "image_url": "https://img-0.journaldunet.com/5pIcqz_MrPkTCAfnXUecJ-mVxzo=/1280x/smart/ef5ba17608944ecc935271cf4edb079f/user-jdn/39528030-simon-hayward.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.338321",
-    "description_fr": "Alors que l'expérience client repose depuis longtemps sur des indicateurs fiables – CSAT, NPS, taux de conversion – l'expérience employé reste trop souvent figée dans des pratiques datées.",
-    "title_fr": "L'IA redéfinit les indicateurs de l'expérience employés"
   }
 ]
