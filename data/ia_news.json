@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-02T01:50:08.799328",
-    "description_fr": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. The evidence they provided is that LRMs withchain-of-thought (CoT) reasoning are unable to carry on th",
-    "title_fr": "Large reasoning models almost certainly can think"
+    "description_fr": "Récemment, on a beaucoup parlé de l'idée que les grands modèles de raisonnement (LRM) sont incapables de penser. Cela est principalement dû à un article de recherche publié par Apple, « L'illusion de penser » Apple soutient que les LRM ne doivent pas être capables de penser ; au lieu de cela, ils se contentent d'effectuer une correspondance de modèles. La preuve qu'ils ont fournie est que les LRM avec le raisonnement de la chaîne de pensée (CoT) sont incapables de poursuivre le",
+    "title_fr": "Les grands modèles de raisonnement peuvent presque certainement penser"
   },
   {
     "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
@@ -1023,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.808478",
-    "description_fr": "Une chronologie des mises à jour et des versions des produits ChatGPT, en commençant par les plus récentes, que nous avons mises à jour tout au long de l'année.",
-    "title_fr": "ChatGPT : Tout ce que vous devez savoir sur le chatbot alimenté par l'IA"
+    "description_fr": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+    "title_fr": "ChatGPT: Everything you need to know about the AI-powered chatbot"
   },
   {
     "title": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly",
@@ -1036,7 +1036,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:48.808877",
-    "description_fr": "L'équipe Equity était en direct à TechCrunch Disrupt 2025 ! Les hôtes Kirsten Korosec, Max Zeff et Anthony Ha ont pris le relais sur la scène des constructeurs lundi matin pour lancer l'événement avec la question que tout le monde se pose : sommes-nous dans une bulle d'IA ?  Entre des valorisations qui ont triplé en mois, des rondes de semences de 300 MILLIONS de dollars et des engagements de 100 milliards de dollars […]",
+    "description_fr": "The Equity crew was live at TechCrunch Disrupt 2025! Hosts Kirsten Korosec, Max Zeff, and Anthony Ha took over the Builders Stage on Monday morning to kick off the event with the question everyone’s asking: are we in an AI bubble?  Between valuations that have tripled in months, $300M seed rounds, and $100B commitments flying […]",
     "title_fr": "Equity Live: From $300M seed rounds to data center builds, AI is feeling bubbly"
   },
   {
