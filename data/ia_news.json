@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T01:49:32.366374",
-    "description_fr": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
-    "title_fr": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation"
+    "description_fr": "La sénatrice Martha Blackburn a soutenu que les fabrications de Gemma ne sont « pas une « hallucination » inoffensive », mais plutôt « un acte de diffamation produit et distribué par un modèle d'IA appartenant à Google ».",
+    "title_fr": "Google retire Gemma d'AI Studio après que le sénateur Blackburn ait accusé le modèle de diffamation"
   },
   {
     "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
@@ -22,8 +22,21 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T01:49:34.122928",
-    "description_fr": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was hailed as a breakthrough — just as pipelining and superscalar execution had been in earlier decades. Each marked a generational leap in microarchitecture. By predicting the outcomes of branches and memory loads, processors could avoid stalls and keep e",
-    "title_fr": "Moving past speculation: How deterministic CPUs deliver predictable AI performance"
+    "description_fr": "Pendant plus de trois décennies, les processeurs modernes se sont appuyés sur l'exécution spéculative pour garder les pipelines pleins. Lorsqu'elle est apparue dans les années 1990, la spéculation a été saluée comme une percée — tout comme le pipeline et l'exécution superscalaire l'avaient été au cours des décennies précédentes. Chacun a marqué un bond générationnel dans la microarchitecture. En prédisant les résultats des branches et des charges de mémoire, les processeurs pourraient éviter les décrochages et maintenir",
+    "title_fr": "Dépasser les spéculations : comment les processeurs déterministes offrent des performances d'IA prévisibles"
+  },
+  {
+    "title": "Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?",
+    "url": "https://techcrunch.com/2025/11/02/kevin-roses-simple-test-for-ai-hardware-would-you-want-to-punch-someone-in-the-face-whos-wearing-it/",
+    "description": "\"As an investor, you kind of have to not only say, okay, cool tech, sure, but emotionally, how does it make me feel? And how does it make others feel around me?\"",
+    "image_url": "",
+    "published_date": "2025-11-03",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-03T06:34:41.177628",
+    "description_fr": "\"As an investor, you kind of have to not only say, okay, cool tech, sure, but emotionally, how does it make me feel? And how does it make others feel around me?\"",
+    "title_fr": "Kevin Rose’s simple test for AI hardware — would you want to punch someone in the face who’s wearing it?"
   },
   {
     "title": "Large reasoning models almost certainly can think",
@@ -1023,8 +1036,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-10-31T12:45:22.931848",
-    "description_fr": "Polar Bears International a publié des directives pour les photographes et les cinéastes utilisant des drones pour capturer la faune dans l'Arctique.[En savoir plus]",
-    "title_fr": "Polar Bears International publie des conseils sur les drones pour les photographes"
+    "description_fr": "Polar Bears International has published guidelines for photographers and filmmakers using drones to capture wildlife in the Arctic.[Read More]",
+    "title_fr": "Polar Bears International Publishes Drone Guidance for Photographers"
   },
   {
     "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
@@ -1036,8 +1049,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-10-31T12:45:38.932303",
-    "description_fr": "Comment construire un robot de soins de santé de la simulation au déploiement avec NVIDIA Isaac pour les soins de santé",
-    "title_fr": "Comment construire un robot de soins de santé de la simulation au déploiement avec NVIDIA Isaac pour les soins de santé"
+    "description_fr": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "title_fr": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare"
   },
   {
     "title": "Adobe’s experimental AI tool can edit entire videos using one frame",
@@ -1049,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.088622",
-    "description_fr": "Adobe a présenté certains des outils d'IA expérimentaux sur lesquels il travaille lors de sa conférence Max, qui offrent de nouvelles façons d'éditer intuitivement des photos, des vidéos et de l'audio. Ces expériences, appelées « sneaks », comprennent des outils qui appliquent instantanément toutes les modifications que vous apportez à une image sur l'ensemble d'une vidéo, manipulent facilement la lumière dans les images et corrigent les erreurs de prononciation dans […]",
-    "title_fr": "L'outil d'IA expérimental d'Adobe peut éditer des vidéos entières en utilisant une seule image"
+    "description_fr": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio. These experiments, called “sneaks,” include tools that instantly apply any changes you make to one frame across an entire video, easily manipulate light in images, and correct mispronunciations in […]",
+    "title_fr": "Adobe’s experimental AI tool can edit entire videos using one frame"
   },
   {
     "title": "Perplexity’s new AI tool aims to simplify patent research",
@@ -6485,18 +6498,5 @@
     "collected_at": "2025-10-25T03:20:18.335784",
     "description_fr": "Au-delà de la rapidité d'exécution, d'autres indicateurs doivent être pris en compte pour évaluer l'impact de l'IA générative dans le développement logiciel. Voici un panorama des métriques et des bonnes pratiques à retenir.",
     "title_fr": "Vibe coding : comment évaluer les gains de l'IA… et comment les améliorer"
-  },
-  {
-    "title": "Comparatif : quatre navigateurs IA au banc d'essai",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545063-comparaison-de-4-navigateurs-agentiques/",
-    "description": "Comet, Fellou, Genspark AI Browser Plus et Opera Neon comprennent le langage naturel, planifient et exécutent des actions autonomes pour atteindre un objectif.",
-    "image_url": "https://img-0.journaldunet.com/uSXI3pH_-FBhYfqY8a1_NYym8xI=/1280x/smart/be25539db69f4418a2d961c42f0947ea/ccmcms-jdn/39528082.png",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.336147",
-    "description_fr": "Comet, Fellou, Genspark AI Browser Plus et Opera Neon comprennent le langage naturel, planifient et exécutent des actions autonomes pour atteindre un objectif.",
-    "title_fr": "Comparatif : quatre navigateurs IA au banc d'essai"
   }
 ]
