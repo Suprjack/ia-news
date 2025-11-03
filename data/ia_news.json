@@ -1,5 +1,31 @@
 [
   {
+    "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation",
+    "url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
+    "description": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
+    "image_url": "",
+    "published_date": "2025-11-03",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-03T01:49:32.366374",
+    "description_fr": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
+    "title_fr": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation"
+  },
+  {
+    "title": "Moving past speculation: How deterministic CPUs deliver predictable AI performance",
+    "url": "https://venturebeat.com/ai/moving-past-speculation-how-deterministic-cpus-deliver-predictable-ai",
+    "description": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was hailed as a breakthrough — just as pipelining and superscalar execution had been in earlier decades. Each marked a generational leap in microarchitecture. By predicting the outcomes of branches and memory loads, processors could avoid stalls and keep e",
+    "image_url": "",
+    "published_date": "2025-11-03",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-03T01:49:34.122928",
+    "description_fr": "For more than three decades, modern CPUs have relied on speculative execution to keep pipelines full. When it emerged in the 1990s, speculation was hailed as a breakthrough — just as pipelining and superscalar execution had been in earlier decades. Each marked a generational leap in microarchitecture. By predicting the outcomes of branches and memory loads, processors could avoid stalls and keep e",
+    "title_fr": "Moving past speculation: How deterministic CPUs deliver predictable AI performance"
+  },
+  {
     "title": "Large reasoning models almost certainly can think",
     "url": "https://venturebeat.com/ai/large-reasoning-models-almost-certainly-can-think",
     "description": "Recently, there has been a lot of hullabaloo about the idea that large reasoning models (LRM) are unable to think. This is mostly due to a research article published by Apple, \"The Illusion of Thinking\" Apple argues that LRMs must not be able to think; instead, they just perform pattern-matching. The evidence they provided is that LRMs withchain-of-thought (CoT) reasoning are unable to carry on th",
@@ -22,8 +48,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-02T18:26:58.523635",
-    "description_fr": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
-    "title_fr": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue"
+    "description_fr": "Sam Altman, PDG d'OpenAI, a récemment déclaré que la société réalisait « bien plus » que 13 milliards de $ de revenus annuels — et il a semblé un peu timide lorsqu'on lui a demandé comment elle paierait ses engagements de dépenses massifs.",
+    "title_fr": "Sam Altman dit « assez »pour poser des questions sur les revenus d'OpenAI"
   },
   {
     "title": "Meta has an AI product problem",
@@ -35,8 +61,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-02T18:26:58.523992",
-    "description_fr": "Meta's AI spending is starting to make Wall Street nervous.",
-    "title_fr": "Meta has an AI product problem"
+    "description_fr": "Les dépenses en IA de Meta commencent à rendre Wall Street nerveux.",
+    "title_fr": "Meta a un problème de produit d'IA"
   },
   {
     "title": "Nikon Z-Mount Is Closed to Sigma, and That’s Becoming Impossible to Ignore",
@@ -48,8 +74,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-02T18:27:15.945745",
-    "description_fr": "Sigma is a premier optics manufacturer. That is not just an opinion, it is becoming an unassailable fact. In the last several years, Sigma has cemented its reputation as one of the top optical manufacturers in the world. It is, therefore, becoming impossible to ignore that its lenses are not available on Z-mount.[Read More]",
-    "title_fr": "Nikon Z-Mount Is Closed to Sigma, and That’s Becoming Impossible to Ignore"
+    "description_fr": "Sigma est un fabricant d'optiques de premier plan. Ce n'est pas seulement une opinion, c'est en train de devenir un fait inattaquable. Au cours des dernières années, Sigma a consolidé sa réputation en tant que l'un des principaux fabricants d'optiques au monde. Il devient donc impossible d'ignorer que ses lentilles ne sont pas disponibles sur la monture Z.[En savoir plus]",
+    "title_fr": "Nikon Z-Mount est fermé à Sigma, et cela devient impossible à ignorer"
   },
   {
     "title": "AI mania tanks CoreWeave’s Core Scientific acquisition — it buys Python notebook Marimo",
@@ -1036,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.089365",
-    "description_fr": "Les brevets sont notoirement difficiles à rechercher, mais Perplexity a lancé un outil basé sur l'IA qui est censé rendre le processus un peu plus facile. Son nouvel agent de recherche de brevets vous permet de rechercher des brevets en utilisant un langage naturel, plutôt qu'une chaîne de mots-clés. Par exemple, Perplexity dit que vous pouvez entrer quelque chose comme : « Y a-t-il […]",
-    "title_fr": "Le nouvel outil d'IA de Perplexity vise à simplifier la recherche sur les brevets"
+    "description_fr": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of keywords. As an example, Perplexity says you can enter something like, “Are there […]",
+    "title_fr": "Perplexity’s new AI tool aims to simplify patent research"
   },
   {
     "title": "God will be declared by a panel of experts",
@@ -1049,8 +1075,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-10-31T18:31:47.090327",
-    "description_fr": "Qu'est-ce que l'agi ? Nous savons qu'il s'agit de l'intelligence générale artificielle. C'est un bon début. Mais que signifie vraiment agi ? Et comment savons-nous quand nous y sommes parvenus ? D'ailleurs, qui décide que nous l'avons atteint ? Est-ce que l'agi décide ? Cette semaine, alors qu'OpenAI a achevé un long processus de restructuration qui […]",
-    "title_fr": "Dieu sera déclaré par un panel d'experts"
+    "description_fr": "What is AGI? We know it stands for Artificial General Intelligence. That's a good start. But what does AGI mean, really? And how do we know when we've achieved it? For that matter, who decides we've achieved it? Does the AGI decide? This week, as OpenAI completed a long restructuring process that sets it up […]",
+    "title_fr": "God will be declared by a panel of experts"
   },
   {
     "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
@@ -6472,31 +6498,5 @@
     "collected_at": "2025-10-25T03:20:18.336147",
     "description_fr": "Comet, Fellou, Genspark AI Browser Plus et Opera Neon comprennent le langage naturel, planifient et exécutent des actions autonomes pour atteindre un objectif.",
     "title_fr": "Comparatif : quatre navigateurs IA au banc d'essai"
-  },
-  {
-    "title": "IA agentique : promesse technologique ou véritable pivot stratégique pour l'entreprise ?",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545295-ia-agentique-promesse-technologique-ou-veritable-pivot-strategique-pour-l-entreprise/",
-    "description": "L'IA agentique, évolution de l'IA générative, automatise des processus complexes. Prometteuse mais exigeante, elle requiert données fiables, supervision humaine et stratégie pour créer de la valeur.",
-    "image_url": "https://img-0.journaldunet.com/G-V7JE2XOi_FHJ1TJuVyIPO7E3I=/1280x/smart/d6384c76386a4863a26dd215ee5b6e1b/user-jdn/39528076-bastian-nominacher.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.336502",
-    "description_fr": "L'IA agentique, évolution de l'IA générative, automatise des processus complexes. Prometteuse mais exigeante, elle requiert données fiables, supervision humaine et stratégie pour créer de la valeur.",
-    "title_fr": "IA agentique : promesse technologique ou véritable pivot stratégique pour l'entreprise ?"
-  },
-  {
-    "title": "L'intelligence artificielle va-t-elle redéfinir le rôle des créateurs dans la Creator Economy ?",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545289-l-intelligence-artificielle-va-t-elle-redefinir-le-role-des-createurs-dans-la-creator-economy/",
-    "description": "L'IA bouleverse le marketing d'influence. Entre gain d'efficacité et perte d'authenticité, les créateurs doivent redéfinir leur place dans un écosystème où la technologie devient créatrice de contenu.",
-    "image_url": "https://img-0.journaldunet.com/y7x2eE5TnKTXy27YdbUbuskF_Oo=/1280x/smart/7213fc5962784891920325883bf800c7/user-jdn/39527759-adham-hassan.jpg",
-    "published_date": "2025-10-25",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:18.336883",
-    "description_fr": "L'IA bouleverse le marketing d'influence. Entre gain d'efficacité et perte d'authenticité, les créateurs doivent redéfinir leur place dans un écosystème où la technologie devient créatrice de contenu.",
-    "title_fr": "L'intelligence artificielle va-t-elle redéfinir le rôle des créateurs dans la Creator Economy ?"
   }
 ]
