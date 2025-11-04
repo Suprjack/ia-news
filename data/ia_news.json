@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-04T06:33:42.760818",
-    "description_fr": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-    "title_fr": "Introducing IndQA"
+    "description_fr": "OpenAI présente IndQA, une nouvelle référence pour évaluer les systèmes d'IA dans les langues indiennes. Construit avec des experts du domaine, IndQA teste la compréhension et le raisonnement culturels dans 12 langues et 10 domaines de connaissances.",
+    "title_fr": "Présentation d'IndQA"
   },
   {
     "title": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'",
@@ -282,8 +282,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.064654",
-    "description_fr": "While the world's leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial general intelligence, a researcher at one of the industry's most secretive and valuable startups delivered a pointed challenge to that orthodoxy this week: The path forward isn't about training bigger — it's about learning better.\"I believe that the",
-    "title_fr": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'"
+    "description_fr": "Alors que les plus grandes entreprises d'intelligence artificielle du monde se précipitent pour construire des modèles toujours plus grands, parier des milliards à cette seule échelle débloquera l'intelligence générale artificielle, un chercheur de l'une des startups les plus secrètes et les plus précieuses de l'industrie a lancé un défi pointu à cette orthodoxie cette semaine : la voie à suivre ne consiste pas à former plus grand — il s'agit de mieux apprendre.« Je crois que le",
+    "title_fr": "Thinking Machines remet en question la stratégie de mise à l'échelle de l'IA d'OpenAI : « La première superintelligence sera un apprenant surhumain »"
   },
   {
     "title": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models",
@@ -295,8 +295,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.084450",
-    "description_fr": "The next big trend in AI providers appears to be \"studio\" environments on the web that allow users to spin up agents and AI applications within minutes.Case in point, today the well-funded French AI startupMistral launched its own Mistral AI Studio, a new production platform designed to help enterprises build, observe, and operationalize AI applications at scale atop Mistral's growing family of pr",
-    "title_fr": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models"
+    "description_fr": "La prochaine grande tendance dans les fournisseurs d'IA semble être les environnements « studio » sur le Web qui permettent aux utilisateurs de faire tourner des agents et des applications d'IA en quelques minutes. En bref, aujourd'hui, la startup française d'IA Mistral a lancé son propre Mistral AI Studio, une nouvelle plate-forme de production conçue pour aider les entreprises à construire, observer et opérationnaliser des applications d'IA à grande échelle au sommet de la famille croissante de pr",
+    "title_fr": "Mistral lance son propre studio d'IA pour un développement rapide avec ses modèles européens open source et propriétaires"
   },
   {
     "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
@@ -308,8 +308,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.086900",
-    "description_fr": "China’sAnt Group, an affiliate of Alibaba, detailed technical information around its new model,Ring-1T, which the company said is “the first open-source reasoning model with one trillion total parameters.”Ring-1T aims to compete with other reasoning models like GPT-5 and the o-series fromOpenAI, as well asGoogle’s Gemini 2.5. With the new release of the latest model, Ant extends the geopolitical d",
-    "title_fr": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale"
+    "description_fr": "China'sAnt Group, une filiale d'Alibaba, a fourni des informations techniques détaillées sur son nouveau modèle, Ring-1T, qui, selon la société, est « le premier modèle de raisonnement open source avec un billion de paramètres totaux. »Ring-1T vise à concurrencer d'autres modèles de raisonnement comme GPT-5 et la série o d'OpenAI, ainsi que Gemini 2.5 de Google. Avec la nouvelle version du dernier modèle, Ant étend le d géopolitique",
+    "title_fr": "À l'intérieur de Ring-1T : les ingénieurs fourmis résolvent les goulots d'étranglement de l'apprentissage par renforcement à l'échelle du trillion"
   },
   {
     "title": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub",
@@ -321,8 +321,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.092444",
-    "description_fr": "Is the Google Search for internal enterprise knowledge finally here...but fromOpenAI? It certainly seems that way.Today, OpenAI haslaunched company knowledge in ChatGPT, a major new capability for subscribers to ChatGPT's paid Business, Enterprise, and Edu plans that lets them call up their company's data directly from third-party workplace apps including Slack, SharePoint, Google Drive, Gmail, Gi",
-    "title_fr": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub"
+    "description_fr": "La recherche Google pour les connaissances internes de l'entreprise est-elle enfin là...mais d'OpenAI ? Aujourd'hui, OpenAI a lancé les connaissances de l'entreprise dans ChatGPT, une nouvelle fonctionnalité majeure pour les abonnés aux plans payants Business, Enterprise et EDU de ChatGPT qui leur permet d'appeler les données de leur entreprise directement à partir d'applications de travail tierces, notamment Slack, SharePoint, Google Drive, Gmail, Gi",
+    "title_fr": "OpenAI lance la connaissance de l'entreprise dans ChatGPT, vous permettant d'accéder aux données de votre entreprise à partir de Google Drive, Slack, GitHub"
   },
   {
     "title": "Redefining data engineering in the age of AI",
@@ -334,8 +334,112 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:51.175000",
-    "description_fr": "As organizations weave AI into more of their operations, senior executives are realizing data engineers hold a central role in bringing these initiatives to life. After all, AI only delivers when you have large amounts of reliable and well-managed, high-quality data. Indeed, this report finds that data engineers play a pivotal role in their organizations…",
-    "title_fr": "Redefining data engineering in the age of AI"
+    "description_fr": "Alors que les entreprises intègrent l'IA dans un plus grand nombre de leurs opérations, les cadres supérieurs réalisent que les ingénieurs de données jouent un rôle central dans la concrétisation de ces initiatives. Après tout, l'IA ne fonctionne que lorsque vous disposez de grandes quantités de données fiables, bien gérées et de haute qualité. En effet, ce rapport constate que les ingénieurs de données jouent un rôle central dans leurs organisations…",
+    "title_fr": "Redéfinir l'ingénierie des données à l'ère de l'IA"
+  },
+  {
+    "title": "Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-kara-swisher/",
+    "description": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all.",
+    "image_url": "https://media.wired.com/photos/68f8083c6fc0dea09153d01c/master/pass/Big-Interview-UV-Solo-Kara-Smith-Business-2234581360.jpg",
+    "published_date": "2025-11-04",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-04T12:49:56.903084",
+    "description_fr": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all.",
+    "title_fr": "Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg"
+  },
+  {
+    "title": "ClinCheck Live brings AI planning to Invisalign dental treatments",
+    "url": "https://www.artificialintelligence-news.com/news/clincheck-live-brings-ai-planning-to-invisalign-dental-treatments/",
+    "description": "Align Technology, a medical device company that designs, manufactures, and sells the Invisalign system of clear aligners, exocad CAD/CAM software, and iTero intra-oral scanners, has unveiled ClinCheck Live Plan, a new feature in its Invisalign digital dental treatment planning. ClinCheck Live Plan is designed to automate the creation of an initial Invisalign treatment plan that’s […]The postClinCh",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published_date": "2025-11-04",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-04T12:49:58.706164",
+    "description_fr": "Align Technology, a medical device company that designs, manufactures, and sells the Invisalign system of clear aligners, exocad CAD/CAM software, and iTero intra-oral scanners, has unveiled ClinCheck Live Plan, a new feature in its Invisalign digital dental treatment planning. ClinCheck Live Plan is designed to automate the creation of an initial Invisalign treatment plan that’s […]The postClinCh",
+    "title_fr": "ClinCheck Live brings AI planning to Invisalign dental treatments"
+  },
+  {
+    "title": "NVIDIA Partners Bring Physical AI, New Smart City Technologies to Dublin, Ho Chi Minh City, Raleigh and More",
+    "url": "https://blogs.nvidia.com/blog/physical-ai-smart-city-expo-world-congress/",
+    "description": "Two out of every three people are likely to be living in cities or other urban centers by 2050, according to the United Nations, meaning about 2.5 billion people could be added to urban areas by the middle of the century. This highlights an urgent need for more sustainable urban planning and public services. TheRead Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/scewc-featured-1280x680-1.jpg",
+    "published_date": "2025-11-04",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-04T12:50:00.366525",
+    "description_fr": "Two out of every three people are likely to be living in cities or other urban centers by 2050, according to the United Nations, meaning about 2.5 billion people could be added to urban areas by the middle of the century. This highlights an urgent need for more sustainable urban planning and public services. TheRead Article",
+    "title_fr": "NVIDIA Partners Bring Physical AI, New Smart City Technologies to Dublin, Ho Chi Minh City, Raleigh and More"
+  },
+  {
+    "title": "Superintelligence : faut-il vraiment stopper une course dont on ne connaît pas encore la ligne d'arrivée ?",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545777-superintelligence-faut-il-vraiment-stopper-une-course-dont-on-ne-connait-pas-encore-la-ligne-d-arrivee/",
+    "description": "Faut-il stopper une course à l'IA dont on ignore l'arrivée ? 700 experts le pensent. D'autres rétorquent qu'une pause ferait perdre un avantage crucial. Entre prudence et progrès, le débat est ouvert.",
+    "image_url": "https://img-0.journaldunet.com/Sd8CLJmfLzPBdSMM2EIqJoHpS44=/1280x/smart/4887f17f02954e01bef8732447aa8706/user-jdn/39527142-anthony-hie.jpg",
+    "published_date": "2025-11-04",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-04T12:50:02.111908",
+    "description_fr": "Faut-il stopper une course à l'IA dont on ignore l'arrivée ? 700 experts le pensent. D'autres rétorquent qu'une pause ferait perdre un avantage crucial. Entre prudence et progrès, le débat est ouvert.",
+    "title_fr": "Superintelligence : faut-il vraiment stopper une course dont on ne connaît pas encore la ligne d'arrivée ?"
+  },
+  {
+    "title": "IA et guerre des talents : fin annoncée ou nouvelle ère des compétences ?",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545745-ia-et-guerre-des-talents-fin-annoncee-ou-nouvelle-ere-des-competences/",
+    "description": "L'IA générative redéfinit la guerre des talents en valorisant ceux qui savent transformer la collaboration homme-machine en levier d'innovation.",
+    "image_url": "https://img-0.journaldunet.com/Bq1hWkLL3MuMzrCYumv8Sln7LII=/1280x/smart/99ce581803284d48acae389c83eb7c19/user-jdn/39528932-bertrand-cocagne.jpg",
+    "published_date": "2025-11-04",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-04T12:50:02.112439",
+    "description_fr": "L'IA générative redéfinit la guerre des talents en valorisant ceux qui savent transformer la collaboration homme-machine en levier d'innovation.",
+    "title_fr": "IA et guerre des talents : fin annoncée ou nouvelle ère des compétences ?"
+  },
+  {
+    "title": "MCP, A2A, AP2... Les 5 protocoles incontournables qui vont structurer l'avenir de l'IA agentique",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545781-mcp-a2a-ap2-les-5-protocoles-incontournables-qui-vont-structurer-l-avenir-de-l-ia-agentique/",
+    "description": "Cinq protocoles redéfinissent l'architecture du web agentique : MCP, A2A, AP2, ACP et Trusted Agent Protocol. Ensemble, ils standardisent les échanges, l'orchestration et les paiements autonomes entre agents et services.",
+    "image_url": "https://img-0.journaldunet.com/1ldupIQUUt7eEL2qFSjxFE-J_10=/1280x/smart/e184954cac8f44e9b106cfd018dbfc97/ccmcms-jdn/39529001.png",
+    "published_date": "2025-11-04",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-04T12:50:02.112922",
+    "description_fr": "Cinq protocoles redéfinissent l'architecture du web agentique : MCP, A2A, AP2, ACP et Trusted Agent Protocol. Ensemble, ils standardisent les échanges, l'orchestration et les paiements autonomes entre agents et services.",
+    "title_fr": "MCP, A2A, AP2... Les 5 protocoles incontournables qui vont structurer l'avenir de l'IA agentique"
+  },
+  {
+    "title": "Photographer Sues University Coffee Shop Over Blueberry Muffin Image",
+    "url": "https://petapixel.com/2025/11/04/photographer-sues-university-coffee-shop-over-blueberry-muffin-image/",
+    "description": "A professional photographer is taking legal action against a university coffee shop, alleging that it used her photo of a blueberry muffin without permission.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Blueberry-Muffin.jpg",
+    "published_date": "2025-11-04",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-04T12:50:07.792819",
+    "description_fr": "A professional photographer is taking legal action against a university coffee shop, alleging that it used her photo of a blueberry muffin without permission.[Read More]",
+    "title_fr": "Photographer Sues University Coffee Shop Over Blueberry Muffin Image"
+  },
+  {
+    "title": "These Historical Figures Lived Long Enough to be Painted and Photographed",
+    "url": "https://petapixel.com/2025/11/04/these-historical-figures-lived-long-enough-to-be-painted-and-photographed/",
+    "description": "Looking at paintings of historical figures, it can be difficult to know whether that's what they really looked like, or whether the painter was being interpretive -- perhaps pressured by the subject.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Historical-Figures-Painted-and-Photographed17.jpg",
+    "published_date": "2025-11-04",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-04T12:50:07.793632",
+    "description_fr": "Looking at paintings of historical figures, it can be difficult to know whether that's what they really looked like, or whether the painter was being interpretive -- perhaps pressured by the subject.[Read More]",
+    "title_fr": "These Historical Figures Lived Long Enough to be Painted and Photographed"
   },
   {
     "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation",
@@ -621,7 +725,7 @@
     "category": "general",
     "collected_at": "2025-11-03T18:30:49.086341",
     "description_fr": "Le navigateur IA de dia a une longueur d'avance sur ce qui fonctionne pour les consommateurs grâce aux enseignements tirés de son expérience de navigateur, Arc.",
-    "title_fr": "Le navigateur AI de dia commence à ajouter les « plus grands succès » d'Arc à son ensemble de fonctionnalités"
+    "title_fr": "Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set"
   },
   {
     "title": "OpenAI and Amazon ink $38B cloud computing deal",
@@ -633,8 +737,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:49.086647",
-    "description_fr": "OpenAI n'a pas fini de sécuriser l'infrastructure d'IA dont il a besoin pour faire évoluer rapidement les charges de travail agentiques. Le fabricant de ChatGPT a annoncé lundi avoir conclu un accord avec Amazon pour acheter 38 milliards de $ de services de cloud computing au cours des sept prochaines années.",
-    "title_fr": "Offre de cloud computing OpenAI et Amazon Ink de 38 milliards de $"
+    "description_fr": "OpenAI isn't done securing the AI infrastructure it needs to rapidly scale agentic workloads. The ChatGPT-maker on Monday said it has reached a deal with Amazon to buy $38 billion in cloud computing services over the next seven years.",
+    "title_fr": "OpenAI and Amazon ink $38B cloud computing deal"
   },
   {
     "title": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy",
@@ -646,8 +750,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:49.086931",
-    "description_fr": "Pour la première fois, les États-Unis ont accordé à Microsoft une licence d'exportation de puces Nvidia vers les Émirats arabes unis, ce qui positionne le pays à la fois comme un terrain d'essai pour la diplomatie américaine de contrôle des exportations et comme un ancrage régional de l'influence américaine en matière d'IA.",
-    "title_fr": "L'investissement de 15,2 milliards de $ de Microsoft aux Émirats arabes unis transforme l'État du Golfe en cas de test pour la diplomatie américaine en matière d'IA"
+    "description_fr": "For the first time, the U.S. has granted Microsoft a license to export Nvidia chips to the UAE – a move that positions the country as both a proving ground for U.S. export-control diplomacy and a regional anchor of American AI influence.",
+    "title_fr": "Microsoft’s $15.2B UAE investment turns Gulf State into test case for US AI diplomacy"
   },
   {
     "title": "Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity",
@@ -659,8 +763,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:49.087222",
-    "description_fr": "L'accord donnera à Microsoft l'accès à l'infrastructure de calcul construite avec les GPU GB300 de Nvidia, qui seront déployés sur plusieurs phases jusqu'en 2026.",
-    "title_fr": "Microsoft encre un contrat de 9,7 milliards de $ avec l'IREN australien pour la capacité du cloud IA"
+    "description_fr": "The deal will give Microsoft access to compute infrastructure built with Nvidia's GB300 GPUs, which will be deployed over phases through 2026.",
+    "title_fr": "Microsoft inks $9.7B deal with Australia’s IREN for AI cloud capacity"
   },
   {
     "title": "LG founder’s grandson, production firm partner up to bring AI to filmmaking",
@@ -672,8 +776,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:49.087484",
-    "description_fr": "Stock Farm Road de Brian Koo et Utopai Studios se sont associés pour former Utopai East, une société de production cinématographique basée sur l'IA.",
-    "title_fr": "Le petit-fils du fondateur de LG et la société de production s'associent pour amener l'IA au cinéma"
+    "description_fr": "Brian Koo’s Stock Farm Road and Utopai Studios have partnered up to form Utopai East, an AI-powered film production company.",
+    "title_fr": "LG founder’s grandson, production firm partner up to bring AI to filmmaking"
   },
   {
     "title": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor",
@@ -685,8 +789,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:50.906690",
-    "description_fr": "Je suis ravi d'annoncer un nouvel ajout fantastique à notre équipe de direction :Karyne Levyis rejoint VentureBeat en tant que nouvelle rédactrice en chef. Aujourd'hui est son premier jour. Beaucoup d'entre vous connaissent peut-être Karyne de son rôle le plus récent en tant que rédactrice en chef adjointe chez TechCrunch, mais sa carrière est un moment fort du journalisme technologique vétéran. Son CV comprend des rôles clés chez Protocol, NerdWallet, Business Insider et CNET",
-    "title_fr": "Renforcer notre noyau : accueillir Karyne Levy en tant que nouvelle rédactrice en chef de VentureBeat"
+    "description_fr": "I’m thrilled to announce a fantastic new addition to our leadership team:Karyne Levyis joining VentureBeat as our new Managing Editor. Today is her first day.Many of you may know Karyne from her most recent role as Deputy Managing Editor at TechCrunch, but her career is a highlight reel of veteran tech journalism. Her resume includes pivotal roles atProtocol, NerdWallet, Business Insider, and CNET",
+    "title_fr": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor"
   },
   {
     "title": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation",
@@ -698,8 +802,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:50.909617",
-    "description_fr": "La startup new-yorkaise Augmented Intelligence Inc (aui), qui cherche à aller au-delà de l'architecture populaire des « transformateurs » utilisée par la plupart des LLM d'aujourd' hui tels que ChatGPT et Gemini, a levé 20 millions de $ dans une ronde de SÉCURITÉ à un plafond de valorisation de 750 millions de $ , portant son financement total à près de 60 millions de $ , VentureBeat peut le révéler en exclusivité.",
-    "title_fr": "Le début de la fin de l'ère des transformateurs ? La startup d'IA neuro-symbolique aui annonce un nouveau financement d'une valeur de 750 M $"
+    "description_fr": "The buzzed-about but still stealthy New York City startupAugmented Intelligence Inc (AUI), which seeks to go beyond the popular \"transformer\" architecture used by most of today's LLMs such as ChatGPT and Gemini, hasraised $20 million in a bridge SAFE round at a $750 million valuation cap, bringing its total funding to nearly $60 million, VentureBeat can exclusively reveal.The round, completed in u",
+    "title_fr": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation"
   },
   {
     "title": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot",
@@ -711,8 +815,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-03T18:30:53.785654",
-    "description_fr": "Votre ami est venu chez vous parce qu'il respecte vos connaissances et votre opinion, et externaliser la réponse à une machine est paresseux et grossier. Répondez-y vous-même.",
-    "title_fr": "Votre ami vous a posé une question. Ne pas copier et coller une réponse à partir d'un chatbot"
+    "description_fr": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself.",
+    "title_fr": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot"
   },
   {
     "title": "OpenAI spreads $600B cloud AI bet across AWS, Oracle, Microsoft",
@@ -6394,109 +6498,5 @@
     "collected_at": "2025-10-25T03:20:07.133875",
     "description_fr": "The browser wars are heating up again, this time with AI in the driver’s seat.  OpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even includes an “agent mode” that can complete tasks autonomously. It’s one of the biggest browser launches in recent memory, but it’s debuting […]",
     "title_fr": "OpenAI wants to power your browser, and that might be a security nightmare"
-  },
-  {
-    "title": "TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host",
-    "url": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-side-events-schedule-women-in-tech-mongodb-silkroad-innovation-hub-and-more-to-host/",
-    "description": "With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.134127",
-    "description_fr": "With TechCrunch Disrupt 2025 right around the corner, we’re thrilled to introduce the companies hosting Side Events that will extend the buzz and excitement to the thousands of attendees and Silicon Valley locals alike.",
-    "title_fr": "TechCrunch Disrupt 2025 Side Events schedule:  Women in Tech, MongoDB, Silkroad Innovation Hub, and more to host"
-  },
-  {
-    "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/",
-    "description": "The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&A, workflows, and more. Browse the full lineup and register today to save up to $444, and get 60% off a second pass before prices rise on October 27.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.134381",
-    "description_fr": "The full Disrupt 2025 breakout session agenda is now live. Join for tactical, small-group learning on AI, fundraising, M&A, workflows, and more. Browse the full lineup and register today to save up to $444, and get 60% off a second pass before prices rise on October 27.",
-    "title_fr": "The full breakout session agenda at TechCrunch Disrupt 2025"
-  },
-  {
-    "title": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/24/ai-at-the-edge-how-startups-are-powering-the-future-of-space-at-techcrunch-disrupt-2025/",
-    "description": "Just 3 days until liftoff for Disrupt 2025 — and the Space Stage is ready to explore the future of space tech (and every other frontier of innovation). Adam Maher (Ursa), Dr. Lucy Hoag (Violet Labs), and Dr. Debra L. Emmons (The Aerospace Corporation) will unpack how AI is transforming life in orbit. Register now to save up to $444 on your pass, and 60% on a second.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.134616",
-    "description_fr": "Just 3 days until liftoff for Disrupt 2025 — and the Space Stage is ready to explore the future of space tech (and every other frontier of innovation). Adam Maher (Ursa), Dr. Lucy Hoag (Violet Labs), and Dr. Debra L. Emmons (The Aerospace Corporation) will unpack how AI is transforming life in orbit. Register now to save up to $444 on your pass, and 60% on a second.",
-    "title_fr": "AI at the edge: How startups are powering the future of space at TechCrunch Disrupt 2025"
-  },
-  {
-    "title": "Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city",
-    "url": "https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/",
-    "description": "Three days. That’s it. TechCrunch Disrupt 2025 — the startup world’s biggest stage — kicks off October 27 – 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesn’t just host innovation — it amplifies it, transforming San Francisco into a living showcase of ideas, products, and partnerships driving the next wave of tech. Register before prices hike in 3 days.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.134867",
-    "description_fr": "Three days. That’s it. TechCrunch Disrupt 2025 — the startup world’s biggest stage — kicks off October 27 – 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesn’t just host innovation — it amplifies it, transforming San Francisco into a living showcase of ideas, products, and partnerships driving the next wave of tech. Register before prices hike in 3 days.",
-    "title_fr": "Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city"
-  },
-  {
-    "title": "With an Intel recovery underway, all eyes turn to its foundry business",
-    "url": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
-    "description": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.135131",
-    "description_fr": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
-    "title_fr": "With an Intel recovery underway, all eyes turn to its foundry business"
-  },
-  {
-    "title": "OpenAI buys Sky, an AI interface for Mac",
-    "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
-    "description": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.135412",
-    "description_fr": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
-    "title_fr": "OpenAI buys Sky, an AI interface for Mac"
-  },
-  {
-    "title": "20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users",
-    "url": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
-    "description": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, grew an AI note-taker app to five million users and an eight-figure ARR, they say.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.135686",
-    "description_fr": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, grew an AI note-taker app to five million users and an eight-figure ARR, they say.",
-    "title_fr": "20-year-old dropouts built AI notetaker Turbo AI and grew it to 5 million users"
-  },
-  {
-    "title": "Instagram users can now use Meta AI editing tools directly in IG Stories",
-    "url": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/",
-    "description": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
-    "image_url": "",
-    "published_date": "2025-10-25",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-25T03:20:07.135980",
-    "description_fr": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
-    "title_fr": "Instagram users can now use Meta AI editing tools directly in IG Stories"
   }
 ]
