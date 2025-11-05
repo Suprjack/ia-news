@@ -438,8 +438,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-05T06:33:08.238394",
-    "description_fr": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-    "title_fr": "Addendum to GPT-5 System Card: Sensitive conversations"
+    "description_fr": "Cette carte système détaille les améliorations de GPT-5 dans le traitement des conversations sensibles, y compris de nouveaux repères pour la dépendance émotionnelle, la santé mentale et la résistance au jailbreak.",
+    "title_fr": "Addendum à la carte système GPT-5 : Conversations sensibles"
   },
   {
     "title": "Strengthening ChatGPT’s responses in sensitive conversations",
@@ -451,8 +451,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-05T06:33:08.238739",
-    "description_fr": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
-    "title_fr": "Strengthening ChatGPT’s responses in sensitive conversations"
+    "description_fr": "OpenAI a collaboré avec plus de 170 experts en santé mentale pour améliorer la capacité de ChatGPT à reconnaître la détresse, à réagir avec empathie et à guider les utilisateurs vers un soutien réel, réduisant jusqu'à 80 % les réponses dangereuses. Découvrez comment nous rendons ChatGPT plus sûr et plus solidaire dans les moments sensibles.",
+    "title_fr": "Renforcer les réponses de ChatGPT dans les conversations sensibles"
   },
   {
     "title": "Google Beam is working with the USO to support military families.",
@@ -464,8 +464,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-05T06:33:10.804623",
-    "description_fr": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-    "title_fr": "Google Beam is working with the USO to support military families."
+    "description_fr": "En savoir plus sur le travail de Google avec l'OSU et sur la façon dont il prévoit de lancer un programme qui permettra aux membres du service de rester en contact avec leurs proches.",
+    "title_fr": "Google Beam travaille avec l'USO pour soutenir les familles de militaires."
   },
   {
     "title": "Streaming datasets: 100x More Efficient",
@@ -477,8 +477,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-05T06:33:11.885235",
-    "description_fr": "Streaming datasets: 100x More Efficient",
-    "title_fr": "Streaming datasets: 100x More Efficient"
+    "description_fr": "Ensembles de données de streaming : 100 fois plus efficaces",
+    "title_fr": "Ensembles de données de streaming : 100 fois plus efficaces"
   },
   {
     "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
@@ -490,8 +490,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-05T06:33:11.885443",
-    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
+    "description_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert",
+    "title_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert"
   },
   {
     "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion",
@@ -503,8 +503,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-05T06:33:14.813465",
-    "description_fr": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
-    "title_fr": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion"
+    "description_fr": "MoEngage compte déjà des clients dans 75 pays, l'Amérique du Nord étant son principal moteur d'activité.",
+    "title_fr": "Goldman Sachs double la mise sur MoEngage dans une nouvelle ronde pour alimenter l'expansion mondiale"
   },
   {
     "title": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups",
@@ -516,8 +516,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-05T06:33:14.813776",
-    "description_fr": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
-    "title_fr": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups"
+    "description_fr": "Qualcomm Ventures a rejoint six sociétés de capital-risque indiennes, ajoutant collectivement plus de 850 millions de $ pour stimuler l'écosystème de technologie profonde de l'Inde.",
+    "title_fr": "NVIDIA, Qualcomm rejoignent des sociétés de capital-risque américaines et indiennes pour aider à créer les prochaines startups de technologie profonde en Inde"
   },
   {
     "title": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot",
@@ -529,8 +529,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-05T06:33:16.952276",
-    "description_fr": "Anthropicis making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed itsClaude AIassistant directly intoMicrosoft Exceland connect it to real-time market data from some of the world's most influential financial information providers.The San Francisco-based AI startup announced Monday it is releasingClaude for Excel, allowing fi",
-    "title_fr": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot"
+    "description_fr": "Anthropic fait sa poussée la plus agressive encore dans l'industrie des services financiers de trillions de dollars, dévoilant une suite d'outils qui intègrent son Claude AIassistant directement dans Microsoft Excel et le connectent aux données de marché en temps réel de certains des fournisseurs d'informations financières les plus influents du monde. La startup IA basée à San Francisco a annoncé lundi qu'elle publiaitClaude pour Excel, ce qui permet de fi",
+    "title_fr": "Anthropic déploie Claude AI pour la finance, s'intègre à Excel pour rivaliser avec Microsoft Copilot"
   },
   {
     "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
@@ -542,8 +542,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-05T06:33:16.955256",
-    "description_fr": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan tobuild their own models, a project that would require access to GPUs.Google Cloud wants to play a bigger role in enterprises’ model-making journey with its new service,Vertex AI Training. The service gives enterprises looking to train their own models access to a managed Slurm environment, ",
-    "title_fr": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training"
+    "description_fr": "Certaines entreprises sont mieux servies en ajustant les grands modèles à leurs besoins, mais un certain nombre d'entreprises prévoient de construire leurs propres modèles, un projet qui nécessiterait un accès aux GPU. Google Cloud veut jouer un rôle plus important dans le parcours de création de modèles des entreprises avec son nouveau service,Vertex AI Training. Le service permet aux entreprises cherchant à former leurs propres modèles d'accéder à un environnement Slurm géré,",
+    "title_fr": "Google Cloud vise CoreWeave et AWS avec Slurm géré pour la formation à l'IA à l'échelle de l'entreprise"
   },
   {
     "title": "When your AI browser becomes your enemy: The Comet security disaster",
@@ -555,8 +555,164 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-05T06:33:16.964555",
-    "description_fr": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now thatAI browserslike Perplexity's Comet promise to do everything for you — browse, click, type, think.But here's the plot twist nobody saw coming: That helpful AI assistant browsing the web for you? It might just be taking orders from the very websites it's supposed to pro",
-    "title_fr": "When your AI browser becomes your enemy: The Comet security disaster"
+    "description_fr": "Vous souvenez-vous de l'époque où les navigateurs étaient simples ? Vous avez cliqué sur un lien, une page chargée, vous avez peut-être rempli un formulaire. Ces jours semblent anciens maintenant que les navigateurs AI - comme la comète de Perplexity - promettent de tout faire pour vous — naviguer, cliquer, taper, penser. Mais voici la tournure de l'intrigue que personne n'a vue venir : Cet assistant IA utile naviguant sur le Web pour vous ? Il pourrait simplement prendre des commandes à partir des sites Web mêmes qu'il est censé promouvoir",
+    "title_fr": "Lorsque votre navigateur d'IA devient votre ennemi : le désastre de la sécurité Comet"
+  },
+  {
+    "title": "Stability AI&#8217;s legal win over Getty leaves copyright law in limbo",
+    "url": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk",
+    "description": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI and copyright in the UK, but it landed with a thud […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-05",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:46:54.773657",
+    "description_fr": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI and copyright in the UK, but it landed with a thud […]",
+    "title_fr": "Stability AI&#8217;s legal win over Getty leaves copyright law in limbo"
+  },
+  {
+    "title": "Former Meta employees launch a ring to take voice notes and control music",
+    "url": "https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/",
+    "description": "A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from Plaud and Pocket; pendants from Friend, Limitless, and Taya; and a wristband from Bee, which is now part of Amazon. Now, two former Meta employees who worked on interface design have launched Sandbar, a startup […]",
+    "image_url": "",
+    "published_date": "2025-11-05",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:46:55.699959",
+    "description_fr": "A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or personal growth. These include card-shaped devices from Plaud and Pocket; pendants from Friend, Limitless, and Taya; and a wristband from Bee, which is now part of Amazon. Now, two former Meta employees who worked on interface design have launched Sandbar, a startup […]",
+    "title_fr": "Former Meta employees launch a ring to take voice notes and control music"
+  },
+  {
+    "title": "Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts",
+    "url": "https://www.wired.com/story/sandbar-stream-smart-ring/",
+    "description": "A new company called Sandbar has unveiled a smart wearable called Stream Ring, which uses a microphone to record your softly spoken thoughts. And it’s powered by—you guessed it—an AI chatbot.",
+    "image_url": "https://media.wired.com/photos/690ac75e0688aae134b0cb56/master/pass/Sandbar%20Stream%20Smart%20Ring%20SOURCE%20Julian%20Chokkattu(2).jpg",
+    "published_date": "2025-11-05",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:00.563114",
+    "description_fr": "A new company called Sandbar has unveiled a smart wearable called Stream Ring, which uses a microphone to record your softly spoken thoughts. And it’s powered by—you guessed it—an AI chatbot.",
+    "title_fr": "Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts"
+  },
+  {
+    "title": "L'énergie comme levier stratégique : priorité aux IA européennes",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545789-l-energie-comme-levier-strategique-priorite-aux-ia-europeennes/",
+    "description": "L'IA entraîne une explosion de la consommation énergétique qui menace d'atteindre des niveaux critiques. Sécuriser l'approvisionnement des infrastructures souveraines doit être une priorité.",
+    "image_url": "https://img-0.journaldunet.com/iFkldZIEqygukraF4yngXDEm-LY=/1280x/smart/9d5a96ceb85b4caa9621cd95a89646f9/user-jdn/39512737-luc-d-urso.jpg",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.757196",
+    "description_fr": "L'IA entraîne une explosion de la consommation énergétique qui menace d'atteindre des niveaux critiques. Sécuriser l'approvisionnement des infrastructures souveraines doit être une priorité.",
+    "title_fr": "L'énergie comme levier stratégique : priorité aux IA européennes"
+  },
+  {
+    "title": "Prompts : 5 techniques de context engineering pour gagner en précision",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545813-prompts-5-techniques-de-context-engineering-pour-gagner-en-precision/",
+    "description": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
+    "image_url": "https://img-0.journaldunet.com/B-Qbttg6pcbCmlHKro3zqbziusc=/1280x/smart/129828e0bbc94e3782b2c0f2f0eb0949/ccmcms-jdn/39529060.png",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.757691",
+    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
+    "title_fr": "Prompts : 5 techniques de context engineering pour gagner en précision"
+  },
+  {
+    "title": "L'IA ne remplacera pas l'humain, elle peut aider à le sauver",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545549-l-ia-ne-remplacera-pas-l-humain-elle-peut-aider-a-le-sauver/",
+    "description": "Chaque jour, l'intelligence artificielle s'immisce un peu plus dans nos vies : elle trie nos e-mails, anticipe nos déplacements, corrige nos mots, bientôt nos gestes.",
+    "image_url": "https://img-0.journaldunet.com/P1rIDcjdEVmFaRiI96h9tFTvKG8=/1280x/smart/2e336ce882dc483682dda31830ef70cd/user-jdn/39527492-alexandre-dalibot.jpg",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.763061",
+    "description_fr": "Chaque jour, l'intelligence artificielle s'immisce un peu plus dans nos vies : elle trie nos e-mails, anticipe nos déplacements, corrige nos mots, bientôt nos gestes.",
+    "title_fr": "L'IA ne remplacera pas l'humain, elle peut aider à le sauver"
+  },
+  {
+    "title": "Vers une finance augmentée : les grandes tendances IA à suivre",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545543-vers-une-finance-augmentee-les-grandes-tendances-ia-a-suivre/",
+    "description": "En 2025, l'IA est venue s'imposer comme un levier stratégique majeur pour la finance, alliant automatisation, agents autonomes et conformité renforcée.",
+    "image_url": "https://img-0.journaldunet.com/nm-QjhweCvuA7Ty0iCsKRo29TOI=/1280x/smart/f46921620c49493685713247a43e5645/user-jdn/39502422-adam-lieberman.jpg",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.763458",
+    "description_fr": "En 2025, l'IA est venue s'imposer comme un levier stratégique majeur pour la finance, alliant automatisation, agents autonomes et conformité renforcée.",
+    "title_fr": "Vers une finance augmentée : les grandes tendances IA à suivre"
+  },
+  {
+    "title": "Déploiement de l'IA : passer de la tentation technologique à l'impact réel",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545513-deploiement-de-l-ia-passer-de-la-tentation-technologique-a-l-impact-reel/",
+    "description": "En cette période d'expérimentations massives, certaines entreprises ne se contentent pas d'ajouter l'IA à leurs pratiques habituelles. Elles l'utilisent pour résoudre des problèmes déjà présents.",
+    "image_url": "https://img-0.journaldunet.com/XYcHcQZICBQnpXMlVhrdI7J38zA=/1280x/smart/88863cd7cef34225bc3a5b5ceb12041b/user-jdn/39517191-steve-osler.jpg",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.763844",
+    "description_fr": "En cette période d'expérimentations massives, certaines entreprises ne se contentent pas d'ajouter l'IA à leurs pratiques habituelles. Elles l'utilisent pour résoudre des problèmes déjà présents.",
+    "title_fr": "Déploiement de l'IA : passer de la tentation technologique à l'impact réel"
+  },
+  {
+    "title": "Comment sécuriser vos agents IA en 4 étapes",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545561-comment-securiser-vos-agents-ia-en-4-etapes/",
+    "description": "Sécuriser un agent d'IA relève avant tout d'une bonne connaissance des risques, combinée à une hygiène numérique saine.",
+    "image_url": "https://img-0.journaldunet.com/-tG5COW9Qdxf_OMEqePT0S3SM98=/1280x/smart/76453f8f8e0c49e28a884b62d7753995/ccmcms-jdn/39528593.png",
+    "published_date": "2025-11-05",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-05T12:47:06.764225",
+    "description_fr": "Sécuriser un agent d'IA relève avant tout d'une bonne connaissance des risques, combinée à une hygiène numérique saine.",
+    "title_fr": "Comment sécuriser vos agents IA en 4 étapes"
+  },
+  {
+    "title": "Large Format Photos Show US Military’s Simulated Iraq Warzones",
+    "url": "https://petapixel.com/2025/11/05/large-format-photos-show-us-militarys-simulated-iraq-warzones/",
+    "description": "From 2006 to 2023, photographer Claire Beckett embedded herself on military bases in the United States to capture elaborate training camps that simulated war zones in Iraq and Afghanistan.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Claire-Beckett-Defence-Language.jpg",
+    "published_date": "2025-11-05",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-05T12:47:15.321365",
+    "description_fr": "From 2006 to 2023, photographer Claire Beckett embedded herself on military bases in the United States to capture elaborate training camps that simulated war zones in Iraq and Afghanistan.[Read More]",
+    "title_fr": "Large Format Photos Show US Military’s Simulated Iraq Warzones"
+  },
+  {
+    "title": "Running Large Transformer Models on Mobile and Edge Devices",
+    "url": "https://huggingface.co/blog/tugrulkaya/running-large-transformer-models-on-mobile",
+    "description": "Running Large Transformer Models on Mobile and Edge Devices",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/660fefd0e219d7297f3f85b1/DxJqJ90SsZ5dHmvq0pVyQ.jpeg",
+    "published_date": "2025-11-05",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-05T12:47:32.567668",
+    "description_fr": "Running Large Transformer Models on Mobile and Edge Devices",
+    "title_fr": "Running Large Transformer Models on Mobile and Edge Devices"
+  },
+  {
+    "title": "TorchSim:  A new PyTorch-based molecular dynamics engine",
+    "url": "https://huggingface.co/blog/Nekkrad/introduction-to-torchsim",
+    "description": "TorchSim:  A new PyTorch-based molecular dynamics engine",
+    "image_url": "https://huggingface.co/avatars/262f340d9f51c6b7ab291b8a9f27fd27.svg",
+    "published_date": "2025-11-05",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-05T12:47:32.568694",
+    "description_fr": "TorchSim:  A new PyTorch-based molecular dynamics engine",
+    "title_fr": "TorchSim:  A new PyTorch-based molecular dynamics engine"
   },
   {
     "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work",
@@ -789,8 +945,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-04T01:45:48.638597",
-    "description_fr": "Les couleurs vives et la lumière vive de l'automne offrent aux photographes une toile de fond idéale pour capturer des images saisissantes à travers les genres, des paysages aux portraits. Grâce aux services d'impression à la demande de Lumaprints, ces clichés saisonniers peuvent être rapidement transformés en tirages de haute qualité, aidant les photographes à mettre en valeur la beauté de l'automne tout en stimulant les ventes en ligne et en personne.[En savoir plus]",
-    "title_fr": "Adoptez la beauté éphémère de l'automne pour booster vos ventes de photographie avec Lumaprints"
+    "description_fr": "Autumn’s vibrant colors and crisp light provide photographers with an ideal backdrop to capture striking images across genres, from landscapes to portraits. With Lumaprints’ Print-on-Demand services, these seasonal shots can be quickly turned into high-quality prints, helping photographers showcase the beauty of fall while boosting sales both online and in person.[Read More]",
+    "title_fr": "Embracing Autumn’s Fleeting Beauty to Boost Your Photography Sales With Lumaprints"
   },
   {
     "title": "Generative AI Is Here to Ruin Christmas",
@@ -802,8 +958,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-04T01:45:48.639381",
-    "description_fr": "Malgré la controverse entourant son utilisation de l'IA générative pour créer un trio de publicités de Noël l'année dernière, Coca-Cola est de nouveau revenu au puits le plus sec du monde, produisant encore une autre terrible publicité générée par l'IA.[En savoir plus]",
-    "title_fr": "L'IA générative est là pour gâcher Noël"
+    "description_fr": "Despite the controversy surrounding its use of generative AI to create a trio of Christmas advertisements last year, Coca-Cola has once again returned to the world's driest well, churning out yet another terrible AI-generated advertisement.[Read More]",
+    "title_fr": "Generative AI Is Here to Ruin Christmas"
   },
   {
     "title": "Lightroom’s New Features: AI Culling, Auto Dust Removal, ‘Color Variance’ Slider, and More",
@@ -815,8 +971,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-04T01:45:48.640032",
-    "description_fr": "Adobe a mis à jour Lightroom Classic avec six nouvelles fonctionnalités, des améliorations de performances, des profils de caméra pris en charge et une liste mise à jour de profils d'objectif.[En savoir plus]",
-    "title_fr": "Nouvelles fonctionnalités de Lightroom : abattage IA, dépoussiérage automatique, curseur « Variance de couleur », etc."
+    "description_fr": "Adobe has updated Lightroom Classic with six new features plus performance improvements, supported camera profiles, and an updated list of lens profiles.[Read More]",
+    "title_fr": "Lightroom’s New Features: AI Culling, Auto Dust Removal, ‘Color Variance’ Slider, and More"
   },
   {
     "title": "Introducing IndQA",
@@ -828,8 +984,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-04T06:33:42.760818",
-    "description_fr": "OpenAI présente IndQA, une nouvelle référence pour évaluer les systèmes d'IA dans les langues indiennes. Construit avec des experts du domaine, IndQA teste la compréhension et le raisonnement culturels dans 12 langues et 10 domaines de connaissances.",
-    "title_fr": "Présentation d'IndQA"
+    "description_fr": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+    "title_fr": "Introducing IndQA"
   },
   {
     "title": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'",
@@ -841,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.064654",
-    "description_fr": "Alors que les plus grandes entreprises d'intelligence artificielle du monde se précipitent pour construire des modèles toujours plus grands, parier des milliards à cette seule échelle débloquera l'intelligence générale artificielle, un chercheur de l'une des startups les plus secrètes et les plus précieuses de l'industrie a lancé un défi pointu à cette orthodoxie cette semaine : la voie à suivre ne consiste pas à former plus grand — il s'agit de mieux apprendre.« Je crois que le",
-    "title_fr": "Thinking Machines remet en question la stratégie de mise à l'échelle de l'IA d'OpenAI : « La première superintelligence sera un apprenant surhumain »"
+    "description_fr": "While the world's leading artificial intelligence companies race to build ever-larger models, betting billions that scale alone will unlock artificial general intelligence, a researcher at one of the industry's most secretive and valuable startups delivered a pointed challenge to that orthodoxy this week: The path forward isn't about training bigger — it's about learning better.\"I believe that the",
+    "title_fr": "Thinking Machines challenges OpenAI's AI scaling strategy: 'First superintelligence will be a superhuman learner'"
   },
   {
     "title": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models",
@@ -854,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.084450",
-    "description_fr": "La prochaine grande tendance dans les fournisseurs d'IA semble être les environnements « studio » sur le Web qui permettent aux utilisateurs de faire tourner des agents et des applications d'IA en quelques minutes. En bref, aujourd'hui, la startup française d'IA Mistral a lancé son propre Mistral AI Studio, une nouvelle plate-forme de production conçue pour aider les entreprises à construire, observer et opérationnaliser des applications d'IA à grande échelle au sommet de la famille croissante de pr",
-    "title_fr": "Mistral lance son propre studio d'IA pour un développement rapide avec ses modèles européens open source et propriétaires"
+    "description_fr": "The next big trend in AI providers appears to be \"studio\" environments on the web that allow users to spin up agents and AI applications within minutes.Case in point, today the well-funded French AI startupMistral launched its own Mistral AI Studio, a new production platform designed to help enterprises build, observe, and operationalize AI applications at scale atop Mistral's growing family of pr",
+    "title_fr": "Mistral launches its own AI Studio for quick development with its European open source, proprietary models"
   },
   {
     "title": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale",
@@ -867,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-04T06:33:50.086900",
-    "description_fr": "China'sAnt Group, une filiale d'Alibaba, a fourni des informations techniques détaillées sur son nouveau modèle, Ring-1T, qui, selon la société, est « le premier modèle de raisonnement open source avec un billion de paramètres totaux. »Ring-1T vise à concurrencer d'autres modèles de raisonnement comme GPT-5 et la série o d'OpenAI, ainsi que Gemini 2.5 de Google. Avec la nouvelle version du dernier modèle, Ant étend le d géopolitique",
-    "title_fr": "À l'intérieur de Ring-1T : les ingénieurs fourmis résolvent les goulots d'étranglement de l'apprentissage par renforcement à l'échelle du trillion"
+    "description_fr": "China’sAnt Group, an affiliate of Alibaba, detailed technical information around its new model,Ring-1T, which the company said is “the first open-source reasoning model with one trillion total parameters.”Ring-1T aims to compete with other reasoning models like GPT-5 and the o-series fromOpenAI, as well asGoogle’s Gemini 2.5. With the new release of the latest model, Ant extends the geopolitical d",
+    "title_fr": "Inside Ring-1T: Ant engineers solve reinforcement learning bottlenecks at trillion scale"
   },
   {
     "title": "OpenAI launches company knowledge in ChatGPT, letting you access your firm's data from Google Drive, Slack, GitHub",
@@ -6342,161 +6498,5 @@
     "collected_at": "2025-10-28T18:33:55.271119",
     "description_fr": "Adobe MAX kicks off this week and, historically, that has meant a large drop of updates across the company's portfolio of apps. That is technically true this year too, but everything is revolving around AI -- and sometimes, that doesn't even mean Adobe's own technology.[Read More]",
     "title_fr": "Adobe’s End-Of-Year Updates Are All AI, and Sometimes Not Even Its Own AI"
-  },
-  {
-    "title": "Granite 4.0 Nano: Just how small can you go?",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano",
-    "description": "Granite 4.0 Nano: Just how small can you go?",
-    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/639bcaa2445b133a4e942436/CEW-OjXkRkDNmTxSu8Egh.png",
-    "published_date": "2025-10-28",
-    "source": "Hugging Face",
-    "source_type": "website",
-    "category": "llms",
-    "collected_at": "2025-10-28T18:34:11.583142",
-    "description_fr": "Granite 4.0 Nano: Just how small can you go?",
-    "title_fr": "Granite 4.0 Nano: Just how small can you go?"
-  },
-  {
-    "title": "Senators propose banning teens from using AI chatbots",
-    "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
-    "description": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News.  The bill comes just weeks […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/30f782a9.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-10-28",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-29T01:48:31.180038",
-    "description_fr": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI chatbots, as reported earlier by NBC News.  The bill comes just weeks […]",
-    "title_fr": "Senators propose banning teens from using AI chatbots"
-  },
-  {
-    "title": "Introducing vibe coding in Google AI Studio",
-    "url": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
-    "description": "Vibe Coding in Google AI Studio",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame_2147223720.max-600x600.format-webp.webp",
-    "published_date": "2025-10-27",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-27T01:51:26.453006",
-    "description_fr": "Vibe Coding in Google AI Studio",
-    "title_fr": "Introducing vibe coding in Google AI Studio"
-  },
-  {
-    "title": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals",
-    "url": "https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/",
-    "description": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
-    "image_url": "",
-    "published_date": "2025-10-27",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T01:51:30.362772",
-    "description_fr": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal-making. We’re just days away from live demos of never-before-seen tech and high-stakes pitches as […]",
-    "title_fr": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals"
-  },
-  {
-    "title": "From human clicks to machine intent: Preparing the web for agentic AI",
-    "url": "https://venturebeat.com/ai/from-human-clicks-to-machine-intent-preparing-the-web-for-agentic-ai",
-    "description": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-driven agents begin to browse on our behalf, the human-first assumptions built into the internet are being exposed as fragile.The rise ofagentic browsing— where a browser doesn’t just show pages but takes action — marks the beginning of this shift. Too",
-    "image_url": "",
-    "published_date": "2025-10-27",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T01:51:32.379492",
-    "description_fr": "For three decades, the web has been designed with one audience in mind: People. Pages are optimized for human eyes, clicks and intuition. But as AI-driven agents begin to browse on our behalf, the human-first assumptions built into the internet are being exposed as fragile.The rise ofagentic browsing— where a browser doesn’t just show pages but takes action — marks the beginning of this shift. Too",
-    "title_fr": "From human clicks to machine intent: Preparing the web for agentic AI"
-  },
-  {
-    "title": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development",
-    "url": "https://blogs.nvidia.com/blog/roscon-2025-open-framework-robotics/",
-    "description": "This year’s ROSCon conference heads to Singapore, bringing together the global robotics developer community behind Robot Operating System (ROS) — the world’s most widely adopted open framework for building robots. At the conference, running through Wednesday, Oct. 29, NVIDIA announced collaborations with partners and the Open Source Robotics Alliance (OSRA), as well as new roboticsRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/roscon.jpg",
-    "published_date": "2025-10-27",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-10-27T01:51:39.234291",
-    "description_fr": "This year’s ROSCon conference heads to Singapore, bringing together the global robotics developer community behind Robot Operating System (ROS) — the world’s most widely adopted open framework for building robots. At the conference, running through Wednesday, Oct. 29, NVIDIA announced collaborations with partners and the Open Source Robotics Alliance (OSRA), as well as new roboticsRead Article",
-    "title_fr": "NVIDIA Contributes to Open Frameworks for Next-Generation Robotics Development"
-  },
-  {
-    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
-    "description": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
-    "published_date": "2025-10-27",
-    "source": "Hugging Face",
-    "source_type": "website",
-    "category": "llms",
-    "collected_at": "2025-10-27T01:52:00.485393",
-    "description_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "title_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
-  },
-  {
-    "title": "Are Kids Still Looking for Careers in Tech?",
-    "url": "https://www.wired.com/story/teens-stem-school-career-artificial-intelligence/",
-    "description": "AI is changing what careers are possible for students interested in STEM subjects. WIRED spoke with five aspiring scientists to find out how they’re preparing for the future.",
-    "image_url": "https://media.wired.com/photos/68fb65b6f2565237e4a7b4dd/master/pass/102725_Kids-Careers-In-Tech.jpg",
-    "published_date": "2025-10-27",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T12:47:37.205539",
-    "description_fr": "AI is changing what careers are possible for students interested in STEM subjects. WIRED spoke with five aspiring scientists to find out how they’re preparing for the future.",
-    "title_fr": "Are Kids Still Looking for Careers in Tech?"
-  },
-  {
-    "title": "AI and the End of Accents",
-    "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-    "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-    "image_url": "https://media.wired.com/photos/68e04a3145b931ea873e448a/master/pass/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
-    "published_date": "2025-10-27",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T12:47:37.205836",
-    "description_fr": "I sound Korean—because I am Korean. Can AI make me sound American?",
-    "title_fr": "AI and the End of Accents"
-  },
-  {
-    "title": "AI’s Next Frontier? An Algorithm for Consciousness",
-    "url": "https://www.wired.com/story/ai-sentient-consciousness-algorithm/",
-    "description": "Some of the world’s most interesting thinkers about thinking think they might’ve cracked machine sentience. And I think they might be onto something.",
-    "image_url": "https://media.wired.com/photos/68e030e70657e0c2fe68a56d/master/pass/WIRED-AI-as_RELIGION_RED_ALT.jpg",
-    "published_date": "2025-10-27",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T12:47:37.206102",
-    "description_fr": "Some of the world’s most interesting thinkers about thinking think they might’ve cracked machine sentience. And I think they might be onto something.",
-    "title_fr": "AI’s Next Frontier? An Algorithm for Consciousness"
-  },
-  {
-    "title": "Rise of the Killer Chatbots",
-    "url": "https://www.wired.com/story/ai-weapon-anduril-llms-drones/",
-    "description": "On an airstrip somewhere in Texas, a swarm of killer jets approaches—controlled by, of all things, a large language model.",
-    "image_url": "https://media.wired.com/photos/68e037e07fa76797a839d2ea/master/pass/WIRED-AI-as_WEAPON_RED.jpg",
-    "published_date": "2025-10-27",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T12:47:37.206357",
-    "description_fr": "On an airstrip somewhere in Texas, a swarm of killer jets approaches—controlled by, of all things, a large language model.",
-    "title_fr": "Rise of the Killer Chatbots"
-  },
-  {
-    "title": "Divorced? With Kids? And an Impossible Ex? There’s AI for That",
-    "url": "https://www.wired.com/story/ai-emotional-spellcheck-difficult-people/",
-    "description": "They didn’t want to put their children in the middle—so they put a machine there instead.",
-    "image_url": "https://media.wired.com/photos/68e3f01a6cfd430284d8f602/master/pass/WIRED-AI-as_EMOTIONAL-SPELLCHECK_BLUE_ALT.jpg",
-    "published_date": "2025-10-27",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-27T12:47:37.206619",
-    "description_fr": "They didn’t want to put their children in the middle—so they put a machine there instead.",
-    "title_fr": "Divorced? With Kids? And an Impossible Ex? There’s AI for That"
   }
 ]
