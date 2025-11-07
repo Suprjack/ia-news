@@ -321,8 +321,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-07T06:33:19.855595",
-    "description_fr": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline",
-    "title_fr": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b"
+    "description_fr": "gpt-oss-safeguard-120b et gpt-oss-safeguard-20b sont deux modèles de raisonnement à poids ouvert post-trainés à partir des modèles gpt-oss et formés au raisonnement à partir d'une politique fournie afin d'étiqueter le contenu en vertu de cette politique. Dans ce rapport, nous décrivons les capacités de gpt-oss-safeguard et fournissons nos évaluations de sécurité de base sur les modèles gpt-oss-safeguard, en utilisant les modèles gpt-oss sous-jacents comme base de référence",
+    "title_fr": "Rapport technique : Performances et évaluations de base de gpt-oss-safeguard-120b et gpt-oss-safeguard-20b"
   },
   {
     "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T06:33:28.852432",
-    "description_fr": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. Just about all businesses these days seem to be pivoting to AI, even when they don’t seem to know exactly why they’re investing…",
-    "title_fr": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts"
+    "description_fr": "Séparer la réalité de l'IA de la fiction n'est pas toujours facile. C'est pourquoi nous avons créé l'AI Hype Index, un résumé simple et rapide de tout ce que vous devez savoir sur l'état de l'industrie. À peu près toutes les entreprises semblent aujourd'hui basculer vers l'IA, même si elles ne semblent pas savoir exactement pourquoi elles investissent…",
+    "title_fr": "L'indice de battage médiatique de l'IA : les voisins des centres de données pivotent vers les pannes de courant"
   },
   {
     "title": "7Artisans’ New Purple Cinema Lens Has ‘Explosive’ Bokeh",
@@ -347,8 +347,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T06:33:45.795403",
-    "description_fr": "7Artisans has announced the launch of its Floral Bloom Art Cine Lens Series, beginning with the 37mm T2.9 Explosive Bokeh Cine Lens, a full-frame PL-mount prime designed to deliver what the company describes as a distinctive optical effect that pushes background highlights into a dynamic, outward burst.[Read More]",
-    "title_fr": "7Artisans’ New Purple Cinema Lens Has ‘Explosive’ Bokeh"
+    "description_fr": "7Artisans a annoncé le lancement de sa série de verres Floral Bloom Art Cine, à commencer par le 37mm T2.9 Explosive Bokeh Cine Lens, un premier plan plein cadre conçu pour offrir ce que la société décrit comme un effet optique distinctif qui pousse les reflets d'arrière-plan dans une rafale dynamique vers l'extérieur.[En savoir plus]",
+    "title_fr": "Le nouvel objectif de cinéma violet de 7Artisans a un bokeh « explosif »"
   },
   {
     "title": "Code a simple RAG from scratch",
@@ -360,8 +360,60 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-07T06:34:01.464396",
-    "description_fr": "Code a simple RAG from scratch",
-    "title_fr": "Code a simple RAG from scratch"
+    "description_fr": "Codez un simple CHIFFON à partir de zéro",
+    "title_fr": "Codez un simple CHIFFON à partir de zéro"
+  },
+  {
+    "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
+    "url": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/",
+    "description": "Sensitive chats are rare but significant given the large user base.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/robot_therapy_1-1152x648.jpg",
+    "published_date": "2025-11-07",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-07T12:44:10.205619",
+    "description_fr": "Sensitive chats are rare but significant given the large user base.",
+    "title_fr": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly"
+  },
+  {
+    "title": "Microsoft’s next big AI bet: building a ‘humanist superintelligence’",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-next-big-ai-bet-building-a-humanist-superintelligence/",
+    "description": "Microsoft is forming a new team to research superintelligence and other advanced forms of artificial intelligence. Mustafa Suleyman, who leads Microsoft’s AI division overseeing Bing and Copilot, announced the creation of the MAI Superintelligence Team in a blog post. He said he will head the group and that Microsoft plans to put “a lot of […]The postMicrosoft’s next big AI bet: building a ‘humani",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published_date": "2025-11-07",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-07T12:44:13.993556",
+    "description_fr": "Microsoft is forming a new team to research superintelligence and other advanced forms of artificial intelligence. Mustafa Suleyman, who leads Microsoft’s AI division overseeing Bing and Copilot, announced the creation of the MAI Superintelligence Team in a blog post. He said he will head the group and that Microsoft plans to put “a lot of […]The postMicrosoft’s next big AI bet: building a ‘humani",
+    "title_fr": "Microsoft’s next big AI bet: building a ‘humanist superintelligence’"
+  },
+  {
+    "title": "Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-ai-chip-ban-china-market-share/",
+    "description": "When Nvidia CEO Jensen Huang initially told the Financial Times that China would “win the AI race” before softening his stance, it crystallised a predicament that’s been years in the making. The world’s most valuable chipmaker now finds itself caught between two superpowers, each wielding the Nvidia AI chip ban as a weapon in a broader technological […]The postNvidia AI chip ban: Can tech giants n",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-2.png",
+    "published_date": "2025-11-07",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-07T12:44:13.996528",
+    "description_fr": "When Nvidia CEO Jensen Huang initially told the Financial Times that China would “win the AI race” before softening his stance, it crystallised a predicament that’s been years in the making. The world’s most valuable chipmaker now finds itself caught between two superpowers, each wielding the Nvidia AI chip ban as a weapon in a broader technological […]The postNvidia AI chip ban: Can tech giants n",
+    "title_fr": "Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?"
+  },
+  {
+    "title": "Let's talk about LLM evaluation",
+    "url": "https://huggingface.co/blog/clefourrier/llm-evaluation",
+    "description": "Let's talk about LLM evaluation",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1644340617257-noauth.png",
+    "published_date": "2025-11-07",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-07T12:44:42.868731",
+    "description_fr": "Let's talk about LLM evaluation",
+    "title_fr": "Let's talk about LLM evaluation"
   },
   {
     "title": "How CRED is tapping AI to deliver premium customer experiences",
@@ -633,8 +685,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-06T01:46:39.322309",
-    "description_fr": "Les gouvernements du monde entier se précipitent pour exploiter la puissance de l'IA — mais l'infrastructure existante n'est pas construite pour la vitesse, la complexité ou la confiance que l'action critique exige maintenant. Les flux de données massifs, les cybermenaces et les opérations urgentes nécessitent un nouveau plan pour créer des usines d'IA spécialement conçues pour les normes et l'échelle uniques du secteur public. Chez NVIDIA GTCLire l'article",
-    "title_fr": "NVIDIA et les leaders technologiques américains dévoilent la conception d'une usine d'IA pour moderniser le gouvernement et sécuriser la nation"
+    "description_fr": "Governments everywhere are racing to harness the power of AI — but legacy infrastructure isn’t built for the velocity, complexity or trust that mission-critical action now demands. Massive data streams, cyber threats and urgent operations require a new blueprint for creating AI factories purpose-built for the public sector’s unique standards and scale. At NVIDIA GTCRead Article",
+    "title_fr": "NVIDIA and US Technology Leaders Unveil AI Factory Design to Modernize Government and Secure the Nation"
   },
   {
     "title": "NVIDIA Launches Open Models and Data to Accelerate AI Innovation Across Language, Biology and Robotics",
@@ -646,8 +698,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-06T01:46:39.322603",
-    "description_fr": "Poursuivant son engagement profond en faveur de l'open source, NVIDIA dévoile de nouvelles technologies d'IA open source pour le langage, la robotique et la biologie, contribuant ainsi à un écosystème ouvert qui élargit l'accès à l'IA et alimente l'innovation américaine. Ces technologies ouvertes habiliteront les développeurs du monde entier et renforceront la croissance économique grâce à un raisonnement efficace, à une génération mondiale haute-fidélité et à une IA physique interactive",
-    "title_fr": "NVIDIA lance des modèles et des données ouverts pour accélérer l'innovation en matière d'IA dans les domaines du langage, de la biologie et de la robotique"
+    "description_fr": "Furthering its deep commitment to open source, NVIDIA is unveiling new open-source AI technologies for language, robotics and biology — contributing to an open ecosystem that broadens access to AI and fuels U.S. innovation. These open technologies will empower developers worldwide and strengthen economic growth through efficient reasoning, high-fidelity world generation and interactive physical AI",
+    "title_fr": "NVIDIA Launches Open Models and Data to Accelerate AI Innovation Across Language, Biology and Robotics"
   },
   {
     "title": "NVIDIA Launches Omniverse DSX Blueprint, Enabling Global AI Infrastructure Ecosystem to Build Gigawatt-Scale AI Factories",
@@ -659,7 +711,7 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-06T01:46:39.322876",
-    "description_fr": "Lors du GTC Washington, DC, aujourd'hui, le fondateur et PDG de NVIDIA, Jensen Huang, a présenté NVIDIA Omniverse DSX, un modèle complet et ouvert pour la conception et l'exploitation d'usines d'IA à l'échelle du gigawatt — validé au nouveau AI Factory Research Center sur le site de Digital Realty à Manassas, en Virginie. Le plan directeur rassemble les partenaires de l'écosystème de l'industrie qui sontLire l'article",
+    "description_fr": "During the GTC Washington, D.C., keynote today, NVIDIA founder and CEO Jensen Huang introduced NVIDIA Omniverse DSX, a comprehensive, open blueprint for designing and operating gigawatt-scale AI factories — validated at the new AI Factory Research Center at Digital Realty’s site in Manassas, Virginia. The blueprint brings together ecosystem partners across the industry that areRead Article",
     "title_fr": "NVIDIA Launches Omniverse DSX Blueprint, Enabling Global AI Infrastructure Ecosystem to Build Gigawatt-Scale AI Factories"
   },
   {
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-10-29T01:48:30.211221",
     "description_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
     "title_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac"
-  },
-  {
-    "title": "‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/28/silicon-valley-star-thomas-middleditch-makes-a-surprise-appearance-at-techcrunch-disrupt-2025/",
-    "description": "Actor Thomas Middleditch had a planned takeover of Australian startup Othelia’s presentation at the pitch showcase stage.",
-    "image_url": "",
-    "published_date": "2025-10-29",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-29T01:48:32.592084",
-    "description_fr": "Actor Thomas Middleditch had a planned takeover of Australian startup Othelia’s presentation at the pitch showcase stage.",
-    "title_fr": "‘Silicon Valley’ star Thomas Middleditch makes a surprise appearance at TechCrunch Disrupt 2025"
-  },
-  {
-    "title": "Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/",
-    "description": "CampusAI is an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
-    "image_url": "",
-    "published_date": "2025-10-29",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-29T01:48:32.592403",
-    "description_fr": "CampusAI is an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
-    "title_fr": "Inside CampusAI’s mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025"
-  },
-  {
-    "title": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/",
-    "description": "Super Teacher’s app features animated tutors with AI-generated voices that guide students through interactive lessons. Students talk to the app using voice, like a conversation with a teacher.",
-    "image_url": "",
-    "published_date": "2025-10-29",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-29T01:48:32.592719",
-    "description_fr": "Super Teacher’s app features animated tutors with AI-generated voices that guide students through interactive lessons. Students talk to the app using voice, like a conversation with a teacher.",
-    "title_fr": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025"
-  },
-  {
-    "title": "Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025",
-    "url": "https://techcrunch.com/2025/10/28/mappas-ai-voice-analysis-helps-you-find-the-best-job-candidates-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
-    "description": "Mappa's AI hiring platform can assess a candidate's behavior based on voice patterns, and aims to take some of the guesswork out of hiring.",
-    "image_url": "",
-    "published_date": "2025-10-29",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-29T01:48:32.592990",
-    "description_fr": "Mappa's AI hiring platform can assess a candidate's behavior based on voice patterns, and aims to take some of the guesswork out of hiring.",
-    "title_fr": "Mappa’s AI voice analysis helps you find the best job candidates and will show off its tech at TechCrunch Disrupt 2025"
   }
 ]
