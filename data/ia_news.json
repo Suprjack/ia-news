@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T01:39:59.435733",
-    "description_fr": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
-    "title_fr": "Understanding prompt injections: a frontier security challenge"
+    "description_fr": "Les injections rapides sont un défi de sécurité frontalier pour les systèmes d'IA. Découvrez comment ces attaques fonctionnent et comment OpenAI fait progresser la recherche, les modèles de formation et la mise en place de mesures de protection pour les utilisateurs.",
+    "title_fr": "Comprendre les injections rapides : un défi de sécurité aux frontières"
   },
   {
     "title": "Knowledge preservation powered by ChatGPT",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T01:39:59.438274",
-    "description_fr": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
-    "title_fr": "Knowledge preservation powered by ChatGPT"
+    "description_fr": "Dai Nippon Printing (DNP) a déployé ChatGPT Enterprise dans dix départements principaux pour favoriser l'adoption à l'échelle de l'entreprise. En trois mois, il a réalisé une recherche sur les brevets 95 % plus rapide, un volume de traitement 10 fois supérieur, une utilisation active hebdomadaire de 100 %, une automatisation de 87 % et une réutilisation des connaissances de 70 %.",
+    "title_fr": "Préservation des connaissances grâce à ChatGPT"
   },
   {
     "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:02.243820",
-    "description_fr": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
-    "title_fr": "Google is investing in Oklahoma’s workforce and talent pipeline."
+    "description_fr": "L'IA crée de nouvelles opportunités pour les Oklahomans d'apprendre, de grandir et de réussir. Google s'engage à faire en sorte que le Earlyer State ne soit pas seulement prêt pour cette transformation…",
+    "title_fr": "Google investit dans la main-d' œuvre et le vivier de talents de l'Oklahoma."
   },
   {
     "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:04.163287",
-    "description_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
-    "title_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac"
+    "description_fr": "Construire un robot de santé de la simulation au déploiement avec NVIDIA Isaac",
+    "title_fr": "Construire un robot de santé de la simulation au déploiement avec NVIDIA Isaac"
   },
   {
     "title": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions",
@@ -61,8 +61,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T01:40:06.668116",
-    "description_fr": "In one case, 23-year-old Zane Shamblin had a conversation with ChatGPT that lasted more than four hours.",
-    "title_fr": "Seven more families are now suing OpenAI over ChatGPT’s role in suicides, delusions"
+    "description_fr": "Dans un cas, Zane Shamblin, 23 ans, a eu une conversation avec ChatGPT qui a duré plus de quatre heures.",
+    "title_fr": "Sept autres familles poursuivent maintenant OpenAI pour le rôle de ChatGPT dans les suicides, les délires"
   },
   {
     "title": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers",
@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T01:40:07.563200",
-    "description_fr": "The developers of Terminal-Bench, a benchmark suite for evaluating the performance of autonomous AI agents on real-world terminal-based tasks, have releasedversion 2.0alongsideHarbor, a new framework for testing, improving and optimizing AI agents in containerized environments.The dual release aims to address long-standing pain points in testing and optimizing AI agents, particularly those built t",
-    "title_fr": "Terminal-Bench 2.0 launches alongside Harbor, a new framework for testing agents in containers"
+    "description_fr": "Les développeurs de Terminal-Bench, une suite de référence pour évaluer les performances des agents d'IA autonomes sur les tâches basées sur les terminaux du monde réel, ont publié la version 2.0alongsideHarbor, un nouveau cadre pour tester, améliorer et optimiser les agents d'IA dans les environnements conteneurisés. La double version vise à résoudre les problèmes de longue date dans les tests et l'optimisation des agents d'IA, en particulier ceux construits pour",
+    "title_fr": "Terminal-Bench 2.0 est lancé aux côtés de Harbor, un nouveau cadre pour tester les agents dans les conteneurs"
   },
   {
     "title": "Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T01:40:07.565002",
-    "description_fr": "Across industries, rising compute expenses are often cited as a barrier toAI adoption— but leading companies are finding that cost is no longer the real constraint. \n\nThe tougher challenges (and the ones top of mind for many tech leaders)? Latency, flexibility and capacity.\n\nAtWonder, for instance, AI adds a mere few cents per order; the food delivery and takeout company is much more concerned wit",
-    "title_fr": "Ship fast, optimize later: top AI engineers don't care about cost — they're prioritizing deployment"
+    "description_fr": "Dans tous les secteurs, l'augmentation des dépenses de calcul est souvent citée comme un obstacle à l'adoption de l'IA, mais les grandes entreprises constatent que le coût n'est plus la véritable contrainte. \n\nLes défis les plus difficiles (et ceux qui sont en tête de liste pour de nombreux leaders technologiques) ? Latence, flexibilité et capacité.\n\nChezWonder, par exemple, l'IA n'ajoute que quelques centimes par commande ; l'entreprise de livraison de repas et de plats à emporter est beaucoup plus préoccupée par l'esprit",
+    "title_fr": "Expédier rapidement, optimiser plus tard : les meilleurs ingénieurs en IA ne se soucient pas du coût — ils donnent la priorité au déploiement"
   },
   {
     "title": "NYU’s new AI architecture makes high-quality image generation faster and cheaper",
@@ -100,8 +100,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T01:40:07.567203",
-    "description_fr": "Researchers at New York University have developed a new architecture for diffusion models that improves the semantic representation of the images they generate. “Diffusion Transformer with Representation Autoencoders” (RAE) challenges some of the accepted norms of building diffusion models. The NYU researcher's model is more efficient and accurate than standard diffusion models, takes advantage of",
-    "title_fr": "NYU’s new AI architecture makes high-quality image generation faster and cheaper"
+    "description_fr": "Des chercheurs de l'Université de New York ont développé une nouvelle architecture pour les modèles de diffusion qui améliore la représentation sémantique des images qu'ils génèrent. « Transformateur de diffusion avec autoencodeurs de représentation » (RAE) remet en question certaines des normes acceptées pour la construction de modèles de diffusion. Le modèle du chercheur NYU est plus efficace et précis que les modèles de diffusion standard, tire parti de",
+    "title_fr": "La nouvelle architecture d'IA de NYU rend la génération d'images de haute qualité plus rapide et moins chère"
   },
   {
     "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
@@ -113,8 +113,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-08T01:40:10.522953",
-    "description_fr": "New \"computational Turing test\" reportedly catches AI pretending to be human with 80% accuracy.",
-    "title_fr": "Researchers surprised that with AI, toxicity is harder to fake than intelligence"
+    "description_fr": "Un nouveau « test de Turing computationnel » capturerait l'IA prétendant être humaine avec une précision de 80 %.",
+    "title_fr": "Les chercheurs ont surpris qu'avec l'IA, la toxicité soit plus difficile à simuler que l'intelligence"
   },
   {
     "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
@@ -126,8 +126,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-08T01:40:10.523735",
-    "description_fr": "AI companion app faces legal and regulatory pressure over child safety concerns.",
-    "title_fr": "After teen death lawsuits, Character.AI will restrict chats for under-18 users"
+    "description_fr": "L'application compagnon d'IA fait face à des pressions légales et réglementaires sur les problèmes de sécurité des enfants.",
+    "title_fr": "Après des poursuites judiciaires pour décès d'adolescents, Character.AI restreindra les discussions pour les utilisateurs de moins de 18 ans"
   },
   {
     "title": "AI-Powered Mobile Clinics Deliver Breast Cancer Screening to India’s Rural Communities",
@@ -139,8 +139,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-08T01:40:16.034654",
-    "description_fr": "An unassuming van driving around rural India uses powerful AI technology that’s enabling low-cost, high-quality breast cancer screenings for thousands of women. Run by the nonprofit Health Within Reach Foundation, the Women Cancer Screening Van runs an AI solution by MedCognetics, a Dallas, Texas-based company that’s part of the NVIDIA Inception program for startups. TheRead Article",
-    "title_fr": "AI-Powered Mobile Clinics Deliver Breast Cancer Screening to India’s Rural Communities"
+    "description_fr": "Une camionnette sans prétention circulant dans les zones rurales de l'Inde utilise une puissante technologie d'IA qui permet des dépistages du cancer du sein à faible coût et de haute qualité pour des milliers de femmes. Dirigée par la fondation à but non lucratif Health Within Reach, la fourgonnette de dépistage du cancer pour femmes gère une solution d'IA de MedCognetics, une société basée à Dallas, au Texas, qui fait partie du programme NVIDIA Inception pour les startups. Lire l'article",
+    "title_fr": "Les cliniques mobiles alimentées par l'IA offrent le dépistage du cancer du sein aux communautés rurales indiennes"
   },
   {
     "title": "Join the Resistance: ‘ARC Raiders’ Launches in the Cloud",
@@ -152,8 +152,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-08T01:40:16.034981",
-    "description_fr": "Get ready, raiders — the wait is over. ARC Raiders is dropping onto GeForce NOW and bringing the fight from orbit to the screen. To celebrate the launch, gamers can score ARC Raiders for free with the purchase of a 12-month Ultimate membership — a bundle packed with everything needed to jump into the resistance.Read Article",
-    "title_fr": "Join the Resistance: ‘ARC Raiders’ Launches in the Cloud"
+    "description_fr": "Préparez-vous, raiders — l'attente est terminée. ARC Raiders tombe sur GeForce MAINTENANT et amène le combat de l'orbite à l'écran. Pour célébrer le lancement, les joueurs peuvent marquer des points sur ARC Raiders gratuitement avec l'achat d'un abonnement Ultimate de 12 mois — un pack rempli de tout le nécessaire pour sauter dans la résistance.Lire l'article",
+    "title_fr": "Rejoignez la Résistance : Lancement D'ARC Raiders dans le Cloud"
   },
   {
     "title": "Panasonic is Shuttering Its Lumix Pro Services in Europe",
@@ -165,8 +165,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.377465",
-    "description_fr": "The United Kingdom and eight European countries operating Panasonic Lumix Pro services have announced that they will cease to do so on November 30, 2025.[Read More]",
-    "title_fr": "Panasonic is Shuttering Its Lumix Pro Services in Europe"
+    "description_fr": "Le Royaume-Uni et huit pays européens exploitant les services Panasonic Lumix Pro ont annoncé qu'ils cesseraient de le faire le 30 novembre 2025.[En savoir plus]",
+    "title_fr": "Panasonic ferme ses services Lumix Pro en Europe"
   },
   {
     "title": "Canon and Nikon Have Incredible Savings Happening Right Now",
@@ -178,8 +178,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.378133",
-    "description_fr": "Photography enthusiasts and professionals alike can get an early start on holiday savings at B&H, with discounts of up to thousands on top-tier Nikon and Canon gear. Let's look at the hottest deals on cameras, lenses, and kits.[Read More]",
-    "title_fr": "Canon and Nikon Have Incredible Savings Happening Right Now"
+    "description_fr": "Les amateurs de photographie et les professionnels peuvent commencer tôt à économiser sur les vacances chez B&H, avec des réductions allant jusqu'à des milliers sur les équipements Nikon et Canon de premier ordre. Examinons les offres les plus populaires sur les appareils photo, les objectifs et les kits.[En savoir plus]",
+    "title_fr": "Canon et Nikon réalisent des économies incroyables en ce moment"
   },
   {
     "title": "How a Portrait of a Brazilian Woman Fueled an Indian Election Scandal",
@@ -191,8 +191,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.378734",
-    "description_fr": "A Brazilian photographer and a woman he photographed in 2017 have ended up mired in an election fraud conspiracy in India, and it appears to all trace back to a stock photo site.[Read More]",
-    "title_fr": "How a Portrait of a Brazilian Woman Fueled an Indian Election Scandal"
+    "description_fr": "Un photographe brésilien et une femme qu'il a photographiée en 2017 se sont retrouvés embourbés dans un complot de fraude électorale en Inde, et tout semble remonter à un site de photos de stock.[En savoir plus]",
+    "title_fr": "Comment un portrait d'une femme brésilienne a alimenté un scandale électoral indien"
   },
   {
     "title": "Elevate.io Turns Video Editing Into a Collaborative Experience",
@@ -204,8 +204,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.379338",
-    "description_fr": "Elevate.io introduces a new era of video creation with its browser-based platform, uniting real-time editing, AI-powered tools, asset management, and live collaboration into a single workspace. This all-in-one approach promises to transform how teams create, review, and deliver content via the cloud.[Read More]",
-    "title_fr": "Elevate.io Turns Video Editing Into a Collaborative Experience"
+    "description_fr": "Elevate.io introduit une nouvelle ère de création vidéo avec sa plate-forme basée sur un navigateur, réunissant l'édition en temps réel, les outils basés sur l'IA, la gestion des actifs et la collaboration en direct dans un espace de travail unique. Cette approche tout-en-un promet de transformer la façon dont les équipes créent, examinent et fournissent du contenu via le cloud.[En savoir plus]",
+    "title_fr": "Elevate.io transforme le montage vidéo en une expérience collaborative"
   },
   {
     "title": "Netflix’s Trailer for ‘The Stringer’ Doesn’t Pull Any Punches",
@@ -217,8 +217,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.379922",
-    "description_fr": "Netflix has published a new trailer for the explosive documentary, The Stringer, that challenges the long-standing claim that Nick Ut took the famous \"Terror of War\" photo, often referred to as \"Napalm Girl.\"[Read More]",
-    "title_fr": "Netflix’s Trailer for ‘The Stringer’ Doesn’t Pull Any Punches"
+    "description_fr": "Netflix a publié une nouvelle bande-annonce pour le documentaire explosif, The Stringer, qui remet en question l'affirmation de longue date selon laquelle Nick Ut a pris la célèbre photo « Terror of War », souvent appelée « Napalm Girl ». \"[En savoir plus]",
+    "title_fr": "La bande-annonce de Netflix pour « The Stringer » ne tire aucun coup de poing"
   },
   {
     "title": "Fujifilm Opens ‘House of Photography’ Spaces in Barcelona and Porto",
@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.380634",
-    "description_fr": "Fujifilm celebrated the opening of two new \"House of Photography\" spaces in Europe this week. The first was in Barcelona, Spain, on November 5, and the second in Porto, Portugal today, November 7.[Read More]",
-    "title_fr": "Fujifilm Opens ‘House of Photography’ Spaces in Barcelona and Porto"
+    "description_fr": "Fujifilm a célébré cette semaine l'ouverture de deux nouveaux espaces « House of Photography » en Europe. La première a eu lieu à Barcelone, en Espagne, le 5 novembre, et la seconde à Porto, au Portugal, aujourd'hui, le 7 novembre.[En savoir plus]",
+    "title_fr": "Fujifilm ouvre des espaces « Maison de la photographie » à Barcelone et Porto"
   },
   {
     "title": "What makes good reasoning data",
@@ -243,8 +243,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.414990",
-    "description_fr": "What makes good reasoning data",
-    "title_fr": "What makes good reasoning data"
+    "description_fr": "Ce qui fait de bonnes données de raisonnement",
+    "title_fr": "Ce qui fait de bonnes données de raisonnement"
   },
   {
     "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
@@ -256,8 +256,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.417016",
-    "description_fr": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "title_fr": "Aligning to What? Rethinking Agent Generalization in MiniMax M2"
+    "description_fr": "S'aligner sur quoi ? Repenser la généralisation des agents dans MiniMax M2",
+    "title_fr": "S'aligner sur quoi ? Repenser la généralisation des agents dans MiniMax M2"
   },
   {
     "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
@@ -269,8 +269,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.417734",
-    "description_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-    "title_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency"
+    "description_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur",
+    "title_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur"
   },
   {
     "title": "Building for the new era of search",
@@ -282,8 +282,138 @@
     "source_type": "website",
     "category": "nocode",
     "collected_at": "2025-11-08T01:40:52.189907",
-    "description_fr": "Building for the new era of search",
-    "title_fr": "Building for the new era of search"
+    "description_fr": "Bâtir pour la nouvelle ère de la recherche",
+    "title_fr": "Bâtir pour la nouvelle ère de la recherche"
+  },
+  {
+    "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
+    "url": "https://openai.com/index/introducing-aardvark",
+    "description": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:05.258213",
+    "description_fr": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+    "title_fr": "Introducing Aardvark: OpenAI’s agentic security researcher"
+  },
+  {
+    "title": "New tools in Google AI Studio to explore, debug and share logs",
+    "url": "https://blog.google/technology/developers/google-ai-studio-logs-datasets/",
+    "description": "Google AI Studio logo on a plain black background",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0057-AIfD-Logging-Datasets-Keyw.max-600x600.format-webp_jqmcLSK.webp",
+    "published_date": "2025-11-08",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:08.044135",
+    "description_fr": "Google AI Studio logo on a plain black background",
+    "title_fr": "New tools in Google AI Studio to explore, debug and share logs"
+  },
+  {
+    "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "url": "https://huggingface.co/blog/zerogpu-aoti",
+    "description": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:09.019069",
+    "description_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "title_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation"
+  },
+  {
+    "title": "Generate Images with Claude and Hugging Face",
+    "url": "https://huggingface.co/blog/claude-and-mcp",
+    "description": "Generate Images with Claude and Hugging Face",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:09.019297",
+    "description_fr": "Generate Images with Claude and Hugging Face",
+    "title_fr": "Generate Images with Claude and Hugging Face"
+  },
+  {
+    "title": "Sans confiance, l'IA restera une révolution sans rendement",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545645-sans-confiance-l-ia-restera-une-revolution-sans-rendement/",
+    "description": "Les entreprises doivent placer la fiabilité et la transparence au cœur du déploiement de l'intelligence artificielle.",
+    "image_url": "https://img-0.journaldunet.com/aQ-CVvzhUcXwVqVJrESQAK-b28o=/1280x/smart/2c26a5cd67a34c8c88184067503dbc72/user-jdn/39528723-patrick-joubert.jpg",
+    "published_date": "2025-11-08",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T06:30:22.431564",
+    "description_fr": "Les entreprises doivent placer la fiabilité et la transparence au cœur du déploiement de l'intelligence artificielle.",
+    "title_fr": "Sans confiance, l'IA restera une révolution sans rendement"
+  },
+  {
+    "title": "DfAM, trouver l'équilibre entre créativité et contraintes de fabrication",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545611-dfam-trouver-l-equilibre-entre-creativite-et-contraintes-de-fabrication/",
+    "description": "Le DfAM (Design for Additive Manufacturing) concilie créativité et contraintes industrielles pour faire de la fabrication additive un moteur d'innovation, de durabilité et de souveraineté européenne.",
+    "image_url": "https://img-0.journaldunet.com/VJLu1fPHBwhQqDebBVJouSfi4f0=/1280x/smart/4e0f520742234a71babde84b8da8d0c7/user-jdn/39528664-chris-robinson.jpg",
+    "published_date": "2025-11-08",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T06:30:22.432002",
+    "description_fr": "Le DfAM (Design for Additive Manufacturing) concilie créativité et contraintes industrielles pour faire de la fabrication additive un moteur d'innovation, de durabilité et de souveraineté européenne.",
+    "title_fr": "DfAM, trouver l'équilibre entre créativité et contraintes de fabrication"
+  },
+  {
+    "title": "Dans les coulisses techniques d'Alexa+, \"l'une des IA les plus complexes au monde\"",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545675-dans-les-coulisses-techniques-d-alexa-l-une-des-ia-les-plus-complexes-au-monde/",
+    "description": "Alexa+ repose sur une orchestration (très) complexe de plus de 70 modèles spécialisés, à la fois dans le cloud et dans l'appareil.",
+    "image_url": "https://img-0.journaldunet.com/BLnVL7i-9RGtHbisYAhtML4kZNw=/1280x/smart/7bdc5f821c714d1fb86421ba4767b4af/ccmcms-jdn/39528814.png",
+    "published_date": "2025-11-08",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T06:30:22.432389",
+    "description_fr": "Alexa+ repose sur une orchestration (très) complexe de plus de 70 modèles spécialisés, à la fois dans le cloud et dans l'appareil.",
+    "title_fr": "Dans les coulisses techniques d'Alexa+, \"l'une des IA les plus complexes au monde\""
+  },
+  {
+    "title": "Palantir tisse sa toile",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545683-palantir-tisse-sa-toile/",
+    "description": "L'entreprise spécialisée dans le traitement des masses de données accumule les partenariats prestigieux, de Snowflake à Nvidia, en passant par les gouvernements britanniques et polonais. De quoi justifier sa valorisation stratosphérique ?",
+    "image_url": "https://img-0.journaldunet.com/I75ZFqoDHg0nYJfMdGZHsEGEO-0=/1280x/smart/dba259cc527f4556a1079f187496fab1/ccmcms-jdn/39528811.png",
+    "published_date": "2025-11-08",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T06:30:22.432762",
+    "description_fr": "L'entreprise spécialisée dans le traitement des masses de données accumule les partenariats prestigieux, de Snowflake à Nvidia, en passant par les gouvernements britanniques et polonais. De quoi justifier sa valorisation stratosphérique ?",
+    "title_fr": "Palantir tisse sa toile"
+  },
+  {
+    "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
+    "url": "https://huggingface.co/blog/MiniMax-AI/why-did-m2-end-up-as-a-full-attention-model",
+    "description": "Why Did MiniMax M2 End Up as a Full Attention Model?",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/676e38ad04af5bec20bc9faf/AG8Q9wAUzGtPWyjd5QO2l.jpeg",
+    "published_date": "2025-11-08",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:42.094598",
+    "description_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?",
+    "title_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?"
+  },
+  {
+    "title": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
+    "url": "https://huggingface.co/blog/exploding-gradients/ulysses-ring-attention",
+    "description": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/687f306cce425fc5d3e6f5c7/jeMzeWHoYmX6e97RMjPnH.png",
+    "published_date": "2025-11-08",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-08T06:30:42.097844",
+    "description_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
+    "title_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation"
   },
   {
     "title": "Introducing gpt-oss-safeguard",
@@ -712,7 +842,7 @@
     "category": "llms",
     "collected_at": "2025-11-07T18:30:58.264236",
     "description_fr": "Découvrez comment Notion a reconstruit son architecture d'IA avec GPT-5 pour créer des agents autonomes qui raisonnent, agissent et s'adaptent à travers les flux de travail. Découvrez comment ce changement a débloqué une productivité plus intelligente, plus rapide et plus flexible dans Notion 3.0.",
-    "title_fr": "Reconstruction de Notion pour l'IA agentique : comment GPT‑5 a aidé à débloquer des flux de travail autonomes"
+    "title_fr": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows"
   },
   {
     "title": "Lost in AI translation",
@@ -724,8 +854,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:02.708921",
-    "description_fr": "Voici Optimizer, un bulletin hebdomadaire envoyé tous les vendredis par la rédactrice en chef de Verge, Victoria Song, qui dissèque et discute des derniers téléphones, montres intelligentes, applications et autres gadgets qui jurent qu'ils vont changer votre vie. Optimizer arrive dans les boîtes de réception de nos abonnés à 10 H HE. Optez pour Optimizer ici. Imaginez que vous vous occupez de votre entreprise sur […]",
-    "title_fr": "DANS CE NUMÉRO e r"
+    "description_fr": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscribers' inboxes at 10AM ET. Opt in for Optimizer here. Imagine you're minding your business on […]",
+    "title_fr": "Lost in AI translation"
   },
   {
     "title": "Bring back the iBook, you cowards",
@@ -737,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:02.709647",
-    "description_fr": "Apple travaillerait sur un ordinateur portable à faible coût alimenté par une puce iPhone. Cela pourrait être une petite affaire, une décision prise par l'économie de la chaîne d'approvisionnement et le fait que le M1 MacBook Air continue de bien se vendre chez Walmart. Ou cela pourrait être énorme, un retour en forme pour une entreprise qui semblait […]",
-    "title_fr": "Ramenez l'iBook, lâches"
+    "description_fr": "Apple is reportedly working on a low-cost laptop powered by an iPhone chip. This could be a small deal, a decision made by supply chain economics and the fact that the M1 MacBook Air continues to sell well at Walmart. Or it could be huge, a return to form for a company that once seemed […]",
+    "title_fr": "Bring back the iBook, you cowards"
   },
   {
     "title": "SoftBank is back, and the AI hype cycle is eating itself",
@@ -750,8 +880,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:04.096019",
-    "description_fr": "SoftBank et OpenAI ont annoncé cette semaine une nouvelle coentreprise à parts égales pour vendre des outils d'IA d'entreprise au Japon sous la marque « Crystal Intelligence. « Sur le papier, il s'agit d'un accord d'expansion internationale simple. Mais le rôle de SoftBank en tant qu'investisseur majeur dans OpenAI soulève des questions quant à savoir si les plus grandes transactions de l'IA créent une valeur économique réelle ou si elles font simplement tourner l'argent en rond.  […]",
-    "title_fr": "SoftBank est de retour, et le cycle de battage médiatique de l'IA se mange tout seul"
+    "description_fr": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is raising questions about whether AI’s biggest deals are creating real economic value or just moving money in circles.  […]",
+    "title_fr": "SoftBank is back, and the AI hype cycle is eating itself"
   },
   {
     "title": "Kim Kardashian says ChatGPT is her ‘frenemy’",
@@ -763,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:04.096355",
-    "description_fr": "Kim Kardashian a admis qu'elle avait échoué aux examens juridiques après s'être appuyée aveuglément sur les conseils de ChatGPT.",
-    "title_fr": "Kim Kardashian dit que ChatGPT est son « frenemy »"
+    "description_fr": "Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.",
+    "title_fr": "Kim Kardashian says ChatGPT is her ‘frenemy’"
   },
   {
     "title": "J'ai testé pour vous COMET, le navigateur boosté à l'IA de Perplexity",
@@ -828,7 +958,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:14.357283",
-    "description_fr": "Dans le fonctionnement de toute entreprise, la prise de décision est une compétence essentielle que chaque dirigeant, gestionnaire et collaborateur doit maîtriser.",
+    "description_fr": "Dans le fonctionnement de toute entreprise, la prise de décision est une compétence essentielle que chaque dirigeant, manager et collaborateur doit maîtriser.",
     "title_fr": "L'excellence décisionnelle : le nouvel impératif stratégique pour toute entreprise qui veut pérenniser son activité"
   },
   {
@@ -841,8 +971,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:14.357676",
-    "description_fr": "Après avoir repensé sa stratégie de contenu, la question de l'évaluation de l'efficacité des efforts se pose. Dans l'univers de la AI Engine Optimization (AEO) ou recherche par l'air, les métriques traditionnelles ne suffisent pas plus. Il est pourtant essentiel de mesurer, d'analyser et d'optimiser la performance dans ce nouvel écosystème.",
-    "title_fr": "Piloter la performance dans l'écosystème de l'air : vers la mesure et l'optimisation"
+    "description_fr": "Après avoir repensé sa stratégie de contenu, la question de l'évaluation de l'efficacité des efforts se pose. Dans l'univers de la AI Engine Optimization (AEO) ou recherche par l'IA, les métriques traditionnelles ne suffisent plus. Il est pourtant essentiel de mesurer, analyser et optimiser la performance dans ce nouvel écosystème.",
+    "title_fr": "Piloter la performance dans l'écosystème de l'IA : vers la mesure et l'optimisation"
   },
   {
     "title": "AI factories en Afrique : transformer l'essai par l'énergie, les talents et la donnée",
@@ -854,8 +984,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T18:31:14.358062",
-    "description_fr": "AI Factories en Afrique : la puissance de calcul arrive sur le terrain. Pour transformer l'essai : énergie fiable, talents opérationnels, données gouvernées. Place aux résultats, fin des promesses.",
-    "title_fr": "AI Factories en Afrique : transformer l'essai par l'énergie, les talents et la donnée"
+    "description_fr": "AI factories en Afrique : la puissance de calcul arrive sur le terrain. Pour transformer l'essai : énergie fiable, talents opérationnels, données gouvernées. Place aux résultats, fin des promesses.",
+    "title_fr": "AI factories en Afrique : transformer l'essai par l'énergie, les talents et la donnée"
   },
   {
     "title": "Llano’s 4-in-1 CS2 Pro Charges Your Camera and Reads Memory Cards",
@@ -867,8 +997,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.727554",
-    "description_fr": "Llano a annoncé sa dernière solution de charge, le chargeur de batterie de caméra 4-en-1 CS2 Pro, qui combine le chargement et le stockage de la batterie, le stockage de la carte mémoire, un lecteur de carte et une fonctionnalité de transfert de données en un seul appareil compact. Conçu pour les photographes itinérants, Llano affirme que son nouvel appareil est bien plus qu'un simple chargeur, c'est un concentrateur complet de puissance et de flux de travail.[En savoir plus]",
-    "title_fr": "Le CS2 Pro 4-en-1 de Llano recharge votre appareil photo et lit les cartes mémoire"
+    "description_fr": "Llano has announced its latest charging solution, the CS2 Pro 4-in-1 Camera Battery Charger, which combines battery charging and storage, memory card storage, a card reader, and data transfer functionality into one compact device. Designed with traveling photographers in mind, Llano says its new device is much more than just a charger, it’s a complete power and workflow hub.[Read More]",
+    "title_fr": "Llano’s 4-in-1 CS2 Pro Charges Your Camera and Reads Memory Cards"
   },
   {
     "title": "Videographers Might Have to Worry About the Canon R6 Mark III Overheating",
@@ -880,8 +1010,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.728210",
-    "description_fr": "Dans l'examen du nouveau Canon R6 Mark III par PetaPixel, l'absence d'un ventilateur par rapport au C50 - qui utilise le même capteur et a beaucoup des mêmes fonctionnalités vidéo - a été mentionnée comme l'une des raisons pour lesquelles un vidéaste pourrait vouloir aller avec le corps axé sur le cinéma. En ce qui concerne le R6 Mark III, nous considérons la surchauffe comme un problème possible dans certains cas d'utilisation.[En savoir plus]",
-    "title_fr": "Les vidéastes pourraient avoir à s'inquiéter de la surchauffe du Canon R6 Mark III"
+    "description_fr": "In PetaPixel's review of the new Canon R6 Mark III, the lack of a fan versus the C50 -- which uses the same sensor and has many of the same video features -- was mentioned as one of the reasons a videographer might want to go with the cinema-focused body. When it comes to the R6 Mark III, we do see overheating as a possible concern in some use cases.[Read More]",
+    "title_fr": "Videographers Might Have to Worry About the Canon R6 Mark III Overheating"
   },
   {
     "title": "This Is the Stupidest Fake Photo of Something Interesting That Actually Happened",
@@ -893,8 +1023,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.728838",
-    "description_fr": "Un site d'information international, Chronik.fr, a affirmé aujourd'hui qu'un photographe a capturé une photo incroyable d'un aigle portant une tranche de pizza dans une « rencontre urbaine choquante. « L'image principale est évidemment fausse, mais l'histoire ne l'est pas. En fait, c'est une belle histoire, c'est pourquoi nous l'avons couverte lorsque cela s'est produit en mars 2023.[En savoir plus]",
-    "title_fr": "C'est la fausse photo la plus stupide de quelque chose d'intéressant qui s'est réellement passé"
+    "description_fr": "An international news website, Chronik.fr, claimed today that a photographer captured an incredible photo of an eagle carrying a slice of pizza in a \"shocking urban encounter.\" The lead image is obviously fake, but the story is not. In fact, it's a great story, which is why we covered it when it happened in March 2023.[Read More]",
+    "title_fr": "This Is the Stupidest Fake Photo of Something Interesting That Actually Happened"
   },
   {
     "title": "Massive RAW Sample Gallery Update: Canon R6 Mark III, Sony 100mm f/2.8 Macro GM, and More",
@@ -906,8 +1036,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.729452",
-    "description_fr": "L'équipe PetaPixel a travaillé dur pour élargir notre bibliothèque de galeries d'échantillons et aujourd'hui, nous avons ajouté un total de huit nouvelles galeries des derniers appareils photo et objectifs, y compris le tout nouveau Canon R6 Mark III, le Sony 100mm f/2.8 Macro GM et bien d'autres.[En savoir plus]",
-    "title_fr": "Mise à jour massive de la galerie d'échantillons RAW : Canon R6 Mark III, Sony 100 mm f/2,8 Macro GM, et plus"
+    "description_fr": "The PetaPixel team has been hard at work expanding our Sample Gallery library and today we have added a total of eight new galleries from the latest cameras and lenses, including the brand-new Canon R6 Mark III, the Sony 100mm f/2.8 Macro GM, and many others.[Read More]",
+    "title_fr": "Massive RAW Sample Gallery Update: Canon R6 Mark III, Sony 100mm f/2.8 Macro GM, and More"
   },
   {
     "title": "Samsung Reportedly Making Camera System That Captures 320MP Photos",
@@ -919,8 +1049,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.730034",
-    "description_fr": "Samsung serait en train de développer un nouveau pipeline de traitement du signal d'image, baptisé « Exynos 2600 », qui pourrait prendre en charge un seul appareil photo de 320 mégapixels ou jusqu'à trois capteurs d'image de 108 mégapixels simultanément.[En savoir plus]",
-    "title_fr": "Samsung aurait fabriqué un système de caméra qui capture des photos de 320 MP"
+    "description_fr": "Samsung is reportedly developing a new image signal processing pipeline, dubbed \"Exynos 2600,\" that could support a single 320-megapixel camera or up to three 108-megapixel image sensors simultaneously.[Read More]",
+    "title_fr": "Samsung Reportedly Making Camera System That Captures 320MP Photos"
   },
   {
     "title": "Nikon Sold a Lot of Cameras and Lenses But Still Lost Money",
@@ -932,8 +1062,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T18:31:18.730636",
-    "description_fr": "Nikon a perdu près de 5 milliards de yens (31,3 millions de $ ) d'avril à septembre 2025, principalement en raison de la politique tarifaire américaine. Il s'agit de la première perte d'exploitation de la société au cours du premier semestre d'un exercice en cinq ans. Cependant, la division imagerie de l'entreprise reste forte.[En savoir plus]",
-    "title_fr": "Nikon a vendu beaucoup d'appareils photo et d'objectifs, mais a tout de même perdu de l'argent"
+    "description_fr": "Nikon lost nearly 5 billion yen ($31.3 million) from April to September 2025, primarily because of U.S. tariff policy. It is the company's first operating loss in the first half of a fiscal year in five years. However, the company's imaging division remains strong.[Read More]",
+    "title_fr": "Nikon Sold a Lot of Cameras and Lenses But Still Lost Money"
   },
   {
     "title": "Pocket Dispo Pro Lens Repurposes Disposable Film Camera Optics",
@@ -6368,135 +6498,5 @@
     "collected_at": "2025-10-30T01:48:10.567948",
     "description_fr": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
     "title_fr": "AI models can acquire backdoors from surprisingly few malicious documents"
-  },
-  {
-    "title": "Rode’s New Wireless Micro Camera Kit Is More Powerful and Easier to Use",
-    "url": "https://petapixel.com/2025/10/29/rodes-new-wireless-micro-camera-kit-is-more-powerful-and-easier-to-use/",
-    "description": "Rode has announced the Wireless Micro Camera Kit, the successor to the current Wireless Micro system that promises to be more powerful, significantly more flexible thanks to universal camera compatibility, and easier to use thanks to an improved receiver unit with an integrated display.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Rodes-New-Wireless-Micro-Camera-Kit-Is-More-Powerful-and-Easier-to-Use.jpg",
-    "published_date": "2025-10-30",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-30T01:48:22.178532",
-    "description_fr": "Rode has announced the Wireless Micro Camera Kit, the successor to the current Wireless Micro system that promises to be more powerful, significantly more flexible thanks to universal camera compatibility, and easier to use thanks to an improved receiver unit with an integrated display.[Read More]",
-    "title_fr": "Rode’s New Wireless Micro Camera Kit Is More Powerful and Easier to Use"
-  },
-  {
-    "title": "How I Upgraded My Camera Gear Through MPB",
-    "url": "https://petapixel.com/2025/10/29/how-i-upgraded-my-camera-gear-through-mpb/",
-    "description": "From clearing out cameras to upgrading lenses, MPB supports photographers and videographers at every stage of their creative journey. It offers a trusted hub for buying and selling high-quality used gear. It is a safe, reliable, and straightforward way to sell gear you don't want and score great deals on the gear you do.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/09/MPB-PetaPixel-BG.jpg",
-    "published_date": "2025-10-30",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-30T01:48:22.179286",
-    "description_fr": "From clearing out cameras to upgrading lenses, MPB supports photographers and videographers at every stage of their creative journey. It offers a trusted hub for buying and selling high-quality used gear. It is a safe, reliable, and straightforward way to sell gear you don't want and score great deals on the gear you do.[Read More]",
-    "title_fr": "How I Upgraded My Camera Gear Through MPB"
-  },
-  {
-    "title": "Sandmarc’s New $270 Telephoto Lens Doubles the iPhone 17 Pro’s Zoom",
-    "url": "https://petapixel.com/2025/10/29/sandmarcs-new-270-telephoto-lens-doubles-the-iphone-17-pros-zoom/",
-    "description": "Sandmarc has announced a new Telephoto 48mm lens for Apple's latest iPhone models, designed to take Apple's tetraprism camera even further.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/sandmarc-telephoto-tetraprism-featured.jpg",
-    "published_date": "2025-10-30",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-30T01:48:22.179978",
-    "description_fr": "Sandmarc has announced a new Telephoto 48mm lens for Apple's latest iPhone models, designed to take Apple's tetraprism camera even further.[Read More]",
-    "title_fr": "Sandmarc’s New $270 Telephoto Lens Doubles the iPhone 17 Pro’s Zoom"
-  },
-  {
-    "title": "Robert Irwin Says His Photography Gear Often Gets Stolen",
-    "url": "https://petapixel.com/2025/10/29/robert-irwin-says-his-photography-gear-often-gets-stolen/",
-    "description": "Steve Irwin's son Robert, famous in his own right and a talented photographer, recently revealed that he is constantly having to deal with thieves stealing his photo gear.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Robert-Irwin.jpg",
-    "published_date": "2025-10-30",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-30T01:48:22.180641",
-    "description_fr": "Steve Irwin's son Robert, famous in his own right and a talented photographer, recently revealed that he is constantly having to deal with thieves stealing his photo gear.[Read More]",
-    "title_fr": "Robert Irwin Says His Photography Gear Often Gets Stolen"
-  },
-  {
-    "title": "Nature’s Best Photography Awards 2025 Winners Showcase Wonderful Wildlife and Landscapes",
-    "url": "https://petapixel.com/2025/10/29/natures-best-photography-awards-2025-winners-showcase-wonderful-wildlife-and-landscapes/",
-    "description": "Nature's Best Photography has unveiled their winning photos for the Nature's Best Photography Awards 2025 competition. This year marks the contest's 30th anniversary. The grand-prize-winning photo shows a pair of Emperor penguins looking down at their fluffy chick amid a snowstorm.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/natures-best-winners-2025-featured.jpg",
-    "published_date": "2025-10-30",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-30T01:48:22.181421",
-    "description_fr": "Nature's Best Photography has unveiled their winning photos for the Nature's Best Photography Awards 2025 competition. This year marks the contest's 30th anniversary. The grand-prize-winning photo shows a pair of Emperor penguins looking down at their fluffy chick amid a snowstorm.[Read More]",
-    "title_fr": "Nature’s Best Photography Awards 2025 Winners Showcase Wonderful Wildlife and Landscapes"
-  },
-  {
-    "title": "Meta, Google, and Microsoft Triple Down on AI Spending",
-    "url": "https://www.wired.com/story/microsoft-google-meta-2025-earnings/",
-    "description": "Three of the biggest US tech companies reported record profits and record infrastructure spending on Wednesday, fueling speculation about a possible AI market bubble.",
-    "image_url": "https://media.wired.com/photos/6902815b030326d7e206e552/master/pass/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg",
-    "published_date": "2025-10-30",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T06:32:38.370388",
-    "description_fr": "Three of the biggest US tech companies reported record profits and record infrastructure spending on Wednesday, fueling speculation about a possible AI market bubble.",
-    "title_fr": "Meta, Google, and Microsoft Triple Down on AI Spending"
-  },
-  {
-    "title": "OpenAI adds reusable ‘characters’ and video stitching to Sora",
-    "url": "https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates",
-    "description": "OpenAI’s Sora app will now let you turn almost anything into a reusable avatar for its AI-generated videos. These “character cameos” are one of several new features that have been added to the Sora 2 video generator, alongside clip stitching and leaderboards that showcase the app’s most popular videos and cameos. Character cameos were teased […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Sora-Character-Cameo.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-10-30",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T12:45:36.178820",
-    "description_fr": "OpenAI’s Sora app will now let you turn almost anything into a reusable avatar for its AI-generated videos. These “character cameos” are one of several new features that have been added to the Sora 2 video generator, alongside clip stitching and leaderboards that showcase the app’s most popular videos and cameos. Character cameos were teased […]",
-    "title_fr": "OpenAI adds reusable ‘characters’ and video stitching to Sora"
-  },
-  {
-    "title": "Leveraging the clinician’s expertise with agentic AI",
-    "url": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
-    "description": "Leveraging the clinician’s expertise with agentic AI",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "MIT Technology Review AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T12:45:40.123028",
-    "description_fr": "Leveraging the clinician’s expertise with agentic AI",
-    "title_fr": "Leveraging the clinician’s expertise with agentic AI"
-  },
-  {
-    "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
-    "url": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
-    "description": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "MIT Technology Review AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T12:45:40.125271",
-    "description_fr": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
-    "title_fr": "Chatbots are surprisingly effective at debunking conspiracy theories"
-  },
-  {
-    "title": "How AGI became the most consequential conspiracy theory of our time",
-    "url": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
-    "description": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
-    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/7_AGI-eye-rays_28ece9.jpg?w=1268",
-    "published_date": "2025-10-30",
-    "source": "MIT Technology Review AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T12:45:40.132882",
-    "description_fr": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
-    "title_fr": "How AGI became the most consequential conspiracy theory of our time"
   }
 ]
