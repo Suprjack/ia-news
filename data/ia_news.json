@@ -295,8 +295,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:05.258213",
-    "description_fr": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-    "title_fr": "Introducing Aardvark: OpenAI’s agentic security researcher"
+    "description_fr": "OpenAI présente Aardvark, un chercheur en sécurité alimenté par l'IA qui trouve, valide et aide à corriger les vulnérabilités logicielles à grande échelle de manière autonome. Le système est en version bêta privée. Inscrivez-vous pour participer aux tests précoces.",
+    "title_fr": "Présentation d'Aardvark : le chercheur en sécurité agentique d'OpenAI"
   },
   {
     "title": "New tools in Google AI Studio to explore, debug and share logs",
@@ -308,8 +308,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:08.044135",
-    "description_fr": "Google AI Studio logo on a plain black background",
-    "title_fr": "New tools in Google AI Studio to explore, debug and share logs"
+    "description_fr": "Logo Google AI Studio sur fond noir uni",
+    "title_fr": "Nouveaux outils dans Google AI Studio pour explorer, déboguer et partager les journaux"
   },
   {
     "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
@@ -321,8 +321,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:09.019069",
-    "description_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
-    "title_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation"
+    "description_fr": "Faites en sorte que vos espaces ZeroGPU deviennent brrr avec une compilation à l'avance",
+    "title_fr": "Faites en sorte que vos espaces ZeroGPU deviennent brrr avec une compilation à l'avance"
   },
   {
     "title": "Generate Images with Claude and Hugging Face",
@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:09.019297",
-    "description_fr": "Generate Images with Claude and Hugging Face",
-    "title_fr": "Generate Images with Claude and Hugging Face"
+    "description_fr": "Générer des images avec Claude et Hugging Face",
+    "title_fr": "Générer des images avec Claude et Hugging Face"
   },
   {
     "title": "Sans confiance, l'IA restera une révolution sans rendement",
@@ -348,7 +348,7 @@
     "category": "general",
     "collected_at": "2025-11-08T06:30:22.431564",
     "description_fr": "Les entreprises doivent placer la fiabilité et la transparence au cœur du déploiement de l'intelligence artificielle.",
-    "title_fr": "Sans confiance, l'IA restera une révolution sans rendement"
+    "title_fr": "Sans confiance, l'air restera une révolution sans rendement"
   },
   {
     "title": "DfAM, trouver l'équilibre entre créativité et contraintes de fabrication",
@@ -399,8 +399,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:42.094598",
-    "description_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?",
-    "title_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?"
+    "description_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?",
+    "title_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?"
   },
   {
     "title": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
@@ -412,8 +412,60 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:42.097844",
-    "description_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
-    "title_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation"
+    "description_fr": "Parallélisme de séquence ultra-longue : principes techniques et mise en œuvre d'Ulysse + Ring-Attention",
+    "title_fr": "Parallélisme de séquence ultra-longue : principes techniques et mise en œuvre d'Ulysse + Ring-Attention"
+  },
+  {
+    "title": "Leveraging the clinician’s expertise with agentic AI",
+    "url": "https://www.technologyreview.com/2025/10/30/1125697/leveraging-the-clinicians-expertise-with-agentic-ai/",
+    "description": "Leveraging the clinician’s expertise with agentic AI",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T12:40:03.020469",
+    "description_fr": "Leveraging the clinician’s expertise with agentic AI",
+    "title_fr": "Leveraging the clinician’s expertise with agentic AI"
+  },
+  {
+    "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
+    "url": "https://www.technologyreview.com/2025/10/30/1126471/chatbots-are-surprisingly-effective-at-debunking-conspiracy-theories/",
+    "description": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T12:40:03.022488",
+    "description_fr": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
+    "title_fr": "Chatbots are surprisingly effective at debunking conspiracy theories"
+  },
+  {
+    "title": "How AGI became the most consequential conspiracy theory of our time",
+    "url": "https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/",
+    "description": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
+    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/7_AGI-eye-rays_28ece9.jpg?w=1268",
+    "published_date": "2025-11-08",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T12:40:03.028475",
+    "description_fr": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
+    "title_fr": "How AGI became the most consequential conspiracy theory of our time"
+  },
+  {
+    "title": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos",
+    "url": "https://petapixel.com/2025/11/08/retouch4mes-new-plugin-removes-dust-and-distracting-particles-from-videos/",
+    "description": "Retouch4me, known for its AI-powered photo and video editing tools, has introduced Dust OFX, a new plugin that automatically removes dust and small particles from video footage. Built for DaVinci Resolve and compatible with other OFX-based editors, the plugin uses advanced neural networks to streamline one of the most time-consuming aspects of video retouching.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/retouch4me-dust-ofx-featured.jpg",
+    "published_date": "2025-11-08",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-08T12:40:15.893042",
+    "description_fr": "Retouch4me, known for its AI-powered photo and video editing tools, has introduced Dust OFX, a new plugin that automatically removes dust and small particles from video footage. Built for DaVinci Resolve and compatible with other OFX-based editors, the plugin uses advanced neural networks to streamline one of the most time-consuming aspects of video retouching.[Read More]",
+    "title_fr": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos"
   },
   {
     "title": "Introducing gpt-oss-safeguard",
@@ -763,8 +815,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T06:33:45.795403",
-    "description_fr": "7Artisans a annoncé le lancement de sa série de verres Floral Bloom Art Cine, à commencer par le 37mm T2.9 Explosive Bokeh Cine Lens, un premier plan plein cadre conçu pour offrir ce que la société décrit comme un effet optique distinctif qui pousse les reflets d'arrière-plan dans une rafale dynamique vers l'extérieur.[En savoir plus]",
-    "title_fr": "Le nouvel objectif de cinéma violet de 7Artisans a un bokeh « explosif »"
+    "description_fr": "7Artisans has announced the launch of its Floral Bloom Art Cine Lens Series, beginning with the 37mm T2.9 Explosive Bokeh Cine Lens, a full-frame PL-mount prime designed to deliver what the company describes as a distinctive optical effect that pushes background highlights into a dynamic, outward burst.[Read More]",
+    "title_fr": "7Artisans’ New Purple Cinema Lens Has ‘Explosive’ Bokeh"
   },
   {
     "title": "Code a simple RAG from scratch",
@@ -776,8 +828,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-07T06:34:01.464396",
-    "description_fr": "Codez un simple CHIFFON à partir de zéro",
-    "title_fr": "Codez un simple CHIFFON à partir de zéro"
+    "description_fr": "Code a simple RAG from scratch",
+    "title_fr": "Code a simple RAG from scratch"
   },
   {
     "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
@@ -789,8 +841,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-07T12:44:10.205619",
-    "description_fr": "Les chats sensibles sont rares mais importants compte tenu de la grande base d'utilisateurs.",
-    "title_fr": "Les données OpenAI suggèrent qu'un million d'utilisateurs discutent du suicide avec ChatGPT chaque semaine"
+    "description_fr": "Sensitive chats are rare but significant given the large user base.",
+    "title_fr": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly"
   },
   {
     "title": "Microsoft’s next big AI bet: building a ‘humanist superintelligence’",
@@ -802,8 +854,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T12:44:13.993556",
-    "description_fr": "Microsoft forme une nouvelle équipe de recherche sur la superintelligence et d'autres formes avancées d'intelligence artificielle. Mustafa Suleyman, qui dirige la division IA de Microsoft supervisant Bing et Copilot, a annoncé la création de l'équipe MAI Superintelligence dans un article de blog. Il a déclaré qu'il dirigerait le groupe et que Microsoft prévoyait de mettre « beaucoup de […]Le prochain grand pari de l'IA post-Microsoft : construire un ‘humani",
-    "title_fr": "Le prochain grand pari de Microsoft en matière d'IA : construire une « superintelligence humaniste »"
+    "description_fr": "Microsoft is forming a new team to research superintelligence and other advanced forms of artificial intelligence. Mustafa Suleyman, who leads Microsoft’s AI division overseeing Bing and Copilot, announced the creation of the MAI Superintelligence Team in a blog post. He said he will head the group and that Microsoft plans to put “a lot of […]The postMicrosoft’s next big AI bet: building a ‘humani",
+    "title_fr": "Microsoft’s next big AI bet: building a ‘humanist superintelligence’"
   },
   {
     "title": "Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?",
@@ -815,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T12:44:13.996528",
-    "description_fr": "Lorsque le PDG de Nvidia, Jensen Huang, a d'abord déclaré au Financial Times que la Chine « gagnerait la course à l'IA » avant d'assouplir sa position, cela a cristallisé une situation difficile qui dure depuis des années. Le fabricant de puces le plus précieux au monde se trouve maintenant pris entre deux superpuissances, chacune brandissant l'interdiction des puces Nvidia AI comme une arme dans une […]L'interdiction des puces postNvidia AI : les géants de la technologie peuvent-ils",
-    "title_fr": "Interdiction des puces Nvidia AI : les géants de la technologie peuvent-ils naviguer dans un jeu géopolitique à somme nulle ?"
+    "description_fr": "When Nvidia CEO Jensen Huang initially told the Financial Times that China would “win the AI race” before softening his stance, it crystallised a predicament that’s been years in the making. The world’s most valuable chipmaker now finds itself caught between two superpowers, each wielding the Nvidia AI chip ban as a weapon in a broader technological […]The postNvidia AI chip ban: Can tech giants n",
+    "title_fr": "Nvidia AI chip ban: Can tech giants navigate a geopolitical zero-sum game?"
   },
   {
     "title": "Let's talk about LLM evaluation",
@@ -828,8 +880,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-07T12:44:42.868731",
-    "description_fr": "Parlons de l'évaluation LLM",
-    "title_fr": "Parlons de l'évaluation LLM"
+    "description_fr": "Let's talk about LLM evaluation",
+    "title_fr": "Let's talk about LLM evaluation"
   },
   {
     "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
@@ -841,7 +893,7 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-07T18:30:58.264236",
-    "description_fr": "Découvrez comment Notion a reconstruit son architecture d'IA avec GPT-5 pour créer des agents autonomes qui raisonnent, agissent et s'adaptent à travers les flux de travail. Découvrez comment ce changement a débloqué une productivité plus intelligente, plus rapide et plus flexible dans Notion 3.0.",
+    "description_fr": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
     "title_fr": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows"
   },
   {
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-10-30T01:48:10.566958",
     "description_fr": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
     "title_fr": "OpenAI wants to stop ChatGPT from validating users’ political views"
-  },
-  {
-    "title": "Hackers can steal 2FA codes and private messages from Android phones",
-    "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
-    "description": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/008-family-galaxy-s25ultra-titaniumsilverblue-s25plus-navy-s25-icyblue-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.567202",
-    "description_fr": "Malicious app required to make \"Pixnapping\" attack work requires no permissions.",
-    "title_fr": "Hackers can steal 2FA codes and private messages from Android phones"
-  },
-  {
-    "title": "Why Signal’s post-quantum makeover is an amazing engineering achievement",
-    "url": "https://arstechnica.com/security/2025/10/why-signals-post-quantum-makeover-is-an-amazing-engineering-achievement/",
-    "description": "New design sets a high standard for post-quantum readiness.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/signal-quantum-security-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.567436",
-    "description_fr": "New design sets a high standard for post-quantum readiness.",
-    "title_fr": "Why Signal’s post-quantum makeover is an amazing engineering achievement"
-  },
-  {
-    "title": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits",
-    "url": "https://arstechnica.com/security/2025/10/payroll-pirate-phishing-scam-that-takes-over-workday-accounts-steals-paychecks/",
-    "description": "Among other things, the scammers bypass multi-factor authentication.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/phishing.jpeg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.567685",
-    "description_fr": "Among other things, the scammers bypass multi-factor authentication.",
-    "title_fr": "Microsoft warns of new “Payroll Pirate” scam stealing employees’ direct deposits"
-  },
-  {
-    "title": "AI models can acquire backdoors from surprisingly few malicious documents",
-    "url": "https://arstechnica.com/ai/2025/10/ai-models-can-acquire-backdoors-from-surprisingly-few-malicious-documents/",
-    "description": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/anthopic_research_backdoor_logo-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.567948",
-    "description_fr": "Anthropic study suggests \"poison\" training attacks don't scale with model size.",
-    "title_fr": "AI models can acquire backdoors from surprisingly few malicious documents"
   }
 ]
