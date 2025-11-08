@@ -425,8 +425,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.020469",
-    "description_fr": "Leveraging the clinician’s expertise with agentic AI",
-    "title_fr": "Leveraging the clinician’s expertise with agentic AI"
+    "description_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique",
+    "title_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique"
   },
   {
     "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
@@ -438,8 +438,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.022488",
-    "description_fr": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
-    "title_fr": "Chatbots are surprisingly effective at debunking conspiracy theories"
+    "description_fr": "C'est devenu un truisme que les faits seuls ne changent pas l'esprit des gens. Cela n'est peut-être nulle part plus clair qu'en ce qui concerne les théories du complot : beaucoup de gens croient que vous ne pouvez pas parler des conspirationnistes en dehors de leurs croyances.  Mais ce n'est pas nécessairement vrai. Il s'avère que de nombreux adeptes du complot réagissent aux preuves et aux arguments - des informations qui...",
+    "title_fr": "Les chatbots sont étonnamment efficaces pour démystifier les théories du complot"
   },
   {
     "title": "How AGI became the most consequential conspiracy theory of our time",
@@ -451,8 +451,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.028475",
-    "description_fr": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
-    "title_fr": "How AGI became the most consequential conspiracy theory of our time"
+    "description_fr": "Tu le sens ? J'ai entendu dire que c'était proche : deux ans, cinq ans, peut-être l'année prochaine ! Et j'ai entendu dire que cela allait tout changer : cela guérirait les maladies, sauverait la planète et inaugurerait une ère d'abondance. Il résoudra nos plus grands problèmes d'une manière que nous ne pouvons pas encore imaginer. Cela redéfinira ce que signifie…",
+    "title_fr": "Comment l'agi est devenue la théorie du complot la plus conséquente de notre époque"
   },
   {
     "title": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos",
@@ -464,8 +464,86 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T12:40:15.893042",
-    "description_fr": "Retouch4me, known for its AI-powered photo and video editing tools, has introduced Dust OFX, a new plugin that automatically removes dust and small particles from video footage. Built for DaVinci Resolve and compatible with other OFX-based editors, the plugin uses advanced neural networks to streamline one of the most time-consuming aspects of video retouching.[Read More]",
-    "title_fr": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos"
+    "description_fr": "Retouch4me, connu pour ses outils de retouche photo et vidéo alimentés par l'IA, a présenté Dust OFX, un nouveau plugin qui élimine automatiquement la poussière et les petites particules des séquences vidéo. Conçu pour DaVinci Resolve et compatible avec d'autres éditeurs basés sur OFX, le plugin utilise des réseaux de neurones avancés pour rationaliser l'un des aspects les plus chronophages de la retouche vidéo.[En savoir plus]",
+    "title_fr": "Le nouveau plug-in de Retouch4me élimine la poussière et les particules distrayantes des vidéos"
+  },
+  {
+    "title": "Soaring electricity rates fueled Democratic victories — now comes the hard part",
+    "url": "https://www.theverge.com/report/816946/electricity-rates-election-democrats",
+    "description": "While there's plenty for voters to be worried about right now, rising utility bills have become a hot-button issue. The success of Democrats in New Jersey, Virginia, and Georgia in this week's elections can be seen as something of a referendum on the state of energy policy and infrastructure in the US as power grids […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244583418.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-08",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T18:28:30.217973",
+    "description_fr": "While there's plenty for voters to be worried about right now, rising utility bills have become a hot-button issue. The success of Democrats in New Jersey, Virginia, and Georgia in this week's elections can be seen as something of a referendum on the state of energy policy and infrastructure in the US as power grids […]",
+    "title_fr": "Soaring electricity rates fueled Democratic victories — now comes the hard part"
+  },
+  {
+    "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers",
+    "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
+    "description": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
+    "image_url": "",
+    "published_date": "2025-11-08",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-08T18:28:31.287208",
+    "description_fr": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
+    "title_fr": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers"
+  },
+  {
+    "title": "The Nikon Tour Highlights Big Changes, and I’m Here For It",
+    "url": "https://petapixel.com/2025/11/08/the-nikon-tour-highlights-big-changes-and-im-here-for-it/",
+    "description": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/nikon-tour-john-bilbao.jpg",
+    "published_date": "2025-11-08",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-08T18:28:47.403916",
+    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.[Read More]",
+    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
+  },
+  {
+    "title": "Three More Elements of Fine Art You Can Use to Improve Your Photography",
+    "url": "https://petapixel.com/2025/11/08/three-more-elements-of-fine-art-you-can-use-to-improve-your-photography/",
+    "description": "Previously, I wrote about five elements of art and how they can impact our photographs. However, there are three more elements that work in conjunction with points, lines, shape, and form that can elevate your photography further.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/10/pink-and-blue-1600x840.jpg",
+    "published_date": "2025-11-08",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-08T18:28:47.404689",
+    "description_fr": "Previously, I wrote about five elements of art and how they can impact our photographs. However, there are three more elements that work in conjunction with points, lines, shape, and form that can elevate your photography further.[Read More]",
+    "title_fr": "Three More Elements of Fine Art You Can Use to Improve Your Photography"
+  },
+  {
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+    "description": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
+    "published_date": "2025-11-08",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-08T18:29:03.956049",
+    "description_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+    "title_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
+  },
+  {
+    "title": "The Nikon Tour Highlights Big Changes, and I’m Here For It",
+    "url": "https://petapixel.com/author/johnbilbao/",
+    "description": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/nikon-tour-john-bilbao-300x157.jpg",
+    "published_date": "2025-11-08",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-08T18:29:13.640370",
+    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.",
+    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
   },
   {
     "title": "Introducing gpt-oss-safeguard",
@@ -763,8 +841,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.920274",
-    "description_fr": "Plus tôt cette année, lorsque le Canon C50 a été annoncé, j'ai vu beaucoup de discussions en ligne sur la qualité de sa conception et son prix pour le créateur de contenu moyen. Je voulais être d'accord, mais je pensais qu'il manquait deux caractéristiques majeures que ces créateurs de contenu allaient manquer : la stabilisation de l'image dans le corps et un viseur électronique.[En savoir plus]",
-    "title_fr": "Le Canon R6 Mark III rend le C50 beaucoup moins attrayant pour la plupart des gens"
+    "description_fr": "Earlier this year when the Canon C50 was announced, I saw a significant amount of chatter online about how well-designed and well-priced it was for the average content creator. I wanted to agree, but thought it lacked two major features that those content creators were going to miss: in-body image stabilization and an electronic viewfinder.[Read More]",
+    "title_fr": "The Canon R6 Mark III Makes the C50 Far Less Compelling for Most People"
   },
   {
     "title": "The AI industry is running on FOMO",
@@ -776,8 +854,8 @@
     "source_type": "website",
     "category": "general",
     "collected_at": "2025-11-07T01:45:57.199029",
-    "description_fr": "L'industrie de l'IA fonctionne sur FOMO",
-    "title_fr": "L'industrie de l'IA fonctionne sur FOMO"
+    "description_fr": "The AI industry is running on FOMO",
+    "title_fr": "The AI industry is running on FOMO"
   },
   {
     "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b",
@@ -789,8 +867,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-07T06:33:19.855595",
-    "description_fr": "gpt-oss-safeguard-120b et gpt-oss-safeguard-20b sont deux modèles de raisonnement à poids ouvert post-trainés à partir des modèles gpt-oss et formés au raisonnement à partir d'une politique fournie afin d'étiqueter le contenu en vertu de cette politique. Dans ce rapport, nous décrivons les capacités de gpt-oss-safeguard et fournissons nos évaluations de sécurité de base sur les modèles gpt-oss-safeguard, en utilisant les modèles gpt-oss sous-jacents comme base de référence",
-    "title_fr": "Rapport technique : Performances et évaluations de base de gpt-oss-safeguard-120b et gpt-oss-safeguard-20b"
+    "description_fr": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline",
+    "title_fr": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b"
   },
   {
     "title": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts",
@@ -802,8 +880,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T06:33:28.852432",
-    "description_fr": "Séparer la réalité de l'IA de la fiction n'est pas toujours facile. C'est pourquoi nous avons créé l'AI Hype Index, un résumé simple et rapide de tout ce que vous devez savoir sur l'état de l'industrie. À peu près toutes les entreprises semblent aujourd'hui basculer vers l'IA, même si elles ne semblent pas savoir exactement pourquoi elles investissent…",
-    "title_fr": "L'indice de battage médiatique de l'IA : les voisins des centres de données pivotent vers les pannes de courant"
+    "description_fr": "Separating AI reality from hyped-up fiction isn’t always easy. That’s why we’ve created the AI Hype Index—a simple, at-a-glance summary of everything you need to know about the state of the industry. Just about all businesses these days seem to be pivoting to AI, even when they don’t seem to know exactly why they’re investing…",
+    "title_fr": "The AI Hype Index: Data centers’ neighbors are pivoting to power blackouts"
   },
   {
     "title": "7Artisans’ New Purple Cinema Lens Has ‘Explosive’ Bokeh",
@@ -4573,7 +4651,7 @@
     "category": "general",
     "collected_at": "2025-11-03T18:30:47.951988",
     "description_fr": "For Big Tech, a penny invested in AI is a penny earned… Maybe. After an indeterminate amount of time. Investors hope. On earnings calls last week, Amazon, Google, Microsoft, and Meta reported more than $350 billion this year on capital expenditures, or longer-tail investments in a company's future. All four told investors to expect the […]",
-    "title_fr": "L'industrie de l'IA fonctionne sur FOMO"
+    "title_fr": "The AI industry is running on FOMO"
   },
   {
     "title": "OpenAI strikes $38 billion AI training deal with Amazon",
@@ -6420,83 +6498,5 @@
     "collected_at": "2025-10-30T01:48:10.565450",
     "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
     "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
-  },
-  {
-    "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
-    "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
-    "description": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.565710",
-    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
-    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
-  },
-  {
-    "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
-    "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
-    "description": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.565967",
-    "description_fr": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
-    "title_fr": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost"
-  },
-  {
-    "title": "ChatGPT erotica coming soon with age verification, CEO says",
-    "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/",
-    "description": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/openai-math-apples-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.566225",
-    "description_fr": "Sam Altman claims new tools can detect mental distress while relaxing limits for adults.",
-    "title_fr": "ChatGPT erotica coming soon with age verification, CEO says"
-  },
-  {
-    "title": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”",
-    "url": "https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/",
-    "description": "Scams like this one net billions from well-educated victims.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/bitcoin-romance-pig-butchering-scam-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.566461",
-    "description_fr": "Scams like this one net billions from well-educated victims.",
-    "title_fr": "Feds seize $15 billion from alleged forced labor scam built on “human suffering”"
-  },
-  {
-    "title": "Nvidia sells tiny new computer that puts big AI on your desktop",
-    "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
-    "description": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/dgx_spark-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.566701",
-    "description_fr": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K.",
-    "title_fr": "Nvidia sells tiny new computer that puts big AI on your desktop"
-  },
-  {
-    "title": "OpenAI wants to stop ChatGPT from validating users’ political views",
-    "url": "https://arstechnica.com/ai/2025/10/openai-wants-to-stop-chatgpt-from-validating-users-political-views/",
-    "description": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/political_fracture_1-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.566958",
-    "description_fr": "New paper reveals reducing \"bias\" means making ChatGPT stop mirroring users' political language.",
-    "title_fr": "OpenAI wants to stop ChatGPT from validating users’ political views"
   }
 ]
