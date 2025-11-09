@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-09T01:49:08.966779",
-    "description_fr": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
-    "title_fr": "Is Wall Street losing faith in AI?"
+    "description_fr": "Une semaine difficile pour les valeurs technologiques pourrait signaler une perte de confiance des investisseurs dans l'intelligence artificielle.",
+    "title_fr": "Wall Street perd-il confiance en l'IA ?"
   },
   {
     "title": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-09T01:49:08.967196",
-    "description_fr": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
-    "title_fr": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI"
+    "description_fr": "Si vous avez regardé jusqu'à la fin de la nouvelle émission d'Apple TV « Pluribus », vous avez peut-être remarqué un avertissement inhabituel dans le générique : « Cette émission a été créée par des humains. »",
+    "title_fr": "Le nouveau spectacle du créateur de « Breaking Bad », « Pluribus », a été catégoriquement « créé par des humains », et non par l'IA"
   },
   {
     "title": "What could possibly go wrong if an enterprise replaces all its engineers with AI?",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-09T01:49:13.305276",
-    "description_fr": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
-    "title_fr": "What could possibly go wrong if an enterprise replaces all its engineers with AI?"
+    "description_fr": "Le codage de l'IA, le codage des vibrations et l'essaimage authentique ont récemment fait une entrée spectaculaire et étonnante sur le marché, le marché des outils de codage de l'IA étant évalué à 4,8 milliards de $ et devrait croître à un taux annuel de 23 %.  Les entreprises sont aux prises avec des agents de codage IA et que faire des codeurs humains coûteux. Ils ne manquent pas de conseils. Le PDG d'OpenAI estime que l'IA peut effectuer plus de 50 % de ce que les ingénieurs humains peuvent faire.  Six",
+    "title_fr": "Qu'est-ce qui pourrait mal tourner si une entreprise remplaçait tous ses ingénieurs par l'IA ?"
   },
   {
     "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T01:49:16.199094",
-    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
-    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
+    "description_fr": "Les risques pour les utilisateurs de BIG-IP comprennent les attaques de la chaîne d'approvisionnement, la perte d'informations d'identification et les exploits de vulnérabilité.",
+    "title_fr": "Des milliers de clients en péril après que l'État-nation ait saccagé le réseau de F5"
   },
   {
     "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
@@ -61,8 +61,60 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T01:49:16.199325",
-    "description_fr": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
-    "title_fr": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost"
+    "description_fr": "Le modèle minuscule et rapide atteint des scores de codage similaires à GPT-5 et Sonnet 4.",
+    "title_fr": "Le Claude Haiku 4.5 d'Anthropic correspond au modèle frontière de May à une fraction du coût"
+  },
+  {
+    "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+    "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+    "description": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T06:30:19.280828",
+    "description_fr": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
+    "title_fr": "NPM flooded with malicious packages downloaded more than 86,000 times"
+  },
+  {
+    "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
+    "url": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
+    "description": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T06:30:19.281580",
+    "description_fr": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
+    "title_fr": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware"
+  },
+  {
+    "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
+    "url": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
+    "description": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T06:30:19.281813",
+    "description_fr": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
+    "title_fr": "Nation-state hackers deliver malware from “bulletproof” blockchains"
+  },
+  {
+    "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
+    "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
+    "description": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T06:30:19.282023",
+    "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
+    "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
   },
   {
     "title": "Understanding prompt injections: a frontier security challenge",
@@ -789,8 +841,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:27.104041",
-    "description_fr": "Un modèle d'IA publié par la société chinoise DeepSeek utilise de nouvelles techniques qui pourraient améliorer considérablement la capacité de l'IA à « se souvenir. » Sorti la semaine dernière, le modèle de reconnaissance optique de caractères (roc) fonctionne en extrayant du texte d'une image et en le transformant en mots lisibles par machine. C'est la même technologie qui alimente les applications de numérisation, la traduction de texte…",
-    "title_fr": "DeepSeek a peut-être trouvé un nouveau moyen d'améliorer la capacité de l'IA à se souvenir"
+    "description_fr": "An AI model released by the Chinese AI company DeepSeek uses new techniques that could significantly improve AI’s ability to “remember.” Released last week, the optical character recognition (OCR) model works by extracting text from an image and turning it into machine-readable words. This is the same technology that powers scanner apps, translation of text…",
+    "title_fr": "DeepSeek may have found a new way to improve AI’s ability to remember"
   },
   {
     "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
@@ -802,8 +854,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-07T01:45:28.099384",
-    "description_fr": "Sandworm et d'autres pirates informatiques de l'État russe libèrent des charges utiles destructrices de données sur leurs voisins.",
-    "title_fr": "Les essuie-glaces des pirates informatiques les plus féroces de Russie font pleuvoir des destructions sur l'Ukraine"
+    "description_fr": "Sandworm and other Russian-state hackers unleash data-destroying payloads on their neighbors.",
+    "title_fr": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine"
   },
   {
     "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
@@ -815,8 +867,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-07T01:45:28.100303",
-    "description_fr": "« Je ne crois pas que nous soyons dans une bulle d'IA », déclare Huang après avoir annoncé 500 milliards de $ de commandes.",
-    "title_fr": "Nvidia atteint un record de 5 000 milliards de $ alors que le PDG rejette les préoccupations liées à la bulle d'IA"
+    "description_fr": "\"I don’t believe we’re in an AI bubble,\" says Huang after announcing $500B in orders.",
+    "title_fr": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns"
   },
   {
     "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
@@ -828,8 +880,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-07T01:45:28.100519",
-    "description_fr": "Les TEE sur puce résistent aux systèmes d'exploitation enracinés mais tombent instantanément sous le coup d'attaques physiques peu coûteuses.",
-    "title_fr": "De nouvelles attaques physiques diluent rapidement les défenses d'enclaves sécurisées de Nvidia, AMD et Intel"
+    "description_fr": "On-chip TEEs withstand rooted OSes but fall instantly to cheap physical attacks.",
+    "title_fr": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel"
   },
   {
     "title": "Claude skills : comment les créer et les utiliser",
@@ -842,7 +894,7 @@
     "category": "general",
     "collected_at": "2025-11-07T01:45:34.260813",
     "description_fr": "Anthropic a dévoilé une nouvelle méthode pour enseigner des compétences pratiques à ses modèles d'intelligence artificielle : les skills.",
-    "title_fr": "Claude Skills : comment les créer et les utiliser"
+    "title_fr": "Claude skills : comment les créer et les utiliser"
   },
   {
     "title": "Canon R6 Mark II vs R6 Mark III: The Difference Between RAW Burst Mode and Pre-Continuous Shooting",
@@ -854,7 +906,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.917416",
-    "description_fr": "Canon a dévoilé l'EOS R6 Mark III ce matin, et il y a une certaine confusion quant à savoir si l'une des nouvelles fonctionnalités de la R6 III, la prise de vue pré-continue, est réellement nouvelle. C'est le cas, et voici pourquoi c'est important.[En savoir plus]",
+    "description_fr": "Canon unveiled the EOS R6 Mark III this morning, and there is some confusion about whether one of the R6 III's new features, pre-continuous shooting, is actually new at all. It is, and here's why it matters.[Read More]",
     "title_fr": "Canon R6 Mark II vs R6 Mark III: The Difference Between RAW Burst Mode and Pre-Continuous Shooting"
   },
   {
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-10-30T01:48:05.942385",
     "description_fr": "Speaking at TechCrunch Disrupt, Yakovenko said he's become increasingly comfortable taking a back seat in software development tasks.",
     "title_fr": "Solana co-founder Anatoly Yakovenko is a big fan of agentic coding"
-  },
-  {
-    "title": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape",
-    "url": "https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/",
-    "description": "He painted a picture of a future of enterprise software where the SaaS is used for the core business workflow, and then the agents ride on top of that.",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T01:48:05.942704",
-    "description_fr": "He painted a picture of a future of enterprise software where the SaaS is used for the core business workflow, and then the agents ride on top of that.",
-    "title_fr": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape"
-  },
-  {
-    "title": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost",
-    "url": "https://venturebeat.com/ai/vibe-coding-platform-cursor-releases-first-in-house-llm-composer-promising",
-    "description": "The vibe coding tool Cursor, from startupAnysphere, hasintroduced Composer, its first in-house, proprietary coding large language model (LLM) as part of itsCursor 2.0 platform update.Composer is designed to execute coding tasks quickly and accurately in production-scale environments, representing a new step in AI-assisted programming. It's already being used by Cursor’s own engineering staff in da",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T01:48:08.147116",
-    "description_fr": "The vibe coding tool Cursor, from startupAnysphere, hasintroduced Composer, its first in-house, proprietary coding large language model (LLM) as part of itsCursor 2.0 platform update.Composer is designed to execute coding tasks quickly and accurately in production-scale environments, representing a new step in AI-assisted programming. It's already being used by Cursor’s own engineering staff in da",
-    "title_fr": "Vibe coding platform Cursor releases first in-house LLM, Composer, promising 4X speed boost"
-  },
-  {
-    "title": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation",
-    "url": "https://venturebeat.com/ai/from-static-classifiers-to-reasoning-engines-openais-new-model-rethinks",
-    "description": "Enterprises, eager to ensure any AI models they useadhere to safety and safe-usepolicies, fine-tune LLMs so they do not respond to unwanted queries.However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in production.OpenAIbelieves it can offer a more flexible option for enterprises and encourage more compa",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T01:48:08.161532",
-    "description_fr": "Enterprises, eager to ensure any AI models they useadhere to safety and safe-usepolicies, fine-tune LLMs so they do not respond to unwanted queries.However, much of the safeguarding and red teaming happens before deployment, “baking in” policies before users fully test the models’ capabilities in production.OpenAIbelieves it can offer a more flexible option for enterprises and encourage more compa",
-    "title_fr": "From static classifiers to reasoning engines: OpenAI’s new model rethinks content moderation"
-  },
-  {
-    "title": "Nvidia researchers unlock 4-bit LLM training that matches 8-bit performance",
-    "url": "https://venturebeat.com/ai/nvidia-researchers-unlock-4-bit-llm-training-that-matches-8-bit-performance",
-    "description": "Researchers at Nvidia have developed anovel approachto train large language models (LLMs) in 4-bit quantized format while maintaining their stability and accuracy at the level of high-precision models. Their technique, NVFP4, makes it possible to train models that not only outperform other leading 4-bit formats but match the performance of the larger 8-bit FP8 format, all while using half the memo",
-    "image_url": "",
-    "published_date": "2025-10-30",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T01:48:08.163453",
-    "description_fr": "Researchers at Nvidia have developed anovel approachto train large language models (LLMs) in 4-bit quantized format while maintaining their stability and accuracy at the level of high-precision models. Their technique, NVFP4, makes it possible to train models that not only outperform other leading 4-bit formats but match the performance of the larger 8-bit FP8 format, all while using half the memo",
-    "title_fr": "Nvidia researchers unlock 4-bit LLM training that matches 8-bit performance"
   }
 ]
