@@ -1,5 +1,70 @@
 [
   {
+    "title": "Is Wall Street losing faith in AI?",
+    "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+    "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+    "image_url": "",
+    "published_date": "2025-11-09",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-09T01:49:08.966779",
+    "description_fr": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+    "title_fr": "Is Wall Street losing faith in AI?"
+  },
+  {
+    "title": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI",
+    "url": "https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/",
+    "description": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
+    "image_url": "",
+    "published_date": "2025-11-09",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-09T01:49:08.967196",
+    "description_fr": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
+    "title_fr": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI"
+  },
+  {
+    "title": "What could possibly go wrong if an enterprise replaces all its engineers with AI?",
+    "url": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers",
+    "description": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
+    "image_url": "",
+    "published_date": "2025-11-09",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-09T01:49:13.305276",
+    "description_fr": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
+    "title_fr": "What could possibly go wrong if an enterprise replaces all its engineers with AI?"
+  },
+  {
+    "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
+    "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
+    "description": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-1152x648.jpg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T01:49:16.199094",
+    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
+  },
+  {
+    "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
+    "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
+    "description": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero.jpg",
+    "published_date": "2025-11-09",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-09T01:49:16.199325",
+    "description_fr": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
+    "title_fr": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost"
+  },
+  {
     "title": "Understanding prompt injections: a frontier security challenge",
     "url": "https://openai.com/index/prompt-injections",
     "description": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
@@ -477,8 +542,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T18:28:30.217973",
-    "description_fr": "While there's plenty for voters to be worried about right now, rising utility bills have become a hot-button issue. The success of Democrats in New Jersey, Virginia, and Georgia in this week's elections can be seen as something of a referendum on the state of energy policy and infrastructure in the US as power grids […]",
-    "title_fr": "Soaring electricity rates fueled Democratic victories — now comes the hard part"
+    "description_fr": "Bien qu'il y ait beaucoup de raisons de s'inquiéter pour les électeurs en ce moment, l'augmentation des factures de services publics est devenue un problème brûlant. Le succès des démocrates du New Jersey, de Virginie et de Géorgie lors des élections de cette semaine peut être considéré comme un référendum sur l'état de la politique et des infrastructures énergétiques aux États-Unis en tant que réseaux électriques […]",
+    "title_fr": "La flambée des tarifs d'électricité a alimenté les victoires démocratiques — maintenant vient la partie difficile"
   },
   {
     "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers",
@@ -490,8 +555,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T18:28:31.287208",
-    "description_fr": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
-    "title_fr": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers"
+    "description_fr": "Une lettre récente d'OpenAI révèle plus de détails sur la façon dont l'entreprise espère que le gouvernement fédéral peut soutenir les plans ambitieux de l'entreprise pour la construction de centres de données.",
+    "title_fr": "OpenAI a demandé à l'administration Trump d'étendre le crédit d'impôt Chips Act aux centres de données"
   },
   {
     "title": "The Nikon Tour Highlights Big Changes, and I’m Here For It",
@@ -503,8 +568,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T18:28:47.403916",
-    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.[Read More]",
-    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
+    "description_fr": "Ce n'est un secret pour personne que les choses changent dans l'espace de la caméra et de l'imagerie. Au fur et à mesure que la technologie progresse et que l'ancienne garde passe le flambeau à la nouvelle, nous avons vu l'appareil photo numérique évoluer d'un instrument de travail accessible uniquement aux professionnels de l'industrie à un outil créatif auquel même ceux qui ont des moyens modestes peuvent accéder.[En savoir plus]",
+    "title_fr": "La visite guidée Nikon met en évidence de grands changements, et je suis là pour ça"
   },
   {
     "title": "Three More Elements of Fine Art You Can Use to Improve Your Photography",
@@ -516,8 +581,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T18:28:47.404689",
-    "description_fr": "Previously, I wrote about five elements of art and how they can impact our photographs. However, there are three more elements that work in conjunction with points, lines, shape, and form that can elevate your photography further.[Read More]",
-    "title_fr": "Three More Elements of Fine Art You Can Use to Improve Your Photography"
+    "description_fr": "Auparavant, j'ai écrit sur cinq éléments de l'art et sur la façon dont ils peuvent avoir un impact sur nos photographies. Cependant, il y a trois autres éléments qui fonctionnent en conjonction avec des points, des lignes, des formes et des formes qui peuvent rehausser votre photographie.[En savoir plus]",
+    "title_fr": "Trois autres éléments des beaux-arts que vous pouvez utiliser pour améliorer votre photographie"
   },
   {
     "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
@@ -529,8 +594,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T18:29:03.956049",
-    "description_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "title_fr": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
+    "description_fr": "Post-entraînement Isaac GR00T N1.5 pour bras LeRobot SO-101",
+    "title_fr": "Post-entraînement Isaac GR00T N1.5 pour bras LeRobot SO-101"
   },
   {
     "title": "The Nikon Tour Highlights Big Changes, and I’m Here For It",
@@ -542,8 +607,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-08T18:29:13.640370",
-    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.",
-    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
+    "description_fr": "Ce n'est un secret pour personne que les choses changent dans l'espace de la caméra et de l'imagerie. Au fur et à mesure que la technologie progresse et que l'ancienne garde passe le flambeau à la nouvelle, nous avons vu l'appareil photo numérique évoluer d'un instrument de travail accessible uniquement aux professionnels de l'industrie à un outil créatif auquel même ceux qui ont des moyens modestes peuvent accéder.[En savoir plus]",
+    "title_fr": "La visite guidée Nikon met en évidence de grands changements, et je suis là pour ça"
   },
   {
     "title": "Introducing gpt-oss-safeguard",
@@ -790,7 +855,7 @@
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.917416",
     "description_fr": "Canon a dévoilé l'EOS R6 Mark III ce matin, et il y a une certaine confusion quant à savoir si l'une des nouvelles fonctionnalités de la R6 III, la prise de vue pré-continue, est réellement nouvelle. C'est le cas, et voici pourquoi c'est important.[En savoir plus]",
-    "title_fr": "Canon R6 Mark II vs R6 Mark III : la différence entre le mode rafale RAW et la prise de vue pré-continue"
+    "title_fr": "Canon R6 Mark II vs R6 Mark III: The Difference Between RAW Burst Mode and Pre-Continuous Shooting"
   },
   {
     "title": "Fujifilm Issues Official Apology for Making Photography ‘Awesome’",
@@ -802,8 +867,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.918154",
-    "description_fr": "Fujifilm India a publié des « excuses » publiques sur son compte Facebook ce matin, se disant désolé de « rendre la photographie aussi géniale. \"[En savoir plus]",
-    "title_fr": "Fujifilm présente ses excuses officielles pour avoir rendu la photographie « géniale »"
+    "description_fr": "Fujifilm India published a public \"apology\" on its Facebook account this morning, saying it is sorry for \"making photography this awesome.\"[Read More]",
+    "title_fr": "Fujifilm Issues Official Apology for Making Photography ‘Awesome’"
   },
   {
     "title": "Matt Draper Held His Breath to Capture These Exceptional Underwater Photos",
@@ -815,8 +880,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.918832",
-    "description_fr": "La dernière exposition personnelle du célèbre photographe et designer industriel Matt Draper, Within One Breath, ouvre aujourd'hui à la Leica Gallery New York. Les photos présentées dans le spectacle ont toutes été capturées d'un seul souffle lors d'une plongée en apnée avec des télémètres Leica et en utilisant uniquement la lumière naturelle, garantissant que le magnifique environnement sous-marin était aussi peu perturbé que possible.[En savoir plus]",
-    "title_fr": "Matt Draper a retenu son souffle pour capturer ces photos sous-marines exceptionnelles"
+    "description_fr": "Acclaimed photographer and industrial designer Matt Draper's latest solo exhibition, Within One Breath, opens today at the Leica Gallery New York. The photos featured in the show were all captured on a single breath while freediving with Leica rangefinders and using only natural light, ensuring that the beautiful underwater environment was disturbed as little as possible.[Read More]",
+    "title_fr": "Matt Draper Held His Breath to Capture These Exceptional Underwater Photos"
   },
   {
     "title": "Photographer Builds 3,200MP Camera Using CCD Scanner Sensor",
@@ -828,8 +893,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-07T01:45:38.919488",
-    "description_fr": "L'ingénieur et constructeur informatique allemand Yannick Richter, qui passe par Gigawipf en ligne, a construit un nouvel appareil photo moyen format imprimé en 3D de 3 200 mégapixels qui repose sur un scanner CCD linéaire. Comme le décrit Gigawipf, l'appareil photo, Project Gigapixel, est bien plus qu'un simple scanner dans une boîte.[En savoir plus]",
-    "title_fr": "Le photographe construit un appareil photo de 3 200 Mpx à l'aide d'un capteur à balayage CCD"
+    "description_fr": "German computer engineer and builder Yannick Richter, who goes by Gigawipf online, built a new 3,200-megapixel 3D-printed medium-format camera that relies on a linear CCD scanner. As Gigawipf describes it, the camera, Project Gigapixel, is much more than just a scanner in a box, though.[Read More]",
+    "title_fr": "Photographer Builds 3,200MP Camera Using CCD Scanner Sensor"
   },
   {
     "title": "The Canon R6 Mark III Makes the C50 Far Less Compelling for Most People",
@@ -6433,70 +6498,5 @@
     "collected_at": "2025-10-30T01:48:08.163453",
     "description_fr": "Researchers at Nvidia have developed anovel approachto train large language models (LLMs) in 4-bit quantized format while maintaining their stability and accuracy at the level of high-precision models. Their technique, NVFP4, makes it possible to train models that not only outperform other leading 4-bit formats but match the performance of the larger 8-bit FP8 format, all while using half the memo",
     "title_fr": "Nvidia researchers unlock 4-bit LLM training that matches 8-bit performance"
-  },
-  {
-    "title": "From slop to Sotheby’s? AI art enters a new phase",
-    "url": "https://www.technologyreview.com/2025/10/17/1125193/ai-art-artist-new-chapter/",
-    "description": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with…",
-    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/WEB_NFTbitcoinart.png?w=3000",
-    "published_date": "2025-10-30",
-    "source": "MIT Technology Review AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-30T01:48:09.459836",
-    "description_fr": "In this era of AI slop, the idea that generative AI tools like Midjourney and Runway could be used to make art can seem absurd: What possible artistic value is there to be found in the likes of Shrimp Jesus and Ballerina Cappuccina? But amid all the muck, there are people using AI tools with…",
-    "title_fr": "From slop to Sotheby’s? AI art enters a new phase"
-  },
-  {
-    "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-    "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-    "description": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.564137",
-    "description_fr": "Packages downloaded from NPM can fetch dependancies from untrusted sites.",
-    "title_fr": "NPM flooded with malicious packages downloaded more than 86,000 times"
-  },
-  {
-    "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
-    "url": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
-    "description": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.564973",
-    "description_fr": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-    "title_fr": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware"
-  },
-  {
-    "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-    "url": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
-    "description": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.565194",
-    "description_fr": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-    "title_fr": "Nation-state hackers deliver malware from “bulletproof” blockchains"
-  },
-  {
-    "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-    "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
-    "description": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
-    "published_date": "2025-10-30",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-30T01:48:10.565450",
-    "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-    "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
   }
 ]
