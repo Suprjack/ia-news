@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T06:30:19.280828",
-    "description_fr": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
-    "title_fr": "NPM flooded with malicious packages downloaded more than 86,000 times"
+    "description_fr": "Les packages téléchargés à partir de NPM peuvent récupérer des dépendances à partir de sites non approuvés.",
+    "title_fr": "NPM inondé de paquets malveillants téléchargés plus de 86 000 fois"
   },
   {
     "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T06:30:19.281580",
-    "description_fr": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-    "title_fr": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware"
+    "description_fr": "Selon la décision, vaincre le cryptage de bout en bout dans WhatsApp nuit à l'activité de Meta.",
+    "title_fr": "NSO interdit de manière permanente de cibler les utilisateurs de WhatsApp avec Pegasus spyware"
   },
   {
     "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
@@ -100,8 +100,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T06:30:19.281813",
-    "description_fr": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-    "title_fr": "Nation-state hackers deliver malware from “bulletproof” blockchains"
+    "description_fr": "Les charges utiles malveillantes stockées sur les blockchains Ethereum et BNB sont à l'abri des retraits.",
+    "title_fr": "Les pirates informatiques des États-nations livrent des logiciels malveillants à partir de chaînes de blocs « à l'épreuve des balles »"
   },
   {
     "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
@@ -113,8 +113,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T06:30:19.282023",
-    "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-    "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
+    "description_fr": "Malgré les difficultés de connexion, nous avons couvert les finances d'OpenAI, l'énergie nucléaire et Sam Altman.",
+    "title_fr": "Résumé d'Ars Live : La bulle de l'IA est-elle sur le point de éclater ? Ed Zitron pèse."
   },
   {
     "title": "Understanding prompt injections: a frontier security challenge",
@@ -816,7 +816,7 @@
     "category": "general",
     "collected_at": "2025-11-07T01:45:25.721711",
     "description_fr": "Présenté par ElasticAlors que les organisations se démènent pour mettre en œuvre des solutions d'IA agentiques, l'accès aux données propriétaires de tous les coins et recoins sera essentiel. D'ici là, la plupart des organisations ont entendu parler de l'IA agentique, qui sont des systèmes qui « pensent » en recueillant de manière autonome des outils, des données et d'autres sources d'information pour renvoyer une réponse. Mais voici le problème : la fiabilité et la pertinence dépendent de la fourniture de c",
-    "title_fr": "L'IA agentique est tout au sujet du contexte — l'ingénierie, c'est-à-dire"
+    "title_fr": "Agentic AI is all about the context — engineering, that is"
   },
   {
     "title": "Building a high performance data and AI organization (2nd edition)",
@@ -828,8 +828,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:27.102692",
-    "description_fr": "Quatre ans, c'est toute une vie quand il s'agit d'intelligence artificielle. Depuis la publication de la première édition de cette étude en 2021, les capacités de l'IA ont progressé rapidement, et les progrès n'ont pas ralenti depuis la percée de l'IA générative. Par exemple, la multimodalité - la capacité de traiter l'information non seulement sous forme de texte mais aussi sous forme audio,…",
-    "title_fr": "Building a high performance data and AI organization (2e édition)"
+    "description_fr": "Four years is a lifetime when it comes to artificial intelligence. Since the first edition of this study was published in 2021, AI’s capabilities have been advancing at speed, and the advances have not slowed since generative AI’s breakthrough. For example, multimodality— the ability to process information not only as text but also as audio,…",
+    "title_fr": "Building a high performance data and AI organization (2nd edition)"
   },
   {
     "title": "DeepSeek may have found a new way to improve AI’s ability to remember",
