@@ -1,5 +1,44 @@
 [
   {
+    "title": "Elon Musk uses Grok to imagine the possibility of love",
+    "url": "https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/",
+    "description": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
+    "image_url": "",
+    "published_date": "2025-11-10",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-10T01:50:40.860703",
+    "description_fr": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
+    "title_fr": "Elon Musk uses Grok to imagine the possibility of love"
+  },
+  {
+    "title": "6 proven lessons from the AI projects that broke before they scaled",
+    "url": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled",
+    "description": "Companies hate to admit it, but the road toproduction-level AIdeployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects that never deliver on their goals. In certain domains, there’s little tolerance for iteration, especially in something like life sciences, when the AI application is facilitating new treatments to markets or diagnosing diseases. Even slightly inaccu",
+    "image_url": "",
+    "published_date": "2025-11-10",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-10T01:50:41.555744",
+    "description_fr": "Companies hate to admit it, but the road toproduction-level AIdeployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects that never deliver on their goals. In certain domains, there’s little tolerance for iteration, especially in something like life sciences, when the AI application is facilitating new treatments to markets or diagnosing diseases. Even slightly inaccu",
+    "title_fr": "6 proven lessons from the AI projects that broke before they scaled"
+  },
+  {
+    "title": "My Visit to Dachau: Through the Lens and the Gates",
+    "url": "https://petapixel.com/2025/11/09/my-visit-to-dachau-through-the-lens-and-the-gates/",
+    "description": "Nazi concentration camps have long been documented in all forms of media, but stepping through the gates of one on foot makes for a very different experience. Dachau was where it all began, setting off an industrialized machine of death and depravity that would later consume all of Europe during World War II.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/ted-dachau-story-featured.jpg",
+    "published_date": "2025-11-10",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-10T01:50:56.150589",
+    "description_fr": "Nazi concentration camps have long been documented in all forms of media, but stepping through the gates of one on foot makes for a very different experience. Dachau was where it all began, setting off an industrialized machine of death and depravity that would later consume all of Europe during World War II.[Read More]",
+    "title_fr": "My Visit to Dachau: Through the Lens and the Gates"
+  },
+  {
     "title": "Is Wall Street losing faith in AI?",
     "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
     "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
@@ -126,8 +165,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-09T18:27:44.241269",
-    "description_fr": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here’s how to make the most of it.",
-    "title_fr": "What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool"
+    "description_fr": "Adobe Firefly est un terrain de jeu IA trompeusement puissant pour générer des images, des vidéos et plus encore. Voici comment en tirer le meilleur parti.",
+    "title_fr": "Qu'est-ce qu'Adobe Firefly ? Voici comment utiliser ce puissant outil d'IA générative"
   },
   {
     "title": "This Photographer Successfully Shot 82-Year-Old Film",
@@ -139,8 +178,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-09T18:27:55.658195",
-    "description_fr": "Photographer Nick LoPresti loves film. As his YouTube channel shows, his adoration for the medium often manifests in \"silly\" videos centered on wild, ambitious projects. LoPresti's latest video demonstrates the intersection of his passion for analog photography and his willingness to embrace any challenge. LoPresti, perhaps against his better judgment, shot on 82-year-old film.[Read More]",
-    "title_fr": "This Photographer Successfully Shot 82-Year-Old Film"
+    "description_fr": "Le photographe Nick LoPresti adore le film. Comme le montre sa chaîne YouTube, son adoration pour le médium se manifeste souvent dans des vidéos « idiotes » centrées sur des projets sauvages et ambitieux. La dernière vidéo de LoPresti démontre l'intersection de sa passion pour la photographie analogique et de sa volonté de relever tous les défis. LoPresti, peut-être contre son meilleur jugement, a tourné sur un film de 82 ans.[En savoir plus]",
+    "title_fr": "Ce photographe a tourné avec succès un film de 82 ans"
   },
   {
     "title": "Understanding prompt injections: a frontier security challenge",
@@ -828,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:25.716988",
-    "description_fr": "Le moment où Mack McConnell savait que tout avait changé en matière de recherche est arrivé l'été dernier aux Jeux olympiques de Paris. Ses parents, de manière indépendante et sans incitation, s'étaient tous deux tournés vers ChatGPT pour planifier les activités de leur journée dans la capitale française. L'IA a recommandé des agences de voyage, des restaurants et des attractions spécifiques — des entreprises qui avaient remporté un nouveau type de loterie de visibilité.« C'était presque comme cette intuition",
-    "title_fr": "Les pionniers de Geostar GEO alors que le référencement traditionnel fait face à une baisse de 25% des chatbots IA, selon Gartner"
+    "description_fr": "The moment Mack McConnell knew everything about search had changed came last summer at the Paris Olympics. His parents, independently and without prompting, had both turned toChatGPTto plan their day's activities in the French capital. The AI recommended specific tour companies, restaurants, and attractions — businesses that had won a new kind of visibility lottery.\"It was almost like this intuiti",
+    "title_fr": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says"
   },
   {
     "title": "Agentic AI is all about the context — engineering, that is",
@@ -841,7 +880,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:25.721711",
-    "description_fr": "Présenté par ElasticAlors que les organisations se démènent pour mettre en œuvre des solutions d'IA agentiques, l'accès aux données propriétaires de tous les coins et recoins sera essentiel. D'ici là, la plupart des organisations ont entendu parler de l'IA agentique, qui sont des systèmes qui « pensent » en recueillant de manière autonome des outils, des données et d'autres sources d'information pour renvoyer une réponse. Mais voici le problème : la fiabilité et la pertinence dépendent de la fourniture de c",
+    "description_fr": "Presented by ElasticAs organizations scramble to enact agentic AI solutions, accessing proprietary data from all the nooks and crannies will be keyBy now, most organizations have heard of agentic AI, which are systems that “think” by autonomously gathering tools, data and other sources of information to return an answer. But here’s the rub: reliability and relevance depend on delivering accurate c",
     "title_fr": "Agentic AI is all about the context — engineering, that is"
   },
   {
@@ -6459,44 +6498,5 @@
     "collected_at": "2025-10-31T18:32:04.188550",
     "description_fr": "The same week that Nvidia became the world's first $5 trillion company, significantly propelled by its AI-related investments and products, Meta's stock had its worst day in three years because traders fear that Meta has overspent on AI.[Read More]",
     "title_fr": "Meta Stock Had Its Worst Day In Three Years Due to AI Overspending Worries"
-  },
-  {
-    "title": "Webb Embraces Spooky Season With Red Spider Nebula Portrait",
-    "url": "https://petapixel.com/2025/10/31/webb-embraces-spooky-season-with-red-spider-nebula-portrait/",
-    "description": "The NASA/ESA/CSA James Webb Space Telescope got into the spooky season spirit this week by capturing a \"cosmic creepy-crawly called NGC 6537,\" more commonly referred to as the Red Spider Nebula.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/red-spider-nebula-1600x840-1.jpg",
-    "published_date": "2025-10-31",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-31T18:32:04.189275",
-    "description_fr": "The NASA/ESA/CSA James Webb Space Telescope got into the spooky season spirit this week by capturing a \"cosmic creepy-crawly called NGC 6537,\" more commonly referred to as the Red Spider Nebula.[Read More]",
-    "title_fr": "Webb Embraces Spooky Season With Red Spider Nebula Portrait"
-  },
-  {
-    "title": "Hockey Puck Shatters Photographer’s Lens During NHL Game",
-    "url": "https://petapixel.com/2025/10/31/hockey-puck-shatters-photographers-lens-during-nhl-game/",
-    "description": "A photographer's lens \"shattered into about 1,000 pieces\" during an NHL game between the Nashville Predators and Tampa Bay Lightning this week.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Ice-Hockey.jpg",
-    "published_date": "2025-10-31",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-31T18:32:04.189857",
-    "description_fr": "A photographer's lens \"shattered into about 1,000 pieces\" during an NHL game between the Nashville Predators and Tampa Bay Lightning this week.[Read More]",
-    "title_fr": "Hockey Puck Shatters Photographer’s Lens During NHL Game"
-  },
-  {
-    "title": "Photo Competition That Gets Up Close and Personal With Wildlife Announces Shortlist",
-    "url": "https://petapixel.com/2025/10/31/close-up-photographer-of-the-year-2025-shortlist/",
-    "description": "The shortlist for Close-up Photographer of the Year 7 (2025) has been revealed after the 22 judges assessed 12,557 photographs across 11 categories during 20 hours of Zoom calls.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/CUPOTY-7.jpg",
-    "published_date": "2025-10-31",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-31T18:32:04.190459",
-    "description_fr": "The shortlist for Close-up Photographer of the Year 7 (2025) has been revealed after the 22 judges assessed 12,557 photographs across 11 categories during 20 hours of Zoom calls.[Read More]",
-    "title_fr": "Photo Competition That Gets Up Close and Personal With Wildlife Announces Shortlist"
   }
 ]
