@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T01:50:40.860703",
-    "description_fr": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
-    "title_fr": "Elon Musk uses Grok to imagine the possibility of love"
+    "description_fr": "Après que les actionnaires de Tesla aient approuvé un nouveau plan de rémunération qui pourrait valoir 1 000 milliards de $ , le PDG Elon Musk semble célébrer avec un week-end normal sur sa plateforme de médias sociaux X.",
+    "title_fr": "Elon Musk utilise Grok pour imaginer la possibilité de l'amour"
   },
   {
     "title": "6 proven lessons from the AI projects that broke before they scaled",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T01:50:41.555744",
-    "description_fr": "Companies hate to admit it, but the road toproduction-level AIdeployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects that never deliver on their goals. In certain domains, there’s little tolerance for iteration, especially in something like life sciences, when the AI application is facilitating new treatments to markets or diagnosing diseases. Even slightly inaccu",
-    "title_fr": "6 proven lessons from the AI projects that broke before they scaled"
+    "description_fr": "Les entreprises détestent l'admettre, mais le déploiement de l'IA au niveau de la production routière est jonché de preuves de concepts (PoC) qui ne vont nulle part, ou de projets ratés qui n'atteignent jamais leurs objectifs. Dans certains domaines, il y a peu de tolérance à l'itération, en particulier dans les sciences de la vie, lorsque l'application d'IA facilite la mise sur le marché de nouveaux traitements ou le diagnostic de maladies. Même légèrement inexact",
+    "title_fr": "6 leçons éprouvées des projets d'IA qui ont éclaté avant d'être mis à l'échelle"
   },
   {
     "title": "My Visit to Dachau: Through the Lens and the Gates",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T01:50:56.150589",
-    "description_fr": "Nazi concentration camps have long been documented in all forms of media, but stepping through the gates of one on foot makes for a very different experience. Dachau was where it all began, setting off an industrialized machine of death and depravity that would later consume all of Europe during World War II.[Read More]",
-    "title_fr": "My Visit to Dachau: Through the Lens and the Gates"
+    "description_fr": "Les camps de concentration nazis ont longtemps été documentés dans toutes les formes de médias, mais franchir les portes d'un camp à pied est une expérience très différente. C'est à Dachau que tout a commencé, déclenchant une machine industrialisée de mort et de dépravation qui consumera plus tard toute l'Europe pendant la Seconde Guerre mondiale.[En savoir plus]",
+    "title_fr": "Ma visite à Dachau : à travers l'objectif et les portes"
   },
   {
     "title": "Is Wall Street losing faith in AI?",
@@ -841,8 +841,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:25.647692",
-    "description_fr": "À l'heure actuelle, les entreprises comprennent que la génération augmentée de récupération (RAG) permet aux applications et aux agents de trouver les informations les meilleures et les plus ancrées pour les requêtes. Cependant, les configurations de CHIFFON typiques pourraient être un défi d'ingénierie et présenter également des traits indésirables. Pour aider à résoudre ce problème, Googlere a publié l'outil de recherche de fichiers sur l'API Gemini, un système de CHIFFON entièrement géré « qui extrait le pipeline de récupération",
-    "title_fr": "Pourquoi la recherche de fichiers de Google pourrait remplacer les piles de CHIFFONS de bricolage dans l'entreprise"
+    "description_fr": "By now, enterprises understand that retrieval augmented generation (RAG) allows applications and agents to find the best, most grounded information for queries. However, typical RAG setups could be an engineering challenge andalso exhibit undesirable traits.To help solve this,Googlereleased the File Search Tool on the Gemini API, a fully managed RAG system “thatabstracts awaythe retrieval pipeline",
+    "title_fr": "Why Google’s File Search could displace DIY RAG stacks in the enterprise"
   },
   {
     "title": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge",
@@ -854,8 +854,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-07T01:45:25.712159",
-    "description_fr": "Lorsque les chercheurs d'Anthropic ont injecté le concept de « trahison » dans les réseaux neuronaux de leur modèle Claude AI et ont demandé s'il avait remarqué quelque chose d'inhabituel, le système s'est arrêté avant de répondre : « Je vis quelque chose qui ressemble à une pensée intrusive de « trahison ». « L'échange, détaillé dans de nouvelles recherches publiées mercredi, marque ce que les scientifiques disent être la première preuve rigoureuse que les grandes",
-    "title_fr": "Des scientifiques anthropologues ont piraté le cerveau de Claude — et il l'a remarqué. Voici pourquoi c'est énorme"
+    "description_fr": "When researchers atAnthropicinjected the concept of \"betrayal\" into their Claude AI model's neural networks and asked if it noticed anything unusual, the system paused before responding: \"I'm experiencing something that feels like an intrusive thought about 'betrayal'.\"The exchange, detailed innew researchpublished Wednesday, marks what scientists say is the first rigorous evidence that large lang",
+    "title_fr": "Anthropic scientists hacked Claude’s brain — and it noticed. Here’s why that’s huge"
   },
   {
     "title": "Geostar pioneers GEO as traditional SEO faces 25% decline from AI chatbots, Gartner says",
