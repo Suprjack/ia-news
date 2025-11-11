@@ -1,5 +1,226 @@
 [
   {
+    "title": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees",
+    "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/",
+    "description": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.075539",
+    "description_fr": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
+    "title_fr": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees"
+  },
+  {
+    "title": "The circular money problem at the heart of AI’s biggest deals",
+    "url": "https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/",
+    "description": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is raising questions about whether AI’s biggest deals are creating real economic value or just moving money in circles.  […]",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.085065",
+    "description_fr": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is raising questions about whether AI’s biggest deals are creating real economic value or just moving money in circles.  […]",
+    "title_fr": "The circular money problem at the heart of AI’s biggest deals"
+  },
+  {
+    "title": "A better way of thinking about the AI bubble",
+    "url": "https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/",
+    "description": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.085405",
+    "description_fr": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
+    "title_fr": "A better way of thinking about the AI bubble"
+  },
+  {
+    "title": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal",
+    "url": "https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/",
+    "description": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.085680",
+    "description_fr": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
+    "title_fr": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal"
+  },
+  {
+    "title": "Google brings Gemini to the Google TV Streamer",
+    "url": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/",
+    "description": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.086203",
+    "description_fr": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
+    "title_fr": "Google brings Gemini to the Google TV Streamer"
+  },
+  {
+    "title": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively",
+    "url": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can",
+    "description": "Meta has just released a newmultilingual automatic speech recognition (ASR) systemsupporting 1,600+ languages — dwarfing OpenAI’s open source Whisper model, which supports just 99.Is architecture also allows developers to extend that support to thousands more. Through a feature called zero-shot in-context learning, users can provide a few paired examples of audio and text in a new language at infe",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.960229",
+    "description_fr": "Meta has just released a newmultilingual automatic speech recognition (ASR) systemsupporting 1,600+ languages — dwarfing OpenAI’s open source Whisper model, which supports just 99.Is architecture also allows developers to extend that support to thousands more. Through a feature called zero-shot in-context learning, users can provide a few paired examples of audio and text in a new language at infe",
+    "title_fr": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively"
+  },
+  {
+    "title": "Chronosphere takes on Datadog with AI that explains itself, not just outages",
+    "url": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages",
+    "description": "Chronosphere, a New York-based observability startupvalued at $1.6 billion, announced Monday it will launchAI-Guided Troubleshootingcapabilities designed to help engineers diagnose and fix production software failures — a problem that has intensified as artificial intelligence tools accelerate code creation while making systems harder to debug.The new features combine AI-driven analysis with what ",
+    "image_url": "",
+    "published_date": "2025-11-11",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:16.966544",
+    "description_fr": "Chronosphere, a New York-based observability startupvalued at $1.6 billion, announced Monday it will launchAI-Guided Troubleshootingcapabilities designed to help engineers diagnose and fix production software failures — a problem that has intensified as artificial intelligence tools accelerate code creation while making systems harder to debug.The new features combine AI-driven analysis with what ",
+    "title_fr": "Chronosphere takes on Datadog with AI that explains itself, not just outages"
+  },
+  {
+    "title": "Researchers isolate memorization from reasoning in AI neural networks",
+    "url": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
+    "description": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
+    "published_date": "2025-11-11",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-11T01:47:19.230465",
+    "description_fr": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
+    "title_fr": "Researchers isolate memorization from reasoning in AI neural networks"
+  },
+  {
+    "title": "Light Lens Lab Recreated Another Legendary Leica Lens for a Fraction of the Price",
+    "url": "https://petapixel.com/2025/11/10/light-lens-lab-recreated-another-legendary-leica-lens-for-a-fraction-of-the-price/",
+    "description": "Light Lens Lab's latest lens, the 35mm f/1.4 Aspherical \"11873\" for M-Mount, is now available for preorder. The lens is a modern recreation of the legendary Leica Summilux 35mm f/1.4 double-sided aspherical lens from the late 1980s, which can sell for nearly $18,000 in good condition. Light Lens Lab's new prime lenses start at $1,399.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/light-lens-lab-35mm-3.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.317314",
+    "description_fr": "Light Lens Lab's latest lens, the 35mm f/1.4 Aspherical \"11873\" for M-Mount, is now available for preorder. The lens is a modern recreation of the legendary Leica Summilux 35mm f/1.4 double-sided aspherical lens from the late 1980s, which can sell for nearly $18,000 in good condition. Light Lens Lab's new prime lenses start at $1,399.[Read More]",
+    "title_fr": "Light Lens Lab Recreated Another Legendary Leica Lens for a Fraction of the Price"
+  },
+  {
+    "title": "Rode Streamlines its A/V Console into Smaller, Cheaper RodeCaster Video S",
+    "url": "https://petapixel.com/2025/11/10/rode-streamlines-its-a-v-console-into-smaller-cheaper-rodecaster-video-s/",
+    "description": "Rode has announced the RodeCaster Video S, a streamlined and more affordable option in its all-in-one video and audio production consoles.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Rode-Streamlines-its-AV-Console-into-Smaller-Cheaper-RodeCaster-Video-S.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.318064",
+    "description_fr": "Rode has announced the RodeCaster Video S, a streamlined and more affordable option in its all-in-one video and audio production consoles.[Read More]",
+    "title_fr": "Rode Streamlines its A/V Console into Smaller, Cheaper RodeCaster Video S"
+  },
+  {
+    "title": "We Are Post ISO Now",
+    "url": "https://petapixel.com/2025/11/10/we-are-post-iso-now/",
+    "description": "A camera's native ISO range used to be a huge deal and was an integral part of how companies advertised their latest and greatest cameras. However, these days, companies sometimes don't mention ISO at all, relegating it to side, separate detailed spec sheets.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/post-iso-featured.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.318720",
+    "description_fr": "A camera's native ISO range used to be a huge deal and was an integral part of how companies advertised their latest and greatest cameras. However, these days, companies sometimes don't mention ISO at all, relegating it to side, separate detailed spec sheets.[Read More]",
+    "title_fr": "We Are Post ISO Now"
+  },
+  {
+    "title": "DJI Will Be Banned in the US in 43 Days as the Government Does Nothing",
+    "url": "https://petapixel.com/2025/11/10/dji-will-be-banned-in-the-us-in-43-days-as-the-government-does-nothing/",
+    "description": "DJI is facing an outright ban in the United States if an audit mandated by the National Defense Authorization Act doesn't take place. The government has not started the audit despite the fact that it has been almost a year, and even if it does so now, that doesn't mean DJI is in the clear.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/05/Mavic-4-Pro_Lifestyle-KV_Polar-Exploration.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.319377",
+    "description_fr": "DJI is facing an outright ban in the United States if an audit mandated by the National Defense Authorization Act doesn't take place. The government has not started the audit despite the fact that it has been almost a year, and even if it does so now, that doesn't mean DJI is in the clear.[Read More]",
+    "title_fr": "DJI Will Be Banned in the US in 43 Days as the Government Does Nothing"
+  },
+  {
+    "title": "This Camera System Can Focus on Everything, Everywhere, All At Once",
+    "url": "https://petapixel.com/2025/11/10/this-camera-system-can-focus-on-everything-everywhere-all-at-once/",
+    "description": "A trio of researchers at Carnegie Mellon University in Pittsburgh, Pennsylvania, developed a camera with a specialized lens that can focus individual pixels to different depths, ensuring that everything in a photo is perfectly sharp and in focus.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/spatially-varying-autofocus-featured.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.320067",
+    "description_fr": "A trio of researchers at Carnegie Mellon University in Pittsburgh, Pennsylvania, developed a camera with a specialized lens that can focus individual pixels to different depths, ensuring that everything in a photo is perfectly sharp and in focus.[Read More]",
+    "title_fr": "This Camera System Can Focus on Everything, Everywhere, All At Once"
+  },
+  {
+    "title": "Leica Now Offers up to 48-Month Financing to Buy a New Camera",
+    "url": "https://petapixel.com/2025/11/10/leica-now-offers-up-to-48-month-financing-to-buy-a-new-camera/",
+    "description": "Leica Camera now offers fixed-rate financing through Bread Pay for those who purchase a camera directly through the company, either in the many Leica retail stores in the United States or through Leica Camera USA's website.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Leica-Now-Offers-up-to-48-Month-Financing-to-Buy-a-New-Camera.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.320714",
+    "description_fr": "Leica Camera now offers fixed-rate financing through Bread Pay for those who purchase a camera directly through the company, either in the many Leica retail stores in the United States or through Leica Camera USA's website.[Read More]",
+    "title_fr": "Leica Now Offers up to 48-Month Financing to Buy a New Camera"
+  },
+  {
+    "title": "Award-Winning Photographers Describe Emotional Toll of Documenting ICE Arrests",
+    "url": "https://petapixel.com/2025/11/10/award-winning-photographers-describe-emotional-toll-of-documenting-ice-arrests/",
+    "description": "Award-winning photographers documenting immigration arrests in New York City have witnessed far-flung strife and conflict, but nothing quite like this.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/photographers-ice-arrests-featured2.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.322793",
+    "description_fr": "Award-winning photographers documenting immigration arrests in New York City have witnessed far-flung strife and conflict, but nothing quite like this.[Read More]",
+    "title_fr": "Award-Winning Photographers Describe Emotional Toll of Documenting ICE Arrests"
+  },
+  {
+    "title": "Bird Photographer of the Year Won’t Elaborate on Why It Disqualified Winner",
+    "url": "https://petapixel.com/2025/11/10/bird-photographer-of-the-year-2025-wont-elaborate-on-why-it-disqualified-winner/",
+    "description": "Bird Photographer of the Year 2025 has disqualified one of its Silver Award winners after the image \"did not meet the competition's authenticity requirements.\"[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/BPOTY-Winner-Disqualified.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.323455",
+    "description_fr": "Bird Photographer of the Year 2025 has disqualified one of its Silver Award winners after the image \"did not meet the competition's authenticity requirements.\"[Read More]",
+    "title_fr": "Bird Photographer of the Year Won’t Elaborate on Why It Disqualified Winner"
+  },
+  {
+    "title": "Mint Addresses Major Rollei 35AF Complaint: You Can Now Use Filters",
+    "url": "https://petapixel.com/2025/11/10/mint-addresses-major-rollei-35af-complaint-you-can-now-use-filters/",
+    "description": "Mint has announced a new Rollei 35AF filter kit that successfully addresses one of the last remaining complaints from the original run of the brand-new camera from last year.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Mint-Addresses-Major-Rollei-35AF-Complaint-You-Can-Now-Use-Filters.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T01:47:31.324127",
+    "description_fr": "Mint has announced a new Rollei 35AF filter kit that successfully addresses one of the last remaining complaints from the original run of the brand-new camera from last year.[Read More]",
+    "title_fr": "Mint Addresses Major Rollei 35AF Complaint: You Can Now Use Filters"
+  },
+  {
     "title": "Elon Musk uses Grok to imagine the possibility of love",
     "url": "https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/",
     "description": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
@@ -139,8 +360,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:23.695048",
-    "description_fr": "Today, I’m talking with a very special guest: Sir Tim Berners-Lee, the inventor of the World Wide Web. Tim is a legend in the history of the internet. He created HTML, the standard language for creating and structuring web pages, and the HTTP protocol that allows those pages to communicate using browsers and servers. It […]",
-    "title_fr": "Sir Tim Berners-Lee doesn’t think AI will destroy the web"
+    "description_fr": "Aujourd'hui, je parle avec un invité très spécial : Sir Tim Berners-Lee, l'inventeur du World Wide Web. Tim est une légende dans l'histoire d'Internet. Il a créé HTML, le langage standard pour la création et la structuration de pages Web, et le protocole HTTP qui permet à ces pages de communiquer à l'aide de navigateurs et de serveurs. Il […]",
+    "title_fr": "Sir Tim Berners-Lee ne pense pas que l'IA détruira le Web"
   },
   {
     "title": "Wikipedia urges AI companies to use its paid API, and stop scraping",
@@ -152,8 +373,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:25.272626",
-    "description_fr": "Wikipedia, the online nonprofit encyclopedia, is urging AI companies to stop scraping its pages and to use its paid API instead.",
-    "title_fr": "Wikipedia urges AI companies to use its paid API, and stop scraping"
+    "description_fr": "Wikipedia, l'encyclopédie en ligne à but non lucratif, exhorte les entreprises d'IA à cesser de gratter ses pages et à utiliser son API payante à la place.",
+    "title_fr": "Wikipédia exhorte les entreprises d'IA à utiliser son API payante et à cesser de gratter"
   },
   {
     "title": "Google Maps releases new AI tools that let you create interactive projects",
@@ -165,8 +386,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:25.273004",
-    "description_fr": "Google is debuting an agent that will generate code for you to build interactive Maps projects.",
-    "title_fr": "Google Maps releases new AI tools that let you create interactive projects"
+    "description_fr": "Google lance un agent qui générera du code pour vous permettre de créer des projets interactifs Maps.",
+    "title_fr": "Google Maps publie de nouveaux outils d'IA qui vous permettent de créer des projets interactifs"
   },
   {
     "title": "Scribe hits $1.3B valuation as it moves to show where AI will actually pay off",
@@ -178,8 +399,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:25.273337",
-    "description_fr": "Scribe Optimize is the startup's next major offering to help organizations identify where AI will be most useful.",
-    "title_fr": "Scribe hits $1.3B valuation as it moves to show where AI will actually pay off"
+    "description_fr": "Scribe Optimize est la prochaine offre majeure de la startup pour aider les organisations à identifier les domaines où l'IA sera la plus utile.",
+    "title_fr": "Scribe atteint une valorisation de 1,3 milliard de $ alors qu'il se déplace pour montrer où l'IA sera réellement rentable"
   },
   {
     "title": "6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind",
@@ -191,8 +412,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:25.273673",
-    "description_fr": "Amanda Kahlow has quietly been back in sales and marketing tech for about a year with agentic startup 1mind.",
-    "title_fr": "6sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1mind"
+    "description_fr": "Amanda Kahlow est discrètement de retour dans la technologie des ventes et du marketing depuis environ un an avec la startup agentic 1mind.",
+    "title_fr": "La fondatrice de 6sense, Amanda Kahlow, lève 30 millions de $ pour la nouvelle startup de vente d'IA de remplacement humain 1mind"
   },
   {
     "title": "How context engineering can save your company from AI vibe code overload: lessons from Qodo and Monday.com",
@@ -204,8 +425,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:26.940339",
-    "description_fr": "As cloud project tracking softwaremonday.com’s engineering organization scaled past 500 developers, the team began to feel the strain of its own success. Product lines were multiplying, microservices proliferating, and code was flowing faster than human reviewers could keep up. The company needed a way to review thousands of pull requests each month without drowning developers in tedium — or letti",
-    "title_fr": "How context engineering can save your company from AI vibe code overload: lessons from Qodo and Monday.com"
+    "description_fr": "Alors que l'organisation d'ingénierie de softwaremonday.com chargée du suivi des projets cloud dépassait les 500 développeurs, l'équipe a commencé à ressentir la pression de son propre succès. Les gammes de produits se multipliaient, les microservices proliféraient et le code coulait plus vite que les examinateurs humains ne pouvaient le suivre. L'entreprise avait besoin d'un moyen d'examiner des milliers de demandes de tirage chaque mois sans noyer les développeurs dans l'ennui — ou les lettis",
+    "title_fr": "Comment l'ingénierie contextuelle peut sauver votre entreprise de la surcharge de code AI Vibe : leçons de Qodo et Monday.com"
   },
   {
     "title": "Baseten takes on hyperscalers with new AI training platform that lets you own your model weights",
@@ -217,8 +438,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:26.948725",
-    "description_fr": "Baseten, the AI infrastructure company recently valued at $2.15 billion, is making its most significant product pivot yet: a full-scale push into model training that could reshape how enterprises wean themselves off dependence on OpenAI and other closed-source AI providers.The San Francisco-based company announced Thursday the general availability ofBaseten Training, an infrastructure platform des",
-    "title_fr": "Baseten takes on hyperscalers with new AI training platform that lets you own your model weights"
+    "description_fr": "Baseten, la société d'infrastructure d'IA récemment évaluée à 2,15 milliards de $ , fait son pivot de produit le plus important à ce jour : une poussée à grande échelle dans la formation de modèle qui pourrait remodeler la façon dont les entreprises se désengagent de la dépendance à OpenAI et à d'autres fournisseurs d'IA à source fermée. La société basée à San Francisco a annoncé jeudi la disponibilité générale deBaseten Training, une plate-forme d'infrastructure des",
+    "title_fr": "Baseten prend des hyperscalers avec une nouvelle plateforme de formation à l'IA qui vous permet de posséder vos poids de modèle"
   },
   {
     "title": "Celosphere 2025: Where enterprise AI moved from experiment to execution",
@@ -230,8 +451,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:26.952651",
-    "description_fr": "Presented by CelonisAfter a year of boardroom declarations about “AI transformation,” this was the week where enterprise leaders came together to talk about what actually works. Speaking from the stage atCelosphere in Munich, Celonis co-founder and co-CEO Alexander Rinke set the tone early in his keynote:“Only 11 % of companies are seeing measurable benefits from AI projects today,” he said. “That",
-    "title_fr": "Celosphere 2025: Where enterprise AI moved from experiment to execution"
+    "description_fr": "Présenté par CelonisAprès une année de déclarations en salle de conseil sur la « transformation de l'IA », c'était la semaine où les dirigeants d'entreprise se sont réunis pour parler de ce qui fonctionne réellement. S'exprimant depuis la scène de Celosphere à Munich, le cofondateur et co-PDG de Celonis, Alexander Rinke, a donné le ton au début de son discours :« Seulement 11 % des entreprises constatent aujourd'hui des avantages mesurables des projets d'IA », a-t-il déclaré. « Cela",
+    "title_fr": "Celosphere 2025 : Où l'IA d'entreprise est passée de l'expérimentation à l'exécution"
   },
   {
     "title": "Reimagining cybersecurity in the era of AI and quantum",
@@ -243,8 +464,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:28.574184",
-    "description_fr": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This…",
-    "title_fr": "Reimagining cybersecurity in the era of AI and quantum"
+    "description_fr": "L'IA et les technologies quantiques reconfigurent radicalement le fonctionnement de la cybersécurité, redéfinissant la vitesse et l'échelle avec lesquelles les défenseurs numériques et leurs adversaires peuvent fonctionner. La militarisation des outils d'IA pour les cyberattaques se révèle déjà un adversaire digne des défenses actuelles. De la reconnaissance aux rançongiciels, les cybercriminels peuvent automatiser les attaques plus rapidement que jamais avec l'IA. Cela…",
+    "title_fr": "Réinventer la cybersécurité à l'ère de l'IA et du quantum"
   },
   {
     "title": "If the US Has to Build Data Centers, Here’s Where They Should Go",
@@ -256,8 +477,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T18:32:31.498783",
-    "description_fr": "A new analysis tries to calculate the coming environmental footprint of AI in the US and finds that the ideal sites for data centers aren’t where they’re being built.",
-    "title_fr": "If the US Has to Build Data Centers, Here’s Where They Should Go"
+    "description_fr": "Une nouvelle analyse tente de calculer l'empreinte environnementale à venir de l'IA aux États-Unis et constate que les sites idéaux pour les centres de données ne sont pas là où ils sont construits.",
+    "title_fr": "Si les États-Unis doivent construire des centres de données, voici où ils devraient aller"
   },
   {
     "title": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit",
@@ -269,8 +490,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-10T18:32:34.303488",
-    "description_fr": "Amidst Gyeongju, South Korea’s ancient temples and modern skylines, Jensen Huang hit the stage at the APEC Summit with historic news: South Korea is leaping into the future with sovereign AI supported by more than a quarter-million NVIDIA GPUs. “It’s vital that we build the ecosystem, not just the AI infrastructure, of Korea,” he said.Read Article",
-    "title_fr": "Korea Joins AI Industrial Revolution: NVIDIA CEO Jensen Huang Unveils Historic Partnership at APEC Summit"
+    "description_fr": "Au milieu de Gyeongju, les temples anciens et les horizons modernes de la Corée du Sud, Jensen Huang est monté sur la scène du sommet de l'APEC avec des nouvelles historiques : la Corée du Sud bondit vers l'avenir avec une IA souveraine soutenue par plus d'un quart de million de GPU NVIDIA. « Il est essentiel que nous construisions l'écosystème, et pas seulement l'infrastructure d'IA, de la Corée », a-t-il déclaré.Lire l'article",
+    "title_fr": "La Corée rejoint la révolution industrielle de l'IA : Jensen Huang, PDG de NVIDIA, dévoile un partenariat historique au sommet de l'APEC"
   },
   {
     "title": "Cameras on Humpback Whales Show Sucker-Fish Hitchhiking on Them",
@@ -282,8 +503,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.590734",
-    "description_fr": "Scientists mounted cameras on the backs of humpback whales and accidentally captured rare footage of sucker fish riding on them.[Read More]",
-    "title_fr": "Cameras on Humpback Whales Show Sucker-Fish Hitchhiking on Them"
+    "description_fr": "Les scientifiques ont monté des caméras sur le dos des baleines à bosse et ont accidentellement capturé de rares images de poissons meuniers les chevauchant.[En savoir plus]",
+    "title_fr": "Les caméras sur les baleines à bosse montrent le poisson suceur faisant de l'auto-stop sur elles"
   },
   {
     "title": "‘Bugonia’ Nails the 35mm Photography Aspect Ratio",
@@ -295,8 +516,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.591430",
-    "description_fr": "It's very strange to watch a movie in 3:2 or 4:3 aspect ratios. As photographers, those are kind of our aspect ratios, while Hollywood's have traditionally been the ultra-wide 2.39:1. But rules are made to be broken.[Read More]",
-    "title_fr": "‘Bugonia’ Nails the 35mm Photography Aspect Ratio"
+    "description_fr": "C'est très étrange de regarder un film dans des proportions 3:2 ou 4:3. En tant que photographes, ce sont en quelque sorte nos rapports d'aspect, alors que ceux d'Hollywood ont traditionnellement été ultra-larges de 2,39:1. Mais les règles sont faites pour être enfreintes.[En savoir plus]",
+    "title_fr": "« Bugonia » cloue le rapport d'aspect de la photographie de 35 mm"
   },
   {
     "title": "After Big Summer Slump, Photo Industry Remains On Pace for Best Year Since 2019",
@@ -308,8 +529,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.592052",
-    "description_fr": "After a worse \"summer slump\" than usual, camera and lens shipments rebounded in September, offering hope that 2025 may prove to be an even better year for the photo industry than 2024 despite global economic challenges and the impact of tariffs.[Read More]",
-    "title_fr": "After Big Summer Slump, Photo Industry Remains On Pace for Best Year Since 2019"
+    "description_fr": "Après une « récession estivale » pire que d'habitude, les expéditions d'appareils photo et d'objectifs ont rebondi en septembre, laissant espérer que 2025 pourrait s'avérer être une année encore meilleure pour l'industrie de la photo que 2024 malgré les défis économiques mondiaux et l'impact des tarifs.[En savoir plus]",
+    "title_fr": "Après le grand ralentissement estival, l'industrie de la photo reste sur la bonne voie pour la meilleure année depuis 2019"
   },
   {
     "title": "David Bowie’s Album Cover Photo Sells for Record $496,000 at Auction",
@@ -321,8 +542,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.592800",
-    "description_fr": "The iconic photograph used for the cover of David Bowie’s record Aladdin Sane has become the most expensive album artwork ever sold at auction.[Read More]",
-    "title_fr": "David Bowie’s Album Cover Photo Sells for Record $496,000 at Auction"
+    "description_fr": "La photographie emblématique utilisée pour la couverture du disque de David Bowie, Aladdin Sane, est devenue l'illustration d'album la plus chère jamais vendue aux enchères.[En savoir plus]",
+    "title_fr": "La photo de couverture de l'album de David Bowie se vend pour un montant record de 496 000 $ aux enchères"
   },
   {
     "title": "Godox’s New Universal Flash Has a Swappable Hotshoe That Is Also a Wireless Trigger",
@@ -334,8 +555,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.593498",
-    "description_fr": "Godox announced a new compact camera flash and accompanying wireless flash trigger. The Godox iT32 iFlash and X5 TTL Wireless Flash Trigger comprise a new modular lighting system built for all major camera systems, supporting full TTL and HSS across the board. The flash itself has an interchangeable hot shoe, so photographers can mix and match camera brands in their kit without needing a new flash",
-    "title_fr": "Godox’s New Universal Flash Has a Swappable Hotshoe That Is Also a Wireless Trigger"
+    "description_fr": "Godox a annoncé un nouveau flash d'appareil photo compact et le déclencheur de flash sans fil qui l'accompagne. Le Godox iT32 iFlash et le déclencheur de flash sans fil X5 TTL comprennent un nouveau système d'éclairage modulaire conçu pour tous les principaux systèmes de caméra, prenant en charge le TTL et le HSS complets à tous les niveaux. Le flash lui-même a une chaussure chaude interchangeable, de sorte que les photographes peuvent mélanger et assortir les marques d'appareils photo dans leur kit sans avoir besoin d'un nouveau flash",
+    "title_fr": "Le nouveau flash universel de Godox dispose d'un sabot interchangeable qui est également un déclencheur sans fil"
   },
   {
     "title": "Annie Leibovitz’s Vogue Cover Shoot of Timothee Chalamet Raises Eyebrows",
@@ -347,8 +568,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.594176",
-    "description_fr": "For her latest Vogue shoot with star actor Timothée Chalamet, Annie Leibovitz collaborated with NASA by superimposing him on a nebula -- but not everyone thinks the cover is out of this world.[Read More]",
-    "title_fr": "Annie Leibovitz’s Vogue Cover Shoot of Timothee Chalamet Raises Eyebrows"
+    "description_fr": "Pour son dernier tournage de Vogue avec l'acteur vedette Timothée Chalamet, Annie Leibovitz a collaboré avec la NASA en le superposant sur une nébuleuse - mais tout le monde ne pense pas que la couverture est hors de ce monde.[En savoir plus]",
+    "title_fr": "La couverture de Vogue d'Annie Leibovitz de Timothée Chalamet lève les sourcils"
   },
   {
     "title": "Prince William and Princess Kate Win Lawsuit Over ‘Intrusive’ Long-Lens Photographs",
@@ -360,8 +581,21 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T18:32:40.594973",
-    "description_fr": "Prince William and Princess Kate Middleton have won a lawsuit over \"long-lens paparazzi photographs\" taken of them on a family vacation.[Read More]",
-    "title_fr": "Prince William and Princess Kate Win Lawsuit Over ‘Intrusive’ Long-Lens Photographs"
+    "description_fr": "Le prince William et la princesse Kate Middleton ont remporté un procès pour « photographies de paparazzi à longue lentille » prises lors de vacances en famille.[En savoir plus]",
+    "title_fr": "Le prince William et la princesse Kate gagnent un procès pour des photographies « intrusives » à long objectif"
+  },
+  {
+    "title": "Google says its confusing Gemini Home rollout is going just great",
+    "url": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great",
+    "description": "Google started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgraded with Gemini. It’s actually useful now beyond asking for […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-10",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T01:47:15.393634",
+    "description_fr": "Google started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgraded with Gemini. It’s actually useful now beyond asking for […]",
+    "title_fr": "Google says its confusing Gemini Home rollout is going just great"
   },
   {
     "title": "Is Wall Street losing faith in AI?",
@@ -685,8 +919,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.378133",
-    "description_fr": "Les amateurs de photographie et les professionnels peuvent commencer tôt à économiser sur les vacances chez B&H, avec des réductions allant jusqu'à des milliers sur les équipements Nikon et Canon de premier ordre. Examinons les offres les plus populaires sur les appareils photo, les objectifs et les kits.[En savoir plus]",
-    "title_fr": "Canon et Nikon réalisent des économies incroyables en ce moment"
+    "description_fr": "Photography enthusiasts and professionals alike can get an early start on holiday savings at B&H, with discounts of up to thousands on top-tier Nikon and Canon gear. Let's look at the hottest deals on cameras, lenses, and kits.[Read More]",
+    "title_fr": "Canon and Nikon Have Incredible Savings Happening Right Now"
   },
   {
     "title": "How a Portrait of a Brazilian Woman Fueled an Indian Election Scandal",
@@ -698,8 +932,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.378734",
-    "description_fr": "Un photographe brésilien et une femme qu'il a photographiée en 2017 se sont retrouvés embourbés dans un complot de fraude électorale en Inde, et tout semble remonter à un site de photos de stock.[En savoir plus]",
-    "title_fr": "Comment un portrait d'une femme brésilienne a alimenté un scandale électoral indien"
+    "description_fr": "A Brazilian photographer and a woman he photographed in 2017 have ended up mired in an election fraud conspiracy in India, and it appears to all trace back to a stock photo site.[Read More]",
+    "title_fr": "How a Portrait of a Brazilian Woman Fueled an Indian Election Scandal"
   },
   {
     "title": "Elevate.io Turns Video Editing Into a Collaborative Experience",
@@ -711,8 +945,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.379338",
-    "description_fr": "Elevate.io introduit une nouvelle ère de création vidéo avec sa plate-forme basée sur un navigateur, réunissant l'édition en temps réel, les outils basés sur l'IA, la gestion des actifs et la collaboration en direct dans un espace de travail unique. Cette approche tout-en-un promet de transformer la façon dont les équipes créent, examinent et fournissent du contenu via le cloud.[En savoir plus]",
-    "title_fr": "Elevate.io transforme le montage vidéo en une expérience collaborative"
+    "description_fr": "Elevate.io introduces a new era of video creation with its browser-based platform, uniting real-time editing, AI-powered tools, asset management, and live collaboration into a single workspace. This all-in-one approach promises to transform how teams create, review, and deliver content via the cloud.[Read More]",
+    "title_fr": "Elevate.io Turns Video Editing Into a Collaborative Experience"
   },
   {
     "title": "Netflix’s Trailer for ‘The Stringer’ Doesn’t Pull Any Punches",
@@ -724,8 +958,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.379922",
-    "description_fr": "Netflix a publié une nouvelle bande-annonce pour le documentaire explosif, The Stringer, qui remet en question l'affirmation de longue date selon laquelle Nick Ut a pris la célèbre photo « Terror of War », souvent appelée « Napalm Girl ». \"[En savoir plus]",
-    "title_fr": "La bande-annonce de Netflix pour « The Stringer » ne tire aucun coup de poing"
+    "description_fr": "Netflix has published a new trailer for the explosive documentary, The Stringer, that challenges the long-standing claim that Nick Ut took the famous \"Terror of War\" photo, often referred to as \"Napalm Girl.\"[Read More]",
+    "title_fr": "Netflix’s Trailer for ‘The Stringer’ Doesn’t Pull Any Punches"
   },
   {
     "title": "Fujifilm Opens ‘House of Photography’ Spaces in Barcelona and Porto",
@@ -737,8 +971,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T01:40:23.380634",
-    "description_fr": "Fujifilm a célébré cette semaine l'ouverture de deux nouveaux espaces « House of Photography » en Europe. La première a eu lieu à Barcelone, en Espagne, le 5 novembre, et la seconde à Porto, au Portugal, aujourd'hui, le 7 novembre.[En savoir plus]",
-    "title_fr": "Fujifilm ouvre des espaces « Maison de la photographie » à Barcelone et Porto"
+    "description_fr": "Fujifilm celebrated the opening of two new \"House of Photography\" spaces in Europe this week. The first was in Barcelona, Spain, on November 5, and the second in Porto, Portugal today, November 7.[Read More]",
+    "title_fr": "Fujifilm Opens ‘House of Photography’ Spaces in Barcelona and Porto"
   },
   {
     "title": "What makes good reasoning data",
@@ -750,8 +984,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.414990",
-    "description_fr": "Ce qui fait de bonnes données de raisonnement",
-    "title_fr": "Ce qui fait de bonnes données de raisonnement"
+    "description_fr": "What makes good reasoning data",
+    "title_fr": "What makes good reasoning data"
   },
   {
     "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
@@ -763,8 +997,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.417016",
-    "description_fr": "S'aligner sur quoi ? Repenser la généralisation des agents dans MiniMax M2",
-    "title_fr": "S'aligner sur quoi ? Repenser la généralisation des agents dans MiniMax M2"
+    "description_fr": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "title_fr": "Aligning to What? Rethinking Agent Generalization in MiniMax M2"
   },
   {
     "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
@@ -776,8 +1010,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T01:40:39.417734",
-    "description_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur",
-    "title_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur"
+    "description_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
+    "title_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency"
   },
   {
     "title": "Building for the new era of search",
@@ -789,8 +1023,8 @@
     "source_type": "website",
     "category": "nocode",
     "collected_at": "2025-11-08T01:40:52.189907",
-    "description_fr": "Bâtir pour la nouvelle ère de la recherche",
-    "title_fr": "Bâtir pour la nouvelle ère de la recherche"
+    "description_fr": "Building for the new era of search",
+    "title_fr": "Building for the new era of search"
   },
   {
     "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
@@ -802,8 +1036,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:05.258213",
-    "description_fr": "OpenAI présente Aardvark, un chercheur en sécurité alimenté par l'IA qui trouve, valide et aide à corriger les vulnérabilités logicielles à grande échelle de manière autonome. Le système est en version bêta privée. Inscrivez-vous pour participer aux tests précoces.",
-    "title_fr": "Présentation d'Aardvark : le chercheur en sécurité agentique d'OpenAI"
+    "description_fr": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+    "title_fr": "Introducing Aardvark: OpenAI’s agentic security researcher"
   },
   {
     "title": "New tools in Google AI Studio to explore, debug and share logs",
@@ -815,8 +1049,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:08.044135",
-    "description_fr": "Logo Google AI Studio sur fond noir uni",
-    "title_fr": "Nouveaux outils dans Google AI Studio pour explorer, déboguer et partager les journaux"
+    "description_fr": "Google AI Studio logo on a plain black background",
+    "title_fr": "New tools in Google AI Studio to explore, debug and share logs"
   },
   {
     "title": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
@@ -828,8 +1062,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:09.019069",
-    "description_fr": "Faites en sorte que vos espaces ZeroGPU deviennent brrr avec une compilation à l'avance",
-    "title_fr": "Faites en sorte que vos espaces ZeroGPU deviennent brrr avec une compilation à l'avance"
+    "description_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation",
+    "title_fr": "Make your ZeroGPU Spaces go brrr with ahead-of-time compilation"
   },
   {
     "title": "Generate Images with Claude and Hugging Face",
@@ -841,8 +1075,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:09.019297",
-    "description_fr": "Générer des images avec Claude et Hugging Face",
-    "title_fr": "Générer des images avec Claude et Hugging Face"
+    "description_fr": "Generate Images with Claude and Hugging Face",
+    "title_fr": "Generate Images with Claude and Hugging Face"
   },
   {
     "title": "Sans confiance, l'IA restera une révolution sans rendement",
@@ -855,7 +1089,7 @@
     "category": "general",
     "collected_at": "2025-11-08T06:30:22.431564",
     "description_fr": "Les entreprises doivent placer la fiabilité et la transparence au cœur du déploiement de l'intelligence artificielle.",
-    "title_fr": "Sans confiance, l'air restera une révolution sans rendement"
+    "title_fr": "Sans confiance, l'IA restera une révolution sans rendement"
   },
   {
     "title": "DfAM, trouver l'équilibre entre créativité et contraintes de fabrication",
@@ -906,8 +1140,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:42.094598",
-    "description_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?",
-    "title_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?"
+    "description_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?",
+    "title_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?"
   },
   {
     "title": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
@@ -919,8 +1153,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-08T06:30:42.097844",
-    "description_fr": "Parallélisme de séquence ultra-longue : principes techniques et mise en œuvre d'Ulysse + Ring-Attention",
-    "title_fr": "Parallélisme de séquence ultra-longue : principes techniques et mise en œuvre d'Ulysse + Ring-Attention"
+    "description_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation",
+    "title_fr": "Ultra-Long Sequence Parallelism: Ulysses + Ring-Attention Technical Principles and Implementation"
   },
   {
     "title": "Leveraging the clinician’s expertise with agentic AI",
@@ -932,8 +1166,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.020469",
-    "description_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique",
-    "title_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique"
+    "description_fr": "Leveraging the clinician’s expertise with agentic AI",
+    "title_fr": "Leveraging the clinician’s expertise with agentic AI"
   },
   {
     "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
@@ -945,8 +1179,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.022488",
-    "description_fr": "C'est devenu un truisme que les faits seuls ne changent pas l'esprit des gens. Cela n'est peut-être nulle part plus clair qu'en ce qui concerne les théories du complot : beaucoup de gens croient que vous ne pouvez pas parler des conspirationnistes en dehors de leurs croyances.  Mais ce n'est pas nécessairement vrai. Il s'avère que de nombreux adeptes du complot réagissent aux preuves et aux arguments - des informations qui...",
-    "title_fr": "Les chatbots sont étonnamment efficaces pour démystifier les théories du complot"
+    "description_fr": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
+    "title_fr": "Chatbots are surprisingly effective at debunking conspiracy theories"
   },
   {
     "title": "How AGI became the most consequential conspiracy theory of our time",
@@ -958,8 +1192,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T12:40:03.028475",
-    "description_fr": "Tu le sens ? J'ai entendu dire que c'était proche : deux ans, cinq ans, peut-être l'année prochaine ! Et j'ai entendu dire que cela allait tout changer : cela guérirait les maladies, sauverait la planète et inaugurerait une ère d'abondance. Il résoudra nos plus grands problèmes d'une manière que nous ne pouvons pas encore imaginer. Cela redéfinira ce que signifie…",
-    "title_fr": "Comment l'agi est devenue la théorie du complot la plus conséquente de notre époque"
+    "description_fr": "Are you feeling it? I hear it’s close: two years, five years—maybe next year! And I hear it’s going to change everything: it will cure disease, save the planet, and usher in an age of abundance. It will solve our biggest problems in ways we cannot yet imagine. It will redefine what it means to…",
+    "title_fr": "How AGI became the most consequential conspiracy theory of our time"
   },
   {
     "title": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos",
@@ -971,8 +1205,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T12:40:15.893042",
-    "description_fr": "Retouch4me, connu pour ses outils de retouche photo et vidéo alimentés par l'IA, a présenté Dust OFX, un nouveau plugin qui élimine automatiquement la poussière et les petites particules des séquences vidéo. Conçu pour DaVinci Resolve et compatible avec d'autres éditeurs basés sur OFX, le plugin utilise des réseaux de neurones avancés pour rationaliser l'un des aspects les plus chronophages de la retouche vidéo.[En savoir plus]",
-    "title_fr": "Le nouveau plug-in de Retouch4me élimine la poussière et les particules distrayantes des vidéos"
+    "description_fr": "Retouch4me, known for its AI-powered photo and video editing tools, has introduced Dust OFX, a new plugin that automatically removes dust and small particles from video footage. Built for DaVinci Resolve and compatible with other OFX-based editors, the plugin uses advanced neural networks to streamline one of the most time-consuming aspects of video retouching.[Read More]",
+    "title_fr": "Retouch4me’s New Plugin Removes Dust and Distracting Particles From Videos"
   },
   {
     "title": "Soaring electricity rates fueled Democratic victories — now comes the hard part",
@@ -984,8 +1218,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T18:28:30.217973",
-    "description_fr": "Bien qu'il y ait beaucoup de raisons de s'inquiéter pour les électeurs en ce moment, l'augmentation des factures de services publics est devenue un problème brûlant. Le succès des démocrates du New Jersey, de Virginie et de Géorgie lors des élections de cette semaine peut être considéré comme un référendum sur l'état de la politique et des infrastructures énergétiques aux États-Unis en tant que réseaux électriques […]",
-    "title_fr": "La flambée des tarifs d'électricité a alimenté les victoires démocratiques — maintenant vient la partie difficile"
+    "description_fr": "While there's plenty for voters to be worried about right now, rising utility bills have become a hot-button issue. The success of Democrats in New Jersey, Virginia, and Georgia in this week's elections can be seen as something of a referendum on the state of energy policy and infrastructure in the US as power grids […]",
+    "title_fr": "Soaring electricity rates fueled Democratic victories — now comes the hard part"
   },
   {
     "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers",
@@ -997,8 +1231,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-08T18:28:31.287208",
-    "description_fr": "Une lettre récente d'OpenAI révèle plus de détails sur la façon dont l'entreprise espère que le gouvernement fédéral peut soutenir les plans ambitieux de l'entreprise pour la construction de centres de données.",
-    "title_fr": "OpenAI a demandé à l'administration Trump d'étendre le crédit d'impôt Chips Act aux centres de données"
+    "description_fr": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
+    "title_fr": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers"
   },
   {
     "title": "The Nikon Tour Highlights Big Changes, and I’m Here For It",
@@ -1010,8 +1244,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T18:28:47.403916",
-    "description_fr": "Ce n'est un secret pour personne que les choses changent dans l'espace de la caméra et de l'imagerie. Au fur et à mesure que la technologie progresse et que l'ancienne garde passe le flambeau à la nouvelle, nous avons vu l'appareil photo numérique évoluer d'un instrument de travail accessible uniquement aux professionnels de l'industrie à un outil créatif auquel même ceux qui ont des moyens modestes peuvent accéder.[En savoir plus]",
-    "title_fr": "La visite guidée Nikon met en évidence de grands changements, et je suis là pour ça"
+    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.[Read More]",
+    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
   },
   {
     "title": "Three More Elements of Fine Art You Can Use to Improve Your Photography",
@@ -1023,8 +1257,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-08T18:28:47.404689",
-    "description_fr": "Auparavant, j'ai écrit sur cinq éléments de l'art et sur la façon dont ils peuvent avoir un impact sur nos photographies. Cependant, il y a trois autres éléments qui fonctionnent en conjonction avec des points, des lignes, des formes et des formes qui peuvent rehausser votre photographie.[En savoir plus]",
-    "title_fr": "Trois autres éléments des beaux-arts que vous pouvez utiliser pour améliorer votre photographie"
+    "description_fr": "Previously, I wrote about five elements of art and how they can impact our photographs. However, there are three more elements that work in conjunction with points, lines, shape, and form that can elevate your photography further.[Read More]",
+    "title_fr": "Three More Elements of Fine Art You Can Use to Improve Your Photography"
   },
   {
     "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
@@ -1049,8 +1283,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-08T18:29:13.640370",
-    "description_fr": "Ce n'est un secret pour personne que les choses changent dans l'espace de la caméra et de l'imagerie. Au fur et à mesure que la technologie progresse et que l'ancienne garde passe le flambeau à la nouvelle, nous avons vu l'appareil photo numérique évoluer d'un instrument de travail accessible uniquement aux professionnels de l'industrie à un outil créatif auquel même ceux qui ont des moyens modestes peuvent accéder.[En savoir plus]",
-    "title_fr": "La visite guidée Nikon met en évidence de grands changements, et je suis là pour ça"
+    "description_fr": "It’s no secret that things are changing in the camera and imaging space. As technology advances and the old guard passes the torch to the new, we’ve seen the digital camera evolve from a work instrument only accessible to industry professionals to a creative tool that even those of modest means can access.",
+    "title_fr": "The Nikon Tour Highlights Big Changes, and I’m Here For It"
   },
   {
     "title": "Introducing gpt-oss-safeguard",
@@ -6264,239 +6498,5 @@
     "collected_at": "2025-10-31T06:33:02.564042",
     "description_fr": "Blue graphic DNA double helix with text: \"A decade of genomics research at Google.\"",
     "title_fr": "10 years of genomics research at Google"
-  },
-  {
-    "title": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research.",
-    "url": "https://blog.google/technology/research/deepsomatic-an-open-source-ai-model-is-speeding-up-genetic-analysis-for-cancer-research/",
-    "description": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DeepSomatic_Hero.max-600x600.format-webp.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.564297",
-    "description_fr": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells.",
-    "title_fr": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research."
-  },
-  {
-    "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
-    "url": "https://blog.google/technology/ai/veo-updates-flow/",
-    "description": "Veo 3.1 text with stills from generated videos",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.max-600x600.format-webp.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.564534",
-    "description_fr": "Veo 3.1 text with stills from generated videos",
-    "title_fr": "Introducing Veo 3.1 and advanced capabilities in Flow"
-  },
-  {
-    "title": "6 new ways Google is protecting you from scams",
-    "url": "https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/",
-    "description": "Man viewing phishing text, woman viewing \"wrong password\" screen, centered blue Google shield.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scams_Herov2.max-600x600.format-webp.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.564745",
-    "description_fr": "Man viewing phishing text, woman viewing \"wrong password\" screen, centered blue Google shield.",
-    "title_fr": "6 new ways Google is protecting you from scams"
-  },
-  {
-    "title": "How a Gemma model helped discover a new potential cancer therapy pathway",
-    "url": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
-    "description": "A dark blue and black abstract slide featuring a large, blurred cell-like structure in the center. The text \"Cell2Sentence Scale 27B\" is in white. The word \"Gemma\" is visible in the bottom right corner.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/C2S_Keynote_Alt-RD7-V01.max-600x600.format-webp.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.564952",
-    "description_fr": "A dark blue and black abstract slide featuring a large, blurred cell-like structure in the center. The text \"Cell2Sentence Scale 27B\" is in white. The word \"Gemma\" is visible in the bottom right corner.",
-    "title_fr": "How a Gemma model helped discover a new potential cancer therapy pathway"
-  },
-  {
-    "title": "10 ways you can ask Google Photos to edit your photos for you",
-    "url": "https://blog.google/products/photos/how-to-tips-editing-prompts/",
-    "description": "An image for the photo gallery app Google Photos shows three examples of how users can edit their photos by just asking. On the left, a chihuahua in a pink harness is edited to wear a cute pumpkin costume. In the center, a reflection on a window covering",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Still_Hero_Visual_-_2096_x_1182.max-600x600.format-webp_NQVtPE8.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.565181",
-    "description_fr": "An image for the photo gallery app Google Photos shows three examples of how users can edit their photos by just asking. On the left, a chihuahua in a pink harness is edited to wear a cute pumpkin costume. In the center, a reflection on a window covering",
-    "title_fr": "10 ways you can ask Google Photos to edit your photos for you"
-  },
-  {
-    "title": "New AI-powered features help you connect with web content in Search and Discover.",
-    "url": "https://blog.google/products/search/ai-features-web-content/",
-    "description": "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_Social_Q4hJ9bk.max-600x600.format-webp.webp",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.565436",
-    "description_fr": "We’re introducing two new AI-powered features in Search and Discover to help you connect with fresh content and links from across the web.",
-    "title_fr": "New AI-powered features help you connect with web content in Search and Discover."
-  },
-  {
-    "title": "Nano Banana is coming to Google Search, NotebookLM and Photos.",
-    "url": "https://blog.google/technology/ai/nano-banana-google-products/",
-    "description": "Animation showing Lens in the Google app. The user takes a photo of their bedroom and asks to see it reimagined using the \"dopamine decor\" trend",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-iixqh9m2_thumb.jpg",
-    "published_date": "2025-10-31",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T06:33:02.565649",
-    "description_fr": "Animation showing Lens in the Google app. The user takes a photo of their bedroom and asks to see it reimagined using the \"dopamine decor\" trend",
-    "title_fr": "Nano Banana is coming to Google Search, NotebookLM and Photos."
-  },
-  {
-    "title": "Plex Coffee delivers fast service and personal connections with ChatGPT Business",
-    "url": "https://openai.com/index/plex-coffee",
-    "description": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.391486",
-    "description_fr": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
-    "title_fr": "Plex Coffee delivers fast service and personal connections with ChatGPT Business"
-  },
-  {
-    "title": "Expert Council on Well-Being and AI",
-    "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
-    "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.391799",
-    "description_fr": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-    "title_fr": "Expert Council on Well-Being and AI"
-  },
-  {
-    "title": "Argentina’s AI opportunity",
-    "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
-    "description": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.392084",
-    "description_fr": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
-    "title_fr": "Argentina’s AI opportunity"
-  },
-  {
-    "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-    "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-    "description": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.392379",
-    "description_fr": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-    "title_fr": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators"
-  },
-  {
-    "title": "HYGH powers next-gen digital ads with ChatGPT Business",
-    "url": "https://openai.com/index/hygh",
-    "description": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.392622",
-    "description_fr": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
-    "title_fr": "HYGH powers next-gen digital ads with ChatGPT Business"
-  },
-  {
-    "title": "Defining and evaluating political bias in LLMs",
-    "url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
-    "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.392854",
-    "description_fr": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-    "title_fr": "Defining and evaluating political bias in LLMs"
-  },
-  {
-    "title": "Growing impact and scale with ChatGPT",
-    "url": "https://openai.com/index/hibob",
-    "description": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.393086",
-    "description_fr": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
-    "title_fr": "Growing impact and scale with ChatGPT"
-  },
-  {
-    "title": "Disrupting malicious uses of AI: October 2025",
-    "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
-    "description": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.393345",
-    "description_fr": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-    "title_fr": "Disrupting malicious uses of AI: October 2025"
-  },
-  {
-    "title": "Codex is now generally available",
-    "url": "https://openai.com/index/codex-now-generally-available",
-    "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T12:44:59.393591",
-    "description_fr": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
-    "title_fr": "Codex is now generally available"
-  },
-  {
-    "title": "Sora now lets you pay extra to make more AI videos",
-    "url": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens",
-    "description": "Keep burning through your video generation allowance on Sora? No problem, OpenAI now lets you buy extra credits to make even more AI videos. That’s good, because the company says it expects to reduce free allowances at some point in the future. Bill Peebles, who leads the Sora team at OpenAI, said the video platform’s […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939746.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-10-31",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-31T12:45:04.587231",
-    "description_fr": "Keep burning through your video generation allowance on Sora? No problem, OpenAI now lets you buy extra credits to make even more AI videos. That’s good, because the company says it expects to reduce free allowances at some point in the future. Bill Peebles, who leads the Sora team at OpenAI, said the video platform’s […]",
-    "title_fr": "Sora now lets you pay extra to make more AI videos"
-  },
-  {
-    "title": "Guillermo del Toro Hopes He’s Dead Before AI Art Goes Mainstream",
-    "url": "https://www.wired.com/story/guillermo-del-toro-hopes-hes-dead-before-ai-art-goes-mainstream/",
-    "description": "The Frankenstein director tells WIRED the real Victor Frankensteins are tyrannical politicians and Silicon Valley tech bros.",
-    "image_url": "https://media.wired.com/photos/68ffcde6cdf356d75a8403c9/master/pass/Guillermo-QandA-Culture-FR2J0383.jpg",
-    "published_date": "2025-10-31",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-31T12:45:11.790186",
-    "description_fr": "The Frankenstein director tells WIRED the real Victor Frankensteins are tyrannical politicians and Silicon Valley tech bros.",
-    "title_fr": "Guillermo del Toro Hopes He’s Dead Before AI Art Goes Mainstream"
   }
 ]
