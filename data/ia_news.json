@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-11T06:34:38.676732",
-    "description_fr": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells.",
-    "title_fr": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research."
+    "description_fr": "Un aperçu de DeepSomatic, un nouvel outil d'IA qui aide à identifier les variantes génétiques complexes dans les cellules cancéreuses.",
+    "title_fr": "DeepSomatic, un modèle d'IA open source, accélère l'analyse génétique pour la recherche sur le cancer."
   },
   {
     "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
@@ -243,8 +243,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-11T06:34:38.676971",
-    "description_fr": "Veo 3.1 text with stills from generated videos",
-    "title_fr": "Introducing Veo 3.1 and advanced capabilities in Flow"
+    "description_fr": "Texte Veo 3.1 avec photos des vidéos générées",
+    "title_fr": "Présentation de Veo 3.1 et des fonctionnalités avancées dans Flow"
   },
   {
     "title": "6 new ways Google is protecting you from scams",
@@ -256,8 +256,112 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-11T06:34:38.677233",
-    "description_fr": "Man viewing phishing text, woman viewing \"wrong password\" screen, centered blue Google shield.",
-    "title_fr": "6 new ways Google is protecting you from scams"
+    "description_fr": "Homme visualisant le texte d'hameçonnage, femme visualisant l'écran « mauvais mot de passe », bouclier Google bleu centré.",
+    "title_fr": "6 nouvelles façons dont Google vous protège contre les escroqueries"
+  },
+  {
+    "title": "Our latest commitments in AI and learning",
+    "url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
+    "description": "Video sharing the future of AI & Learning with examples from classrooms from around the world",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/commitments_in_AI_and_learning_.max-600x600.format-webp.webp",
+    "published_date": "2025-11-11",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-11T12:46:03.172138",
+    "description_fr": "Video sharing the future of AI & Learning with examples from classrooms from around the world",
+    "title_fr": "Our latest commitments in AI and learning"
+  },
+  {
+    "title": "Leveling up your developer experience in Google AI Studio",
+    "url": "https://blog.google/technology/developers/ai-studio-updates-more-control/",
+    "description": "One Playground in Google AI Studio",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/video_thumbnail.max-600x600.format-webp_euAfg98.webp",
+    "published_date": "2025-11-11",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-11T12:46:03.173894",
+    "description_fr": "One Playground in Google AI Studio",
+    "title_fr": "Leveling up your developer experience in Google AI Studio"
+  },
+  {
+    "title": "10 years of genomics research at Google",
+    "url": "https://blog.google/technology/research/ten-years-google-genomics/",
+    "description": "Blue graphic DNA double helix with text: \"A decade of genomics research at Google.\"",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Timeline-Thumbnail-1920.max-600x600.format-webp.webp",
+    "published_date": "2025-11-11",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-11T12:46:03.174130",
+    "description_fr": "Blue graphic DNA double helix with text: \"A decade of genomics research at Google.\"",
+    "title_fr": "10 years of genomics research at Google"
+  },
+  {
+    "title": "Samsung brings a generative AI-powered Bixby to its TVs",
+    "url": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational",
+    "description": "Samsung is rolling out new conversational AI across its 2025 TVs that lets users ask questions about what’s on the screen and beyond it. First announced in September, the generative AI update is rolling out now with support for several languages. Vision AI Companion is based on an upgraded, generative AI-based version of Samsung’s virtual […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-vision-ai-companion-bixby-tv.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-11",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T12:46:05.623501",
+    "description_fr": "Samsung is rolling out new conversational AI across its 2025 TVs that lets users ask questions about what’s on the screen and beyond it. First announced in September, the generative AI update is rolling out now with support for several languages. Vision AI Companion is based on an upgraded, generative AI-based version of Samsung’s virtual […]",
+    "title_fr": "Samsung brings a generative AI-powered Bixby to its TVs"
+  },
+  {
+    "title": "The Former Staffer Calling Out OpenAI’s Erotica Claims",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/",
+    "description": "Steven Adler used to lead product safety at OpenAI. On this week’s episode of The Big Interview, he talks about what AI users should know about their bots.",
+    "image_url": "https://media.wired.com/photos/690ce26735f1df352f792505/master/pass/Big-Interview-UV-Solo-Steven-Adler-IMG_3501.jpg",
+    "published_date": "2025-11-11",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T12:46:09.963043",
+    "description_fr": "Steven Adler used to lead product safety at OpenAI. On this week’s episode of The Big Interview, he talks about what AI users should know about their bots.",
+    "title_fr": "The Former Staffer Calling Out OpenAI’s Erotica Claims"
+  },
+  {
+    "title": "Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know",
+    "url": "https://www.artificialintelligence-news.com/news/moonshot-ai-gpt-5-claude-comparison-china-breakthrough/",
+    "description": "A Chinese AI startup, Moonshot, has disrupted expectations in artificial intelligence development after its Kimi K2 Thinking model surpassed OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5 across multiple performance benchmarks, sparking renewed debate about whether America’s AI dominance is being challenged by cost-efficient Chinese innovation. Beijing-based Moonshot AI, valued at US$3.3 billion",
+    "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png",
+    "published_date": "2025-11-11",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-11T12:46:12.054695",
+    "description_fr": "A Chinese AI startup, Moonshot, has disrupted expectations in artificial intelligence development after its Kimi K2 Thinking model surpassed OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5 across multiple performance benchmarks, sparking renewed debate about whether America’s AI dominance is being challenged by cost-efficient Chinese innovation. Beijing-based Moonshot AI, valued at US$3.3 billion",
+    "title_fr": "Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know"
+  },
+  {
+    "title": "AI Photo of a Fire Sparks Panic at High School",
+    "url": "https://petapixel.com/2025/11/11/ai-photo-of-a-fire-sparks-panic-at-high-school/",
+    "description": "An AI-generated image sparked confusion and concern at Bellaire High School in Houston yesterday after a picture falsely showing the school on fire circulated on social media.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Firefighter.jpg",
+    "published_date": "2025-11-11",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-11T12:46:22.098070",
+    "description_fr": "An AI-generated image sparked confusion and concern at Bellaire High School in Houston yesterday after a picture falsely showing the school on fire circulated on social media.[Read More]",
+    "title_fr": "AI Photo of a Fire Sparks Panic at High School"
+  },
+  {
+    "title": "Introduction to State Space Models (SSM)",
+    "url": "https://huggingface.co/blog/lbourdois/get-on-the-ssm-train",
+    "description": "Introduction to State Space Models (SSM)",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/613b0a62a14099d5afed7830/pLuqSIYaNYhUqdjxlNrFn.png",
+    "published_date": "2025-11-11",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-11T12:46:37.934346",
+    "description_fr": "Introduction to State Space Models (SSM)",
+    "title_fr": "Introduction to State Space Models (SSM)"
   },
   {
     "title": "Elon Musk uses Grok to imagine the possibility of love",
@@ -672,8 +776,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-09T01:49:13.305276",
-    "description_fr": "Le codage de l'IA, le codage des vibrations et l'essaimage authentique ont récemment fait une entrée spectaculaire et étonnante sur le marché, le marché des outils de codage de l'IA étant évalué à 4,8 milliards de $ et devrait croître à un taux annuel de 23 %.  Les entreprises sont aux prises avec des agents de codage IA et que faire des codeurs humains coûteux. Ils ne manquent pas de conseils. Le PDG d'OpenAI estime que l'IA peut effectuer plus de 50 % de ce que les ingénieurs humains peuvent faire.  Six",
-    "title_fr": "Qu'est-ce qui pourrait mal tourner si une entreprise remplaçait tous ses ingénieurs par l'IA ?"
+    "description_fr": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
+    "title_fr": "What could possibly go wrong if an enterprise replaces all its engineers with AI?"
   },
   {
     "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
@@ -685,8 +789,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-09T01:49:16.199094",
-    "description_fr": "Les risques pour les utilisateurs de BIG-IP comprennent les attaques de la chaîne d'approvisionnement, la perte d'informations d'identification et les exploits de vulnérabilité.",
-    "title_fr": "Des milliers de clients en péril après que l'État-nation ait saccagé le réseau de F5"
+    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
+    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
   },
   {
     "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
@@ -6394,109 +6498,5 @@
     "collected_at": "2025-10-31T01:44:46.223344",
     "description_fr": "Jupyter Agents: training LLMs to reason with notebooks",
     "title_fr": "Jupyter Agents: training LLMs to reason with notebooks"
-  },
-  {
-    "title": "mmBERT: ModernBERT goes Multilingual",
-    "url": "https://huggingface.co/blog/mmbert",
-    "description": "mmBERT: ModernBERT goes Multilingual",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T01:44:46.223530",
-    "description_fr": "mmBERT: ModernBERT goes Multilingual",
-    "title_fr": "mmBERT: ModernBERT goes Multilingual"
-  },
-  {
-    "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "url": "https://huggingface.co/blog/embeddinggemma",
-    "description": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-10-31T01:44:46.223711",
-    "description_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "title_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model"
-  },
-  {
-    "title": "Nvidia is reportedly investing up to $1B in Poolside",
-    "url": "https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/",
-    "description": "Nvidia is an existing investor in the AI company and participated in its $500 million Series A round in 2024.",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-31T01:44:48.466271",
-    "description_fr": "Nvidia is an existing investor in the AI company and participated in its $500 million Series A round in 2024.",
-    "title_fr": "Nvidia is reportedly investing up to $1B in Poolside"
-  },
-  {
-    "title": "Meta researchers open the LLM black box to repair flawed AI reasoning",
-    "url": "https://venturebeat.com/ai/meta-researchers-open-the-llm-black-box-to-repair-flawed-ai-reasoning",
-    "description": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (LLM) reasoning and even intervene to fix its mistakes. CalledCircuit-based Reasoning Verification(CRV), the method looks inside an LLM to monitor its internal “reasoning circuits” and detect signs of computational errors as the model solves a problem",
-    "image_url": "",
-    "published_date": "2025-10-31",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-31T01:44:50.456059",
-    "description_fr": "Researchers at Meta FAIR and the University of Edinburgh have developed a new technique that can predict the correctness of a large language model's (LLM) reasoning and even intervene to fix its mistakes. CalledCircuit-based Reasoning Verification(CRV), the method looks inside an LLM to monitor its internal “reasoning circuits” and detect signs of computational errors as the model solves a problem",
-    "title_fr": "Meta researchers open the LLM black box to repair flawed AI reasoning"
-  },
-  {
-    "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
-    "url": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
-    "description": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_treasurechest_1-1152x648.jpg",
-    "published_date": "2025-10-31",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-10-31T01:44:53.128937",
-    "description_fr": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "title_fr": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses"
-  },
-  {
-    "title": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
-    "description": "In this episode of Uncanny Valley, we run through the top stories of the week and look closely at people’s complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
-    "image_url": "https://media.wired.com/photos/68fa99670f48aeee5d43d09b/master/pass/Uncanny-Valley-AI-Psychosis-Business-1491212583.jpg",
-    "published_date": "2025-10-31",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-10-31T01:44:54.243885",
-    "description_fr": "In this episode of Uncanny Valley, we run through the top stories of the week and look closely at people’s complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
-    "title_fr": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs"
-  },
-  {
-    "title": "Historical Daguerreotype Among 1,000+ Artifacts Stolen in Oakland Museum Heist",
-    "url": "https://petapixel.com/2025/10/30/historical-daguerreotype-among-1000-artifacts-stolen-in-oakland-museum-heist/",
-    "description": "At least one historical daguerreotype was among a set of more than 1,000 artifacts that were stolen from the Oakland Museum of California earlier this month.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/10/Historical-Daguerreotype-Among-1000-Artifacts-Stolen-in-Oakland-Museum-Heist.jpg",
-    "published_date": "2025-10-31",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-31T01:45:04.407041",
-    "description_fr": "At least one historical daguerreotype was among a set of more than 1,000 artifacts that were stolen from the Oakland Museum of California earlier this month.[Read More]",
-    "title_fr": "Historical Daguerreotype Among 1,000+ Artifacts Stolen in Oakland Museum Heist"
-  },
-  {
-    "title": "Sony Is the First Camera Company to Verify Authenticity of Video Content",
-    "url": "https://petapixel.com/2025/10/30/sony-is-the-first-camera-company-to-verify-authenticity-of-video-content/",
-    "description": "Alongside new Sony a1 II and a9 III firmware updates, Sony has bolstered its commitment to content authenticity, extended its verification technology to video content recorded with select Sony cameras. It is the industry's first C2PA-compliant camera-authentication solution for video.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2022/10/Sony-Logo-1600x840.jpg",
-    "published_date": "2025-10-31",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-10-31T01:45:04.407759",
-    "description_fr": "Alongside new Sony a1 II and a9 III firmware updates, Sony has bolstered its commitment to content authenticity, extended its verification technology to video content recorded with select Sony cameras. It is the industry's first C2PA-compliant camera-authentication solution for video.[Read More]",
-    "title_fr": "Sony Is the First Camera Company to Verify Authenticity of Video Content"
   }
 ]
