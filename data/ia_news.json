@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:30.449280",
-    "description_fr": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
-    "title_fr": "Expanding Stargate to Michigan"
+    "description_fr": "OpenAI étend Stargate au Michigan avec un nouveau campus d'un gigawatt qui renforce l'infrastructure d'IA américaine. Le projet créera des emplois, stimulera les investissements et soutiendra la croissance économique dans le Midwest.",
+    "title_fr": "Extension de Stargate au Michigan"
   },
   {
     "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:30.449802",
-    "description_fr": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-    "title_fr": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas"
+    "description_fr": "Une plongée en profondeur dans OWL, la nouvelle architecture alimentant ChatGPT Atlas-découplage Chromium, permettant un démarrage rapide, une interface utilisateur riche et une navigation authentique avec ChatGPT.",
+    "title_fr": "Comment nous avons construit OWL, la nouvelle architecture derrière notre navigateur basé sur ChatGPT, Atlas"
   },
   {
     "title": "Private AI Compute: our next step in building private and helpful AI",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:32.908413",
-    "description_fr": "Private AI Compute infographic: Secured data flow from mobile device to Gemini Models and Google TPU.",
-    "title_fr": "Private AI Compute: our next step in building private and helpful AI"
+    "description_fr": "Infographie privée AI Compute : flux de données sécurisées de l'appareil mobile vers Gemini Models et Google TPU.",
+    "title_fr": "Private AI Compute : notre prochaine étape dans la construction d'une IA privée et utile"
   },
   {
     "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.338385",
-    "description_fr": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
-    "title_fr": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face"
+    "description_fr": "Google Cloud C4 apporte une amélioration de 70% du coût total de possession sur GPT OSS avec Intel et Hugging Face",
+    "title_fr": "Google Cloud C4 apporte une amélioration de 70% du coût total de possession sur GPT OSS avec Intel et Hugging Face"
   },
   {
     "title": "Get your VLM running in 3 simple steps on Intel CPUs",
@@ -61,8 +61,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.338567",
-    "description_fr": "Get your VLM running in 3 simple steps on Intel CPUs",
-    "title_fr": "Get your VLM running in 3 simple steps on Intel CPUs"
+    "description_fr": "Faites fonctionner votre VLM en 3 étapes simples sur les processeurs Intel",
+    "title_fr": "Faites fonctionner votre VLM en 3 étapes simples sur les processeurs Intel"
   },
   {
     "title": "SOTA OCR with Core ML and dots.ocr",
@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.338757",
-    "description_fr": "SOTA OCR with Core ML and dots.ocr",
-    "title_fr": "SOTA OCR with Core ML and dots.ocr"
+    "description_fr": "OCR SOTA avec Core ML et dots.ocr",
+    "title_fr": "OCR SOTA avec Core ML et dots.ocr"
   },
   {
     "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.338932",
-    "description_fr": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "title_fr": "Introducing RTEB: A New Standard for Retrieval Evaluation"
+    "description_fr": "Présentation de RTEB : une nouvelle norme pour l'évaluation de la récupération",
+    "title_fr": "Présentation de RTEB : une nouvelle norme pour l'évaluation de la récupération"
   },
   {
     "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
@@ -100,8 +100,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.339125",
-    "description_fr": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "title_fr": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
+    "description_fr": "Accélération de l'agent Qwen3-8B sur Intel® Core™ Ultra avec des modèles de brouillon ajustés en profondeur",
+    "title_fr": "Accélération de l'agent Qwen3-8B sur Intel® Core™ Ultra avec des modèles de brouillon ajustés en profondeur"
   },
   {
     "title": "VibeGame: Exploring Vibe Coding Games",
@@ -113,8 +113,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.339308",
-    "description_fr": "VibeGame: Exploring Vibe Coding Games",
-    "title_fr": "VibeGame: Exploring Vibe Coding Games"
+    "description_fr": "VibeGame : Explorer les jeux de codage Vibe",
+    "title_fr": "VibeGame : Explorer les jeux de codage Vibe"
   },
   {
     "title": "Swift Transformers Reaches 1.0 – and Looks to the Future",
@@ -126,8 +126,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.339490",
-    "description_fr": "Swift Transformers Reaches 1.0 – and Looks to the Future",
-    "title_fr": "Swift Transformers Reaches 1.0 – and Looks to the Future"
+    "description_fr": "SWIFT Transformers atteint 1,0 – et regarde vers l'avenir",
+    "title_fr": "SWIFT Transformers atteint 1,0 – et regarde vers l'avenir"
   },
   {
     "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
@@ -139,8 +139,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.339684",
-    "description_fr": "Smol2Operator: Post-Training GUI Agents for Computer Use",
-    "title_fr": "Smol2Operator: Post-Training GUI Agents for Computer Use"
+    "description_fr": "Smol2Operator : Agents GUI post-formation pour utilisation informatique",
+    "title_fr": "Smol2Operator : Agents GUI post-formation pour utilisation informatique"
   },
   {
     "title": "Gaia2 and ARE: Empowering the community to study agents",
@@ -152,8 +152,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.339871",
-    "description_fr": "Gaia2 and ARE: Empowering the community to study agents",
-    "title_fr": "Gaia2 and ARE: Empowering the community to study agents"
+    "description_fr": "Gaia2 et ARE : Donner à la communauté les moyens d'étudier les agents",
+    "title_fr": "Gaia2 et ARE : Donner à la communauté les moyens d'étudier les agents"
   },
   {
     "title": "Scaleway on Hugging Face Inference Providers 🔥",
@@ -165,8 +165,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.340057",
-    "description_fr": "Scaleway on Hugging Face Inference Providers 🔥",
-    "title_fr": "Scaleway on Hugging Face Inference Providers 🔥"
+    "description_fr": "Scaleway sur les fournisseurs d'inférence de visage câlin 🔥",
+    "title_fr": "Scaleway sur les fournisseurs d'inférence de visage câlin 🔥"
   },
   {
     "title": "Democratizing AI Safety with RiskRubric.ai",
@@ -178,8 +178,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.340272",
-    "description_fr": "Democratizing AI Safety with RiskRubric.ai",
-    "title_fr": "Democratizing AI Safety with RiskRubric.ai"
+    "description_fr": "Démocratiser la sécurité de l'IA avec RiskRubric.ai",
+    "title_fr": "Démocratiser la sécurité de l'IA avec RiskRubric.ai"
   },
   {
     "title": "Public AI on Hugging Face Inference Providers 🔥",
@@ -191,8 +191,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.340467",
-    "description_fr": "Public AI on Hugging Face Inference Providers 🔥",
-    "title_fr": "Public AI on Hugging Face Inference Providers 🔥"
+    "description_fr": "IA publique sur les fournisseurs d'inférence faciale Hugging 🔥",
+    "title_fr": "IA publique sur les fournisseurs d'inférence faciale Hugging 🔥"
   },
   {
     "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
@@ -204,8 +204,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.340654",
-    "description_fr": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
-    "title_fr": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`"
+    "description_fr": "`LeRobotDataset :v3.0` : Apporter des ensembles de données à grande échelle à `lerobot`",
+    "title_fr": "`LeRobotDataset :v3.0` : Apporter des ensembles de données à grande échelle à `lerobot`"
   },
   {
     "title": "Visible Watermarking with Gradio",
@@ -217,8 +217,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.340834",
-    "description_fr": "Visible Watermarking with Gradio",
-    "title_fr": "Visible Watermarking with Gradio"
+    "description_fr": "Filigrane visible avec dégradé",
+    "title_fr": "Filigrane visible avec dégradé"
   },
   {
     "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.341026",
-    "description_fr": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
-    "title_fr": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers"
+    "description_fr": "Astuces d'OpenAI gpt-oss que VOUS 🫵 pouvez utiliser avec des transformateurs",
+    "title_fr": "Astuces d'OpenAI gpt-oss que VOUS 🫵 pouvez utiliser avec des transformateurs"
   },
   {
     "title": "Jupyter Agents: training LLMs to reason with notebooks",
@@ -243,8 +243,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-12T01:46:34.341232",
-    "description_fr": "Jupyter Agents: training LLMs to reason with notebooks",
-    "title_fr": "Jupyter Agents: training LLMs to reason with notebooks"
+    "description_fr": "Jupyter Agents : former les LLM à raisonner avec des cahiers",
+    "title_fr": "Jupyter Agents : former les LLM à raisonner avec des cahiers"
   },
   {
     "title": "SoftBank’s Nvidia sale rattles market, raises questions",
@@ -256,8 +256,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T01:46:36.492218",
-    "description_fr": "Wall Street can’t help but wonder: does Son see something right now that others do not?",
-    "title_fr": "SoftBank’s Nvidia sale rattles market, raises questions"
+    "description_fr": "Wall Street ne peut s'empêcher de se demander : Son voit-il quelque chose en ce moment que d'autres ne voient pas ?",
+    "title_fr": "Le marché des hochets de vente Nvidia de SoftBank soulève des questions"
   },
   {
     "title": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini",
@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T01:46:37.816511",
-    "description_fr": "Baidu Inc., China's largest search engine company, released a new artificial intelligence model on Monday that its developers claim outperforms competitors fromGoogleandOpenAIon several vision-related benchmarks despite using a fraction of the computing resources typically required for such systems.The model, dubbedERNIE-4.5-VL-28B-A3B-Thinking, is the latest salvo in an escalating competition amo",
-    "title_fr": "Baidu just dropped an open-source multimodal AI that it claims beats GPT-5 and Gemini"
+    "description_fr": "Baidu Inc., la plus grande société chinoise de moteurs de recherche, a publié lundi un nouveau modèle d'intelligence artificielle qui, selon ses développeurs, surpasse ses concurrents de Google et d'OpenAI sur plusieurs points de repère liés à la vision, malgré l'utilisation d'une fraction des ressources informatiques généralement nécessaires pour de tels systèmes. Le modèle, baptiséERNIE-4.5-VL-28B-A3B-Thinking, est la dernière salve d'une concurrence croissante amo",
+    "title_fr": "Baidu vient de laisser tomber une IA multimodale open-source qui, selon elle, bat GPT-5 et Gemini"
   },
   {
     "title": "Meta’s SPICE framework lets AI systems teach themselves to reason",
@@ -282,8 +282,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T01:46:37.819044",
-    "description_fr": "Researchers atMeta FAIRand theNational University of Singaporehave developed a new reinforcement learning framework for self-improving AI systems.CalledSelf-Play In Corpus Environments (SPICE), the framework pits two AI agents against each other, creating its own challenges and gradually improving without human supervision.While currently a proof-of-concept, this self-play mechanism could provide ",
-    "title_fr": "Meta’s SPICE framework lets AI systems teach themselves to reason"
+    "description_fr": "Les chercheurs deMeta FAIR et de l'Université nationale de Singapour ont développé un nouveau cadre d'apprentissage par renforcement pour les systèmes d'IA auto-améliorés. Appelé Self-Play In Corpus Environments (SPICE), le cadre oppose deux agents d'IA l'un contre l'autre, créant ses propres défis et s'améliorant progressivement sans supervision humaine. Bien qu'il s'agisse actuellement d'une preuve de concept, ce mécanisme d'auto-jeu pourrait fournir",
+    "title_fr": "Le cadre SPICE de Meta permet aux systèmes d'IA d'apprendre à raisonner"
   },
   {
     "title": "Only 9% of developers think AI code can be used without human oversight, BairesDev survey reveals",
@@ -295,8 +295,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T01:46:37.822082",
-    "description_fr": "Senior software developers are preparing for a major shift in how they work as artificial intelligence becomes central to their workflows, according toBairesDev’slatestDev Barometerreportpublished today. VentureBeat was given an exclusive early look and the findings below come directly from that report.The quarterly global survey, which polled 501 developers and 19 project managers across 92 softw",
-    "title_fr": "Only 9% of developers think AI code can be used without human oversight, BairesDev survey reveals"
+    "description_fr": "Les développeurs de logiciels expérimentés se préparent à un changement majeur dans leur façon de travailler, car l'intelligence artificielle devient un élément central de leurs flux de travail, selon le dernier rapport Barometerrede BairesDev publié aujourd'hui. VentureBeat a reçu un aperçu exclusif et les résultats ci-dessous proviennent directement de ce rapport. L'enquête mondiale trimestrielle, qui a interrogé 501 développeurs et 19 chefs de projet sur 92 logiciels",
+    "title_fr": "Seulement 9% des développeurs pensent que le code de l'IA peut être utilisé sans surveillance humaine, révèle l'enquête BairesDev"
   },
   {
     "title": "Nikon Deserves More Credit for Addressing a Major Weakness in the Nikon Z System",
@@ -308,8 +308,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T01:46:51.485244",
-    "description_fr": "There has been a lot of big news in the photography space in the past month, so it's perhaps not too surprising that Nikon's pair of new APS-C lenses has flown a bit under the radar. That's a shame because the Nikkor Z 16-50mm f/2.8 VR and Nikkor Z DX MC 35mm f/1.7 actually address a major complaint many have had about the Nikkor Z system: the lack of new high-end APS-C lenses.[Read More]",
-    "title_fr": "Nikon Deserves More Credit for Addressing a Major Weakness in the Nikon Z System"
+    "description_fr": "Il y a eu beaucoup de grandes nouvelles dans le domaine de la photographie au cours du mois dernier, il n'est donc peut-être pas surprenant que la paire de nouveaux objectifs APS-C de Nikon ait un peu échappé au radar. C'est dommage car les Nikkor Z 16-50mm f/2.8 VR et Nikkor Z DX MC 35mm f/1.7 répondent en fait à une plainte majeure que beaucoup ont eue à propos du système Nikkor Z : l'absence de nouveaux objectifs APS-C haut de gamme.[En savoir plus]",
+    "title_fr": "Nikon mérite plus de crédit pour avoir corrigé une faiblesse majeure du système Nikon Z"
   },
   {
     "title": "Photographer Gets Backlash for Declaring Vendors Should be Fed at Weddings",
@@ -321,8 +321,99 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T01:46:51.485931",
-    "description_fr": "A wedding photographer's viral TikTok post has sparked a debate on whether vendors such as herself should be fed at events.[Read More]",
-    "title_fr": "Photographer Gets Backlash for Declaring Vendors Should be Fed at Weddings"
+    "description_fr": "Le message viral TikTok d'une photographe de mariage a suscité un débat sur la question de savoir si des vendeurs comme elle devraient être nourris lors d'événements.[En savoir plus]",
+    "title_fr": "Le photographe réagit en déclarant que les vendeurs devraient être nourris lors des mariages"
+  },
+  {
+    "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+    "url": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+    "description": "Both vulnerabilities are being exploited in wide-scale operations.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg",
+    "published_date": "2025-11-12",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-12T06:34:24.146795",
+    "description_fr": "Both vulnerabilities are being exploited in wide-scale operations.",
+    "title_fr": "Two Windows vulnerabilities, one a 0-day, are under active exploitation"
+  },
+  {
+    "title": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots",
+    "url": "https://www.maddyness.com/2019/03/27/francais-deleguer-travail-robots/",
+    "description": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "image_url": "",
+    "published_date": "2025-11-12",
+    "source": "Maddyness - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T06:34:34.287879",
+    "description_fr": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "title_fr": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots"
+  },
+  {
+    "title": "Quels sont les composants d’un bon projet d’intelligence artificielle ?",
+    "url": "https://www.maddyness.com/2018/04/25/quels-sont-les-composants-bon-projet-intelligence-artificielle/",
+    "description": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "image_url": "",
+    "published_date": "2025-11-12",
+    "source": "Maddyness - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T06:34:34.288515",
+    "description_fr": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "title_fr": "Quels sont les composants d’un bon projet d’intelligence artificielle ?"
+  },
+  {
+    "title": "Uncensor any LLM with abliteration",
+    "url": "https://huggingface.co/blog/mlabonne/abliteration",
+    "description": "Uncensor any LLM with abliteration",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/61b8e2ba285851687028d395/Rq3xWG7mJ3aCRoBsq340h.jpeg",
+    "published_date": "2025-11-12",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-12T06:34:51.444033",
+    "description_fr": "Uncensor any LLM with abliteration",
+    "title_fr": "Uncensor any LLM with abliteration"
+  },
+  {
+    "title": "Nikon Deserves More Credit for Addressing a Major Weakness in the Nikon Z System",
+    "url": "https://petapixel.com/author/jeremygray/",
+    "description": "There has been a lot of big news in the photography space in the past month, so it's perhaps not too surprising that Nikon's pair of new APS-C lenses has flown a bit under the radar. That's a shame because the Nikkor Z 16-50mm f/2.8 VR and Nikkor Z DX MC 35mm f/1.7 actually address a major complaint many have had about the Nikkor Z system: the lack of new high-end APS-C lenses.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/nikon-dx-lenses-op-ed-300x157.jpg",
+    "published_date": "2025-11-12",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-12T06:35:01.487523",
+    "description_fr": "Il y a eu beaucoup de grandes nouvelles dans le domaine de la photographie au cours du mois dernier, il n'est donc peut-être pas surprenant que la paire de nouveaux objectifs APS-C de Nikon ait un peu échappé au radar. C'est dommage car les Nikkor Z 16-50mm f/2.8 VR et Nikkor Z DX MC 35mm f/1.7 répondent en fait à une plainte majeure que beaucoup ont eue à propos du système Nikkor Z : l'absence de nouveaux objectifs APS-C haut de gamme.[En savoir plus]",
+    "title_fr": "Nikon mérite plus de crédit pour avoir corrigé une faiblesse majeure du système Nikon Z"
+  },
+  {
+    "title": "Photographer Gets Backlash for Declaring Vendors Should be Fed at Weddings",
+    "url": "https://petapixel.com/author/mattgrowcoot/",
+    "description": "A wedding photographer's viral TikTok post has sparked a debate on whether vendors such as herself should be fed at events.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Wedding-Photographer2-300x157.jpg",
+    "published_date": "2025-11-12",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-12T06:35:01.488262",
+    "description_fr": "Le message viral TikTok d'une photographe de mariage a suscité un débat sur la question de savoir si des vendeurs comme elle devraient être nourris lors d'événements.[En savoir plus]",
+    "title_fr": "Le photographe réagit en déclarant que les vendeurs devraient être nourris lors des mariages"
+  },
+  {
+    "title": "The Rollei 35AF is in the Midst of a ‘No Man’s Sky’ Redemption Arc",
+    "url": "https://petapixel.com/author/jaronschneider/",
+    "description": "Sean Murray, the founder of Hello Games, was once one of the most derided figures in video gaming. In 2016, he and his studio released No Man's Sky, a game that was so disappointing at launch that it was jokingly called \"One Man's Lie.\" Nine years later, and Murray has earned that respect back by delivering the game he originally promised -- and more.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/The-Rollei-35AF-is-in-the-Midst-of-a-No-Mans-Sky-Redemption-Arc.jpg",
+    "published_date": "2025-11-12",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-12T06:35:01.488813",
+    "description_fr": "Sean Murray, le fondateur de Hello Games, était autrefois l'une des figures les plus ridiculisées du jeu vidéo. En 2016, lui et son studio ont sorti No Man's Sky, un jeu si décevant au lancement qu'il s'appelait en plaisantant « One Man's Lie. « Neuf ans plus tard, et Murray a gagné ce respect en livrant le jeu qu'il avait promis à l'origine - et plus encore.[En savoir plus]",
+    "title_fr": "La Rollei 35AF est au milieu d'un arc de rédemption « No Man's Sky »"
   },
   {
     "title": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees",
@@ -893,8 +984,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.584926",
-    "description_fr": "Le nouveau $ 459 Canon RF 45mm f/1.2 STMlens s'avère déjà trop populaire avant sa sortie en décembre. Canon Japon a averti les photographes qu'il ne sera pas en mesure de répondre à toutes les précommandes actuelles lors du lancement.[En savoir plus]",
-    "title_fr": "Canon ne peut déjà pas fabriquer suffisamment d'objectifs 45 mm f/1,2 pour répondre à la demande"
+    "description_fr": "The new $459 Canon RF 45mm f/1.2 STMlens is already proving too popular ahead of its December release. Canon Japan has warned photographers that it will be unable to fulfill all current preorders at launch.[Read More]",
+    "title_fr": "Canon Already Can’t Make Enough 45mm f/1.2 Lenses to Meet Demand"
   },
   {
     "title": "Steve Schapiro Took So Many Photos He Lost the Use of His Left Eye",
@@ -906,8 +997,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.585681",
-    "description_fr": "Le documentaire Steve Schapiro : Being Everywhere a révélé que le célèbre photographe américain avait du mal à garder l'œil gauche ouvert vers la fin de sa vie à cause du nombre de photos qu'il avait prises.[En savoir plus]",
-    "title_fr": "Steve Schapiro a pris tellement de photos qu'il a perdu l'usage de son œil gauche"
+    "description_fr": "The documentary Steve Schapiro: Being Everywhere has revealed that the famous American photographer was having difficulty keeping his left eye open toward the end of his life because of how many photos he had taken.[Read More]",
+    "title_fr": "Steve Schapiro Took So Many Photos He Lost the Use of His Left Eye"
   },
   {
     "title": "11 Years & 1M Cards Strong: RUGGED and Warrantied for Life!",
@@ -919,8 +1010,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.586378",
-    "description_fr": "Depuis plus d'une décennie, le NOIR Delkin est synonyme de mémoire robuste et de qualité professionnelle, digne de confiance des photographes qui photographient dans les environnements les plus difficiles de la Terre. Depuis les débuts de la ligne en 2014, plus d'un million de cartes NOIRES sont allées sur le terrain, permettant aux photographes de la toundra arctique aux dunes du Sahara — et partout entre les deux.[En savoir plus]",
-    "title_fr": "11 ans et 1 million de cartes solides : ROBUSTES et garanties à vie !"
+    "description_fr": "For more than a decade, Delkin BLACK has been synonymous with rugged, professional-grade memory — trusted by photographers who shoot in the harshest environments on Earth. Since the line’s debut in 2014, over one million BLACK cards have gone into the field, empowering photographers from the Arctic tundra to the Sahara dunes — and everywhere in between.[Read More]",
+    "title_fr": "11 Years & 1M Cards Strong: RUGGED and Warrantied for Life!"
   },
   {
     "title": "Generative AI Gemini Nano Banana is Now Inside Google Photos",
@@ -932,8 +1023,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.587071",
-    "description_fr": "Google met à jour Photos avec six autres outils alimentés par l'IA, dont plusieurs sont alimentés par Nano Banana, qui est l'un des modèles d'IA générative les plus populaires et les plus réussis de Google.[En savoir plus]",
-    "title_fr": "L'IA générative Gemini Nano Banana est maintenant à l'intérieur de Google Photos"
+    "description_fr": "Google is updating Photos with six more AI-powered tools, including several that are powered by Nano Banana, which is one of Googles most popular and successful generative AI models.[Read More]",
+    "title_fr": "Generative AI Gemini Nano Banana is Now Inside Google Photos"
   },
   {
     "title": "Arri Film Lab Brings Film’s Look and Feel to Digital Cinema",
@@ -945,8 +1036,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.587822",
-    "description_fr": "Arri, l'une des plus grandes marques du cinéma numérique, a lancé un nouvel outil qui vise à rendre la vidéo numérique plus analogique. Arri Film Lab est un plugin OpenFX qui s'intègre dans les flux de travail d'étalonnage des couleurs standard de l'industrie et donne aux cinéastes et aux monteurs des outils créatifs pour créer leurs vidéos numériques, quelle que soit la caméra qu'ils ont utilisée, comme si elles avaient été filmées.[En savoir plus]",
-    "title_fr": "Arri Film Lab apporte l'aspect et la convivialité du film au cinéma numérique"
+    "description_fr": "Arri, one of the biggest brands in all of digital cinema, launched a new tool that aims to make digital video look more analog. Arri Film Lab is an OpenFX plugin that integrates into industry-standard color grading workflows and gives filmmakers and editors creative tools to make their digital videos, regardless of what camera they used, look like they were shot on film.[Read More]",
+    "title_fr": "Arri Film Lab Brings Film’s Look and Feel to Digital Cinema"
   },
   {
     "title": "SanDisk’s New ‘Plug-and-Stay’ 1TB SSD Is Absurdly Tiny",
@@ -958,8 +1049,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.595633",
-    "description_fr": "La nouvelle clé USB-C Extreme Fit de 1 To de SanDisk est la clé USB-C la plus petite et la plus puissante à ce jour. L'Extreme Fit est si petit que SanDisk l'appelle un lecteur « plug and stay », ce qui signifie que les utilisateurs peuvent le garder attaché de manière semi-permanente à leur appareil.[En savoir plus]",
-    "title_fr": "Le nouveau SSD « Plug-and-Stay » de 1 To de SanDisk est incroyablement minuscule"
+    "description_fr": "SanDisk's new Extreme Fit 1TB USB-C Flash Drive is its smallest, highest-capacity USB-C flash drive to date. The Extreme Fit is so small that SanDisk calls it a \"plug and stay\" drive, meaning that users can keep it semi-permanently attached to their device.[Read More]",
+    "title_fr": "SanDisk’s New ‘Plug-and-Stay’ 1TB SSD Is Absurdly Tiny"
   },
   {
     "title": "Apple’s Unusual iPhone Pocket Is a $150 3D-Knitted Fashion Statement",
@@ -971,8 +1062,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.596379",
-    "description_fr": "Le plus récent « étui » pour iPhone d'Apple, iPhone Pocket, ressemble davantage à un accessoire de mode fonctionnel pouvant transporter un iPhone et divers autres articles de poche. C'est un accessoire extensible en forme de chaussette conçu pour être porté ou porté.[En savoir plus]",
-    "title_fr": "La poche inhabituelle pour iPhone d'Apple est une déclaration de mode tricotée en 3D à 150 $"
+    "description_fr": "Apple's newest iPhone \"case,\" iPhone Pocket, is more like a functional fashion accessory that can carry an iPhone and other various pocketable items. It is a stretchy sock-like accessory designed to be carried or worn.[Read More]",
+    "title_fr": "Apple’s Unusual iPhone Pocket Is a $150 3D-Knitted Fashion Statement"
   },
   {
     "title": "Our Verdict on Annie Leibovitz’s Timothee Chalamet Photos in Vogue",
@@ -984,8 +1075,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.597071",
-    "description_fr": "Annie Leibovitz a de nouveau suscité de nombreuses critiques  cette semaine après que ses photos de l'acteur Timothée Chalamet aient orné les pages de l'édition de décembre du magazine Vogue. Mais est-ce que tout cela est justifié ? Les rédacteurs PetaPixel ont leur mot à dire.[En savoir plus]",
-    "title_fr": "Notre verdict sur les photos de Timothée Chalamet d'Annie Leibovitz dans Vogue"
+    "description_fr": "Annie Leibovitz has once again been attracting plenty of criticism  this week after her photos of actor Timothée Chalamet graced the pages of Vogue magazine's December edition. But is any of it justified? PetaPixel writers have their say.[Read More]",
+    "title_fr": "Our Verdict on Annie Leibovitz’s Timothee Chalamet Photos in Vogue"
   },
   {
     "title": "Effective Prompting for Generative Vision Models",
@@ -997,8 +1088,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-11T18:32:25.197639",
-    "description_fr": "Prompting efficace pour les modèles de vision générative",
-    "title_fr": "Prompting efficace pour les modèles de vision générative"
+    "description_fr": "Effective Prompting for Generative Vision Models",
+    "title_fr": "Effective Prompting for Generative Vision Models"
   },
   {
     "title": "🌳 QAT: The Art of Growing a Bonsai Model",
@@ -1010,8 +1101,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-11T18:32:25.198958",
-    "description_fr": "🌳 QAT : L'art de cultiver un modèle de bonsaï",
-    "title_fr": "🌳 QAT : L'art de cultiver un modèle de bonsaï"
+    "description_fr": "🌳 QAT: The Art of Growing a Bonsai Model",
+    "title_fr": "🌳 QAT: The Art of Growing a Bonsai Model"
   },
   {
     "title": "Google is introducing its own version of Apple’s private AI cloud compute",
@@ -1036,8 +1127,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T01:50:40.860703",
-    "description_fr": "Après que les actionnaires de Tesla aient approuvé un nouveau plan de rémunération qui pourrait valoir 1 000 milliards de $ , le PDG Elon Musk semble célébrer avec un week-end normal sur sa plateforme de médias sociaux X.",
-    "title_fr": "Elon Musk utilise Grok pour imaginer la possibilité de l'amour"
+    "description_fr": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
+    "title_fr": "Elon Musk uses Grok to imagine the possibility of love"
   },
   {
     "title": "6 proven lessons from the AI projects that broke before they scaled",
@@ -1049,8 +1140,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-10T01:50:41.555744",
-    "description_fr": "Les entreprises détestent l'admettre, mais le déploiement de l'IA au niveau de la production routière est jonché de preuves de concepts (PoC) qui ne vont nulle part, ou de projets ratés qui n'atteignent jamais leurs objectifs. Dans certains domaines, il y a peu de tolérance à l'itération, en particulier dans les sciences de la vie, lorsque l'application d'IA facilite la mise sur le marché de nouveaux traitements ou le diagnostic de maladies. Même légèrement inexact",
-    "title_fr": "6 leçons éprouvées des projets d'IA qui ont éclaté avant d'être mis à l'échelle"
+    "description_fr": "Companies hate to admit it, but the road toproduction-level AIdeployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects that never deliver on their goals. In certain domains, there’s little tolerance for iteration, especially in something like life sciences, when the AI application is facilitating new treatments to markets or diagnosing diseases. Even slightly inaccu",
+    "title_fr": "6 proven lessons from the AI projects that broke before they scaled"
   },
   {
     "title": "My Visit to Dachau: Through the Lens and the Gates",
@@ -1062,8 +1153,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-10T01:50:56.150589",
-    "description_fr": "Les camps de concentration nazis ont longtemps été documentés dans toutes les formes de médias, mais franchir les portes d'un camp à pied est une expérience très différente. C'est à Dachau que tout a commencé, déclenchant une machine industrialisée de mort et de dépravation qui consumera plus tard toute l'Europe pendant la Seconde Guerre mondiale.[En savoir plus]",
-    "title_fr": "Ma visite à Dachau : à travers l'objectif et les portes"
+    "description_fr": "Nazi concentration camps have long been documented in all forms of media, but stepping through the gates of one on foot makes for a very different experience. Dachau was where it all began, setting off an industrialized machine of death and depravity that would later consume all of Europe during World War II.[Read More]",
+    "title_fr": "My Visit to Dachau: Through the Lens and the Gates"
   },
   {
     "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
@@ -6407,96 +6498,5 @@
     "collected_at": "2025-11-03T18:30:59.830587",
     "description_fr": "Nous avons comparé les performances des derniers modèles de génération vidéo d'OpenAI et de DeepMind sur la qualité et la précision des vidéos générées. Les résultats sont intéressants.",
     "title_fr": "Sora 2 vs Veo 3.1 : quelle est la meilleure IA pour la génération vidéo ?"
-  },
-  {
-    "title": "Pourquoi l'IA générative rend l'apprentissage des mathématiques plus essentiel que jamais",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545463-tribune-pourquoi-l-ia-generative-rend-l-apprentissage-des-mathematiques-plus-essentiel-que-jamais/",
-    "description": "A l'heure où l'IA automatise le savoir, la rigueur mathématique devient plus stratégique que jamais.",
-    "image_url": "https://img-0.journaldunet.com/hsg6vG4XWBXL6vC2gdABa5vKQJk=/1280x/smart/7f0f2873d22740b7af82eb9d95b6e17c/user-jdn/39528399-martin-pavanello.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.830961",
-    "description_fr": "A l'heure où l'IA automatise le savoir, la rigueur mathématique devient plus stratégique que jamais.",
-    "title_fr": "Pourquoi l'IA générative rend l'apprentissage des mathématiques plus essentiel que jamais"
-  },
-  {
-    "title": "Chez OpenAI, des Français à tous les étages",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545391-chez-openai-des-francais-a-tous-les-etages/",
-    "description": "La scale-up américaine compte de nombreux postes clés occupés par des chercheurs et des ingénieurs français. Une singularité qui s'explique par plusieurs facteurs.",
-    "image_url": "https://img-0.journaldunet.com/L7_mjgVJ5AvpU6rbmFVAGvifDpU=/1280x/smart/c906aa55abdd4f2c94fcfa5882b14571/ccmcms-jdn/39528463.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.831350",
-    "description_fr": "La scale-up américaine compte de nombreux postes clés occupés par des chercheurs et des ingénieurs français. Une singularité qui s'explique par plusieurs facteurs.",
-    "title_fr": "Chez OpenAI, des Français à tous les étages"
-  },
-  {
-    "title": "The Biggest Supermoon of the Year Offers Picture Opportunities for Photographers",
-    "url": "https://petapixel.com/2025/11/03/the-biggest-supermoon-of-the-year-offers-picture-opportunities-for-photographers/",
-    "description": "The night sky will feature a striking sight this week as a supermoon rises on Wednesday (November 5) -- the largest and closest full moon of 2025.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Supermoon.jpg",
-    "published_date": "2025-11-03",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-03T18:31:05.260046",
-    "description_fr": "The night sky will feature a striking sight this week as a supermoon rises on Wednesday (November 5) -- the largest and closest full moon of 2025.[Read More]",
-    "title_fr": "The Biggest Supermoon of the Year Offers Picture Opportunities for Photographers"
-  },
-  {
-    "title": "DJI’s Drones, Both Branded and Disguised, Are Even Closer to a US Ban",
-    "url": "https://petapixel.com/2025/11/03/djis-drones-both-branded-and-disguised-are-even-closer-to-a-us-ban/",
-    "description": "A unanimous Federal Communications Commission (FCC) vote last week puts DJI in even hotter water. However, despite initial appearances, the new decision is not as problematic as another issue that DJI is dealing with: a very slow security audit. All these things taken together indicate a very real chance that DJI drones will be officially banned from entering the U.S. by the end of this year.[Read",
-    "image_url": "https://petapixel.com/assets/uploads/2025/05/Mavic-4-Pro_Lifestyle-KV_Spin-Your-World1.jpg",
-    "published_date": "2025-11-03",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-03T18:31:05.260783",
-    "description_fr": "A unanimous Federal Communications Commission (FCC) vote last week puts DJI in even hotter water. However, despite initial appearances, the new decision is not as problematic as another issue that DJI is dealing with: a very slow security audit. All these things taken together indicate a very real chance that DJI drones will be officially banned from entering the U.S. by the end of this year.[Read",
-    "title_fr": "DJI’s Drones, Both Branded and Disguised, Are Even Closer to a US Ban"
-  },
-  {
-    "title": "Ulanzi’s Waist-Level Viewfinder Brings a Retro Experience to Modern Cameras",
-    "url": "https://petapixel.com/2025/11/03/ulanzis-waist-level-viewfinder-brings-a-retro-experience-to-modern-cameras/",
-    "description": "Ulanzi has unveiled the VF01 Waist-Level Viewfinder, a compact accessory designed to bring classic shooting ergonomics to modern mirrorless and compact cameras.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/ulanzi-vf01-featured.jpg",
-    "published_date": "2025-11-03",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-03T18:31:05.261475",
-    "description_fr": "Ulanzi has unveiled the VF01 Waist-Level Viewfinder, a compact accessory designed to bring classic shooting ergonomics to modern mirrorless and compact cameras.[Read More]",
-    "title_fr": "Ulanzi’s Waist-Level Viewfinder Brings a Retro Experience to Modern Cameras"
-  },
-  {
-    "title": "Nikon’s 40-Year-Old Underwater Film Camera Still Offers a Unique Experience",
-    "url": "https://petapixel.com/2025/11/03/nikons-40-year-old-underwater-film-camera-still-offers-a-unique-experience/",
-    "description": "On my recent trip to French Polynesia, I decided to do something new that I’ve been wanting to try for a long time: I brought along the Nikonos V, Nikon’s legendary amphibious 35mm camera from the 1980s. That meant no live preview, no autofocus, and no confirmation that anything I was shooting would actually turn out; just 36 frames of film, a light meter, and the quiet peace that comes with freed",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Nikonos-V-underwater-in-2025.jpg",
-    "published_date": "2025-11-03",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-03T18:31:05.262173",
-    "description_fr": "On my recent trip to French Polynesia, I decided to do something new that I’ve been wanting to try for a long time: I brought along the Nikonos V, Nikon’s legendary amphibious 35mm camera from the 1980s. That meant no live preview, no autofocus, and no confirmation that anything I was shooting would actually turn out; just 36 frames of film, a light meter, and the quiet peace that comes with freed",
-    "title_fr": "Nikon’s 40-Year-Old Underwater Film Camera Still Offers a Unique Experience"
-  },
-  {
-    "title": "Photographer Refuses to Take Down Homeless Woman’s Portrait Despite Family Requests",
-    "url": "https://petapixel.com/2025/11/03/photographer-refuses-to-take-down-homeless-womans-portrait-despite-family-requests/",
-    "description": "A photographer is refusing to take down images he took of a homeless woman before she died -- despite requests from her family.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Homelessness.jpg",
-    "published_date": "2025-11-03",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-03T18:31:05.263674",
-    "description_fr": "A photographer is refusing to take down images he took of a homeless woman before she died -- despite requests from her family.[Read More]",
-    "title_fr": "Photographer Refuses to Take Down Homeless Woman’s Portrait Despite Family Requests"
   }
 ]
