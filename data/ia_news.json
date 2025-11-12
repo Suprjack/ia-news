@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-12T06:34:24.146795",
-    "description_fr": "Both vulnerabilities are being exploited in wide-scale operations.",
-    "title_fr": "Two Windows vulnerabilities, one a 0-day, are under active exploitation"
+    "description_fr": "Les deux vulnérabilités sont exploitées dans des opérations à grande échelle.",
+    "title_fr": "Deux vulnérabilités Windows, une par jour 0, sont en cours d'exploitation active"
   },
   {
     "title": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots",
@@ -347,7 +347,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T06:34:34.287879",
-    "description_fr": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "description_fr": "L'articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
     "title_fr": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots"
   },
   {
@@ -360,8 +360,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T06:34:34.288515",
-    "description_fr": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
-    "title_fr": "Quels sont les composants d’un bon projet d’intelligence artificielle ?"
+    "description_fr": "L'articleQuels sont les composants d'un bon projet d'intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "title_fr": "Quels sont les composants d'un bon projet d'intelligence artificielle ?"
   },
   {
     "title": "Uncensor any LLM with abliteration",
@@ -373,8 +373,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-12T06:34:51.444033",
-    "description_fr": "Uncensor any LLM with abliteration",
-    "title_fr": "Uncensor any LLM with abliteration"
+    "description_fr": "Décensor toute LLM avec ablitération",
+    "title_fr": "Décensor toute LLM avec ablitération"
   },
   {
     "title": "Nikon Deserves More Credit for Addressing a Major Weakness in the Nikon Z System",
@@ -412,8 +412,138 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-12T06:35:01.488813",
-    "description_fr": "Sean Murray, le fondateur de Hello Games, était autrefois l'une des figures les plus ridiculisées du jeu vidéo. En 2016, lui et son studio ont sorti No Man's Sky, un jeu si décevant au lancement qu'il s'appelait en plaisantant « One Man's Lie. « Neuf ans plus tard, et Murray a gagné ce respect en livrant le jeu qu'il avait promis à l'origine - et plus encore.[En savoir plus]",
+    "description_fr": "Sean Murray, le fondateur de Hello Games, était autrefois l'une des figures les plus ridiculisées du jeu vidéo. En 2016, lui et son studio ont sorti No Man's Sky, un jeu si décevant au lancement qu'il s'appelait en plaisantant « One Man's Lie. « Neuf ans plus tard, et Murray a gagné ce respect en livrant le jeu qu'il avait promis à l'origine - et plus encore.",
     "title_fr": "La Rollei 35AF est au milieu d'un arc de rédemption « No Man's Sky »"
+  },
+  {
+    "title": "Figma bets on India to expand beyond design",
+    "url": "https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/",
+    "description": "Figma has opened a new office in Bengaluru as part of a push to deepen its India ties and appeal to more developers.",
+    "image_url": "",
+    "published_date": "2025-11-12",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:12.255091",
+    "description_fr": "Figma has opened a new office in Bengaluru as part of a push to deepen its India ties and appeal to more developers.",
+    "title_fr": "Figma bets on India to expand beyond design"
+  },
+  {
+    "title": "The global race for the AI app layer is still on",
+    "url": "https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/",
+    "description": "The U.S. is far ahead of Europe in the race for large AI models, at least in funding. But the picture is different for the application layer, global VC firm Accel highlighted in its 2025 Globalscape report.",
+    "image_url": "",
+    "published_date": "2025-11-12",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:12.255447",
+    "description_fr": "The U.S. is far ahead of Europe in the race for large AI models, at least in funding. But the picture is different for the application layer, global VC firm Accel highlighted in its 2025 Globalscape report.",
+    "title_fr": "The global race for the AI app layer is still on"
+  },
+  {
+    "title": "Improving VMware migration workflows with agentic AI",
+    "url": "https://www.technologyreview.com/2025/11/12/1124919/improving-vmware-migration-workflows-with-agentic-ai/",
+    "description": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are…",
+    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EPAM-Landing-Page-Card-1.png",
+    "published_date": "2025-11-12",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:14.199967",
+    "description_fr": "For years, many chief information officers (CIOs) looked at VMware-to-cloud migrations with a wary pragmatism. Manually mapping dependencies and rewriting legacy apps mid-flight was not an enticing, low-lift proposition for enterprise IT teams. But the calculus for such decisions has changed dramatically in a short period of time. Following recent VMware licensing changes, organizations are…",
+    "title_fr": "Improving VMware migration workflows with agentic AI"
+  },
+  {
+    "title": "All of My Employees Are AI Agents, and So Are My Executives",
+    "url": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/",
+    "description": "Sam Altman says the one-person billion-dollar company is coming. Maybe I could be that person—if only I could get my colleagues to shut up and stop lying.",
+    "image_url": "https://media.wired.com/photos/690e2e7a954f36824fad3c92/master/pass/WIRED-AI-as_Nonhuman-Resources.jpg",
+    "published_date": "2025-11-12",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:17.064894",
+    "description_fr": "Sam Altman says the one-person billion-dollar company is coming. Maybe I could be that person—if only I could get my colleagues to shut up and stop lying.",
+    "title_fr": "All of My Employees Are AI Agents, and So Are My Executives"
+  },
+  {
+    "title": "Google reveals its own version of Apple’s AI cloud",
+    "url": "https://www.artificialintelligence-news.com/news/google-reveals-its-own-version-of-apple-ai-cloud/",
+    "description": "Google has rolled out Private AI Compute, a new cloud-based processing system designed to bring the privacy of on-device AI to the cloud. The platform aims to give users faster, more capable AI experiences without compromising data security. It combines Google’s most advanced Gemini models with strict privacy safeguards, reflecting the company’s ongoing effort to […]The postGoogle reveals its own ",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-3.png",
+    "published_date": "2025-11-12",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:19.922092",
+    "description_fr": "Google has rolled out Private AI Compute, a new cloud-based processing system designed to bring the privacy of on-device AI to the cloud. The platform aims to give users faster, more capable AI experiences without compromising data security. It combines Google’s most advanced Gemini models with strict privacy safeguards, reflecting the company’s ongoing effort to […]The postGoogle reveals its own ",
+    "title_fr": "Google reveals its own version of Apple’s AI cloud"
+  },
+  {
+    "title": "Cerebras vs Groq : quel accélérateur d'IA choisir ?",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545969-cerebras-vs-groq-quel-accelerateur-d-ia-choisir/",
+    "description": "Cerebras et Groq proposent une tarification au token, particulièrement pertinente pour une utilisation avec un agent de code.",
+    "image_url": "https://img-0.journaldunet.com/OcZriIBbRzBiuRsuYeuJN2LAA88=/1280x/smart/77384f3962c343f3b44821d00407df0e/ccmcms-jdn/39529346.png",
+    "published_date": "2025-11-12",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-12T12:48:24.077137",
+    "description_fr": "Cerebras et Groq proposent une tarification au token, particulièrement pertinente pour une utilisation avec un agent de code.",
+    "title_fr": "Cerebras vs Groq : quel accélérateur d'IA choisir ?"
+  },
+  {
+    "title": "We’re open-sourcing our text-to-image model and the process behind it",
+    "url": "https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model",
+    "description": "We’re open-sourcing our text-to-image model and the process behind it",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1608816711384-5fe497b773152f333e959e6f.png",
+    "published_date": "2025-11-12",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-12T12:48:46.069845",
+    "description_fr": "We’re open-sourcing our text-to-image model and the process behind it",
+    "title_fr": "We’re open-sourcing our text-to-image model and the process behind it"
+  },
+  {
+    "title": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
+    "url": "https://huggingface.co/blog/JerryPotter/who-routes-the-routers",
+    "description": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
+    "image_url": "https://huggingface.co/avatars/060dc90fb13991bd013ce8173f12ae3e.svg",
+    "published_date": "2025-11-12",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-12T12:48:46.070549",
+    "description_fr": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing",
+    "title_fr": "Who Routes LLM Routers? RouterArena: Building the Evaluation Foundation for LLM Routing"
+  },
+  {
+    "title": "SYNTH: the new data frontier",
+    "url": "https://huggingface.co/blog/Pclanglais/synth-data-frontier",
+    "description": "SYNTH: the new data frontier",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/64ce091a9e9ca8123d7a42b0/OEPggp82RwigxNLL35LgT.jpeg",
+    "published_date": "2025-11-12",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-12T12:48:46.071148",
+    "description_fr": "SYNTH: the new data frontier",
+    "title_fr": "SYNTH: the new data frontier"
+  },
+  {
+    "title": "From websites to full-stack web experiences: Meet Webflow App Gen",
+    "url": "https://webflow.com/blog/app-gen",
+    "description": "From websites to full-stack web experiences: Meet Webflow App Gen",
+    "image_url": "https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/69144671470d1245c90855f4_blog_app-gen-1_2400x1260.jpg",
+    "published_date": "2025-11-12",
+    "source": "Webflow Blog",
+    "source_type": "website",
+    "category": "nocode",
+    "collected_at": "2025-11-12T12:48:59.849807",
+    "description_fr": "From websites to full-stack web experiences: Meet Webflow App Gen",
+    "title_fr": "From websites to full-stack web experiences: Meet Webflow App Gen"
   },
   {
     "title": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees",
@@ -945,8 +1075,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-11T18:31:55.525195",
-    "description_fr": "Il pourrait s'agir de « l'une des plus grandes introductions en bourse de tous les temps », selon Reuters.",
-    "title_fr": "ChatGPT Maker envisagerait une introduction en bourse de 1 000 milliards de $ malgré des pertes trimestrielles importantes"
+    "description_fr": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
+    "title_fr": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses"
   },
   {
     "title": "Wiz: Security lapses emerge amid the global AI race",
@@ -958,8 +1088,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-11T18:31:59.167444",
-    "description_fr": "Selon Wiz, la course entre les entreprises d'IA fait que beaucoup négligent les pratiques d'hygiène de sécurité de base. 65 % des 50 principales entreprises d'IA analysées par la société de cybersécurité avaient divulgué des secrets vérifiés sur GitHub. Les expositions comprennent des clés API, des jetons et des informations d'identification sensibles, souvent enfouis dans des référentiels de code que les outils de sécurité standard ne […]Les lacunes de sécurité postWiz : émergent au milieu des",
-    "title_fr": "Wiz : Des failles de sécurité émergent au milieu de la course mondiale à l'IA"
+    "description_fr": "According to Wiz, the race among AI companies is causing many to overlook basic security hygiene practices. 65 percent of the 50 leading AI firms the cybersecurity firm analysed had leaked verified secrets on GitHub. The exposures include API keys, tokens, and sensitive credentials, often buried in code repositories that standard security tools do not […]The postWiz: Security lapses emerge amid th",
+    "title_fr": "Wiz: Security lapses emerge amid the global AI race"
   },
   {
     "title": "The Rollei 35AF is in the Midst of a ‘No Man’s Sky’ Redemption Arc",
@@ -971,7 +1101,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-11T18:32:09.584184",
-    "description_fr": "Sean Murray, le fondateur de Hello Games, était autrefois l'une des figures les plus ridiculisées du jeu vidéo. En 2016, lui et son studio ont sorti No Man's Sky, un jeu si décevant au lancement qu'il s'appelait en plaisantant « One Man's Lie. « Neuf ans plus tard, et Murray a gagné ce respect en livrant le jeu qu'il avait promis à l'origine - et plus encore.[En savoir plus]",
+    "description_fr": "Sean Murray, le fondateur de Hello Games, était autrefois l'une des figures les plus ridiculisées du jeu vidéo. En 2016, lui et son studio ont sorti No Man's Sky, un jeu si décevant au lancement qu'il s'appelait en plaisantant « One Man's Lie. « Neuf ans plus tard, et Murray a gagné ce respect en livrant le jeu qu'il avait promis à l'origine - et plus encore.",
     "title_fr": "La Rollei 35AF est au milieu d'un arc de rédemption « No Man's Sky »"
   },
   {
@@ -6368,135 +6498,5 @@
     "collected_at": "2025-11-03T18:30:49.087484",
     "description_fr": "Brian Koo’s Stock Farm Road and Utopai Studios have partnered up to form Utopai East, an AI-powered film production company.",
     "title_fr": "LG founder’s grandson, production firm partner up to bring AI to filmmaking"
-  },
-  {
-    "title": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor",
-    "url": "https://venturebeat.com/ai/strengthening-our-core-welcoming-karyne-levy-as-venturebeats-new-managing",
-    "description": "I’m thrilled to announce a fantastic new addition to our leadership team:Karyne Levyis joining VentureBeat as our new Managing Editor. Today is her first day.Many of you may know Karyne from her most recent role as Deputy Managing Editor at TechCrunch, but her career is a highlight reel of veteran tech journalism. Her resume includes pivotal roles atProtocol, NerdWallet, Business Insider, and CNET",
-    "image_url": "",
-    "published_date": "2025-11-03",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:50.906690",
-    "description_fr": "I’m thrilled to announce a fantastic new addition to our leadership team:Karyne Levyis joining VentureBeat as our new Managing Editor. Today is her first day.Many of you may know Karyne from her most recent role as Deputy Managing Editor at TechCrunch, but her career is a highlight reel of veteran tech journalism. Her resume includes pivotal roles atProtocol, NerdWallet, Business Insider, and CNET",
-    "title_fr": "Strengthening Our Core: Welcoming Karyne Levy as VentureBeat’s New Managing Editor"
-  },
-  {
-    "title": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation",
-    "url": "https://venturebeat.com/ai/the-beginning-of-the-end-of-the-transformer-era-neuro-symbolic-ai-startup",
-    "description": "The buzzed-about but still stealthy New York City startupAugmented Intelligence Inc (AUI), which seeks to go beyond the popular \"transformer\" architecture used by most of today's LLMs such as ChatGPT and Gemini, hasraised $20 million in a bridge SAFE round at a $750 million valuation cap, bringing its total funding to nearly $60 million, VentureBeat can exclusively reveal.The round, completed in u",
-    "image_url": "",
-    "published_date": "2025-11-03",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:50.909617",
-    "description_fr": "The buzzed-about but still stealthy New York City startupAugmented Intelligence Inc (AUI), which seeks to go beyond the popular \"transformer\" architecture used by most of today's LLMs such as ChatGPT and Gemini, hasraised $20 million in a bridge SAFE round at a $750 million valuation cap, bringing its total funding to nearly $60 million, VentureBeat can exclusively reveal.The round, completed in u",
-    "title_fr": "The beginning of the end of the transformer era? Neuro-symbolic AI startup AUI announces new funding at $750M valuation"
-  },
-  {
-    "title": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot",
-    "url": "https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/",
-    "description": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself.",
-    "image_url": "https://media.wired.com/photos/6902580e3915279a80da75b9/master/pass/gear-chatbot-copypaste-2148925760-2200190561.jpg",
-    "published_date": "2025-11-03",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:53.785654",
-    "description_fr": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself.",
-    "title_fr": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot"
-  },
-  {
-    "title": "OpenAI spreads $600B cloud AI bet across AWS, Oracle, Microsoft",
-    "url": "https://www.artificialintelligence-news.com/news/openai-spreads-600b-cloud-ai-bet-aws-oracle-microsoft/",
-    "description": "OpenAI is on a spending spree to secure its AI compute supply chain, signing a new deal with AWS as part of its multi-cloud strategy. The company recently ended its exclusive cloud-computing partnership with Microsoft. It has since allocated a reported $250 billion back to Microsoft, $300 billion to Oracle, and now, $38 billion to […]The postOpenAI spreads $600B cloud AI bet across AWS, Oracle, Mi",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
-    "published_date": "2025-11-03",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:56.299866",
-    "description_fr": "OpenAI is on a spending spree to secure its AI compute supply chain, signing a new deal with AWS as part of its multi-cloud strategy. The company recently ended its exclusive cloud-computing partnership with Microsoft. It has since allocated a reported $250 billion back to Microsoft, $300 billion to Oracle, and now, $38 billion to […]The postOpenAI spreads $600B cloud AI bet across AWS, Oracle, Mi",
-    "title_fr": "OpenAI spreads $600B cloud AI bet across AWS, Oracle, Microsoft"
-  },
-  {
-    "title": "AI browsers are a significant security threat",
-    "url": "https://www.artificialintelligence-news.com/news/ai-browser-security-issue-shadow-ai-malware/",
-    "description": "Among the explosion of AI systems, AI web browsers such as Fellou and Comet from Perplexity have begun to make appearances on the corporate desktop. Such applications are described as the next evolution of the humble browser, and come with AI features built in; they can read and summarise web pages – and, at their […]The postAI browsers are a significant security threatappeared first onAI News.",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-    "published_date": "2025-11-03",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:56.301600",
-    "description_fr": "Among the explosion of AI systems, AI web browsers such as Fellou and Comet from Perplexity have begun to make appearances on the corporate desktop. Such applications are described as the next evolution of the humble browser, and come with AI features built in; they can read and summarise web pages – and, at their […]The postAI browsers are a significant security threatappeared first onAI News.",
-    "title_fr": "AI browsers are a significant security threat"
-  },
-  {
-    "title": "Igor Carron (LightOn) : \"LightOn est un baromètre de l'IA générative en Europe\"",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545763-igor-carron/",
-    "description": "Igor Carron est le président directeur général et cofondateur de LightOn. Il revient pour le JDN sur la stratégie de l'entreprise un an après l'IPO en novembre 2024.",
-    "image_url": "https://img-0.journaldunet.com/Deuu6Zcle2wg3WWGbHtqhqyMCeg=/1280x/smart/723199a8929e4f7ea3f0ceb804afd02f/ccmcms-jdn/39528965.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.823384",
-    "description_fr": "Igor Carron est le président directeur général et cofondateur de LightOn. Il revient pour le JDN sur la stratégie de l'entreprise un an après l'IPO en novembre 2024.",
-    "title_fr": "Igor Carron (LightOn) : \"LightOn est un baromètre de l'IA générative en Europe\""
-  },
-  {
-    "title": "La course à l'IA : pourquoi l'attentisme devient risqué pour les directions financières",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545469-la-course-a-l-ia-pourquoi-l-attentisme-devient-risque-pour-les-directions-financieres/",
-    "description": "Nous assistons à un tournant technologique inédit, et la révolution d'internet paraît presque modeste en comparaison.",
-    "image_url": "https://img-0.journaldunet.com/7iIXCDWZ7s7jyRgYRBwvPKX7cnQ=/1280x/smart/4e721e7f41f74240be385011473a6ad5/user-jdn/39528411-axel-demazy.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.829433",
-    "description_fr": "Nous assistons à un tournant technologique inédit, et la révolution d'internet paraît presque modeste en comparaison.",
-    "title_fr": "La course à l'IA : pourquoi l'attentisme devient risqué pour les directions financières"
-  },
-  {
-    "title": "Bâtir une IA qui connaît votre entreprise mieux que personne",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545465-batir-une-ia-qui-connait-votre-entreprise-mieux-que-personne/",
-    "description": "À l'ère où l'intelligence artificielle redéfinit les standards de productivité et d'innovation, une question se pose : comment faire pour que cette technologie comprenne réellement votre entreprise ?",
-    "image_url": "https://img-0.journaldunet.com/x4ywclvbEsOd5yZClNGXN56vEk8=/1280x/smart/2ecce41276e84b148f97babdb7753b22/user-jdn/39528401-nabila-guennouni.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.829812",
-    "description_fr": "À l'ère où l'intelligence artificielle redéfinit les standards de productivité et d'innovation, une question se pose : comment faire pour que cette technologie comprenne réellement votre entreprise ?",
-    "title_fr": "Bâtir une IA qui connaît votre entreprise mieux que personne"
-  },
-  {
-    "title": "IA et e-commerce : quand l'intelligence artificielle redessine le commerce en ligne",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545457-ia-et-e-commerce-quand-l-intelligence-artificielle-redessine-le-commerce-en-ligne/",
-    "description": "L'intelligence artificielle transforme le e-commerce : personnalisation, automatisation et logistique optimisée font du commerce en ligne un modèle plus performant et centré sur l'expérience client.",
-    "image_url": "https://img-0.journaldunet.com/vXzvKnLmlAVyBiLKs3dSYor8z4g=/1280x/smart/928f2e5c5e924715a65071ce56549998/user-jdn/10037790-olivier-robe.jpg",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.830208",
-    "description_fr": "L'intelligence artificielle transforme le e-commerce : personnalisation, automatisation et logistique optimisée font du commerce en ligne un modèle plus performant et centré sur l'expérience client.",
-    "title_fr": "IA et e-commerce : quand l'intelligence artificielle redessine le commerce en ligne"
-  },
-  {
-    "title": "Sora 2 vs Veo 3.1 : quelle est la meilleure IA pour la génération vidéo ?",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545485-sora-2-vs-veo-3-1-quelle-est-la-meilleure-ia-pour-la-generation-video/",
-    "description": "Nous avons comparé les performances des derniers modèles de génération vidéo d'OpenAI et de DeepMind sur la qualité et la précision des vidéos générées. Les résultats sont intéressants.",
-    "image_url": "https://img-0.journaldunet.com/L5GHaKMTpx5feZsiT0z7V5Y2Nl8=/1280x/smart/7813d4f3b99147728412a0dd1db82ace/ccmcms-jdn/39528467.png",
-    "published_date": "2025-11-03",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-03T18:30:59.830587",
-    "description_fr": "Nous avons comparé les performances des derniers modèles de génération vidéo d'OpenAI et de DeepMind sur la qualité et la précision des vidéos générées. Les résultats sont intéressants.",
-    "title_fr": "Sora 2 vs Veo 3.1 : quelle est la meilleure IA pour la génération vidéo ?"
   }
 ]
