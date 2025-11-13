@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-13T01:47:52.254696",
-    "description_fr": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
-    "title_fr": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum"
+    "description_fr": "Cet addendum à la carte système GPT-5 fournit des mesures de sécurité mises à jour pour GPT-5.1 Instantané et Réflexion, y compris de nouvelles évaluations de la santé mentale et de la dépendance émotionnelle.",
+    "title_fr": "GPT-5.1 Addendum à la carte du système de pensée instantanée et GPT-5.1"
   },
   {
     "title": "GPT-5.1: A smarter, more conversational ChatGPT",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-13T01:47:52.255069",
-    "description_fr": "We’re upgrading the GPT-5 series with warmer, more capable models and new ways to customize ChatGPT’s tone and style. GPT-5.1 starts rolling out today to paid users.",
-    "title_fr": "GPT-5.1: A smarter, more conversational ChatGPT"
+    "description_fr": "Nous mettons à niveau la série GPT-5 avec des modèles plus chauds et plus performants et de nouvelles façons de personnaliser le ton et le style de ChatGPT. GPT-5.1 commence à être déployé aujourd'hui pour les utilisateurs payants.",
+    "title_fr": "GPT-5.1 : Un ChatGPT plus intelligent et plus conversationnel"
   },
   {
     "title": "AWS and OpenAI announce multi-year strategic partnership",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-13T01:47:52.256972",
-    "description_fr": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
-    "title_fr": "AWS and OpenAI announce multi-year strategic partnership"
+    "description_fr": "OpenAI et AWS ont conclu un partenariat pluriannuel de 38 milliards de $ pour faire évoluer les charges de travail avancées de l'IA. AWS fournira une infrastructure et une capacité de calcul de classe mondiale pour alimenter la prochaine génération de modèles d'OpenAI.",
+    "title_fr": "AWS et OpenAI annoncent un partenariat stratégique pluriannuel"
   },
   {
     "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:47:59.418404",
-    "description_fr": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
-    "title_fr": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake"
+    "description_fr": "Tchad : L'IDE Brainrot est un produit réel qui associe le codage vibratoire à des activités de brainrot comme le jeu, Tinder et les jeux.",
+    "title_fr": "« Chad : The Brainrot IDE » est un nouveau produit soutenu par Y Combinator si sauvage que les gens pensaient qu'il était faux"
   },
   {
     "title": "ElevenLabs strike deals with celebs to create AI audio",
@@ -61,8 +61,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:47:59.418725",
-    "description_fr": "ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices.",
-    "title_fr": "ElevenLabs strike deals with celebs to create AI audio"
+    "description_fr": "ElevenLabs a conclu un accord avec les acteurs Michael Caine et Matthew McConaughey pour générer leurs voix grâce à l'IA.",
+    "title_fr": "ElevenLabs conclut des accords avec des célébrités pour créer un son IA"
   },
   {
     "title": "Court rules that OpenAI violated German copyright law; ordered it to pay damages",
@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:47:59.419055",
-    "description_fr": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
-    "title_fr": "Court rules that OpenAI violated German copyright law; ordered it to pay damages"
+    "description_fr": "Un tribunal allemand a statué que le ChatGPT d'OpenAI violait les lois nationales sur le droit d'auteur en formant ses modèles linguistiques sur les œuvres musicales sous licence sans autorisation.",
+    "title_fr": "Le tribunal statue qu'OpenAI a violé la loi allemande sur le droit d'auteur ; lui a ordonné de payer des dommages-intérêts"
   },
   {
     "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:00.517217",
-    "description_fr": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.Chinese social networking companyWeibo's AI division recently released its open source VibeThinker-1.5B—a 1.5 billion parameter large language model (LLM) that is a fine-tuned variant of rival Chinese tech firmAlibaba's Qwen2.5-Math-1.5B.It's available now for free download and usage b",
-    "title_fr": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget"
+    "description_fr": "Un autre jour à la fin de 2025, un autre résultat impressionnant d'une société chinoise d'intelligence artificielle open source.La division IA de Weibo, société chinoise de réseautage social, a récemment publié son VibeThinker-1.5B open source - un modèle grand langage (LLM) à 1,5 milliard de paramètres qui est une variante affinée de la société de technologie chinoise rivale Qwen2.5-Math-1.5B.Il est maintenant disponible en téléchargement et en utilisation gratuits b",
+    "title_fr": "Le nouveau modèle d'IA open source VibeThinker-1.5B de Weibo surpasse DeepSeek-R1 avec un budget post-formation de 7 800 $"
   },
   {
     "title": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
@@ -100,8 +100,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:00.525285",
-    "description_fr": "ChatGPT is about to become faster and more conversational asOpenAIupgrades itsflagship model GPT-5to GPT-5.1.OpenAIannouncedtwo updates to the GPT-5 series: GPT-5.1 Instant and GPT-5.1 Thinking. Both models are now accessible on ChatGPT.GPT-5.1 Instant, essentially the default and most-used model, is now “warmer, more intelligent, and better at following your instructions,” according to OpenAI. Me",
-    "title_fr": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5"
+    "description_fr": "ChatGPT est sur le point de devenir plus rapide et plus conversationnel à mesure que OpenAI met à niveau son modèle phare GPT-5 vers GPT-5.1.OpenAIannonce deux mises à jour de la série GPT-5 : GPT-5.1 Instantané et GPT-5.1 Pensée. Les deux modèles sont maintenant accessibles sur ChatGPT.GPT-5.1 Instant, essentiellement le modèle par défaut et le plus utilisé, est maintenant « plus chaud, plus intelligent et mieux à suivre vos instructions », selon OpenAI. Moi",
+    "title_fr": "OpenAI redémarre l'expérience ChatGPT avec GPT-5.1 après des critiques mitigées de GPT-5"
   },
   {
     "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
@@ -113,8 +113,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-13T01:48:02.849072",
-    "description_fr": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
-    "title_fr": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities"
+    "description_fr": "De nouveaux contrôles tentent de plaire aux critiques des deux côtés avec un équilibre entre fade et formateur d'habitudes.",
+    "title_fr": "OpenAI marche sur une corde raide délicate avec les huit nouvelles personnalités de GPT-5.1"
   },
   {
     "title": "Anthropic’s Claude Takes Control of a Robot Dog",
@@ -126,8 +126,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:03.676183",
-    "description_fr": "Anthropic believes AI models will increasingly reach into the physical world. To understand where things are headed, it asked Claude to program a quadruped.",
-    "title_fr": "Anthropic’s Claude Takes Control of a Robot Dog"
+    "description_fr": "Anthropic pense que les modèles d'IA atteindront de plus en plus le monde physique. Pour comprendre où les choses vont, il a demandé à Claude de programmer un quadrupède.",
+    "title_fr": "Claude d'Anthropic prend le contrôle d'un chien robot"
   },
   {
     "title": "OpenAI, la visibilité à tout-va",
@@ -139,7 +139,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:09.281800",
-    "description_fr": "OpenAI impose ses innovations via la \"stratégie du fait accompli\", au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
+    "description_fr": "OpenAI impose ses innovations via la « stratégie du fait accompli », au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
     "title_fr": "OpenAI, la visibilité à tout-va"
   },
   {
@@ -165,7 +165,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:09.282627",
-    "description_fr": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent infrastructures, ressources et recherche.",
+    "description_fr": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent les infrastructures, les ressources et la recherche.",
     "title_fr": "L'intelligence artificielle ou la nouvelle géonumérique du pouvoir"
   },
   {
@@ -191,8 +191,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.014825",
-    "description_fr": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.[Read More]",
-    "title_fr": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera"
+    "description_fr": "Insta360 a annoncé un tas de produits et de packs pour sa caméra d'action Ace Pro 2 co-conçue par Leica, y compris de nouveaux objectifs, une poignée, des profils de couleurs Leica supplémentaires et une imprimante de poche portable sauvage qui fait de l'Ace Pro 2 la première caméra d'action au monde devenue caméra instantanée.[En savoir plus]",
+    "title_fr": "Bizarre Add-On transforme l'Insta360 Ace Pro 2 en une caméra instantanée"
   },
   {
     "title": "Canon Should Revisit Novel Touch Controls, and Here’s How",
@@ -204,8 +204,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.015501",
-    "description_fr": "The maligned Multifunction Touch Bar, commonly called the \"Touch Bar,\" on the original Canon EOS R mirrorless camera is an excellent example of what happens when interesting, even good, ideas try to do too much. However, it's time for Canon to revisit the Touch Bar, or at least the underlying concept of expanded touch on modern mirrorless cameras. Technology is better now, lessons have been learne",
-    "title_fr": "Canon Should Revisit Novel Touch Controls, and Here’s How"
+    "description_fr": "La barre tactile multifonction mal conçue, communément appelée « barre tactile », sur l'appareil photo sans miroir Canon EOS R d'origine est un excellent exemple de ce qui se passe lorsque des idées intéressantes, voire bonnes, essaient d'en faire trop. Cependant, il est temps pour Canon de revoir la Touch Bar, ou du moins le concept sous-jacent du toucher étendu sur les appareils photo sans miroir modernes. La technologie est meilleure maintenant, les leçons ont été apprises",
+    "title_fr": "Canon devrait revoir les nouvelles commandes tactiles, et voici comment"
   },
   {
     "title": "This is What a Meteor Looks Like from an Airplane",
@@ -217,8 +217,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.016087",
-    "description_fr": "A stewardess captured stunning video of an exceptionally bright meteor while \"handing out sandwiches\" on a flight.[Read More]",
-    "title_fr": "This is What a Meteor Looks Like from an Airplane"
+    "description_fr": "Une hôtesse de l'air a capturé une vidéo époustouflante d'un météore exceptionnellement brillant tout en « distribuant des sandwichs » sur un vol.[En savoir plus]",
+    "title_fr": "Voici à quoi ressemble un météore vu d'un avion"
   },
   {
     "title": "Missed the Incredible Auroras? You Should Have Another Chance Tonight",
@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.016705",
-    "description_fr": "Last night, photographers across the United States, as far south as Florida and Texas, were treated to auroras thanks to a severe (G4) geomagnetic storm. The fun is far from over, as experts predict that at least strong (G3) conditions will persist while severe conditions are expected.[Read More]",
-    "title_fr": "Missed the Incredible Auroras? You Should Have Another Chance Tonight"
+    "description_fr": "La nuit dernière, des photographes à travers les États-Unis, aussi loin au sud que la Floride et le Texas, ont eu droit à des aurores boréales grâce à une violente tempête géomagnétique (G4). Le plaisir est loin d'être terminé, car les experts prédisent qu'au moins des conditions fortes (G3) persisteront alors que des conditions sévères sont attendues.[En savoir plus]",
+    "title_fr": "Vous avez raté les incroyables aurores boréales ? Vous devriez avoir une autre chance ce soir"
   },
   {
     "title": "These 10 Award-Winning Drone Photos Bring Brilliant Photography to the Skies",
@@ -243,8 +243,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.017287",
-    "description_fr": "The Siena Drone Photo Awards 2025 winners have been revealed, showcasing incredible aerial photography across a diverse range of subjects, from landscapes to wildlife and even people.[Read More]",
-    "title_fr": "These 10 Award-Winning Drone Photos Bring Brilliant Photography to the Skies"
+    "description_fr": "Les lauréats des Siena Drone Photo Awards 2025 ont été révélés, présentant des photographies aériennes incroyables sur un large éventail de sujets, des paysages à la faune et même aux personnes.[En savoir plus]",
+    "title_fr": "Ces 10 photos de drones primées apportent une photographie brillante dans les cieux"
   },
   {
     "title": "The Enduring Desirability of the Fujifilm X-Pro",
@@ -256,8 +256,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.017886",
-    "description_fr": "Last week, Vogue France published a short snippet from an interview where Jisoo -- an incredibly popular member of the K-pop group Blackpink -- talks about her love of the Fujifilm X-Pro3. Describing the photos it takes as \"cinematic\" and \"atmospheric,\" she also touches on another angle of why she and her friends like it: how it looks.[Read More]",
-    "title_fr": "The Enduring Desirability of the Fujifilm X-Pro"
+    "description_fr": "La semaine dernière, Vogue France a publié un court extrait d'une interview où Jisoo - une membre incroyablement populaire du groupe K-pop Blackpink - parle de son amour pour le Fujifilm X-Pro3. Décrivant les photos qu'elle prend comme « cinématographiques » et « atmosphériques », elle aborde également un autre angle de la raison pour laquelle elle et ses amis l'aiment : son apparence.[En savoir plus]",
+    "title_fr": "La désirabilité durable du Fujifilm X-Pro"
   },
   {
     "title": "Is This Adorable Video of Two Cats AI-Generated?",
@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.023584",
-    "description_fr": "A cute and hilarious video of two cats has stumped the internet as it can't make up its mind whether it's real or AI-generated.[Read More]",
-    "title_fr": "Is This Adorable Video of Two Cats AI-Generated?"
+    "description_fr": "Une vidéo mignonne et hilarante de deux chats a déconcerté Internet car elle ne peut pas se décider si elle est réelle ou générée par l'IA.[En savoir plus]",
+    "title_fr": "Cette adorable vidéo de deux chats est-elle générée par l'IA ?"
   },
   {
     "title": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera",
@@ -282,8 +282,34 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:39.242777",
-    "description_fr": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.",
-    "title_fr": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera"
+    "description_fr": "Insta360 a annoncé un tas de produits et de packs pour sa caméra d'action Ace Pro 2 co-conçue par Leica, y compris de nouveaux objectifs, une poignée, des profils de couleurs Leica supplémentaires et une imprimante de poche portable sauvage qui fait de l'Ace Pro 2 la première caméra d'action au monde devenue caméra instantanée.[En savoir plus]",
+    "title_fr": "Bizarre Add-On transforme l'Insta360 Ace Pro 2 en une caméra instantanée"
+  },
+  {
+    "title": "How NVIDIA GeForce RTX GPUs Power Modern Creative Workflows",
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-adobe-max-creativity/",
+    "description": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForceRead Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/max-2025-nv-blog-1280x680-1.jpg",
+    "published_date": "2025-11-13",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-13T06:34:30.533717",
+    "description_fr": "When inspiration strikes, nothing kills momentum faster than a slow tool or a frozen timeline. Creative apps should feel fast and fluid — an extension of imagination that keeps up with every idea. NVIDIA RTX GPUs — backed by the NVIDIA Studio platform — help ideas move faster, keeping the process smooth and intuitive. GeForceRead Article",
+    "title_fr": "How NVIDIA GeForce RTX GPUs Power Modern Creative Workflows"
+  },
+  {
+    "title": "Deutsche Telekom and NVIDIA Launch Industrial AI Cloud — a New Era for Germany’s Industrial Transformation",
+    "url": "https://blogs.nvidia.com/blog/germany-industrial-ai-cloud-launch/",
+    "description": "In Berlin on Tuesday, Deutsche Telekom and NVIDIA unveiled the world’s first Industrial AI Cloud, a sovereign, enterprise-grade platform set to go live in early 2026. The partnership brings together Deutsche Telekom’s trusted infrastructure and operations and NVIDIA AI and Omniverse digital twin platforms to power the AI era of Germany’s industrial transformation. “We haveRead Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/4476900-jhh-dt-ai-cloud-ann-blog-1280x680-1.jpg",
+    "published_date": "2025-11-13",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-13T06:34:30.534068",
+    "description_fr": "In Berlin on Tuesday, Deutsche Telekom and NVIDIA unveiled the world’s first Industrial AI Cloud, a sovereign, enterprise-grade platform set to go live in early 2026. The partnership brings together Deutsche Telekom’s trusted infrastructure and operations and NVIDIA AI and Omniverse digital twin platforms to power the AI era of Germany’s industrial transformation. “We haveRead Article",
+    "title_fr": "Deutsche Telekom and NVIDIA Launch Industrial AI Cloud — a New Era for Germany’s Industrial Transformation"
   },
   {
     "title": "Expanding Stargate to Michigan",
@@ -945,8 +971,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:11.903916",
-    "description_fr": "À mesure que les systèmes logiciels deviennent plus complexes et que les outils d'IA génèrent du code plus rapidement que jamais, un problème fondamental s'aggrave : les ingénieurs se noient dans le travail de débogage, passant jusqu'à la moitié de leur temps à rechercher les causes des défaillances logicielles au lieu de créer de nouveaux produits. Le défi est devenu si aigu qu'il crée une nouvelle catégorie d'outillage — des agents d'IA capables de diagnostiquer un échec de production",
-    "title_fr": "Comment l'IA déductive a permis à DoorDash d'économiser 1 000 heures d'ingénierie en automatisant le débogage du logiciel"
+    "description_fr": "As software systems grow more complex and AI tools generate code faster than ever, a fundamental problem is getting worse:Engineers are drowning in debugging work, spending up to half their time hunting down the causes of software failures instead of building new products. The challenge has become so acute that it's creating a new category of tooling — AI agents that can diagnose production failur",
+    "title_fr": "How Deductive AI saved DoorDash 1,000 engineering hours by automating software debugging"
   },
   {
     "title": "Meta’s star AI scientist Yann LeCun plans to leave for own startup",
@@ -958,8 +984,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-12T18:31:14.050127",
-    "description_fr": "Le pionnier de l'IA serait frustré par le passage de Meta de la recherche aux sorties rapides de produits.",
-    "title_fr": "Yann LeCun, scientifique en IA vedette de Meta, prévoit de partir pour sa propre startup"
+    "description_fr": "AI pioneer reportedly frustrated with Meta's shift from research to rapid product releases.",
+    "title_fr": "Meta’s star AI scientist Yann LeCun plans to leave for own startup"
   },
   {
     "title": "The AI Boom Is Fueling a Need for Speed in Chip Networking",
@@ -971,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:15.381421",
-    "description_fr": "La technologie de mise en réseau de nouvelle génération, parfois alimentée par la lumière au lieu de l'électricité, est en train de devenir un élément essentiel de l'infrastructure d'IA.",
-    "title_fr": "Le boom de l'IA alimente un besoin de vitesse dans le réseautage de puces"
+    "description_fr": "Next-gen networking tech, sometimes powered by light instead of electricity, is emerging as a critical piece of AI infrastructure.",
+    "title_fr": "The AI Boom Is Fueling a Need for Speed in Chip Networking"
   },
   {
     "title": "Baidu ERNIE multimodal AI beats GPT and Gemini in benchmarks",
@@ -984,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:17.540565",
-    "description_fr": "Le dernier modèle ERNIE de Baidu, une IA multimodale super efficace, bat GPT et Gemini sur des repères clés et cible les données d'entreprise souvent ignorées par les modèles axés sur le texte. Pour de nombreuses entreprises, des informations précieuses sont verrouillées dans des schémas d'ingénierie, des flux vidéo en usine, des analyses médicales et des tableaux de bord logistiques. Le nouveau modèle de Baidu, ERNIE-4.5-VL-28B-A3B-Thinking, est conçu pour combler cette lacune.",
-    "title_fr": "L'IA multimodale Baidu ERNIE bat GPT et Gemini dans les benchmarks"
+    "description_fr": "Baidu’s latest ERNIE model, a super-efficient multimodal AI, is beating GPT and Gemini on key benchmarks and targets enterprise data often ignored by text-focused models. For many businesses, valuable insights are locked in engineering schematics, factory-floor video feeds, medical scans, and logistics dashboards. Baidu’s new model, ERNIE-4.5-VL-28B-A3B-Thinking, is designed to fill this gap. What",
+    "title_fr": "Baidu ERNIE multimodal AI beats GPT and Gemini in benchmarks"
   },
   {
     "title": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark",
@@ -997,8 +1023,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-12T18:31:19.210931",
-    "description_fr": "À l'ère du raisonnement de l'IA, la formation de modèles plus intelligents et plus capables est essentielle pour faire évoluer l'intelligence. Fournir les performances massives pour répondre à cette nouvelle ère nécessite des percées à travers les GPU, les processeurs, les cartes réseau, les réseaux évolutifs et évolutifs, les architectures système et des montagnes de logiciels et d'algorithmes. Dans MLPerf Training v5.1 — le dernier tour d'une longue sérieLire l'article",
-    "title_fr": "NVIDIA gagne chaque formation MLPerf v5.1 Benchmark"
+    "description_fr": "In the age of AI reasoning, training smarter, more capable models is critical to scaling intelligence. Delivering the massive performance to meet this new age requires breakthroughs across GPUs, CPUs, NICs, scale-up and scale-out networking, system architectures, and mountains of software and algorithms. In MLPerf Training v5.1 — the latest round in a long-running seriesRead Article",
+    "title_fr": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark"
   },
   {
     "title": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs",
@@ -1010,8 +1036,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-12T18:31:19.211354",
-    "description_fr": "Les assistants d'IA basés sur un modèle de grand langage (LLM) sont de puissants outils de productivité, mais sans le contexte et les informations appropriés, ils peuvent avoir du mal à fournir des réponses nuancées et pertinentes. Bien que la plupart des applications de chat basées sur LLM permettent aux utilisateurs de fournir quelques fichiers pour le contexte, ils n'ont souvent pas accès à toutes les informations enfouies dans les diapositives, les notes, les PDF et les imagesLire l'article",
-    "title_fr": "Plus rapide qu'un clic : la recherche d'agent d'hyperlien est maintenant disponible sur les PC NVIDIA RTX"
+    "description_fr": "Large language model (LLM)-based AI assistants are powerful productivity tools, but without the right context and information, they can struggle to provide nuanced, relevant answers. While most LLM-based chat apps allow users to supply a few files for context, they often don’t have access to all the information buried across slides, notes, PDFs and imagesRead Article",
+    "title_fr": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs"
   },
   {
     "title": "Yann LeCun quitte Meta : le désaccord qui révèle la crise de vision de l'IA",
@@ -1023,7 +1049,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:21.800455",
-    "description_fr": "Le départ de Yann LeCun met en lumière la crise de vision qui s'oppose à la science de long terme à la logique économique de court terme dans l'air.",
+    "description_fr": "Le départ de Yann LeCun met en lumière la crise de vision qui oppose la science de long terme à la logique économique de court terme dans l'IA.",
     "title_fr": "Yann LeCun quitte Meta : le désaccord qui révèle la crise de vision de l'IA"
   },
   {
@@ -1036,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:21.800990",
-    "description_fr": "Dans un contexte de numérisation accélérée, l'intelligence artificielle révolutionne la gestion documentaire.",
-    "title_fr": "Productivité et sécurité : comment l'a réinvente la gestion des documents sensibles"
+    "description_fr": "Dans un contexte de numérisation accéléré, l'intelligence artificielle révolutionne la gestion documentaire.",
+    "title_fr": "Productivité et sécurité : comment l'IA réinvente la gestion des documents sensibles"
   },
   {
     "title": "L'IA est-elle réellement au service de l'humanité",
@@ -1050,7 +1076,7 @@
     "category": "general",
     "collected_at": "2025-11-12T18:31:21.801486",
     "description_fr": "L'analyse du comportement humain par l'intelligence artificielle est une réalité, elle s'impose dans le domaine de la compréhension des interactions sociales, des décisions d'achat et des processus cognitifs. Cette technologie, L'IA désormais déployée dans de nombreux secteurs, soulève des questions essentielles sur ses objectifs réels et ses implications pour la société.",
-    "title_fr": "L'IA est réellement au service de l'humanité"
+    "title_fr": "L'IA est-elle réellement au service de l'humanité"
   },
   {
     "title": "L'intelligence artificielle, pression évolutive et levier d'éducation augmentée",
@@ -1062,8 +1088,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:21.801936",
-    "description_fr": "Nous proposons d'explorer les enjeux contemporains liés à l'intégration de l'intelligence artificielle dans les systèmes éducatifs, en mobilisant une approche interdisciplinaire.",
-    "title_fr": "Intelligence artificielle, pression évolutive et levier d'éducation augmentée"
+    "description_fr": "Nous proposons d'explorer les enjeux contemporains liés à l'intégration de l'intelligence artificielle dans les systèmes éducatifs, en mobilisant une approche interdisciplinaires.",
+    "title_fr": "L'intelligence artificielle, pression évolutive et levier d'éducation augmentée"
   },
   {
     "title": "Paage lève près de 2 millions pour transformer les followers en clients grâce à l'IA",
@@ -1088,8 +1114,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-12T18:31:21.806658",
-    "description_fr": "Igor Carron est le président directeur général et cofondateur de LightOn. Il revient pour le JDN sur la stratégie de l'entreprise un an après l'OPI en novembre 2024.",
-    "title_fr": "Igor Carron (LightOn) : « LightOn est un baromètre de l'IA générative en Europe »"
+    "description_fr": "Igor Carron est le président directeur général et cofondateur de LightOn. Il revient pour le JDN sur la stratégie de l'entreprise un an après l'IPO en novembre 2024.",
+    "title_fr": "Igor Carron (LightOn) : \"LightOn est un baromètre de l'IA générative en Europe\""
   },
   {
     "title": "Lexar’s CFexpress Cards for Sony Are Now Available in up to 2TB Capacities",
@@ -1101,8 +1127,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.152989",
-    "description_fr": "Lexar a annoncé que ses cartes CFexpress 4.0 de type A Gold et Silver, le type utilisé par les appareils photo Sony, sont désormais disponibles dans des capacités allant jusqu'à 2 To.[En savoir plus]",
-    "title_fr": "Les cartes CFexpress de Lexar pour Sony sont maintenant disponibles dans des capacités allant jusqu'à 2 To"
+    "description_fr": "Lexar has announced that its Gold and Silver tier CFexpress 4.0 type A cards -- the type Sony cameras use -- are now available in capacities up to 2 TB.[Read More]",
+    "title_fr": "Lexar’s CFexpress Cards for Sony Are Now Available in up to 2TB Capacities"
   },
   {
     "title": "Meike’s New 85mm f/1.8 SE II for E, L, and Z Mount Costs Just $230",
@@ -1114,8 +1140,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.153695",
-    "description_fr": "Meike a lancé son nouvel objectif abordable 85 mm f/1,8 SE II pour les appareils photo plein cadre. L'amorce de portrait équipée de la mise au point automatique est maintenant disponible dans les montures Sony E, L-Mount et Nikon Z pour seulement 230 $ .[En savoir plus]",
-    "title_fr": "Le nouveau 85 mm f/1,8 SE II de Meike pour les montures E, L et Z ne coûte que 230 $"
+    "description_fr": "Meike has released its new, affordable 85mm f/1.8 SE II lens for full-frame cameras. The autofocus-equipped portrait prime is available now in Sony E, L-Mount, and Nikon Z mounts for just $230.[Read More]",
+    "title_fr": "Meike’s New 85mm f/1.8 SE II for E, L, and Z Mount Costs Just $230"
   },
   {
     "title": "The OWC StudioStack Adds 32TB and 3 Thunderbolt Ports to the Mac Studio",
@@ -1127,8 +1153,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.154423",
-    "description_fr": "Other World Computing (OWC) a annoncé le StudioStack, un top mince pour le Mac Studio qui ajoute jusqu'à 32 To de stockage, trois ports USB-A 3.2 10 Go/s et trois ports Thunderbolt 5 (en plus d'un port d'affichage Thunderbolt).[En savoir plus]",
-    "title_fr": "L'OWC StudioStack ajoute 32 To et 3 ports Thunderbolt au Mac Studio"
+    "description_fr": "Other World Computing (OWC) has announced the StudioStack, a slim topper for the Mac Studio that adds up to 32TB of storage, three USB-A 3.2 10 GB/s ports, and three Thunderbolt 5 ports (in addition to one Thunderbolt display port).[Read More]",
+    "title_fr": "The OWC StudioStack Adds 32TB and 3 Thunderbolt Ports to the Mac Studio"
   },
   {
     "title": "Flickr’s Data Lifeboat Will Preserve Photos and Their Context for 100 Years",
@@ -1140,8 +1166,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.155136",
-    "description_fr": "La Fondation Flickr, une organisation indépendante à but non lucratif dédiée à la préservation de la culture visuelle partagée dans le monde, a annoncé la sortie en version bêta d'un nouvel outil d'archivage conçu pour préserver les photos et leur contexte social environnant pendant 100 ans : Data Lifeboat.[En savoir plus]",
-    "title_fr": "Le bateau de sauvetage de données de Flickr conservera les photos et leur contexte pendant 100 ans"
+    "description_fr": "The Flickr Foundation, an independent non-profit organization dedicated to preserving the world’s shared visual culture, has announced the beta release of a new archiving tool that is designed to preserve photos and their surrounding social context for 100 years: Data Lifeboat.[Read More]",
+    "title_fr": "Flickr’s Data Lifeboat Will Preserve Photos and Their Context for 100 Years"
   },
   {
     "title": "Anastasia Samoylova’s 2,000 Mile Journey Across America Retraces Photography Greats",
@@ -1153,8 +1179,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.155787",
-    "description_fr": "Inspirée par de grands artistes avant elle, la russo-américaine Anastasia Samoylova a entrepris un voyage photographique le long de l'historique U.S. Route 1, qui commence dans son État natal de Floride et se termine dans le Maine.[En savoir plus]",
-    "title_fr": "Le voyage de 2 000 milles d'Anastasia Samoylova à travers l'Amérique rétablit les grands photographes"
+    "description_fr": "Inspired by great artists before her, Russian-American Anastasia Samoylova took a photographic journey along the historic U.S. Route 1 -- beginning in her home state of Florida and ending in Maine.[Read More]",
+    "title_fr": "Anastasia Samoylova’s 2,000 Mile Journey Across America Retraces Photography Greats"
   },
   {
     "title": "Hip-Hop Legend Method Man Swaps Microphone for a Camera at NFL Game",
@@ -1166,8 +1192,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-12T18:31:27.156452",
-    "description_fr": "La légende du hip-hop et membre du clan Wu-Tang, Method Man, est apparu en marge du match des Jets de New York dimanche, caméra à la main, alors qu'il faisait une apparition surprise en tant que photographe de la NFL.[En savoir plus]",
-    "title_fr": "Hip-Hop Legend Method Man échange son microphone contre un appareil photo lors d'un match de la NFL"
+    "description_fr": "Hip-hop legend and member of the Wu-Tang Clan, Method Man, appeared on the sidelines of the New York Jets game on Sunday, camera in hand, as he made a surprise appearance as an NFL photographer.[Read More]",
+    "title_fr": "Hip-Hop Legend Method Man Swaps Microphone for a Camera at NFL Game"
   },
   {
     "title": "Norm-Preserving Biprojected Abliteration",
@@ -1179,8 +1205,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-12T18:31:42.513938",
-    "description_fr": "Ablitération bi-projetée préservant la norme",
-    "title_fr": "Ablitération bi-projetée préservant la norme"
+    "description_fr": "Norm-Preserving Biprojected Abliteration",
+    "title_fr": "Norm-Preserving Biprojected Abliteration"
   },
   {
     "title": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options",
@@ -1205,8 +1231,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-11T01:47:16.075539",
-    "description_fr": "La plateforme a attiré une base d'utilisateurs éclectique. Plus de la moitié des entreprises Fortune 500 utilisent Lovable pour « stimuler la créativité », selon Osika, qui a insisté sur le fait que la rétention restait forte.",
-    "title_fr": "Lovable dit qu'elle approche les 8 millions d'utilisateurs alors que la startup de codage d'IA âgée d'un an voit plus d'employés d'entreprise"
+    "description_fr": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
+    "title_fr": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees"
   },
   {
     "title": "The circular money problem at the heart of AI’s biggest deals",
@@ -6472,31 +6498,5 @@
     "collected_at": "2025-11-04T12:50:07.793632",
     "description_fr": "Looking at paintings of historical figures, it can be difficult to know whether that's what they really looked like, or whether the painter was being interpretive -- perhaps pressured by the subject.[Read More]",
     "title_fr": "These Historical Figures Lived Long Enough to be Painted and Photographed"
-  },
-  {
-    "title": "The latest AI news we announced in October",
-    "url": "https://blog.google/technology/ai/google-ai-updates-october-2025/",
-    "description": "an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantum AI on a blue abstract background; and a snippet of code with the label Gemini 2.5 Computer Use.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_AI_Recap_hero_still_1.max-600x600.format-webp.webp",
-    "published_date": "2025-11-04",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-04T18:32:00.816255",
-    "description_fr": "an mp4 video featuring three panels of technology: A person wearing an AR headset interacting with virtual map and web screens; the text Google Quantum AI on a blue abstract background; and a snippet of code with the label Gemini 2.5 Computer Use.",
-    "title_fr": "The latest AI news we announced in October"
-  },
-  {
-    "title": "Google Maps can tell Polestar 4 drivers when to merge lanes",
-    "url": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance",
-    "description": "Google Maps is rolling out live lane guidance to drivers of the Google-powered electric Polestar 4. The company announced Tuesday that the new feature relies on the EV’s front-facing camera to “see” lane markings and road signs. That information feeds into Google Map’s AI and provides the driver with customized audio and visual cues about […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-live-lane.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-04",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-04T18:32:03.642228",
-    "description_fr": "Google Maps is rolling out live lane guidance to drivers of the Google-powered electric Polestar 4. The company announced Tuesday that the new feature relies on the EV’s front-facing camera to “see” lane markings and road signs. That information feeds into Google Map’s AI and provides the driver with customized audio and visual cues about […]",
-    "title_fr": "Google Maps can tell Polestar 4 drivers when to merge lanes"
   }
 ]
