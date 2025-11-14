@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T01:46:56.899644",
-    "description_fr": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
-    "title_fr": "How Philips Is scaling AI literacy across 70,000 employees"
+    "description_fr": "Philips développe la maîtrise de l'IA avec ChatGPT Enterprise, en formant 70 000 employés à utiliser l'IA de manière responsable et à améliorer les résultats en matière de soins de santé dans le monde entier.",
+    "title_fr": "Comment Philips étend les connaissances en IA à 70 000 employés"
   },
   {
     "title": "Introducing GPT-5.1 for developers",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T01:46:56.900021",
-    "description_fr": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
-    "title_fr": "Introducing GPT-5.1 for developers"
+    "description_fr": "GPT-5.1 est maintenant disponible dans l'API, apportant un raisonnement adaptatif plus rapide, une mise en cache étendue des invites, des performances de codage améliorées et de nouveaux outils apply_patch et shell.",
+    "title_fr": "Présentation de GPT-5.1 pour les développeurs"
   },
   {
     "title": "Piloting group chats in ChatGPT",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T01:46:56.900444",
-    "description_fr": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together.",
-    "title_fr": "Piloting group chats in ChatGPT"
+    "description_fr": "Nous pilotons des discussions de groupe dans ChatGPT pour simplifier la collaboration. Amenez les autres - et ChatGPT - dans une conversation partagée pour planifier, réfléchir et créer ensemble.",
+    "title_fr": "Pilotage des discussions de groupe dans ChatGPT"
   },
   {
     "title": "Introducing IndQA",
@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T01:46:56.902509",
-    "description_fr": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-    "title_fr": "Introducing IndQA"
+    "description_fr": "OpenAI présente IndQA, une nouvelle référence pour évaluer les systèmes d'IA dans les langues indiennes. Construit avec des experts du domaine, IndQA teste la compréhension et le raisonnement culturels dans 12 langues et 10 domaines de connaissances.",
+    "title_fr": "Présentation d'IndQA"
   },
   {
     "title": "VCs abandon old rules for a ‘funky time’ of investing in AI startups",
@@ -61,8 +61,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:02.799811",
-    "description_fr": "The goalposts are moving for AI startups when it comes to  growth, product features, and just about everything else.",
-    "title_fr": "VCs abandon old rules for a ‘funky time’ of investing in AI startups"
+    "description_fr": "Les objectifs sont en train de bouger pour les startups d'IA en ce qui concerne  la croissance, les caractéristiques des produits et à peu près tout le reste.",
+    "title_fr": "Les sociétés de capital-risque abandonnent les anciennes règles pour un « moment funky » d'investissement dans les startups de l'IA"
   },
   {
     "title": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’",
@@ -74,8 +74,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:02.800151",
-    "description_fr": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
-    "title_fr": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’"
+    "description_fr": "Apple met à jour ses règles de l'App Store pour empêcher les applications de partager des données personnelles avec des IA tierces sans divulgation et autorisation explicite.",
+    "title_fr": "Les nouvelles directives d'examen des applications d'Apple répriment les applications partageant des données personnelles avec une « IA tierce »"
   },
   {
     "title": "Coding assistant Cursor raises $2.3B 5 months after its previous round",
@@ -87,8 +87,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:02.800940",
-    "description_fr": "Cursor plans to use the capital to continue developing Composer, the AI model the vibe-coding startup released in October.",
-    "title_fr": "Coding assistant Cursor raises $2.3B 5 months after its previous round"
+    "description_fr": "Cursor prévoit d'utiliser le capital pour continuer à développer Composer, le modèle d'IA que la startup de vibe-coding a publié en octobre.",
+    "title_fr": "L'assistant de codage Cursor lève 2,3 milliards de $ 5 mois après son tour précédent"
   },
   {
     "title": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more",
@@ -100,8 +100,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:03.883308",
-    "description_fr": "Mere hours after OpenAI updated its flagship foundation modelGPT-5 to GPT-5.1, promising reduced token usage overall and a more pleasant personality with more preset options, Chinese search giantBaidu unveiled its next-generation foundation model, ERNIE 5.0,alongside a suite of AI product upgrades and strategic international expansions.The goal: to position as a global contender in the increasingl",
-    "title_fr": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more"
+    "description_fr": "Quelques heures à peine après qu'OpenAI a mis à jour son modèle de fondation phareGPT-5 en GPT-5.1, promettant une utilisation réduite des jetons dans l'ensemble et une personnalité plus agréable avec plus d'options prédéfinies, le géant chinois de la recherche Baidu a dévoilé son modèle de fondation de nouvelle génération, ERNIE 5.0,ainsi qu'une suite de mises à niveau de produits d'IA et d'expansions internationales stratégiques.L' objectif : se positionner comme un concurrent mondial dans le monde croissant",
+    "title_fr": "Baidu dévoile ERNIE 5, une solution propriétaire qui bat les performances GPT-5 sur les graphiques, la compréhension des documents et plus encore"
   },
   {
     "title": "Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world",
@@ -113,8 +113,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:03.900949",
-    "description_fr": "Alembic Technologieshas raised$145 million in Series Band growth funding at a valuation 13 times higher than its previous round, betting that the next competitive advantage in artificial intelligence will come not from better language models but from proprietary data and causal reasoning.The San Francisco-based startup, which builds AI systems that identifycause-and-effect relationshipsrather than",
-    "title_fr": "Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world"
+    "description_fr": "Alembic Technologies a levé 145 millions de $ en financement de la croissance de Series Band à une valorisation 13 fois supérieure à celle de son tour précédent, pariant que le prochain avantage concurrentiel de l'intelligence artificielle ne proviendra pas de meilleurs modèles de langage, mais de données exclusives et d'un raisonnement causal. La startup basée à San Francisco, qui construit des systèmes d'IA qui identifient les relations de cause à effet plutôt que",
+    "title_fr": "Les GPU fondus Alembic pourchassent l'IA causale — maintenant il fait fonctionner l'un des superordinateurs les plus rapides au monde"
   },
   {
     "title": "OpenAI signs massive AI compute deal with Amazon",
@@ -126,8 +126,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-14T01:47:06.447494",
-    "description_fr": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
-    "title_fr": "OpenAI signs massive AI compute deal with Amazon"
+    "description_fr": "Deal donnera accès à des centaines de milliers de puces Nvidia qui alimentent ChatGPT.",
+    "title_fr": "OpenAI signe un accord massif de calcul IA avec Amazon"
   },
   {
     "title": "A single point of failure triggered the Amazon outage affecting millions",
@@ -139,8 +139,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-14T01:47:06.448343",
-    "description_fr": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
-    "title_fr": "A single point of failure triggered the Amazon outage affecting millions"
+    "description_fr": "Un gestionnaire DNS dans une seule région du réseau tentaculaire d'Amazon a déclenché une débâcle de 16 heures.",
+    "title_fr": "Un seul point de défaillance a déclenché la panne d'Amazon affectant des millions de personnes"
   },
   {
     "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
@@ -152,8 +152,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-14T01:47:06.448544",
-    "description_fr": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-    "title_fr": "Cache poisoning vulnerabilities found in 2 DNS resolving apps"
+    "description_fr": "Au moins un CVE pourrait affaiblir les défenses mises en place à la suite de la divulgation de 2008.",
+    "title_fr": "Vulnérabilités d'empoisonnement du cache trouvées dans 2 applications de résolution DNS"
   },
   {
     "title": "IBM: Data silos are holding back enterprise AI",
@@ -165,8 +165,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:09.738728",
-    "description_fr": "According to IBM, the primary barrier holding back enterprise AI isn’t the technology itself but the persistent issue of data silos. Ed Lovely, VP and Chief Data Officer at IBM, describes data silos as the “Achilles’ heel” of modern data strategy. Lovely made the comments following the release of a new study from the IBM […]The postIBM: Data silos are holding back enterprise AIappeared first onAI ",
-    "title_fr": "IBM: Data silos are holding back enterprise AI"
+    "description_fr": "Selon IBM, le principal obstacle à l'IA d'entreprise n'est pas la technologie elle-même, mais le problème persistant des silos de données. Ed Lovely, vice-président et directeur des données chez IBM, décrit les silos de données comme le « talon d'Achille » de la stratégie de données moderne. Lovely a fait les commentaires suite à la publication d'une nouvelle étude d'IBM […]The postIBM : Data silos are holding back enterprise AIappared first onAI",
+    "title_fr": "IBM : Les silos de données freinent l'IA d'entreprise"
   },
   {
     "title": "AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications",
@@ -178,8 +178,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-14T01:47:12.036758",
-    "description_fr": "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots. The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transformRead Article",
-    "title_fr": "AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications"
+    "description_fr": "Note de l'éditeur : Cet article fait partie de la série de blogs AI On, qui explore les dernières techniques et applications du monde réel de l'IA agentique, des chatbots et des copilotes. La série met également en évidence le logiciel et le matériel NVIDIA alimentant les agents d'IA avancés, qui constituent la base des moteurs de requêtes d'IA qui recueillent des informations et effectuent des tâches pour transformerLire l'article",
+    "title_fr": "AI On : 3 façons d'apporter l'IA agentique aux applications de vision par ordinateur"
   },
   {
     "title": "NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI",
@@ -191,8 +191,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-14T01:47:12.038996",
-    "description_fr": "Monday, Oct. 27, 12:30 p.m. ET How Medium-Sized Cities Are Tackling AI Readiness 🔗 A panel discussion today at GTC Washington, D.C., highlighted a public-private initiative to invigorate the economy of Rancho Cordova, California, with a focus on AI. To bolster innovation, the city is working with the Human Machine Collaboration Institute and NVIDIA onRead Article",
-    "title_fr": "NVIDIA GTC Washington, DC: Live Updates on What’s Next in AI"
+    "description_fr": "Lundi 27 octobre, 12 h 30 ET Comment les villes de taille moyenne s'attaquent à la préparation à l'IA 🔗 Une table ronde aujourd'hui à GTC Washington, DC, a mis en évidence une initiative public-privé visant à dynamiser l'économie de Rancho Cordova, en Californie, en mettant l'accent sur l'IA. Pour renforcer l'innovation, la ville travaille avec le Human Machine Collaboration Institute et NVIDIA surLire l'article",
+    "title_fr": "NVIDIA GTC Washington, DC : mises à jour en direct sur les prochaines étapes de l'IA"
   },
   {
     "title": "Cline : un seul agent de code, tous les LLM, zéro contrainte",
@@ -204,7 +204,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T01:47:13.411728",
-    "description_fr": "Cline peut être utilisé avec la majorité des providers de LLM du marché, y compris ceux open source.",
+    "description_fr": "Cline peut être utilisé avec la majorité des fournisseurs de LLM du marché, y compris ceux open source.",
     "title_fr": "Cline : un seul agent de code, tous les LLM, zéro contrainte"
   },
   {
@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T01:47:17.685684",
-    "description_fr": "We recently reported that the new WideluxX camera revival project has reached its prototype stage. Now, just a few weeks later, a video that the WideluxX's creators promised is available online, shedding more light on the upcoming camera.[Read More]",
-    "title_fr": "The Best Look Yet at Jeff Bridges’ WideluxX Camera Revival Project"
+    "description_fr": "Nous avons récemment signalé que le nouveau projet de revitalisation de la caméra WideluxX a atteint son stade de prototype. Maintenant, quelques semaines plus tard, une vidéo promise par les créateurs du WideluxX est disponible en ligne, apportant plus de lumière sur la prochaine caméra.[En savoir plus]",
+    "title_fr": "Le meilleur aperçu du projet WideluxX Camera Revival de Jeff Bridges"
   },
   {
     "title": "A New Epson RD Camera Could Succeed for the Same Reasons the R-D1 Failed",
@@ -243,8 +243,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T01:47:17.686405",
-    "description_fr": "When my colleague Jordan Drake swiped the Epson R-D1 series of digital rangefinders out from underneath me in our recent Fantasy Camera Draft, I was disappointed. But my frustration also got me thinking about why the Epson RD should return and become more than just a quirky bit of digital camera history. The Epson RD series deserves better.[Read More]",
-    "title_fr": "A New Epson RD Camera Could Succeed for the Same Reasons the R-D1 Failed"
+    "description_fr": "Lorsque mon collègue Jordan Drake a balayé la série de télémètres numériques Epson R-D1 de dessous moi dans notre récent projet de caméra Fantasy, j'ai été déçu. Mais ma frustration m'a également fait réfléchir à la raison pour laquelle l'Epson RD devrait revenir et devenir plus qu'un simple morceau d'histoire de l'appareil photo numérique. La série Epson RD mérite mieux.[En savoir plus]",
+    "title_fr": "Une nouvelle caméra Epson RD pourrait réussir pour les mêmes raisons que le R-D1 a échoué"
   },
   {
     "title": "Nextorage Just Made a Memory Card Unlike Any Other",
@@ -256,8 +256,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T01:47:17.687072",
-    "description_fr": "It's becoming pretty normal to see Nextorage at the forefront of memory card technology, at least as it performs to guaranteed sustained performance in professional video settings. It was the first to land VPG800 certification and it has another first announced today: the only CFexpress card that is both VPG400 and VPG1600 complaint, simultaneously.[Read More]",
-    "title_fr": "Nextorage Just Made a Memory Card Unlike Any Other"
+    "description_fr": "Il devient assez normal de voir Nextorage à la pointe de la technologie des cartes mémoire, du moins en ce qui concerne ses performances garanties dans des environnements vidéo professionnels. Il a été le premier à obtenir la certification VPG800 et il en a une autre annoncée aujourd'hui : la seule carte CFexpress qui est à la fois VPG400 et VPG1600 plainte, simultanément.[En savoir plus]",
+    "title_fr": "Nextorage vient de créer une carte mémoire pas comme les autres"
   },
   {
     "title": "Photographer Uses Science to Explain Why Humans Think Cats Are Cute",
@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T01:47:17.687706",
-    "description_fr": "Animal photographer Tim Flach has taken hundreds of photos of cats and, through his time with them, finds himself asking questions about why they are so important to humans. He has partnered with scientists to find out exactly why they elicit the emotions they do, and how he, as a photographer, can better highlight those aspects of their form.[Read More]",
-    "title_fr": "Photographer Uses Science to Explain Why Humans Think Cats Are Cute"
+    "description_fr": "Le photographe animalier Tim Flach a pris des centaines de photos de chats et, à travers son temps avec eux, se demande pourquoi ils sont si importants pour les humains. Il s'est associé à des scientifiques pour savoir exactement pourquoi ils suscitent les émotions qu'ils ressentent et comment, en tant que photographe, il peut mieux mettre en évidence ces aspects de leur forme.[En savoir plus]",
+    "title_fr": "Le photographe utilise la science pour expliquer pourquoi les humains pensent que les chats sont mignons"
   },
   {
     "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
@@ -282,8 +282,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-14T01:47:34.669580",
-    "description_fr": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
-    "title_fr": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases"
+    "description_fr": "ViDoRe V3 : une évaluation complète de la récupération pour les cas d'utilisation d'entreprise",
+    "title_fr": "ViDoRe V3 : une évaluation complète de la récupération pour les cas d'utilisation d'entreprise"
   },
   {
     "title": "Granite 4.0 Nano: Just how small can you go?",
@@ -295,8 +295,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-14T01:47:34.670461",
-    "description_fr": "Granite 4.0 Nano: Just how small can you go?",
-    "title_fr": "Granite 4.0 Nano: Just how small can you go?"
+    "description_fr": "Granite 4.0 Nano : à quel point pouvez-vous aller petit ?",
+    "title_fr": "Granite 4.0 Nano : à quel point pouvez-vous aller petit ?"
   },
   {
     "title": "Text-to-image Architectural Experiments",
@@ -308,8 +308,73 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-14T01:47:34.672304",
-    "description_fr": "Text-to-image Architectural Experiments",
-    "title_fr": "Text-to-image Architectural Experiments"
+    "description_fr": "Expériences d'architecture texte-image",
+    "title_fr": "Expériences d'architecture texte-image"
+  },
+  {
+    "title": "1 million business customers putting AI to work",
+    "url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+    "description": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+    "image_url": "",
+    "published_date": "2025-11-14",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-14T06:34:11.494571",
+    "description_fr": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
+    "title_fr": "1 million business customers putting AI to work"
+  },
+  {
+    "title": "Improving Structured Outputs in the Gemini API",
+    "url": "https://blog.google/technology/developers/gemini-api-structured-outputs/",
+    "description": "Image with black and blue background with an example JSON Schema code snippet and the Gemini logo sparkle",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StructuredOutput_Hero.max-600x600.format-webp.webp",
+    "published_date": "2025-11-14",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-14T06:34:13.830416",
+    "description_fr": "Image with black and blue background with an example JSON Schema code snippet and the Gemini logo sparkle",
+    "title_fr": "Improving Structured Outputs in the Gemini API"
+  },
+  {
+    "title": "Introducing vibe coding in Google AI Studio",
+    "url": "https://blog.google/technology/developers/introducing-vibe-coding-in-google-ai-studio/",
+    "description": "Vibe Coding in Google AI Studio",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame_2147223720.max-600x600.format-webp.webp",
+    "published_date": "2025-11-14",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-14T06:34:13.831199",
+    "description_fr": "Vibe Coding in Google AI Studio",
+    "title_fr": "Introducing vibe coding in Google AI Studio"
+  },
+  {
+    "title": "L'énergie comme levier stratégique : priorité aux IA européennes",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545789-l-energie-comme-levier-strategique-priorite-aux-ia-europeennes/",
+    "description": "L'IA entraîne une explosion de la consommation énergétique qui menace d'atteindre des niveaux critiques. Sécuriser l'approvisionnement des infrastructures souveraines doit être une priorité.",
+    "image_url": "https://img-0.journaldunet.com/iFkldZIEqygukraF4yngXDEm-LY=/1280x/smart/9d5a96ceb85b4caa9621cd95a89646f9/user-jdn/39512737-luc-d-urso.jpg",
+    "published_date": "2025-11-14",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T06:34:30.958814",
+    "description_fr": "L'IA entraîne une explosion de la consommation énergétique qui menace d'atteindre des niveaux critiques. Sécuriser l'approvisionnement des infrastructures souveraines doit être une priorité.",
+    "title_fr": "L'énergie comme levier stratégique : priorité aux IA européennes"
+  },
+  {
+    "title": "Prompts : 5 techniques de context engineering pour gagner en précision",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545813-prompts-5-techniques-de-context-engineering-pour-gagner-en-precision/",
+    "description": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
+    "image_url": "https://img-0.journaldunet.com/B-Qbttg6pcbCmlHKro3zqbziusc=/1280x/smart/129828e0bbc94e3782b2c0f2f0eb0949/ccmcms-jdn/39529060.png",
+    "published_date": "2025-11-14",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T06:34:30.959289",
+    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
+    "title_fr": "Prompts : 5 techniques de context engineering pour gagner en précision"
   },
   {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
@@ -750,8 +815,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T12:49:10.149654",
-    "description_fr": "Des images aériennes montrant les conséquences du front occidental de la Première Guerre mondiale en Flandre, en Belgique, ont reçu une nouvelle vie après avoir été remasterisées en HD et colorisées.[En savoir plus]",
-    "title_fr": "Des images aériennes remasterisées obsédantes révèlent les conséquences dévastatrices de la Première Guerre mondiale"
+    "description_fr": "Aerial footage showing the aftermath of the First World War's Western Front in Flanders, Belgium, has been given new life after being remastered in HD and colorized.[Read More]",
+    "title_fr": "Haunting Remastered Aerial Footage Reveals the Devastating Aftermath of World War I"
   },
   {
     "title": "The DJI Neo 2 Adds a Screen, LiDAR, Faster Flight, and a Bigger Battery",
@@ -763,8 +828,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T12:49:10.150442",
-    "description_fr": "Alors que le DJI Neo 2 a été lancé il y a quelques semaines en Chine, il est officiellement annoncé aujourd'hui pour le reste du monde. Eh bien, la plupart du reste du monde, car le drone rejoint une longue liste d'autres produits DJI qui ne sont pas officiellement disponibles aux États-Unis.[En savoir plus]",
-    "title_fr": "Le DJI Neo 2 ajoute un écran, un LiDAR, un vol plus rapide et une batterie plus grande"
+    "description_fr": "While the DJI Neo 2 launched a couple of weeks ago in China, it's being officially announced today for the rest of the world. Well, most of the rest of the world, as the drone joins a long list of other DJI products that aren't officially available in the United States.[Read More]",
+    "title_fr": "The DJI Neo 2 Adds a Screen, LiDAR, Faster Flight, and a Bigger Battery"
   },
   {
     "title": "Man Can See His Family Again Thanks to Insta360 Camera Controlled Via Neuralink Brain Chip",
@@ -776,8 +841,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T12:49:10.151053",
-    "description_fr": "Une webcam Insta360 aide un homme atteint de SLA, une maladie dégénérative mortelle qui provoque l'atrophie des muscles d'une personne, à vivre une vie meilleure et à voir ses enfants.[En savoir plus]",
-    "title_fr": "L'homme peut revoir sa famille grâce à la caméra Insta360 contrôlée par une puce cérébrale Neuralink"
+    "description_fr": "An Insta360 webcam is helping a man with ALS, a fatal degenerative condition that causes a person's muscles to atrophy, to live a better life and see his children.[Read More]",
+    "title_fr": "Man Can See His Family Again Thanks to Insta360 Camera Controlled Via Neuralink Brain Chip"
   },
   {
     "title": "Phone Booth Photo Project Becomes Unusual Exhibition",
@@ -789,8 +854,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T12:49:10.151664",
-    "description_fr": "Un samedi matin, dans le nord de l'Angleterre, le photographe amateur Chris Bennett s'est fait prendre sous la pluie, typique de la région. Il se réfugia dans une cabine téléphonique mal aimée et commença à prendre des photos de l'intérieur.[En savoir plus]",
-    "title_fr": "Le projet photo de cabine téléphonique devient une exposition inhabituelle"
+    "description_fr": "One Saturday morning in the North of England, amateur photographer Chris Bennett got caught in the rain -- typical for the area. He took refuge in an unloved phone booth and began shooting pictures from inside.[Read More]",
+    "title_fr": "Phone Booth Photo Project Becomes Unusual Exhibition"
   },
   {
     "title": "Understanding neural networks through sparse circuits",
@@ -802,8 +867,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-13T18:31:49.254887",
-    "description_fr": "OpenAI explore l'interprétabilité mécaniste pour comprendre comment les réseaux neuronaux raisonnent. Notre nouvelle approche de modèle clairsemé pourrait rendre les systèmes d'IA plus transparents et favoriser un comportement plus sûr et plus fiable.",
-    "title_fr": "Comprendre les réseaux neuronaux à travers des circuits clairsemés"
+    "description_fr": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
+    "title_fr": "Understanding neural networks through sparse circuits"
   },
   {
     "title": "Building for an Open Future - our new partnership with Google Cloud",
@@ -815,8 +880,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-13T18:31:53.242122",
-    "description_fr": "Construire pour un avenir ouvert - notre nouveau partenariat avec Google Cloud",
-    "title_fr": "Construire pour un avenir ouvert - notre nouveau partenariat avec Google Cloud"
+    "description_fr": "Building for an Open Future - our new partnership with Google Cloud",
+    "title_fr": "Building for an Open Future - our new partnership with Google Cloud"
   },
   {
     "title": "Mozilla announces an AI ‘window’ for Firefox",
@@ -828,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.758574",
-    "description_fr": "Un autre jour, un autre navigateur d'IA. Cette fois, c'est Firefox, le « navigateur indépendant » autoproclamé de Mozilla. Firefox dit qu'il construit une fonctionnalité de navigation IA appelée AI Window qui comprend un assistant IA et un chatbot. La société l'appelle un « espace intelligent et contrôlé par l'utilisateur » qui est actuellement construit « à l'air libre » avec la contribution de l'utilisateur.  […]",
-    "title_fr": "Mozilla annonce une « fenêtre » d'IA pour Firefox"
+    "description_fr": "Another day, another AI browser. This time, it’s Firefox, the self-described “independent browser” from Mozilla. Firefox says it is building an AI browsing feature called AI Window that includes an AI assistant and chatbot. The company calls it an opt-in “intelligent and user-controlled space” that is currently being built “in the open” with user input.  […]",
+    "title_fr": "Mozilla announces an AI ‘window’ for Firefox"
   },
   {
     "title": "World Labs is betting on ‘world generation’ as the next AI frontier",
@@ -841,8 +906,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.759168",
-    "description_fr": "Ces dernières années, nous avons vu l'IA générative se déplacer rapidement à travers différentes époques : chatbots, génération d'images, voix, génération de vidéos, et plus encore. Mais le Dr Fei-Fei Li, pionnière de longue date de l'IA et codirectrice de l'Institute for Human-Centered Artificial Intelligence (HAI) de Stanford, étudie ce qu'elle pense être la prochaine frontière : l'intelligence spatiale, un domaine naissant qui, selon elle, est le […]",
-    "title_fr": "World Labs parie sur la « génération mondiale » comme prochaine frontière de l'IA"
+    "description_fr": "In recent years, we've seen generative AI move quickly through different eras: chatbots, image-generation, voice, video-generation, and more. But Dr. Fei-Fei Li, longtime AI pioneer and co-director of Stanford's Institute for Human-Centered Artificial Intelligence (HAI), is staking out what she thinks is the next frontier: spatial intelligence, a nascent field that she believes is the […]",
+    "title_fr": "World Labs is betting on ‘world generation’ as the next AI frontier"
   },
   {
     "title": "Even Realities’ new smart glasses ditch cameras and speakers",
@@ -854,8 +919,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.760145",
-    "description_fr": "La société de technologie portable Even Realities a dévoilé sa dernière paire de lunettes intelligentes « centrées sur l'homme », qui, selon elle, sont conçues pour ne pas interférer avec votre vie quotidienne. Les lunettes intelligentes G2 Display sont équipées de caméras orientées vers l'extérieur et de haut-parleurs externes, ce qui, selon Even Realities, « élimine l'anxiété d'être enregistré, entendu ou […]",
-    "title_fr": "Les nouvelles lunettes intelligentes d'Even Realities laissent tomber les caméras et les haut-parleurs"
+    "description_fr": "The wearable technology company Even Realities has taken the wraps off its latest pair of “human-centric” smart glasses, which it claims are designed not to interfere with your everyday life. The G2 Display Smart Glasses come without outward-facing cameras and external speakers, a move Even Realities says “removes the anxiety of being recorded, overheard or […]",
+    "title_fr": "Even Realities’ new smart glasses ditch cameras and speakers"
   },
   {
     "title": "Google’s NotebookLM will now do &#8216;deep research&#8217;",
@@ -867,8 +932,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.760821",
-    "description_fr": "Google associe deux de ses produits de recherche : NotebookLM et l'outil d'intelligence artificielle agentique de Gemini, Deep Research. Jeudi, la société a annoncé que tous les utilisateurs auront accès à Deep Research dans NotebookLM d'ici une semaine.  Google a récemment lié Deep Research à d'autres produits Workspace comme Gmail et Drive, permettant à Gemini de tirer le contexte de […]",
-    "title_fr": "Le NotebookLM de Google va maintenant faire des « recherches approfondies »"
+    "description_fr": "Google is pairing up two of its research products: NotebookLM and Gemini’s agentic AI tool Deep Research. On Thursday, the company announced that all users will have access to Deep Research in NotebookLM within a week.  Google recently linked Deep Research to other Workspace products like Gmail and Drive, allowing Gemini to draw context from […]",
+    "title_fr": "Google’s NotebookLM will now do &#8216;deep research&#8217;"
   },
   {
     "title": "LinkedIn is making it easier to search for people with AI",
@@ -880,8 +945,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.761614",
-    "description_fr": "LinkedIn lance une fonctionnalité de recherche basée sur l'IA qui vous permet de trouver des personnes en décrivant qui vous recherchez. Maintenant, au lieu de rechercher un nom exact, un titre de poste ou une entreprise, vous pouvez entrer une recherche plus descriptive, comme « Anciens du Nord-Ouest qui travaillent dans le marketing du divertissement », ou même poser une question, comme « Qui peut […]",
-    "title_fr": "LinkedIn facilite la recherche de personnes atteintes d'IA"
+    "description_fr": "LinkedIn is launching an AI-powered search feature that allows you to find people by describing who you’re looking for. Now, instead of searching for an exact name, job title, or company, you can enter a more descriptive search, such as “Northwestern alumni who work in entertainment marketing,” or even pose a question, like “Who can […]",
+    "title_fr": "LinkedIn is making it easier to search for people with AI"
   },
   {
     "title": "Watch Google DeepMind’s new AI agent learn to play video games",
@@ -893,8 +958,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.762402",
-    "description_fr": "Le nouvel agent IA de Google DeepMind a appris à jouer à un tas de jeux vidéo — y compris No Man's Sky, Valheim et Goat Simulator 3 — pour devenir un « compagnon de jeu interactif » viable. » Le nouvel outil d'agent, Sima 2, s'appuie sur son itération précédente, Sima (Scalable Instructable Multiworld Agent), que DeepMind a publiée en mars 2024. Il […]",
-    "title_fr": "Regardez le nouvel agent IA de Google DeepMind apprendre à jouer à des jeux vidéo"
+    "description_fr": "Google DeepMind’s new AI agent learned how to play a bunch of video games — including No Man’s Sky, Valheim, and Goat Simulator 3 — to become a viable “interactive gaming companion.” The new agent tool, SIMA 2, builds on its earlier iteration, SIMA (Scalable Instructable Multiworld Agent), which DeepMind released in March 2024. It also […]",
+    "title_fr": "Watch Google DeepMind’s new AI agent learn to play video games"
   },
   {
     "title": "The future of Disney Plus could involve AI-generated videos",
@@ -906,8 +971,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.763199",
-    "description_fr": "Les plans de Disney pour l'avenir de son service de streaming peuvent impliquer des vidéos générées par l'IA. Lors d'une conférence téléphonique sur les résultats jeudi, le PDG de Disney, Bob Iger, a déclaré que la société était « vraiment enthousiasmée par l'IA », ajoutant que la technologie pourrait permettre à Disney Plus de fournir aux téléspectateurs la possibilité de « créer » et de « consommer » des vidéos courtes sur l'IA. « Il y a des opportunités phénoménales […]",
-    "title_fr": "L'avenir de Disney Plus pourrait impliquer des vidéos générées par l'IA"
+    "description_fr": "Disney’s plans for the future of its streaming service may involve AI-generated videos. During an earnings call on Thursday, Disney CEO Bob Iger said the company is “really excited about AI,” adding that the technology could allow Disney Plus to provide viewers with the ability to “create” and “consume” short-form AI videos. “There’s phenomenal opportunities […]",
+    "title_fr": "The future of Disney Plus could involve AI-generated videos"
   },
   {
     "title": "The company at the heart of the AI bubble",
@@ -919,8 +984,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.765164",
-    "description_fr": "Donc, beaucoup de gens pensent que l'IA est une bulle. Cela inclut le PDG d'OpenAI, Sam Altman, qui n'arrête pas de dire que l'IA est une bulle tout en levant et en dépensant d'énormes sommes d'argent d'une manière qui ressemble à des indicateurs de bulle pour tout le monde. Tout cela est assez déroutant. Nous avons donc envoyé à Verge la journaliste principale Liz Lopatto […]",
-    "title_fr": "L'entreprise au cœur de la bulle de l'IA"
+    "description_fr": "So a lot of people think AI is a bubble. That includes OpenAI CEO Sam Altman, who keeps saying AI is a bubble all while raising and spending enormous amounts of money in ways that seem like bubble indicators to everyone else. This is all pretty confusing. So we sent Verge senior reporter Liz Lopatto […]",
+    "title_fr": "The company at the heart of the AI bubble"
   },
   {
     "title": "Google will let users call stores, browse products, and check out using AI",
@@ -932,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.766145",
-    "description_fr": "Google intègre l'intelligence artificielle dans presque tous les aspects de la façon dont les gens achètent en ligne, y compris le fait qu'un outil d'IA appelle les magasins locaux au nom d'un humain et achète automatiquement des articles. À partir de jeudi (et avant la saison des achats des Fêtes), les utilisateurs de Google aux États-Unis auront accès à une série de nouvelles IA […]",
-    "title_fr": "Google permettra aux utilisateurs d'appeler les magasins, de parcourir les produits et de vérifier à l'aide de l'IA"
+    "description_fr": "Google is infusing artificial intelligence into just about every part of how people shop online — including having an AI tool call local stores on a human’s behalf and purchase items automatically. Beginning Thursday (and ahead of the holiday shopping season) Google users in the US will have access to a slew of new AI […]",
+    "title_fr": "Google will let users call stores, browse products, and check out using AI"
   },
   {
     "title": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far",
@@ -945,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:54.766830",
-    "description_fr": "Spotify lance une nouvelle fonctionnalité d'IA pour les livres audio qui résume ce que vous avez déjà entendu sans avoir à revenir en arrière. La société compare la fonctionnalité, appelée Recaps, à un segment « précédemment activé » au début des épisodes d'une série télévisée.  Les récapitulatifs seront disponibles automatiquement dans l'application iOS pour un nombre limité de […]",
-    "title_fr": "La nouvelle fonctionnalité de récapitulation des livres audio de Spotify utilise l'IA pour vous rappeler l'histoire jusqu'à présent"
+    "description_fr": "Spotify is launching a new AI feature for audiobooks that summarizes what you’ve already heard without needing to rewind. The company likens the feature, called Recaps, to a “previously on” segment at the start of episodes in a TV series.  Recaps will be available automatically in the iOS app for a limited number of English-language […]",
+    "title_fr": "Spotify’s new audiobook recap feature uses AI to remind you of the story so far"
   },
   {
     "title": "Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types",
@@ -958,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:56.464897",
-    "description_fr": "Le service déploie « Deep Research », un outil qui automatisera et simplifiera la recherche en ligne complexe.",
-    "title_fr": "NotebookLM de Google ajoute l'outil « Deep Research », prise en charge de plus de types de fichiers"
+    "description_fr": "The service rolling out \"Deep Research,\" a tool that will automate and simplify complex online research.",
+    "title_fr": "Google’s NotebookLM adds ‘Deep Research’ tool, support for more file types"
   },
   {
     "title": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual worlds",
@@ -971,8 +1036,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:56.465237",
-    "description_fr": "« Sima 2 est un agent plus général. Il peut effectuer des tâches complexes dans des environnements auparavant invisibles. Et c'est un agent d'auto-amélioration… ce qui est un pas vers des robots plus génériques et des systèmes agi plus généralement. »",
-    "title_fr": "L'agent Sima 2 de Google utilise les Gémeaux pour raisonner et agir dans les mondes virtuels"
+    "description_fr": "“SIMA 2 is a more general agent. It can complete complex tasks in previously unseen environments. And it's a self-improving agent... which is a step toward more genera- purpose robots and AGI systems more generally.”",
+    "title_fr": "Google’s SIMA 2 agent uses Gemini to reason and act in virtual worlds"
   },
   {
     "title": "LinkedIn adds AI-powered search to help users find people",
@@ -984,8 +1049,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:56.465568",
-    "description_fr": "La recherche de personnes basée sur l'IA de LinkedIn est en cours de déploiement pour les utilisateurs premium aux États-Unis.",
-    "title_fr": "LinkedIn ajoute une recherche basée sur l'IA pour aider les utilisateurs à trouver des personnes"
+    "description_fr": "LinkedIn's AI-powered people search is rolling out to premium users in the U.S.",
+    "title_fr": "LinkedIn adds AI-powered search to help users find people"
   },
   {
     "title": "Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in",
@@ -997,8 +1062,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T18:31:56.465885",
-    "description_fr": "Bindwell applique des techniques de découverte de médicaments par IA pour inventer de nouvelles molécules de pesticides.",
-    "title_fr": "Les adolescents fondateurs recueillent 6 millions de $ pour réinventer les pesticides à l'aide de l'IA — et convaincre Paul Graham de s'y joindre"
+    "description_fr": "Bindwell applies AI drug discovery techniques to invent new pesticide molecules.",
+    "title_fr": "Teen founders raise $6M to reinvent pesticides using AI — and convince Paul Graham to join in"
   },
   {
     "title": "Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you",
@@ -6433,70 +6498,5 @@
     "collected_at": "2025-11-05T06:33:14.813465",
     "description_fr": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
     "title_fr": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion"
-  },
-  {
-    "title": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups",
-    "url": "https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/",
-    "description": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T06:33:14.813776",
-    "description_fr": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
-    "title_fr": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India’s next deep tech startups"
-  },
-  {
-    "title": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot",
-    "url": "https://venturebeat.com/ai/anthropic-rolls-out-claude-ai-for-finance-integrates-with-excel-to-rival",
-    "description": "Anthropicis making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed itsClaude AIassistant directly intoMicrosoft Exceland connect it to real-time market data from some of the world's most influential financial information providers.The San Francisco-based AI startup announced Monday it is releasingClaude for Excel, allowing fi",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T06:33:16.952276",
-    "description_fr": "Anthropicis making its most aggressive push yet into the trillion-dollar financial services industry, unveiling a suite of tools that embed itsClaude AIassistant directly intoMicrosoft Exceland connect it to real-time market data from some of the world's most influential financial information providers.The San Francisco-based AI startup announced Monday it is releasingClaude for Excel, allowing fi",
-    "title_fr": "Anthropic rolls out Claude AI for finance, integrates with Excel to rival Microsoft Copilot"
-  },
-  {
-    "title": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training",
-    "url": "https://venturebeat.com/ai/google-cloud-takes-aim-at-coreweave-and-aws-with-managed-slurm-for",
-    "description": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan tobuild their own models, a project that would require access to GPUs.Google Cloud wants to play a bigger role in enterprises’ model-making journey with its new service,Vertex AI Training. The service gives enterprises looking to train their own models access to a managed Slurm environment, ",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T06:33:16.955256",
-    "description_fr": "Some enterprises are best served by fine-tuning large models to their needs, but a number of companies plan tobuild their own models, a project that would require access to GPUs.Google Cloud wants to play a bigger role in enterprises’ model-making journey with its new service,Vertex AI Training. The service gives enterprises looking to train their own models access to a managed Slurm environment, ",
-    "title_fr": "Google Cloud takes aim at CoreWeave and AWS with managed Slurm for enterprise-scale AI training"
-  },
-  {
-    "title": "When your AI browser becomes your enemy: The Comet security disaster",
-    "url": "https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-comet-security-disaster",
-    "description": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now thatAI browserslike Perplexity's Comet promise to do everything for you — browse, click, type, think.But here's the plot twist nobody saw coming: That helpful AI assistant browsing the web for you? It might just be taking orders from the very websites it's supposed to pro",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T06:33:16.964555",
-    "description_fr": "Remember when browsers were simple? You clicked a link, a page loaded, maybe you filled out a form. Those days feel ancient now thatAI browserslike Perplexity's Comet promise to do everything for you — browse, click, type, think.But here's the plot twist nobody saw coming: That helpful AI assistant browsing the web for you? It might just be taking orders from the very websites it's supposed to pro",
-    "title_fr": "When your AI browser becomes your enemy: The Comet security disaster"
-  },
-  {
-    "title": "Stability AI&#8217;s legal win over Getty leaves copyright law in limbo",
-    "url": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk",
-    "description": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI and copyright in the UK, but it landed with a thud […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-05",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T12:46:54.773657",
-    "description_fr": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI and copyright in the UK, but it landed with a thud […]",
-    "title_fr": "Stability AI&#8217;s legal win over Getty leaves copyright law in limbo"
   }
 ]
