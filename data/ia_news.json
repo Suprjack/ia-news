@@ -321,8 +321,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T06:34:11.494571",
-    "description_fr": "More than 1 million business customers around the world now use OpenAI. Across healthcare, life sciences, financial services, and more, ChatGPT and our APIs are driving a new era of intelligent, AI-powered work.",
-    "title_fr": "1 million business customers putting AI to work"
+    "description_fr": "Plus d'un million de clients professionnels dans le monde utilisent désormais OpenAI. Dans les domaines de la santé, des sciences de la vie, des services financiers, etc., ChatGPT et nos API ouvrent une nouvelle ère de travail intelligent basé sur l'IA.",
+    "title_fr": "1 million de clients professionnels mettent l'IA au travail"
   },
   {
     "title": "Improving Structured Outputs in the Gemini API",
@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T06:34:13.830416",
-    "description_fr": "Image with black and blue background with an example JSON Schema code snippet and the Gemini logo sparkle",
-    "title_fr": "Improving Structured Outputs in the Gemini API"
+    "description_fr": "Image avec fond noir et bleu avec un exemple d'extrait de code JSON Schema et le logo Gemini scintillant",
+    "title_fr": "Amélioration des sorties structurées dans l'API Gemini"
   },
   {
     "title": "Introducing vibe coding in Google AI Studio",
@@ -347,8 +347,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T06:34:13.831199",
-    "description_fr": "Vibe Coding in Google AI Studio",
-    "title_fr": "Introducing vibe coding in Google AI Studio"
+    "description_fr": "Codage Vibe dans Google AI Studio",
+    "title_fr": "Présentation du vibe coding dans Google AI Studio"
   },
   {
     "title": "L'énergie comme levier stratégique : priorité aux IA européennes",
@@ -373,8 +373,125 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T06:34:30.959289",
-    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
+    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prévisible à vos réponses.",
     "title_fr": "Prompts : 5 techniques de context engineering pour gagner en précision"
+  },
+  {
+    "title": "Introducing OpenAI for Ireland",
+    "url": "https://openai.com/index/openai-for-ireland",
+    "description": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+    "image_url": "",
+    "published_date": "2025-11-14",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-14T12:45:18.080493",
+    "description_fr": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+    "title_fr": "Introducing OpenAI for Ireland"
+  },
+  {
+    "title": "I rode in one of the UK’s first self-driving cars",
+    "url": "https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london",
+    "description": "I never really believed self-driving cars would make it to the UK, so you can imagine my surprise when I found myself clambering into one of Wayve's autonomous vehicles for a journey around north London a few weeks ago. In June, the company announced plans with Uber to begin trialing Level 4 fully autonomous robotaxis […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/03-Wayve-Autonomous-Car.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-14",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:21.844250",
+    "description_fr": "I never really believed self-driving cars would make it to the UK, so you can imagine my surprise when I found myself clambering into one of Wayve's autonomous vehicles for a journey around north London a few weeks ago. In June, the company announced plans with Uber to begin trialing Level 4 fully autonomous robotaxis […]",
+    "title_fr": "I rode in one of the UK’s first self-driving cars"
+  },
+  {
+    "title": "Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups",
+    "url": "https://techcrunch.com/2025/11/14/inside-harvey-how-a-first-year-legal-associate-built-one-of-silicon-valleys-hottest-startups/",
+    "description": "TechCrunch spoke with Harvey's CEO and co-founder Winston Weinberg about the wild ride that he and co-founder Gabe Pereyra have been on so far.",
+    "image_url": "",
+    "published_date": "2025-11-14",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:23.079343",
+    "description_fr": "TechCrunch spoke with Harvey's CEO and co-founder Winston Weinberg about the wild ride that he and co-founder Gabe Pereyra have been on so far.",
+    "title_fr": "Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups"
+  },
+  {
+    "title": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan",
+    "url": "https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/",
+    "description": "OpenAI on Thursday unveiled a group chat feature for ChatGPT, currently in pilot across Japan, New Zealand, South Korea, and Taiwan, allowing users to collaborate directly within the app.",
+    "image_url": "",
+    "published_date": "2025-11-14",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:23.079647",
+    "description_fr": "OpenAI on Thursday unveiled a group chat feature for ChatGPT, currently in pilot across Japan, New Zealand, South Korea, and Taiwan, allowing users to collaborate directly within the app.",
+    "title_fr": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan"
+  },
+  {
+    "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
+    "url": "https://arstechnica.com/security/2025/11/researchers-question-anthropic-claim-that-ai-assisted-attack-was-90-autonomous/",
+    "description": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
+    "published_date": "2025-11-14",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-14T12:45:26.397216",
+    "description_fr": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+    "title_fr": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous"
+  },
+  {
+    "title": "You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon",
+    "url": "https://www.wired.com/story/inside-the-dealmaking-to-make-agentic-shopping-a-reality/",
+    "description": "Chatbot developers and retail giants are battling over user data as they lay the foundation for a future in which AI agents can do all your online shopping for you.",
+    "image_url": "https://media.wired.com/photos/691683765736a6b072f17ca2/master/pass/Agentic-Shopping-Business-2108740424.jpg",
+    "published_date": "2025-11-14",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:27.161080",
+    "description_fr": "Chatbot developers and retail giants are battling over user data as they lay the foundation for a future in which AI agents can do all your online shopping for you.",
+    "title_fr": "You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon"
+  },
+  {
+    "title": "Anthropic details cyber espionage campaign orchestrated by AI",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-details-cyber-espionage-campaign-orchestrated-by-ai/",
+    "description": "Security leaders face a new class of autonomous threat as Anthropic details the first cyber espionage campaign orchestrated by AI. In a report released this week, the company’s Threat Intelligence team outlined its disruption of a sophisticated operation by a Chinese state-sponsored group – an assessment made with high confidence – dubbed GTG-1002 and detected […]The postAnthropic details cyber es",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
+    "published_date": "2025-11-14",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:29.147234",
+    "description_fr": "Security leaders face a new class of autonomous threat as Anthropic details the first cyber espionage campaign orchestrated by AI. In a report released this week, the company’s Threat Intelligence team outlined its disruption of a sophisticated operation by a Chinese state-sponsored group – an assessment made with high confidence – dubbed GTG-1002 and detected […]The postAnthropic details cyber es",
+    "title_fr": "Anthropic details cyber espionage campaign orchestrated by AI"
+  },
+  {
+    "title": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot",
+    "url": "https://www.artificialintelligence-news.com/news/visa-ai-commerce-intelligent-commerce-2026/",
+    "description": "When Visa unveiled its Intelligent Commerce platform for Asia Pacific on November 12, it wasn’t just launching another payment feature—it was building AI commerce infrastructure to solve a crisis most merchants haven’t noticed yet: their websites are being flooded by AI agents, and there’s no reliable way to tell which ones are legitimate shoppers and which are malicious bots.  […]The postVisa bui",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
+    "published_date": "2025-11-14",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-14T12:45:29.149540",
+    "description_fr": "When Visa unveiled its Intelligent Commerce platform for Asia Pacific on November 12, it wasn’t just launching another payment feature—it was building AI commerce infrastructure to solve a crisis most merchants haven’t noticed yet: their websites are being flooded by AI agents, and there’s no reliable way to tell which ones are legitimate shoppers and which are malicious bots.  […]The postVisa bui",
+    "title_fr": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot"
+  },
+  {
+    "title": "This Mind-Blowing Photo Shows a Skydiver Transiting the Sun",
+    "url": "https://petapixel.com/2025/11/14/sun-skydiver-photo-andrew-mccarthy/",
+    "description": "Astrophotographer Andrew McCarthy has captured a stupendous shot of a skydiver falling in front of the Sun. It was incredibly difficult -- requiring precise planning and coordination -- but the pair ultimately pulled it off on the sixth attempt.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Skydiver-Sun-Andrew-McCarthy-Hero.jpg",
+    "published_date": "2025-11-14",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-14T12:45:38.136954",
+    "description_fr": "Astrophotographer Andrew McCarthy has captured a stupendous shot of a skydiver falling in front of the Sun. It was incredibly difficult -- requiring precise planning and coordination -- but the pair ultimately pulled it off on the sixth attempt.[Read More]",
+    "title_fr": "This Mind-Blowing Photo Shows a Skydiver Transiting the Sun"
   },
   {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
@@ -764,7 +881,7 @@
     "category": "general",
     "collected_at": "2025-11-13T12:48:59.168055",
     "description_fr": "Les modèles gpt-oss sont testés pour une utilisation sur des ordinateurs militaires sensibles. Mais certains initiés de la défense disent qu'OpenAI est toujours derrière la concurrence.",
-    "title_fr": "Les modèles Open-Weight d'OpenAI arrivent dans l'armée américaine"
+    "title_fr": "OpenAI’s Open-Weight Models Are Coming to the US Military"
   },
   {
     "title": "New data centre projects mark Anthropic’s biggest US expansion yet",
@@ -776,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T12:49:01.306787",
-    "description_fr": "Les nouveaux projets de centres de données américains au Texas et à New York recevront 50 milliards de $ de nouveaux fonds, dans le cadre d'un plan visant à accroître la capacité de calcul des États-Unis pour le travail avancé en IA. Les installations, construites avec Fluidstack, sont conçues pour les systèmes d'Anthropic et se concentreront sur les besoins en énergie et en efficacité qui accompagnent la formation et la gestion de grandes […]Les nouveaux projets de centres de données marquent la plus grande expansion américaine d'Anthropic à ce jour",
-    "title_fr": "Les nouveaux projets de centres de données marquent la plus grande expansion américaine d'Anthropic à ce jour"
+    "description_fr": "New US data centre projects in Texas and New York will receive $50 billion in new funding, part of a plan to grow US computing capacity for advanced AI work. The facilities, built with Fluidstack, are designed for Anthropic’s systems and will focus on power and efficiency needs that come with training and running large […]The postNew data centre projects mark Anthropic’s biggest US expansion yetap",
+    "title_fr": "New data centre projects mark Anthropic’s biggest US expansion yet"
   },
   {
     "title": "GPT-5 est mort, vive GPT-5.1",
@@ -802,7 +919,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T12:49:04.727653",
-    "description_fr": "Il fut un temps où seul l'artiste pouvait vivre de l'inutile. Tous les autres étaient condamnés à l'utilité. L'arrivée de l'air répare cette injustice.",
+    "description_fr": "Il fut un temps où seul l'artiste pouvait vivre de l'inutile. Tous les autres étaient condamnés à l'utile. L'arrivée de l'IA répare cette injustice.",
     "title_fr": "Grâce à l'IA, je sais faire plein de choses inutiles"
   },
   {
@@ -6381,122 +6498,5 @@
     "collected_at": "2025-11-05T01:46:43.455209",
     "description_fr": "DZOFilm unveiled the Arles 18mm T1.4 FF/VV Prime Cine Lens, marking the 11th and final addition to the company’s full-frame Arles cine series. With its ultra-wide focal length and refined optical design, the 18mm T1.4 offers a unique balance between technical precision and cinematic character.[Read More]",
     "title_fr": "DZOFilm Completes Its 11-Lens Arles Cine Prime Series With 18mm T1.4"
-  },
-  {
-    "title": "Misleading Photos on Product Packaging are Illegal in Japan",
-    "url": "https://petapixel.com/2025/11/04/misleading-photos-on-product-packaging-are-illegal-in-japan/",
-    "description": "In Japan, it is illegal for companies to use misleading photos on product packaging that make the product look different from what’s actually inside.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/food-packaging-japan.jpg",
-    "published_date": "2025-11-05",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-05T01:46:43.455906",
-    "description_fr": "In Japan, it is illegal for companies to use misleading photos on product packaging that make the product look different from what’s actually inside.[Read More]",
-    "title_fr": "Misleading Photos on Product Packaging are Illegal in Japan"
-  },
-  {
-    "title": "Sony’s Redesigned Xperia 10 VII Smartphone Has Old-School Vibes",
-    "url": "https://petapixel.com/2025/11/04/sonys-redesigned-xperia-10-vii-smartphone-has-old-school-vibes/",
-    "description": "Sony's newest Xperia smartphone, the Xperia 10 VII, features the first new design in the Xperia 10 series in years, but does little else to move the needle for mobile photographers.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/sony-xperia-10-vii-featured.jpg",
-    "published_date": "2025-11-05",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-05T01:46:43.456708",
-    "description_fr": "Sony's newest Xperia smartphone, the Xperia 10 VII, features the first new design in the Xperia 10 series in years, but does little else to move the needle for mobile photographers.[Read More]",
-    "title_fr": "Sony’s Redesigned Xperia 10 VII Smartphone Has Old-School Vibes"
-  },
-  {
-    "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
-    "url": "https://huggingface.co/blog/codelion/optimal-dataset-mixing",
-    "description": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
-    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/1677134945205-62f32eab52ad88c930bb3f3b.png",
-    "published_date": "2025-11-05",
-    "source": "Hugging Face",
-    "source_type": "website",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:58.885079",
-    "description_fr": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
-    "title_fr": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix"
-  },
-  {
-    "title": "Addendum to GPT-5 System Card: Sensitive conversations",
-    "url": "https://openai.com/index/gpt-5-system-card-sensitive-conversations",
-    "description": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T06:33:08.238394",
-    "description_fr": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-    "title_fr": "Addendum to GPT-5 System Card: Sensitive conversations"
-  },
-  {
-    "title": "Strengthening ChatGPT’s responses in sensitive conversations",
-    "url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
-    "description": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T06:33:08.238739",
-    "description_fr": "OpenAI collaborated with 170+ mental health experts to improve ChatGPT’s ability to recognize distress, respond empathetically, and guide users toward real-world support—reducing unsafe responses by up to 80%. Learn how we’re making ChatGPT safer and more supportive in sensitive moments.",
-    "title_fr": "Strengthening ChatGPT’s responses in sensitive conversations"
-  },
-  {
-    "title": "Google Beam is working with the USO to support military families.",
-    "url": "https://blog.google/feed/google-beam-uso-partnership/",
-    "description": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleBeam_CarouselBall.max-600x600.format-webp.webp",
-    "published_date": "2025-11-05",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T06:33:10.804623",
-    "description_fr": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-    "title_fr": "Google Beam is working with the USO to support military families."
-  },
-  {
-    "title": "Streaming datasets: 100x More Efficient",
-    "url": "https://huggingface.co/blog/streaming-datasets",
-    "description": "Streaming datasets: 100x More Efficient",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T06:33:11.885235",
-    "description_fr": "Streaming datasets: 100x More Efficient",
-    "title_fr": "Streaming datasets: 100x More Efficient"
-  },
-  {
-    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "url": "https://huggingface.co/blog/huggingface-hub-v1",
-    "description": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T06:33:11.885443",
-    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
-  },
-  {
-    "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion",
-    "url": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
-    "description": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-05T06:33:14.813465",
-    "description_fr": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
-    "title_fr": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion"
   }
 ]
