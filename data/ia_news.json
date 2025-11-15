@@ -308,8 +308,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-15T12:40:26.381496",
-    "description_fr": "One of the Mac’s most popular productivity apps is incorporating generative artificial intelligence in a way that keeps it offline, private, and customizable.",
-    "title_fr": "How to Use the New AI Features in OmniFocus, the Power User’s To-Do List"
+    "description_fr": "L'une des applications de productivité les plus populaires du Mac intègre l'intelligence artificielle générative d'une manière qui la maintient hors ligne, privée et personnalisable.",
+    "title_fr": "Comment utiliser les nouvelles fonctionnalités d'IA dans OmniFocus, la liste des tâches de l'utilisateur expérimenté"
   },
   {
     "title": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
@@ -321,8 +321,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-15T12:40:52.297139",
-    "description_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
-    "title_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭"
+    "description_fr": "⚡ Puissance, chaleur et intelligence ☁️ - Explication des centres de données d'IA 🏭",
+    "title_fr": "⚡ Puissance, chaleur et intelligence ☁️ - Explication des centres de données d'IA 🏭"
   },
   {
     "title": "⛳ Optimizer: What Does It Do and Why We Need It",
@@ -334,8 +334,47 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-15T12:40:52.297646",
-    "description_fr": "⛳ Optimizer: What Does It Do and Why We Need It",
-    "title_fr": "⛳ Optimizer: What Does It Do and Why We Need It"
+    "description_fr": "⛳ Optimiseur : ce qu'il fait et pourquoi nous en avons besoin",
+    "title_fr": "⛳ Optimiseur : ce qu'il fait et pourquoi nous en avons besoin"
+  },
+  {
+    "title": "Billy the Kid Like You’ve Never Seen Him: Photo Restorer Revives Rare Portrait of the Wild West Outlaw",
+    "url": "https://petapixel.com/2025/11/15/billy-the-kid-like-youve-never-seen-him-photo-restorer-revives-rare-portrait-of-the-wild-west-outlaw/",
+    "description": "A photo restorer has breathed new life into the only universally accepted portrait of Billy the Kid, giving viewers a clearer image of the Wild West's most infamous outlaw.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Billy-the-Kid.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T18:28:33.594930",
+    "description_fr": "A photo restorer has breathed new life into the only universally accepted portrait of Billy the Kid, giving viewers a clearer image of the Wild West's most infamous outlaw.[Read More]",
+    "title_fr": "Billy the Kid Like You’ve Never Seen Him: Photo Restorer Revives Rare Portrait of the Wild West Outlaw"
+  },
+  {
+    "title": "Every Winning Photo From Nature Photographer of the Year 2025",
+    "url": "https://petapixel.com/2025/11/15/every-winning-photo-from-nature-photographer-of-the-year-2025/",
+    "description": "The Nature Photographer of the Year 2025 winners have been revealed, and acclaimed Norwegian photographer Åsmund Keilen has earned the prestigious title, \"Nature Photographer of the Year,\" for his breathtaking, ethereal photo of a bird in flight against the glowing Sun.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/nature-photographer-of-the-year-2025-featured.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T18:28:33.595742",
+    "description_fr": "The Nature Photographer of the Year 2025 winners have been revealed, and acclaimed Norwegian photographer Åsmund Keilen has earned the prestigious title, \"Nature Photographer of the Year,\" for his breathtaking, ethereal photo of a bird in flight against the glowing Sun.[Read More]",
+    "title_fr": "Every Winning Photo From Nature Photographer of the Year 2025"
+  },
+  {
+    "title": "Poignant Photos Show the Remote Scottish Island Where George Orwell Wrote ‘1984’",
+    "url": "https://petapixel.com/2025/11/15/poignant-photos-show-the-remote-scottish-island-where-george-orwell-wrote-1984/",
+    "description": "At the end of his life, English author George Orwell sought refuge on a remote Scottish island to finish his final and most famous book: 1984.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Craig-Easton-George-Orwell.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T18:28:33.596409",
+    "description_fr": "At the end of his life, English author George Orwell sought refuge on a remote Scottish island to finish his final and most famous book: 1984.[Read More]",
+    "title_fr": "Poignant Photos Show the Remote Scottish Island Where George Orwell Wrote ‘1984’"
   },
   {
     "title": "How Philips Is scaling AI literacy across 70,000 employees",
@@ -829,7 +868,7 @@
     "category": "creative",
     "collected_at": "2025-11-14T12:45:38.136954",
     "description_fr": "L'astrophotographe Andrew McCarthy a capturé un magnifique cliché d'un parachutiste tombant devant le Soleil. C'était incroyablement difficile - nécessitant une planification et une coordination précises - mais le duo a finalement réussi à la sixième tentative.[En savoir plus]",
-    "title_fr": "Cette photo époustouflante montre un parachutiste transitant par le soleil"
+    "title_fr": "This Mind-Blowing Photo Shows a Skydiver Transiting the Sun"
   },
   {
     "title": "Google Beam is working with the USO to support military families.",
@@ -841,8 +880,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:55.987942",
-    "description_fr": "En savoir plus sur le travail de Google avec l'OSU et sur la façon dont il prévoit de lancer un programme qui permettra aux membres du service de rester en contact avec leurs proches.",
-    "title_fr": "Google Beam travaille avec l'USO pour soutenir les familles de militaires."
+    "description_fr": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
+    "title_fr": "Google Beam is working with the USO to support military families."
   },
   {
     "title": "Streaming datasets: 100x More Efficient",
@@ -854,8 +893,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:57.255823",
-    "description_fr": "Ensembles de données de streaming : 100 fois plus efficaces",
-    "title_fr": "Ensembles de données de streaming : 100 fois plus efficaces"
+    "description_fr": "Streaming datasets: 100x More Efficient",
+    "title_fr": "Streaming datasets: 100x More Efficient"
   },
   {
     "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
@@ -6459,44 +6498,5 @@
     "collected_at": "2025-11-06T18:33:00.194850",
     "description_fr": "Amid pressure to deploy generative and agentic solutions, a familiar question is surfacing: “Is there an AI bubble, and is it about to burst?” For many organisations, this new wave of generative and agentic AI is still very much in experimental stages. The primary focus, and the low-hanging fruit, has been internal. Most businesses are […]The postIs AI in a bubble? Succeed despite a market correct",
     "title_fr": "Is AI in a bubble? Succeed despite a market correction"
-  },
-  {
-    "title": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November",
-    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-november-2025-games/",
-    "description": "A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty: Black Ops 7 on Friday, Nov. 14. Kicking off the six games available this week, Virtua Fighter 5 R.E.V.O. World Stage entersRead Article",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/gfn-thursday-11-6-nv-blog-1280x680-logo.jpg",
-    "published_date": "2025-11-06",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-11-06T18:33:02.168565",
-    "description_fr": "A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty: Black Ops 7 on Friday, Nov. 14. Kicking off the six games available this week, Virtua Fighter 5 R.E.V.O. World Stage entersRead Article",
-    "title_fr": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November"
-  },
-  {
-    "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
-    "url": "https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/",
-    "description": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
-    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/ito-october-2025-featured-1280x680-1.jpg",
-    "published_date": "2025-11-06",
-    "source": "NVIDIA Blog",
-    "source_type": "rss",
-    "category": "hardware",
-    "collected_at": "2025-11-06T18:33:02.170033",
-    "description_fr": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
-    "title_fr": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development"
-  },
-  {
-    "title": "Ryan Beiermeister (OpenAI) : \"Les deux nouveaux modèles d'OpenAI permettent de modérer du contenu et de classifier les risques\"",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545657-ryan-beiermeister-openai/",
-    "description": "OpenAI publie ce 29 octobre gpt-oss-safeguard, deux modèles open-weight (120b et 20b) basés sur le raisonnement. Entretien avec Ryan Beiermeister, VP de la politique produit chez OpenAI.",
-    "image_url": "https://img-0.journaldunet.com/gTtSXOINKFO1deFbmr5mMoSi31g=/1280x/smart/562e46c7694b4c5f99111678b6963f25/ccmcms-jdn/39528752.jpg",
-    "published_date": "2025-11-06",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:33:03.754220",
-    "description_fr": "OpenAI publie ce 29 octobre gpt-oss-safeguard, deux modèles open-weight (120b et 20b) basés sur le raisonnement. Entretien avec Ryan Beiermeister, VP de la politique produit chez OpenAI.",
-    "title_fr": "Ryan Beiermeister (OpenAI) : \"Les deux nouveaux modèles d'OpenAI permettent de modérer du contenu et de classifier les risques\""
   }
 ]
