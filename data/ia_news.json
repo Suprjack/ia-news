@@ -230,8 +230,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:30.919048",
-    "description_fr": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
-    "title_fr": "Brazil’s AI moment is here"
+    "description_fr": "Le Brésil est maintenant l'un des pays les plus engagés au monde en matière d'IA. Des salles de classe aux fermes et aux petites entreprises, les Brésiliens utilisent les produits OpenAI pour apprendre, créer et stimuler l'innovation.",
+    "title_fr": "Le moment de l'IA au Brésil est arrivé"
   },
   {
     "title": "New updates and more access to Google Earth AI",
@@ -243,8 +243,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:32.833964",
-    "description_fr": "Google Earth AI helps enterprises, nonprofits, and cities with everything from environmental monitoring to disaster response",
-    "title_fr": "New updates and more access to Google Earth AI"
+    "description_fr": "Google Earth AI aide les entreprises, les organisations à but non lucratif et les villes à tout faire, de la surveillance environnementale à la réponse aux catastrophes",
+    "title_fr": "Nouvelles mises à jour et plus d'accès à Google Earth AI"
   },
   {
     "title": "The CMA’s designation of Google’s mobile ecosystem",
@@ -256,8 +256,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:32.834238",
-    "description_fr": "Illustration showing a laptop with the British flag and the London skyline in the background.",
-    "title_fr": "The CMA’s designation of Google’s mobile ecosystem"
+    "description_fr": "Illustration montrant un ordinateur portable avec le drapeau britannique et la silhouette de Londres en arrière-plan.",
+    "title_fr": "Désignation par la CMA de l'écosystème mobile de Google"
   },
   {
     "title": "Start learning all things AI on the new Google Skills",
@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:32.834470",
-    "description_fr": "Say hello to Google Skills",
-    "title_fr": "Start learning all things AI on the new Google Skills"
+    "description_fr": "Dites bonjour à Google Skills",
+    "title_fr": "Commencez à apprendre tout ce qui concerne l'IA avec les nouvelles compétences Google"
   },
   {
     "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
@@ -282,8 +282,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:34.047252",
-    "description_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "title_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv"
+    "description_fr": "Construire ensemble l'écosystème des agents ouverts : Présentation d'OpenEnv",
+    "title_fr": "Construire ensemble l'écosystème des agents ouverts : Présentation d'OpenEnv"
   },
   {
     "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
@@ -295,8 +295,47 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-15T06:30:34.047480",
-    "description_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "title_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security"
+    "description_fr": "Hugging Face et VirusTotal collaborent pour renforcer la sécurité de l'IA",
+    "title_fr": "Hugging Face et VirusTotal collaborent pour renforcer la sécurité de l'IA"
+  },
+  {
+    "title": "How to Use the New AI Features in OmniFocus, the Power User’s To-Do List",
+    "url": "https://www.wired.com/story/ai-features-in-omnifocus/",
+    "description": "One of the Mac’s most popular productivity apps is incorporating generative artificial intelligence in a way that keeps it offline, private, and customizable.",
+    "image_url": "https://media.wired.com/photos/6916208c3e3d221364b27c68/master/pass/gear-omnifocus-1207541182.jpg",
+    "published_date": "2025-11-15",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T12:40:26.381496",
+    "description_fr": "One of the Mac’s most popular productivity apps is incorporating generative artificial intelligence in a way that keeps it offline, private, and customizable.",
+    "title_fr": "How to Use the New AI Features in OmniFocus, the Power User’s To-Do List"
+  },
+  {
+    "title": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
+    "url": "https://huggingface.co/blog/sasha/ai-data-centers-explained",
+    "description": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/60edd0133e2c73a9a21455f5/yK1G-Fv-YjYb7v_chkz3p.jpeg",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-15T12:40:52.297139",
+    "description_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
+    "title_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭"
+  },
+  {
+    "title": "⛳ Optimizer: What Does It Do and Why We Need It",
+    "url": "https://huggingface.co/blog/onekq/adam-optimizer",
+    "description": "⛳ Optimizer: What Does It Do and Why We Need It",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/669dbd709a4bf63e08f1ddc2/aV10ZJPPzH5LbnHFZNqc7.png",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-15T12:40:52.297646",
+    "description_fr": "⛳ Optimizer: What Does It Do and Why We Need It",
+    "title_fr": "⛳ Optimizer: What Does It Do and Why We Need It"
   },
   {
     "title": "How Philips Is scaling AI literacy across 70,000 employees",
@@ -828,8 +867,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:57.256047",
-    "description_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert",
-    "title_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert"
+    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
   },
   {
     "title": "OpenAI says it’s fixed ChatGPT’s em dash problem",
@@ -841,8 +880,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:31:59.546634",
-    "description_fr": "OpenAI dit que les utilisateurs peuvent maintenant personnaliser ChatGPT pour cesser d'utiliser le tableau de bord em dans sa sortie.",
-    "title_fr": "OpenAI dit que le problème de tableau de bord em de ChatGPT est résolu"
+    "description_fr": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
+    "title_fr": "OpenAI says it’s fixed ChatGPT’s em dash problem"
   },
   {
     "title": "ChatGPT Group Chats are here … but not for everyone (yet)",
@@ -854,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:32:00.798831",
-    "description_fr": "Il a été initialement trouvé dans le code de fuite et rendu public par les influenceurs de l'IA sur X, mais OpenAI l'a rendu officiel : ChatGPT offre maintenant des discussions de groupe,permettant à plusieurs utilisateurs de rejoindre la même conversation ChatGPT unique et d'envoyer des messages les uns aux autres et le modèle de langue large sous-jacent (LLM), en ligne et via ses applications mobiles.Imaginez l'ajout de ChatGPT en tant qu'un autre membre de vos discussions de groupe existantes, permettant",
-    "title_fr": "ChatGPT Group Les chats sont là … mais pas pour tout le monde (encore)"
+    "description_fr": "It was originally found inleaked code and publicized by AI influencers on X, but OpenAI has made it official:ChatGPT now offers Group Chats,allowing multiple users to join the same, single ChatGPT conversation and send messages to each other and the underlying large language model (LLM), online and via its mobile apps.Imagine adding ChatGPT as another member of your existing group chats, allowing ",
+    "title_fr": "ChatGPT Group Chats are here … but not for everyone (yet)"
   },
   {
     "title": "The Data Center Resistance Has Arrived",
@@ -867,7 +906,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:32:05.045766",
-    "description_fr": "Un nouveau rapport révèle que l'opposition locale aux centres de données a explosé au deuxième trimestre de cette année.",
+    "description_fr": "A new report finds that local opposition to data centers skyrocketed in the second quarter of this year.",
     "title_fr": "The Data Center Resistance Has Arrived"
   },
   {
@@ -6459,44 +6498,5 @@
     "collected_at": "2025-11-06T18:33:03.754220",
     "description_fr": "OpenAI publie ce 29 octobre gpt-oss-safeguard, deux modèles open-weight (120b et 20b) basés sur le raisonnement. Entretien avec Ryan Beiermeister, VP de la politique produit chez OpenAI.",
     "title_fr": "Ryan Beiermeister (OpenAI) : \"Les deux nouveaux modèles d'OpenAI permettent de modérer du contenu et de classifier les risques\""
-  },
-  {
-    "title": "TerraMaster D1 Portable SSD Enclosure Review: Quiet and Fast Storage",
-    "url": "https://petapixel.com/2025/11/06/terramaster-d1-portable-ssd-enclosure-review-quiet-and-fast-storage/",
-    "description": "With modern, high-resolution camera systems, photographers are capturing tens or even hundreds of gigabytes of files per shoot, before even considering video. Your storage workflow is now almost as important as the camera and lenses you use to capture everything. This is why portable, interchangeable Solid State Drives (SSDs) like the TerraMaster D1 SSD Plus have become commonplace among photograp",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/terramaster-d1-ssd-enclosure-review-featured.jpg",
-    "published_date": "2025-11-06",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-06T18:33:09.387697",
-    "description_fr": "With modern, high-resolution camera systems, photographers are capturing tens or even hundreds of gigabytes of files per shoot, before even considering video. Your storage workflow is now almost as important as the camera and lenses you use to capture everything. This is why portable, interchangeable Solid State Drives (SSDs) like the TerraMaster D1 SSD Plus have become commonplace among photograp",
-    "title_fr": "TerraMaster D1 Portable SSD Enclosure Review: Quiet and Fast Storage"
-  },
-  {
-    "title": "Affinity Added 1 Million Users in Less Than a Week",
-    "url": "https://petapixel.com/2025/11/06/affinity-added-1-million-users-in-less-than-a-week/",
-    "description": "Last week, Affinity announced a major change to its business model and product offering. All of its apps were being consolidated into one platform and, more importantly, it would be free to download and use. That move appears to have paid off as Affinity says it added one million new users in just six days -- that's unprecedented in the creative space.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Affinity-Added-1-Million-Users-in-Less-Than-a-Week.jpg",
-    "published_date": "2025-11-06",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-06T18:33:09.388447",
-    "description_fr": "Last week, Affinity announced a major change to its business model and product offering. All of its apps were being consolidated into one platform and, more importantly, it would be free to download and use. That move appears to have paid off as Affinity says it added one million new users in just six days -- that's unprecedented in the creative space.[Read More]",
-    "title_fr": "Affinity Added 1 Million Users in Less Than a Week"
-  },
-  {
-    "title": "Datacolor Adds Video Tools and Content Credentials to its SpyderPro Monitor Calibrator",
-    "url": "https://petapixel.com/2025/11/06/datacolor-adds-video-tools-and-content-credentials-to-its-spyderpro-monitor-calibrator/",
-    "description": "Datacolor has announced a significant upgrade to its SpyderPro calibration suite, aiming to deliver a complete color-management and workflow system for photographers.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/SpyderPro-Software-Suite-Update-PetaPixel-BG.jpg",
-    "published_date": "2025-11-06",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-06T18:33:09.389097",
-    "description_fr": "Datacolor has announced a significant upgrade to its SpyderPro calibration suite, aiming to deliver a complete color-management and workflow system for photographers.[Read More]",
-    "title_fr": "Datacolor Adds Video Tools and Content Credentials to its SpyderPro Monitor Calibrator"
   }
 ]
