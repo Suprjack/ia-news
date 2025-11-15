@@ -1,5 +1,226 @@
 [
   {
+    "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "url": "https://huggingface.co/blog/lerobot-release-v040",
+    "description": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-15T01:42:59.253533",
+    "description_fr": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+    "title_fr": "LeRobot v0.4.0: Supercharging OSS Robot Learning"
+  },
+  {
+    "title": "Sentence Transformers is joining Hugging Face!",
+    "url": "https://huggingface.co/blog/sentence-transformers-joins-hf",
+    "description": "Sentence Transformers is joining Hugging Face!",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-15T01:42:59.253918",
+    "description_fr": "Sentence Transformers is joining Hugging Face!",
+    "title_fr": "Sentence Transformers is joining Hugging Face!"
+  },
+  {
+    "title": "Supercharge your OCR Pipelines with Open Models",
+    "url": "https://huggingface.co/blog/ocr-open-models",
+    "description": "Supercharge your OCR Pipelines with Open Models",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-15T01:42:59.254080",
+    "description_fr": "Supercharge your OCR Pipelines with Open Models",
+    "title_fr": "Supercharge your OCR Pipelines with Open Models"
+  },
+  {
+    "title": "Unlock the power of images with AI Sheets",
+    "url": "https://huggingface.co/blog/aisheets-unlock-images",
+    "description": "Unlock the power of images with AI Sheets",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-15T01:42:59.254264",
+    "description_fr": "Unlock the power of images with AI Sheets",
+    "title_fr": "Unlock the power of images with AI Sheets"
+  },
+  {
+    "title": "Leaked documents shed light into how much OpenAI pays Microsoft",
+    "url": "https://techcrunch.com/2025/11/14/leaked-documents-shed-light-into-how-much-openai-pays-microsoft/",
+    "description": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T01:43:01.963719",
+    "description_fr": "Leaked documents reveal how much OpenAI paid Microsoft under a revenue-share agreement. They also indicate inference costs.",
+    "title_fr": "Leaked documents shed light into how much OpenAI pays Microsoft"
+  },
+  {
+    "title": "Databricks co-founder argues US must go open source to beat China in AI",
+    "url": "https://techcrunch.com/2025/11/14/databricks-co-founder-argues-us-must-go-open-source-to-beat-china-in-ai/",
+    "description": "VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China.",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T01:43:01.964023",
+    "description_fr": "VC Andy Konwinski argues that the U.S. is losing its AI research dominance to China.",
+    "title_fr": "Databricks co-founder argues US must go open source to beat China in AI"
+  },
+  {
+    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+    "url": "https://techcrunch.com/2025/11/14/chatgpt-everything-to-know-about-the-ai-chatbot/",
+    "description": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T01:43:01.964292",
+    "description_fr": "A timeline of ChatGPT product updates and releases, starting with the latest, which we’ve been updating throughout the year.",
+    "title_fr": "ChatGPT: Everything you need to know about the AI-powered chatbot"
+  },
+  {
+    "title": "Google’s new AI training method helps small models tackle complex reasoning",
+    "url": "https://venturebeat.com/ai/googles-new-ai-training-method-helps-small-models-tackle-complex-reasoning",
+    "description": "Researchers atGoogle CloudandUCLAhave proposed a new reinforcement learning framework that significantly improves the ability of language models to learn very challenging multi-step reasoning tasks.Supervised Reinforcement Learning(SRL) reformulates problem-solving as a sequence of logical “actions,” providing rich learning signals during the training process.This approach enables smaller models t",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T01:43:03.254557",
+    "description_fr": "Researchers atGoogle CloudandUCLAhave proposed a new reinforcement learning framework that significantly improves the ability of language models to learn very challenging multi-step reasoning tasks.Supervised Reinforcement Learning(SRL) reformulates problem-solving as a sequence of logical “actions,” providing rich learning signals during the training process.This approach enables smaller models t",
+    "title_fr": "Google’s new AI training method helps small models tackle complex reasoning"
+  },
+  {
+    "title": "OpenAI experiment finds that sparse models could give AI builders the tools to debug neural networks",
+    "url": "https://venturebeat.com/ai/openai-experiment-finds-that-sparse-models-could-give-ai-builders-the-tools",
+    "description": "OpenAIresearchers areexperimenting with a new approachto designing neural networks, with the aim of making AI models easier to understand, debug, and govern. Sparse models can provide enterprises with a better understanding of how these models make decisions.Understanding how models choose to respond, a bigselling point of reasoning modelsfor enterprises, can provide a level of trust for organizat",
+    "image_url": "",
+    "published_date": "2025-11-15",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-15T01:43:03.259404",
+    "description_fr": "OpenAIresearchers areexperimenting with a new approachto designing neural networks, with the aim of making AI models easier to understand, debug, and govern. Sparse models can provide enterprises with a better understanding of how these models make decisions.Understanding how models choose to respond, a bigselling point of reasoning modelsfor enterprises, can provide a level of trust for organizat",
+    "title_fr": "OpenAI experiment finds that sparse models could give AI builders the tools to debug neural networks"
+  },
+  {
+    "title": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules",
+    "url": "https://arstechnica.com/ai/2025/11/forget-agi-sam-altman-celebrates-chatgpt-finally-following-em-dash-formatting-rules/",
+    "description": "Ongoing struggles with AI model instruction-following show that true human-level AI still a ways off.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/man_wrestling_with_robot_hand_2-1152x648.jpg",
+    "published_date": "2025-11-15",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-15T01:43:05.623446",
+    "description_fr": "Ongoing struggles with AI model instruction-following show that true human-level AI still a ways off.",
+    "title_fr": "Forget AGI—Sam Altman celebrates ChatGPT finally following em dash formatting rules"
+  },
+  {
+    "title": "Photographer Adds Wheels to a Probe Lens to Make ‘Weirdest Lens Even Weirder’",
+    "url": "https://petapixel.com/2025/11/14/photographer-adds-wheels-to-a-probe-lens-to-make-weirdest-lens-even-weirder/",
+    "description": "Paris-based photographer and filmmaker Mathieu Stern, known for his experimental photography and creative YouTube tutorials, has once again pushed the limits of lens experimentation. This time, Stern put wheels on a probe lens to create unique, super-low, moving POV footage.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/I-made-the-Worlds-Weirdest-LENS-even-WEIRDER-PetaPixel-BG.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.561644",
+    "description_fr": "Paris-based photographer and filmmaker Mathieu Stern, known for his experimental photography and creative YouTube tutorials, has once again pushed the limits of lens experimentation. This time, Stern put wheels on a probe lens to create unique, super-low, moving POV footage.[Read More]",
+    "title_fr": "Photographer Adds Wheels to a Probe Lens to Make ‘Weirdest Lens Even Weirder’"
+  },
+  {
+    "title": "This Adapter Turns an L-Mount Camera Into a Sliding 4×5 Digital Back",
+    "url": "https://petapixel.com/2025/11/14/this-adapter-turns-an-l-mount-camera-into-a-sliding-4x5-digital-back/",
+    "description": "Fotodiox, makers of some of the more niche adapters on the market, just announced another unusual option: an adapter that lets photographers mount a full-frame L-Mount camera to any 4x5 large-format camera with a supported Graflok back, opening new creative possibilities for landscape, architectural, and studio photography.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/This-Adapter-Lets-You-Mount-a-Full-Frame-L-mount-Camera-to-a-4x5-Film-Camera.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.562293",
+    "description_fr": "Fotodiox, makers of some of the more niche adapters on the market, just announced another unusual option: an adapter that lets photographers mount a full-frame L-Mount camera to any 4x5 large-format camera with a supported Graflok back, opening new creative possibilities for landscape, architectural, and studio photography.[Read More]",
+    "title_fr": "This Adapter Turns an L-Mount Camera Into a Sliding 4×5 Digital Back"
+  },
+  {
+    "title": "This Isn’t a Hockey Puck, It’s a Portable Hub for All Your Devices",
+    "url": "https://petapixel.com/2025/11/14/this-isnt-a-hockey-puck-its-a-portable-hub-for-all-your-devices/",
+    "description": "Satechi’s new OntheGo 7-in-1 Multiport Adapter brings seven essential ports into a compact, hockey puck-like portable hub for laptops, iPhone, tablets, and desktops.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/satechi-onthego-on-back-of-iphone-featured1600x840.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.562932",
+    "description_fr": "Satechi’s new OntheGo 7-in-1 Multiport Adapter brings seven essential ports into a compact, hockey puck-like portable hub for laptops, iPhone, tablets, and desktops.[Read More]",
+    "title_fr": "This Isn’t a Hockey Puck, It’s a Portable Hub for All Your Devices"
+  },
+  {
+    "title": "There Are Some Screaming Deals on Camera Memory Cards Right Now",
+    "url": "https://petapixel.com/2025/11/14/there-are-some-screaming-deals-on-camera-memory-cards-right-now/",
+    "description": "With holiday sales starting early, photographers have a rare chance to stock up on fast, reliable memory cards from top brands, many at the lowest prices of the year.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/memory-card-deals-featured-nov-14.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.563555",
+    "description_fr": "With holiday sales starting early, photographers have a rare chance to stock up on fast, reliable memory cards from top brands, many at the lowest prices of the year.[Read More]",
+    "title_fr": "There Are Some Screaming Deals on Camera Memory Cards Right Now"
+  },
+  {
+    "title": "How Two Photographers Transformed RAW Photo Support on Mac",
+    "url": "https://petapixel.com/2025/11/14/how-two-photographers-transformed-raw-photo-support-on-mac/",
+    "description": "As photographers using macOS know all too well, native macOS-level support for RAW image formats can be hit-or-miss, and new support can take months or years to arrive, sometimes never arriving at all. This means that photographers must rely on third-party software to process many RAW photos, and that support in Apple's own apps, like Photos, is spotty. However, not all is lost, as very talented e",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/raw-image-editing-mac.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.564149",
+    "description_fr": "As photographers using macOS know all too well, native macOS-level support for RAW image formats can be hit-or-miss, and new support can take months or years to arrive, sometimes never arriving at all. This means that photographers must rely on third-party software to process many RAW photos, and that support in Apple's own apps, like Photos, is spotty. However, not all is lost, as very talented e",
+    "title_fr": "How Two Photographers Transformed RAW Photo Support on Mac"
+  },
+  {
+    "title": "These Photos of ‘Power’ Won This Year’s Prestigious $1 Million HIPA Contest",
+    "url": "https://petapixel.com/2025/11/14/these-photos-of-power-won-this-years-prestigious-1-million-hipa-contest/",
+    "description": "The world's most profitable photography contest, HIPA, announced its 14th annual awards themed 'Power' on 11th November 2025, where 87,000 images from 50,000 photographers vied for the top honors. This year's awards ceremony was held at the Museum of the Future in Dubai, United Arab Emirates.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/power-photo-contest-hipa.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:16.564899",
+    "description_fr": "The world's most profitable photography contest, HIPA, announced its 14th annual awards themed 'Power' on 11th November 2025, where 87,000 images from 50,000 photographers vied for the top honors. This year's awards ceremony was held at the Museum of the Future in Dubai, United Arab Emirates.[Read More]",
+    "title_fr": "These Photos of ‘Power’ Won This Year’s Prestigious $1 Million HIPA Contest"
+  },
+  {
+    "title": "These Photos of ‘Power’ Won This Year’s Prestigious $1 Million HIPA Contest",
+    "url": "https://petapixel.com/author/philmistry/",
+    "description": "The world's most profitable photography contest, HIPA, announced its 14th annual awards themed 'Power' on 11th November 2025, where 87,000 images from 50,000 photographers vied for the top honors. This year's awards ceremony was held at the Museum of the Future in Dubai, United Arab Emirates.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/power-photo-contest-hipa.jpg",
+    "published_date": "2025-11-15",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-15T01:43:44.671345",
+    "description_fr": "The world's most profitable photography contest, HIPA, announced its 14th annual awards themed 'Power' on 11th November 2025, where 87,000 images from 50,000 photographers vied for the top honors. This year's awards ceremony was held at the Museum of the Future in Dubai, United Arab Emirates.",
+    "title_fr": "These Photos of ‘Power’ Won This Year’s Prestigious $1 Million HIPA Contest"
+  },
+  {
     "title": "How Philips Is scaling AI literacy across 70,000 employees",
     "url": "https://openai.com/index/philips",
     "description": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
@@ -503,8 +724,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:55.987942",
-    "description_fr": "Learn more about Google’s work with the USO and how it plans to launch a program that will enable service members to stay in touch with loved ones.",
-    "title_fr": "Google Beam is working with the USO to support military families."
+    "description_fr": "En savoir plus sur le travail de Google avec l'OSU et sur la façon dont il prévoit de lancer un programme qui permettra aux membres du service de rester en contact avec leurs proches.",
+    "title_fr": "Google Beam travaille avec l'USO pour soutenir les familles de militaires."
   },
   {
     "title": "Streaming datasets: 100x More Efficient",
@@ -516,8 +737,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:57.255823",
-    "description_fr": "Streaming datasets: 100x More Efficient",
-    "title_fr": "Streaming datasets: 100x More Efficient"
+    "description_fr": "Ensembles de données de streaming : 100 fois plus efficaces",
+    "title_fr": "Ensembles de données de streaming : 100 fois plus efficaces"
   },
   {
     "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
@@ -529,8 +750,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T18:31:57.256047",
-    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
+    "description_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert",
+    "title_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert"
   },
   {
     "title": "OpenAI says it’s fixed ChatGPT’s em dash problem",
@@ -542,8 +763,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:31:59.546634",
-    "description_fr": "OpenAI says users can now personalize ChatGPT to stop using the em dash in its output.",
-    "title_fr": "OpenAI says it’s fixed ChatGPT’s em dash problem"
+    "description_fr": "OpenAI dit que les utilisateurs peuvent maintenant personnaliser ChatGPT pour cesser d'utiliser le tableau de bord em dans sa sortie.",
+    "title_fr": "OpenAI dit que le problème de tableau de bord em de ChatGPT est résolu"
   },
   {
     "title": "ChatGPT Group Chats are here … but not for everyone (yet)",
@@ -555,8 +776,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:32:00.798831",
-    "description_fr": "It was originally found inleaked code and publicized by AI influencers on X, but OpenAI has made it official:ChatGPT now offers Group Chats,allowing multiple users to join the same, single ChatGPT conversation and send messages to each other and the underlying large language model (LLM), online and via its mobile apps.Imagine adding ChatGPT as another member of your existing group chats, allowing ",
-    "title_fr": "ChatGPT Group Chats are here … but not for everyone (yet)"
+    "description_fr": "Il a été initialement trouvé dans le code de fuite et rendu public par les influenceurs de l'IA sur X, mais OpenAI l'a rendu officiel : ChatGPT offre maintenant des discussions de groupe,permettant à plusieurs utilisateurs de rejoindre la même conversation ChatGPT unique et d'envoyer des messages les uns aux autres et le modèle de langue large sous-jacent (LLM), en ligne et via ses applications mobiles.Imaginez l'ajout de ChatGPT en tant qu'un autre membre de vos discussions de groupe existantes, permettant",
+    "title_fr": "ChatGPT Group Les chats sont là … mais pas pour tout le monde (encore)"
   },
   {
     "title": "The Data Center Resistance Has Arrived",
@@ -568,8 +789,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T18:32:05.045766",
-    "description_fr": "A new report finds that local opposition to data centers skyrocketed in the second quarter of this year.",
-    "title_fr": "The Data Center Resistance Has Arrived"
+    "description_fr": "Un nouveau rapport révèle que l'opposition locale aux centres de données a explosé au deuxième trimestre de cette année.",
+    "title_fr": "La résistance du centre de données est arrivée"
   },
   {
     "title": "How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage",
@@ -581,8 +802,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-14T18:32:08.733909",
-    "description_fr": "Today’s AI workloads are data-intensive, requiring more scalable and affordable storage than ever. By 2028, enterprises are projected to generate nearly 400 zettabytes of data annually, with 90% of new data being unstructured, comprising audio, video, PDFs, images and more. This massive scale, combined with the need for data portability between on-premises infrastructure and theRead Article",
-    "title_fr": "How to Unlock Accelerated AI Storage Performance With RDMA for S3-Compatible Storage"
+    "description_fr": "Les charges de travail d'IA d'aujourd' hui sont gourmandes en données et nécessitent un stockage plus évolutif et plus abordable que jamais. D'ici 2028, les entreprises devraient générer près de 400 zettaoctets de données par an, 90 % des nouvelles données étant non structurées, comprenant de l'audio, de la vidéo, des PDF, des images et plus encore. Cette échelle massive, combinée à la nécessité de la portabilité des données entre l'infrastructure sur site et l'article de lecture",
+    "title_fr": "Comment débloquer des performances de stockage IA accélérées avec RDMA pour un stockage compatible S3"
   },
   {
     "title": "Artist Considers Lawsuit Over Border Agents’ Group Photo in Front of His Chicago Sculpture",
@@ -594,8 +815,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.375677",
-    "description_fr": "The acclaimed artist Anish Kapoor is considering taking legal action after being left \"horrified\" by a group photo taken by border patrol agents posed in front of his Cloud Gate sculpture in Chicago.[Read More]",
-    "title_fr": "Artist Considers Lawsuit Over Border Agents’ Group Photo in Front of His Chicago Sculpture"
+    "description_fr": "L'artiste acclamé Anish Kapoor envisage d'intenter une action en justice après avoir été « horrifié » par une photo de groupe prise par des agents de la patrouille frontalière posant devant sa sculpture Cloud Gate à Chicago.[En savoir plus]",
+    "title_fr": "L'artiste envisage un procès concernant la photo de groupe des agents frontaliers devant sa sculpture de Chicago"
   },
   {
     "title": "Filmmakers Can Use 10 Times As Many Lenses on Super 16mm Thanks to OFG’s New Adapter",
@@ -607,8 +828,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.376364",
-    "description_fr": "Old Fast Glass (OFG), a specialty cinema camera lens maker and rental house, unveiled the OFG Customs Long Shot. It is a new optical adapter designed to enable cinematographers to use full-frame and larger cinema lenses on Super 16mm cameras, preserving not only the look of larger-format lenses but also their entire field of view.[Read More]",
-    "title_fr": "Filmmakers Can Use 10 Times As Many Lenses on Super 16mm Thanks to OFG’s New Adapter"
+    "description_fr": "Old Fast Glass (OFG), un fabricant d'objectifs de caméra de cinéma spécialisé et une maison de location, a dévoilé l'OFG Customs Long Shot. Il s'agit d'un nouvel adaptateur optique conçu pour permettre aux cinéastes d'utiliser des objectifs de cinéma plein format et plus grands sur des caméras Super 16 mm, préservant non seulement l'apparence des objectifs de plus grand format, mais également l'ensemble de leur champ de vision.[En savoir plus]",
+    "title_fr": "Les cinéastes peuvent utiliser 10 fois plus d'objectifs sur Super 16 mm grâce au nouvel adaptateur OFG"
   },
   {
     "title": "Photographer Claims Drake Copied His ‘Ameriguns’ Series in Music Video",
@@ -620,8 +841,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.377006",
-    "description_fr": "The photographer involved in a heavily scrutinized Balenciaga campaign three years ago has filed a lawsuit against Drake, alleging that the rapper’s music video copied his work and attempted to connect his feud with Kendrick Lamar to the photographer’s role in that controversial fashion shoot.[Read More]",
-    "title_fr": "Photographer Claims Drake Copied His ‘Ameriguns’ Series in Music Video"
+    "description_fr": "Le photographe impliqué dans une campagne Balenciaga très minutieuse il y a trois ans a intenté une action en justice contre Drake, alléguant que le clip vidéo du rappeur copiait son travail et tentait de relier sa querelle avec Kendrick Lamar au rôle du photographe dans cette séance photo de mode controversée.[En savoir plus]",
+    "title_fr": "Le photographe affirme que Drake a copié sa série « Ameriguns » dans une vidéo musicale"
   },
   {
     "title": "Basketball Player Runs Back onto the Court with Camera Strapped to His Leg",
@@ -633,8 +854,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.377600",
-    "description_fr": "A sports photographer had a disaster while sitting courtside at a college basketball game when a player fell into the crowd and came running back with a camera strapped to his leg.[Read More]",
-    "title_fr": "Basketball Player Runs Back onto the Court with Camera Strapped to His Leg"
+    "description_fr": "Un photographe sportif a eu un désastre alors qu'il était assis sur le court lors d'un match de basket-ball universitaire lorsqu'un joueur est tombé dans la foule et est revenu en courant avec un appareil photo attaché à sa jambe.[En savoir plus]",
+    "title_fr": "Un joueur de basket-ball retourne sur le terrain avec une caméra attachée à sa jambe"
   },
   {
     "title": "‘Highest Performance Wide-Angle Lens in Voigtländer’s History’ Comes to E and Z Mount",
@@ -646,8 +867,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.378206",
-    "description_fr": "Cosina Voigtländer released the APO-Lanthar 28mm f/2 Aspherical lens for full-frame Leica M-mount cameras in June, calling it its best wide-angle lens yet. This ambitious lens is now coming to Sony E-mount and Nikon Z-mount.[Read More]",
-    "title_fr": "‘Highest Performance Wide-Angle Lens in Voigtländer’s History’ Comes to E and Z Mount"
+    "description_fr": "Cosina Voigtländer a lancé l'objectif asphérique APO-Lanthar 28 mm f/2 pour les appareils photo plein cadre à monture Leica M en juin, le qualifiant de meilleur objectif grand angle à ce jour. Cet objectif ambitieux arrive maintenant sur Sony E-Mount et Nikon Z-mount.[En savoir plus]",
+    "title_fr": "« L'objectif grand-angle le plus performant de l'histoire des Voigtländer » arrive sur les montures E et Z"
   },
   {
     "title": "Sirui Astra 1.3x Anamorphic Lenses Are World’s First With AF and T1.8",
@@ -659,8 +880,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.378786",
-    "description_fr": "Sirui has launched Astra, a new series of 1.33x full-frame autofocus-equipped anamorphic cinema lenses. The new Sirui Astra lenses are the world's first full-frame anamorphic optics to combine autofocus with a constant, fast T1.8 aperture.[Read More]",
-    "title_fr": "Sirui Astra 1.3x Anamorphic Lenses Are World’s First With AF and T1.8"
+    "description_fr": "Sirui a lancé Astra, une nouvelle série d'objectifs de cinéma anamorphiques équipés d'autofocus plein format 1,33x. Les nouveaux objectifs Sirui Astra sont les premiers optiques anamorphiques plein format au monde à combiner l'autofocus avec une ouverture T1.8 rapide et constante.[En savoir plus]",
+    "title_fr": "Les lentilles anamorphiques Sirui Astra 1.3x sont les premières au monde avec AF et T1.8"
   },
   {
     "title": "Seal Flees Orcas by Leaping onto Wildlife Photographer’s Boat",
@@ -672,8 +893,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T18:32:16.379514",
-    "description_fr": "A harbor seal being pursued by a pod of killer whales managed to survive by unexpectedly jumping onto a photographer's boat.[Read More]",
-    "title_fr": "Seal Flees Orcas by Leaping onto Wildlife Photographer’s Boat"
+    "description_fr": "Un phoque du port poursuivi par un groupe d'épaulards a réussi à survivre en sautant inopinément sur le bateau d'un photographe.[En savoir plus]",
+    "title_fr": "Le phoque fuit les orques en sautant sur le bateau du photographe animalier"
   },
   {
     "title": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
@@ -685,8 +906,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-14T18:32:31.139080",
-    "description_fr": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix",
-    "title_fr": "The 1 Billion Token Challenge: Finding the Perfect Pre-training Mix"
+    "description_fr": "Le défi du milliard de jetons : trouver le mélange de pré-entraînement parfait",
+    "title_fr": "Le défi du milliard de jetons : trouver le mélange de pré-entraînement parfait"
   },
   {
     "title": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
@@ -698,8 +919,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-14T18:32:31.140781",
-    "description_fr": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face",
-    "title_fr": "Fine-Tuning Your First Large Language Model (LLM) with PyTorch and Hugging Face"
+    "description_fr": "Réglage fin de votre premier grand modèle linguistique (LLM) avec PyTorch et Hugging Face",
+    "title_fr": "Réglage fin de votre premier grand modèle linguistique (LLM) avec PyTorch et Hugging Face"
   },
   {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
@@ -776,8 +997,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:47:59.419055",
-    "description_fr": "Un tribunal allemand a statué que le ChatGPT d'OpenAI violait les lois nationales sur le droit d'auteur en formant ses modèles linguistiques sur les œuvres musicales sous licence sans autorisation.",
-    "title_fr": "Le tribunal statue qu'OpenAI a violé la loi allemande sur le droit d'auteur ; lui a ordonné de payer des dommages-intérêts"
+    "description_fr": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
+    "title_fr": "Court rules that OpenAI violated German copyright law; ordered it to pay damages"
   },
   {
     "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
@@ -789,8 +1010,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:00.517217",
-    "description_fr": "Un autre jour à la fin de 2025, un autre résultat impressionnant d'une société chinoise d'intelligence artificielle open source.La division IA de Weibo, société chinoise de réseautage social, a récemment publié son VibeThinker-1.5B open source - un modèle grand langage (LLM) à 1,5 milliard de paramètres qui est une variante affinée de la société de technologie chinoise rivale Qwen2.5-Math-1.5B.Il est maintenant disponible en téléchargement et en utilisation gratuits b",
-    "title_fr": "Le nouveau modèle d'IA open source VibeThinker-1.5B de Weibo surpasse DeepSeek-R1 avec un budget post-formation de 7 800 $"
+    "description_fr": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.Chinese social networking companyWeibo's AI division recently released its open source VibeThinker-1.5B—a 1.5 billion parameter large language model (LLM) that is a fine-tuned variant of rival Chinese tech firmAlibaba's Qwen2.5-Math-1.5B.It's available now for free download and usage b",
+    "title_fr": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget"
   },
   {
     "title": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
@@ -802,8 +1023,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:00.525285",
-    "description_fr": "ChatGPT est sur le point de devenir plus rapide et plus conversationnel à mesure que OpenAI met à niveau son modèle phare GPT-5 vers GPT-5.1.OpenAIannonce deux mises à jour de la série GPT-5 : GPT-5.1 Instantané et GPT-5.1 Pensée. Les deux modèles sont maintenant accessibles sur ChatGPT.GPT-5.1 Instant, essentiellement le modèle par défaut et le plus utilisé, est maintenant « plus chaud, plus intelligent et mieux à suivre vos instructions », selon OpenAI. Moi",
-    "title_fr": "OpenAI redémarre l'expérience ChatGPT avec GPT-5.1 après des critiques mitigées de GPT-5"
+    "description_fr": "ChatGPT is about to become faster and more conversational asOpenAIupgrades itsflagship model GPT-5to GPT-5.1.OpenAIannouncedtwo updates to the GPT-5 series: GPT-5.1 Instant and GPT-5.1 Thinking. Both models are now accessible on ChatGPT.GPT-5.1 Instant, essentially the default and most-used model, is now “warmer, more intelligent, and better at following your instructions,” according to OpenAI. Me",
+    "title_fr": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5"
   },
   {
     "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
@@ -815,8 +1036,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-13T01:48:02.849072",
-    "description_fr": "De nouveaux contrôles tentent de plaire aux critiques des deux côtés avec un équilibre entre fade et formateur d'habitudes.",
-    "title_fr": "OpenAI marche sur une corde raide délicate avec les huit nouvelles personnalités de GPT-5.1"
+    "description_fr": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
+    "title_fr": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities"
   },
   {
     "title": "Anthropic’s Claude Takes Control of a Robot Dog",
@@ -828,8 +1049,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:03.676183",
-    "description_fr": "Anthropic pense que les modèles d'IA atteindront de plus en plus le monde physique. Pour comprendre où les choses vont, il a demandé à Claude de programmer un quadrupède.",
-    "title_fr": "Claude d'Anthropic prend le contrôle d'un chien robot"
+    "description_fr": "Anthropic believes AI models will increasingly reach into the physical world. To understand where things are headed, it asked Claude to program a quadruped.",
+    "title_fr": "Anthropic’s Claude Takes Control of a Robot Dog"
   },
   {
     "title": "OpenAI, la visibilité à tout-va",
@@ -841,7 +1062,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:09.281800",
-    "description_fr": "OpenAI impose ses innovations via la « stratégie du fait accompli », au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
+    "description_fr": "OpenAI impose ses innovations via la \"stratégie du fait accompli\", au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
     "title_fr": "OpenAI, la visibilité à tout-va"
   },
   {
@@ -867,7 +1088,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-13T01:48:09.282627",
-    "description_fr": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent les infrastructures, les ressources et la recherche.",
+    "description_fr": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent infrastructures, ressources et recherche.",
     "title_fr": "L'intelligence artificielle ou la nouvelle géonumérique du pouvoir"
   },
   {
@@ -893,8 +1114,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.014825",
-    "description_fr": "Insta360 a annoncé un tas de produits et de packs pour sa caméra d'action Ace Pro 2 co-conçue par Leica, y compris de nouveaux objectifs, une poignée, des profils de couleurs Leica supplémentaires et une imprimante de poche portable sauvage qui fait de l'Ace Pro 2 la première caméra d'action au monde devenue caméra instantanée.[En savoir plus]",
-    "title_fr": "Bizarre Add-On transforme l'Insta360 Ace Pro 2 en une caméra instantanée"
+    "description_fr": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.[Read More]",
+    "title_fr": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera"
   },
   {
     "title": "Canon Should Revisit Novel Touch Controls, and Here’s How",
@@ -906,8 +1127,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.015501",
-    "description_fr": "La barre tactile multifonction mal conçue, communément appelée « barre tactile », sur l'appareil photo sans miroir Canon EOS R d'origine est un excellent exemple de ce qui se passe lorsque des idées intéressantes, voire bonnes, essaient d'en faire trop. Cependant, il est temps pour Canon de revoir la Touch Bar, ou du moins le concept sous-jacent du toucher étendu sur les appareils photo sans miroir modernes. La technologie est meilleure maintenant, les leçons ont été apprises",
-    "title_fr": "Canon devrait revoir les nouvelles commandes tactiles, et voici comment"
+    "description_fr": "The maligned Multifunction Touch Bar, commonly called the \"Touch Bar,\" on the original Canon EOS R mirrorless camera is an excellent example of what happens when interesting, even good, ideas try to do too much. However, it's time for Canon to revisit the Touch Bar, or at least the underlying concept of expanded touch on modern mirrorless cameras. Technology is better now, lessons have been learne",
+    "title_fr": "Canon Should Revisit Novel Touch Controls, and Here’s How"
   },
   {
     "title": "This is What a Meteor Looks Like from an Airplane",
@@ -919,8 +1140,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.016087",
-    "description_fr": "Une hôtesse de l'air a capturé une vidéo époustouflante d'un météore exceptionnellement brillant tout en « distribuant des sandwichs » sur un vol.[En savoir plus]",
-    "title_fr": "Voici à quoi ressemble un météore vu d'un avion"
+    "description_fr": "A stewardess captured stunning video of an exceptionally bright meteor while \"handing out sandwiches\" on a flight.[Read More]",
+    "title_fr": "This is What a Meteor Looks Like from an Airplane"
   },
   {
     "title": "Missed the Incredible Auroras? You Should Have Another Chance Tonight",
@@ -932,8 +1153,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:15.016705",
-    "description_fr": "La nuit dernière, des photographes à travers les États-Unis, aussi loin au sud que la Floride et le Texas, ont eu droit à des aurores boréales grâce à une violente tempête géomagnétique (G4). Le plaisir est loin d'être terminé, car les experts prédisent qu'au moins des conditions fortes (G3) persisteront alors que des conditions sévères sont attendues.[En savoir plus]",
-    "title_fr": "Vous avez raté les incroyables aurores boréales ? Vous devriez avoir une autre chance ce soir"
+    "description_fr": "Last night, photographers across the United States, as far south as Florida and Texas, were treated to auroras thanks to a severe (G4) geomagnetic storm. The fun is far from over, as experts predict that at least strong (G3) conditions will persist while severe conditions are expected.[Read More]",
+    "title_fr": "Missed the Incredible Auroras? You Should Have Another Chance Tonight"
   },
   {
     "title": "These 10 Award-Winning Drone Photos Bring Brilliant Photography to the Skies",
@@ -984,8 +1205,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-13T01:48:39.242777",
-    "description_fr": "Insta360 a annoncé un tas de produits et de packs pour sa caméra d'action Ace Pro 2 co-conçue par Leica, y compris de nouveaux objectifs, une poignée, des profils de couleurs Leica supplémentaires et une imprimante de poche portable sauvage qui fait de l'Ace Pro 2 la première caméra d'action au monde devenue caméra instantanée.[En savoir plus]",
-    "title_fr": "Bizarre Add-On transforme l'Insta360 Ace Pro 2 en une caméra instantanée"
+    "description_fr": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.",
+    "title_fr": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera"
   },
   {
     "title": "How NVIDIA GeForce RTX GPUs Power Modern Creative Workflows",
@@ -6277,226 +6498,5 @@
     "collected_at": "2025-11-06T18:33:24.167094",
     "description_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭",
     "title_fr": "⚡ Power, Heat, and Intelligence ☁️ - AI Data Centers Explained 🏭"
-  },
-  {
-    "title": "TerraMaster D1 Portable SSD Enclosure Review: Quiet and Fast Storage",
-    "url": "https://petapixel.com/author/davidjcrewe/",
-    "description": "With modern, high-resolution camera systems, photographers are capturing tens or even hundreds of gigabytes of files per shoot, before even considering video. Your storage workflow is now almost as important as the camera and lenses you use to capture everything. This is why portable, interchangeable Solid State Drives (SSDs) like the TerraMaster D1 SSD Plus have become commonplace among photograp",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/terramaster-d1-ssd-enclosure-review-featured-300x157.jpg",
-    "published_date": "2025-11-06",
-    "source": "PetaPixel",
-    "source_type": "website",
-    "category": "creative",
-    "collected_at": "2025-11-06T18:33:35.294475",
-    "description_fr": "With modern, high-resolution camera systems, photographers are capturing tens or even hundreds of gigabytes of files per shoot, before even considering video. Your storage workflow is now almost as important as the camera and lenses you use to capture everything. This is why portable, interchangeable Solid State Drives (SSDs) like the TerraMaster D1 SSD Plus have become commonplace among photograp",
-    "title_fr": "TerraMaster D1 Portable SSD Enclosure Review: Quiet and Fast Storage"
-  },
-  {
-    "title": "Tesla shareholders approve Elon Musk’s $1 trillion pay package",
-    "url": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot",
-    "description": "Tesla shareholders voted Thursday to approve Elon Musk’s staggering new pay package, in a move aimed at retaining the controversial CEO’s leadership during a time of great upheaval for the automaker. Over 75 percent of shares voted in favor of the proposal. The vote gives Musk enormous sway over his electric vehicle company, as well […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25489960/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-06",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-07T01:45:22.894071",
-    "description_fr": "Tesla shareholders voted Thursday to approve Elon Musk’s staggering new pay package, in a move aimed at retaining the controversial CEO’s leadership during a time of great upheaval for the automaker. Over 75 percent of shares voted in favor of the proposal. The vote gives Musk enormous sway over his electric vehicle company, as well […]",
-    "title_fr": "Tesla shareholders approve Elon Musk’s $1 trillion pay package"
-  },
-  {
-    "title": "Amazon offers AI translation for self-published Kindle books",
-    "url": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation",
-    "description": "Amazon is making it easier for self-published authors to release their ebooks in multiple languages with Kindle Translate, a new AI translation tool that launched in beta on Thursday to a limited number of Kindle Direct Publishing (KDP) authors. In its early form, it can translate between English and Spanish and from German to English, […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Kindle-Paperwhite.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-06",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-07T01:45:22.894698",
-    "description_fr": "Amazon is making it easier for self-published authors to release their ebooks in multiple languages with Kindle Translate, a new AI translation tool that launched in beta on Thursday to a limited number of Kindle Direct Publishing (KDP) authors. In its early form, it can translate between English and Spanish and from German to English, […]",
-    "title_fr": "Amazon offers AI translation for self-published Kindle books"
-  },
-  {
-    "title": "Brazil’s AI moment is here",
-    "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here",
-    "description": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.219717",
-    "description_fr": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
-    "title_fr": "Brazil’s AI moment is here"
-  },
-  {
-    "title": "OpenAI acquires Software Applications Incorporated, maker of Sky",
-    "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
-    "description": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.222490",
-    "description_fr": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
-    "title_fr": "OpenAI acquires Software Applications Incorporated, maker of Sky"
-  },
-  {
-    "title": "Consensus accelerates research with GPT-5 and Responses API",
-    "url": "https://openai.com/index/consensus",
-    "description": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.222825",
-    "description_fr": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
-    "title_fr": "Consensus accelerates research with GPT-5 and Responses API"
-  },
-  {
-    "title": "AI in South Korea—OpenAI’s Economic Blueprint",
-    "url": "https://openai.com/index/south-korea-economic-blueprint",
-    "description": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.223110",
-    "description_fr": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
-    "title_fr": "AI in South Korea—OpenAI’s Economic Blueprint"
-  },
-  {
-    "title": "Work smarter with your company knowledge in ChatGPT",
-    "url": "https://openai.com/index/introducing-company-knowledge",
-    "description": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.223372",
-    "description_fr": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
-    "title_fr": "Work smarter with your company knowledge in ChatGPT"
-  },
-  {
-    "title": "The next chapter for UK sovereign AI",
-    "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
-    "description": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.223648",
-    "description_fr": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
-    "title_fr": "The next chapter for UK sovereign AI"
-  },
-  {
-    "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
-    "url": "https://openai.com/index/japan-economic-blueprint",
-    "description": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.224039",
-    "description_fr": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-    "title_fr": "AI in Japan—OpenAI’s Japan Economic Blueprint"
-  },
-  {
-    "title": "Continue your ChatGPT experience beyond WhatsApp",
-    "url": "https://openai.com/index/chatgpt-whatsapp-transition",
-    "description": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.224300",
-    "description_fr": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
-    "title_fr": "Continue your ChatGPT experience beyond WhatsApp"
-  },
-  {
-    "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
-    "url": "https://openai.com/index/introducing-chatgpt-atlas",
-    "description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:22.224586",
-    "description_fr": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
-    "title_fr": "Introducing ChatGPT Atlas, the browser with ChatGPT built in"
-  },
-  {
-    "title": "New updates and more access to Google Earth AI",
-    "url": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
-    "description": "Google Earth AI helps enterprises, nonprofits, and cities with everything from environmental monitoring to disaster response",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_Earth_AI.max-600x600.format-webp.webp",
-    "published_date": "2025-11-05",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:24.412504",
-    "description_fr": "Google Earth AI helps enterprises, nonprofits, and cities with everything from environmental monitoring to disaster response",
-    "title_fr": "New updates and more access to Google Earth AI"
-  },
-  {
-    "title": "The CMA’s designation of Google’s mobile ecosystem",
-    "url": "https://blog.google/around-the-globe/google-europe/united-kingdom/cmas-designation-of-googles-mobile-ecosystem/",
-    "description": "Illustration showing a laptop with the British flag and the London skyline in the background.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CMA.max-600x600.format-webp.webp",
-    "published_date": "2025-11-05",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:24.412786",
-    "description_fr": "Illustration showing a laptop with the British flag and the London skyline in the background.",
-    "title_fr": "The CMA’s designation of Google’s mobile ecosystem"
-  },
-  {
-    "title": "Start learning all things AI on the new Google Skills",
-    "url": "https://blog.google/outreach-initiatives/education/google-skills/",
-    "description": "Say hello to Google Skills",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_blog_header_2096x1182.max-600x600.format-webp.webp",
-    "published_date": "2025-11-05",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:24.413052",
-    "description_fr": "Say hello to Google Skills",
-    "title_fr": "Start learning all things AI on the new Google Skills"
-  },
-  {
-    "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "url": "https://huggingface.co/blog/openenv",
-    "description": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:25.755306",
-    "description_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-    "title_fr": "Building the Open Agent Ecosystem Together: Introducing OpenEnv"
-  },
-  {
-    "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "url": "https://huggingface.co/blog/virustotal",
-    "description": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "image_url": "",
-    "published_date": "2025-11-05",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-05T01:46:25.755515",
-    "description_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security",
-    "title_fr": "Hugging Face and VirusTotal collaborate to strengthen AI security"
   }
 ]
