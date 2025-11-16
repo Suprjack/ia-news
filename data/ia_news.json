@@ -1,5 +1,31 @@
 [
   {
+    "title": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-november-2025-games/",
+    "description": "Editor’s note: This blog has been updated to reflect the correct launch date for ‘Call of Duty: Black Ops 7’, November 14.   A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty:Read Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/gfn-thursday-11-6-nv-blog-1280x680-logo.jpg",
+    "published_date": "2025-11-16",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-16T01:52:17.005413",
+    "description_fr": "Editor’s note: This blog has been updated to reflect the correct launch date for ‘Call of Duty: Black Ops 7’, November 14.   A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty:Read Article",
+    "title_fr": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November"
+  },
+  {
+    "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
+    "url": "https://blogs.nvidia.com/blog/scaling-physical-ai-omniverse/",
+    "description": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/10/ito-october-2025-featured-1280x680-1.jpg",
+    "published_date": "2025-11-16",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-16T01:52:17.007010",
+    "description_fr": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
+    "title_fr": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development"
+  },
+  {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
     "url": "https://huggingface.co/blog/lerobot-release-v040",
     "description": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
@@ -347,8 +373,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-15T18:28:33.594930",
-    "description_fr": "A photo restorer has breathed new life into the only universally accepted portrait of Billy the Kid, giving viewers a clearer image of the Wild West's most infamous outlaw.[Read More]",
-    "title_fr": "Billy the Kid Like You’ve Never Seen Him: Photo Restorer Revives Rare Portrait of the Wild West Outlaw"
+    "description_fr": "Un restaurateur de photos a donné un nouveau souffle au seul portrait universellement accepté de Billy the Kid, donnant aux téléspectateurs une image plus claire du plus infâme hors-la-loi du Far West.[En savoir plus]",
+    "title_fr": "Billy l'enfant comme vous ne l'avez jamais vu : un restaurateur de photos redonne vie à un portrait rare du hors-la-loi du Far West"
   },
   {
     "title": "Every Winning Photo From Nature Photographer of the Year 2025",
@@ -360,8 +386,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-15T18:28:33.595742",
-    "description_fr": "The Nature Photographer of the Year 2025 winners have been revealed, and acclaimed Norwegian photographer Åsmund Keilen has earned the prestigious title, \"Nature Photographer of the Year,\" for his breathtaking, ethereal photo of a bird in flight against the glowing Sun.[Read More]",
-    "title_fr": "Every Winning Photo From Nature Photographer of the Year 2025"
+    "description_fr": "Les lauréats du prix du photographe de la nature de l'année 2025 ont été révélés, et le célèbre photographe norvégien Åsmund Keilen a remporté le prestigieux titre de « photographe de la nature de l'année » pour sa photo époustouflante et éthérée d'un oiseau en vol contre le soleil radieux.[En savoir plus]",
+    "title_fr": "Chaque photo gagnante du photographe de nature de l'année 2025"
   },
   {
     "title": "Poignant Photos Show the Remote Scottish Island Where George Orwell Wrote ‘1984’",
@@ -373,8 +399,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-15T18:28:33.596409",
-    "description_fr": "At the end of his life, English author George Orwell sought refuge on a remote Scottish island to finish his final and most famous book: 1984.[Read More]",
-    "title_fr": "Poignant Photos Show the Remote Scottish Island Where George Orwell Wrote ‘1984’"
+    "description_fr": "À la fin de sa vie, l'auteur anglais George Orwell s'est réfugié sur une île écossaise isolée pour terminer son dernier et le plus célèbre livre : 1984.[En savoir plus]",
+    "title_fr": "Des photos poignantes montrent l'île écossaise isolée où George Orwell a écrit « 1984 »"
   },
   {
     "title": "How Philips Is scaling AI literacy across 70,000 employees",
@@ -841,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:29.147234",
-    "description_fr": "Les responsables de la sécurité font face à une nouvelle classe de menaces autonomes alors qu'Anthropic détaille la première campagne de cyberespionnage orchestrée par l'IA. Dans un rapport publié cette semaine, l'équipe Threat Intelligence de la société a décrit sa perturbation d'une opération sophistiquée par un groupe parrainé par l'État chinois – une évaluation faite avec une grande confiance – surnommé GTG-1002 et a détecté […]Les détails postAnthropic cyber es",
-    "title_fr": "Campagne de cyber-espionnage Anthropic Details orchestrée par AI"
+    "description_fr": "Security leaders face a new class of autonomous threat as Anthropic details the first cyber espionage campaign orchestrated by AI. In a report released this week, the company’s Threat Intelligence team outlined its disruption of a sophisticated operation by a Chinese state-sponsored group – an assessment made with high confidence – dubbed GTG-1002 and detected […]The postAnthropic details cyber es",
+    "title_fr": "Anthropic details cyber espionage campaign orchestrated by AI"
   },
   {
     "title": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot",
@@ -854,8 +880,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:29.149540",
-    "description_fr": "Lorsque Visa a dévoilé sa plateforme de commerce intelligent pour l'Asie-Pacifique le 12 novembre, elle ne se contentait pas de lancer une autre fonctionnalité de paiement : elle construisait une infrastructure de commerce IA pour résoudre une crise que la plupart des commerçants n'ont pas encore remarquée : leurs sites Web sont inondés d'agents IA, et il n'existe aucun moyen fiable de savoir quels sont les acheteurs légitimes et quels sont les robots malveillants.  […]Le bui postVisa",
-    "title_fr": "Visa construit une infrastructure de commerce IA pour le projet pilote 2026 de l'Asie-Pacifique"
+    "description_fr": "When Visa unveiled its Intelligent Commerce platform for Asia Pacific on November 12, it wasn’t just launching another payment feature—it was building AI commerce infrastructure to solve a crisis most merchants haven’t noticed yet: their websites are being flooded by AI agents, and there’s no reliable way to tell which ones are legitimate shoppers and which are malicious bots.  […]The postVisa bui",
+    "title_fr": "Visa builds AI commerce infrastructure for the Asia Pacific’s 2026 Pilot"
   },
   {
     "title": "This Mind-Blowing Photo Shows a Skydiver Transiting the Sun",
@@ -867,7 +893,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-14T12:45:38.136954",
-    "description_fr": "L'astrophotographe Andrew McCarthy a capturé un magnifique cliché d'un parachutiste tombant devant le Soleil. C'était incroyablement difficile - nécessitant une planification et une coordination précises - mais le duo a finalement réussi à la sixième tentative.[En savoir plus]",
+    "description_fr": "Astrophotographer Andrew McCarthy has captured a stupendous shot of a skydiver falling in front of the Sun. It was incredibly difficult -- requiring precise planning and coordination -- but the pair ultimately pulled it off on the sixth attempt.[Read More]",
     "title_fr": "This Mind-Blowing Photo Shows a Skydiver Transiting the Sun"
   },
   {
@@ -6472,31 +6498,5 @@
     "collected_at": "2025-11-06T18:32:56.861953",
     "description_fr": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
     "title_fr": "Google plans secret AI military outpost on tiny island overrun by crabs"
-  },
-  {
-    "title": "Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race",
-    "url": "https://www.artificialintelligence-news.com/news/dubai-ai-government-efficiency-speed-exclusive/",
-    "description": "When Dubai launched its State of AI Report in April 2025, revealing over 100 high-impact AI use cases, the emirate wasn’t just showcasing technological prowess—it was making a calculated bet that speed, not spending, would determine which cities win the global race for AI-powered governance. In an exclusive interview, Matar Al Hemeiri, Chief Executive of Digital Dubai […]The postExclusive: Dubai’s",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/PICTURE_H.E.-Matar-Al-Hemeiri-1024x753.jpg",
-    "published_date": "2025-11-06",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:33:00.193168",
-    "description_fr": "When Dubai launched its State of AI Report in April 2025, revealing over 100 high-impact AI use cases, the emirate wasn’t just showcasing technological prowess—it was making a calculated bet that speed, not spending, would determine which cities win the global race for AI-powered governance. In an exclusive interview, Matar Al Hemeiri, Chief Executive of Digital Dubai […]The postExclusive: Dubai’s",
-    "title_fr": "Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race"
-  },
-  {
-    "title": "Is AI in a bubble? Succeed despite a market correction",
-    "url": "https://www.artificialintelligence-news.com/news/is-ai-in-a-bubble-succeed-despite-market-correction/",
-    "description": "Amid pressure to deploy generative and agentic solutions, a familiar question is surfacing: “Is there an AI bubble, and is it about to burst?” For many organisations, this new wave of generative and agentic AI is still very much in experimental stages. The primary focus, and the low-hanging fruit, has been internal. Most businesses are […]The postIs AI in a bubble? Succeed despite a market correct",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
-    "published_date": "2025-11-06",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:33:00.194850",
-    "description_fr": "Amid pressure to deploy generative and agentic solutions, a familiar question is surfacing: “Is there an AI bubble, and is it about to burst?” For many organisations, this new wave of generative and agentic AI is still very much in experimental stages. The primary focus, and the low-hanging fruit, has been internal. Most businesses are […]The postIs AI in a bubble? Succeed despite a market correct",
-    "title_fr": "Is AI in a bubble? Succeed despite a market correction"
   }
 ]
