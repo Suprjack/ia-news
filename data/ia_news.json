@@ -35,8 +35,34 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-16T06:31:50.478823",
-    "description_fr": "When Dubai launched its State of AI Report in April 2025, revealing over 100 high-impact AI use cases, the emirate wasn’t just showcasing technological prowess—it was making a calculated bet that speed, not spending, would determine which cities win the global race for AI-powered governance. In an exclusive interview, Matar Al Hemeiri, Chief Executive of Digital Dubai […]The postExclusive: Dubai’s",
-    "title_fr": "Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race"
+    "description_fr": "Lorsque Dubaï a lancé son rapport sur l'état de l'IA en avril 2025, révélant plus de 100 cas d'utilisation de l'IA à fort impact, l'émirat ne se contentait pas de présenter des prouesses technologiques : il pariait que la vitesse, et non les dépenses, déterminerait quelles villes gagneraient la course mondiale à la gouvernance alimentée par l'IA. Dans une interview exclusive, Matar Al Hemeiri, directeur général de Digital Dubai […]The postExclusive : Dubai's",
+    "title_fr": "Exclusif : Le chef du gouvernement numérique de Dubaï affirme que la vitesse l'emporte sur les dépenses dans la course à l'efficacité de l'IA"
+  },
+  {
+    "title": "Google says project on famous crab-covered island is about cables, not combat",
+    "url": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
+    "description": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/crabs_hero-1152x648.jpg",
+    "published_date": "2025-11-16",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-16T12:40:24.211854",
+    "description_fr": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
+    "title_fr": "Google says project on famous crab-covered island is about cables, not combat"
+  },
+  {
+    "title": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions",
+    "url": "https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/",
+    "description": "The AI's latest trick is following the schedule you set for it.",
+    "image_url": "https://media.wired.com/photos/691767db0aab2f501ca92d9c/master/pass/gear-ai-organize-2149928167.jpg",
+    "published_date": "2025-11-16",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-16T12:40:25.401342",
+    "description_fr": "The AI's latest trick is following the schedule you set for it.",
+    "title_fr": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions"
   },
   {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
@@ -828,8 +854,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:23.079343",
-    "description_fr": "TechCrunch a parlé avec le PDG et cofondateur de Harvey, Winston Weinberg, de la course folle que lui et le cofondateur Gabe Pereyra ont faite jusqu'à présent.",
-    "title_fr": "Inside Harvey : Comment un associé juridique de première année a construit l'une des startups les plus en vogue de la Silicon Valley"
+    "description_fr": "TechCrunch spoke with Harvey's CEO and co-founder Winston Weinberg about the wild ride that he and co-founder Gabe Pereyra have been on so far.",
+    "title_fr": "Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups"
   },
   {
     "title": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan",
@@ -841,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:23.079647",
-    "description_fr": "OpenAI a dévoilé jeudi une fonctionnalité de chat de groupe pour ChatGPT, actuellement en phase pilote au Japon, en Nouvelle-Zélande, en Corée du Sud et à Taïwan, permettant aux utilisateurs de collaborer directement au sein de l'application.",
-    "title_fr": "ChatGPT lance des discussions de groupe pilotes au Japon, en Nouvelle-Zélande, en Corée du Sud et à Taïwan"
+    "description_fr": "OpenAI on Thursday unveiled a group chat feature for ChatGPT, currently in pilot across Japan, New Zealand, South Korea, and Taiwan, allowing users to collaborate directly within the app.",
+    "title_fr": "ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan"
   },
   {
     "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
@@ -6472,31 +6498,5 @@
     "collected_at": "2025-11-06T18:32:54.556652",
     "description_fr": "Google Cloudis introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generationTensor Processing Unitand expandedArm-based computing optionsdesigned to meet surging demand for AI model deployment — what the company characterizes as a fundamental industry shift from training models to serving them to billions of users.The announcement, made ",
     "title_fr": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions"
-  },
-  {
-    "title": "From prototype to production: What vibe coding tools must fix for enterprise adoption",
-    "url": "https://venturebeat.com/ai/from-prototype-to-production-what-vibe-coding-tools-must-fix-for-enterprise",
-    "description": "Presented by SalesforceVibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, and great for instant prototypes. But many argue that it's not cut out for building production-ready business apps with the security, governance, and trusted infrastructure that enterprises require. In other words, a few saved hours in development can",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:54.559616",
-    "description_fr": "Presented by SalesforceVibe coding — the fast-growing trend of using generative AI to spin up code from plain-language prompts — is quick, creative, and great for instant prototypes. But many argue that it's not cut out for building production-ready business apps with the security, governance, and trusted infrastructure that enterprises require. In other words, a few saved hours in development can",
-    "title_fr": "From prototype to production: What vibe coding tools must fix for enterprise adoption"
-  },
-  {
-    "title": "The compute rethink: Scaling AI where data lives, at the edge",
-    "url": "https://venturebeat.com/ai/the-compute-rethink-scaling-ai-where-data-lives-at-the-edge",
-    "description": "Presented by ArmAI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensors, and networks at the edge. This shift toward on-device intelligence is being driven by latency, privacy, and cost concerns that companies are confronting as they continue their investments in AI.For leadership teams, the opportunity is clear, says C",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:54.561717",
-    "description_fr": "Presented by ArmAI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensors, and networks at the edge. This shift toward on-device intelligence is being driven by latency, privacy, and cost concerns that companies are confronting as they continue their investments in AI.For leadership teams, the opportunity is clear, says C",
-    "title_fr": "The compute rethink: Scaling AI where data lives, at the edge"
   }
 ]
