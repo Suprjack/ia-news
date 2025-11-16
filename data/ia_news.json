@@ -48,8 +48,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-16T12:40:24.211854",
-    "description_fr": "Tech giant denies building secret AI data center, says focus is subsea infrastructure.",
-    "title_fr": "Google says project on famous crab-covered island is about cables, not combat"
+    "description_fr": "Le géant de la technologie nie avoir construit un centre de données IA secret, affirme que l'accent est mis sur l'infrastructure sous-marine.",
+    "title_fr": "Google dit que le projet sur la célèbre île recouverte de crabe concerne les câbles, pas le combat"
   },
   {
     "title": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions",
@@ -61,8 +61,60 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-16T12:40:25.401342",
-    "description_fr": "The AI's latest trick is following the schedule you set for it.",
-    "title_fr": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions"
+    "description_fr": "Le dernier truc de l'IA est de suivre le calendrier que vous lui avez fixé.",
+    "title_fr": "Utilisez Google Gemini et ChatGPT pour organiser votre vie avec des actions planifiées"
+  },
+  {
+    "title": "How much of the AI data center boom will be powered by renewable energy?",
+    "url": "https://techcrunch.com/2025/11/16/how-much-of-the-ai-data-center-boom-will-be-powered-by-renewable-energy/",
+    "description": "According to a new report from the International Energy Agency, the world will spend $580 billion on data centers this year — $40 billion more than will be spent finding new oil supplies.",
+    "image_url": "",
+    "published_date": "2025-11-16",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-16T18:29:12.372464",
+    "description_fr": "According to a new report from the International Energy Agency, the world will spend $580 billion on data centers this year — $40 billion more than will be spent finding new oil supplies.",
+    "title_fr": "How much of the AI data center boom will be powered by renewable energy?"
+  },
+  {
+    "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
+    "url": "https://venturebeat.com/security/human-centric-iam-is-failing-agentic-ai-requires-a-new-identity-control",
+    "description": "The race to deployagentic AI is on. Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creat",
+    "image_url": "",
+    "published_date": "2025-11-16",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-16T18:29:14.112540",
+    "description_fr": "The race to deployagentic AI is on. Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creat",
+    "title_fr": "Human-centric IAM is failing: Agentic AI requires a new identity control plane"
+  },
+  {
+    "title": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed",
+    "url": "https://petapixel.com/2025/11/16/the-philippines-was-the-perfect-creative-reset-i-didnt-know-i-needed/",
+    "description": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/The-Philippines-Was-the-Perfect-Creative-Reset-I-Didnt-Know-I-Needed.jpg",
+    "published_date": "2025-11-16",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-16T18:29:28.812851",
+    "description_fr": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.[Read More]",
+    "title_fr": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed"
+  },
+  {
+    "title": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed",
+    "url": "https://petapixel.com/author/sarahteng/",
+    "description": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/The-Philippines-Was-the-Perfect-Creative-Reset-I-Didnt-Know-I-Needed.jpg",
+    "published_date": "2025-11-16",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-16T18:29:54.541896",
+    "description_fr": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.",
+    "title_fr": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed"
   },
   {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
@@ -841,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:21.844250",
-    "description_fr": "Je n'ai jamais vraiment cru que les voitures autonomes arriveraient au Royaume-Uni, alors vous pouvez imaginer ma surprise quand je me suis retrouvé à grimper dans l'un des véhicules autonomes de Wayve pour un voyage dans le nord de Londres il y a quelques semaines. En juin, la société a annoncé des plans avec Uber pour commencer à tester l'axe robotique entièrement autonome de niveau 4 […]",
-    "title_fr": "Je suis monté dans l'une des premières voitures autonomes du Royaume-Uni"
+    "description_fr": "I never really believed self-driving cars would make it to the UK, so you can imagine my surprise when I found myself clambering into one of Wayve's autonomous vehicles for a journey around north London a few weeks ago. In June, the company announced plans with Uber to begin trialing Level 4 fully autonomous robotaxis […]",
+    "title_fr": "I rode in one of the UK’s first self-driving cars"
   },
   {
     "title": "Inside Harvey: How a first-year legal associate built one of Silicon Valley’s hottest startups",
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-11-06T18:32:52.539794",
     "description_fr": "Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.",
     "title_fr": "Meta brings its short-form video feed of AI slop to Europe"
-  },
-  {
-    "title": "Subtle Computing’s voice isolation models help computers understand you in noisy environments",
-    "url": "https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/",
-    "description": "Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:52.540118",
-    "description_fr": "Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.",
-    "title_fr": "Subtle Computing’s voice isolation models help computers understand you in noisy environments"
-  },
-  {
-    "title": "Inception raises $50 million to build diffusion models for code and text",
-    "url": "https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/",
-    "description": "Diffusion models already power AI image generators, but Inception thinks they can be even more powerful applied in software development.",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:52.540472",
-    "description_fr": "Diffusion models already power AI image generators, but Inception thinks they can be even more powerful applied in software development.",
-    "title_fr": "Inception raises $50 million to build diffusion models for code and text"
-  },
-  {
-    "title": "Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks",
-    "url": "https://venturebeat.com/ai/moonshots-kimi-k2-thinking-emerges-as-leading-open-source-ai-outperforming",
-    "description": "Even asconcern and skepticismgrows over U.S. AI startup OpenAI's buildout strategy and high spending commitments, Chinese open source AI providers are escalating their competition and one has even caught up to OpenAI's flagship, paid proprietary model GPT-5 in key third-party performance benchmarks with a new, free model.The Chinese AI startupMoonshot AI’s new Kimi K2 Thinking model, released toda",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:54.549508",
-    "description_fr": "Even asconcern and skepticismgrows over U.S. AI startup OpenAI's buildout strategy and high spending commitments, Chinese open source AI providers are escalating their competition and one has even caught up to OpenAI's flagship, paid proprietary model GPT-5 in key third-party performance benchmarks with a new, free model.The Chinese AI startupMoonshot AI’s new Kimi K2 Thinking model, released toda",
-    "title_fr": "Moonshot's Kimi K2 Thinking emerges as leading open source AI, outperforming GPT-5, Claude Sonnet 4.5 on key benchmarks"
-  },
-  {
-    "title": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions",
-    "url": "https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal",
-    "description": "Google Cloudis introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generationTensor Processing Unitand expandedArm-based computing optionsdesigned to meet surging demand for AI model deployment — what the company characterizes as a fundamental industry shift from training models to serving them to billions of users.The announcement, made ",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:54.556652",
-    "description_fr": "Google Cloudis introducing what it calls its most powerful artificial intelligence infrastructure to date, unveiling a seventh-generationTensor Processing Unitand expandedArm-based computing optionsdesigned to meet surging demand for AI model deployment — what the company characterizes as a fundamental industry shift from training models to serving them to billions of users.The announcement, made ",
-    "title_fr": "Google debuts AI chips with 4X performance boost, secures Anthropic megadeal worth billions"
   }
 ]
