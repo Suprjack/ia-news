@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-16T01:52:17.005413",
-    "description_fr": "Editor’s note: This blog has been updated to reflect the correct launch date for ‘Call of Duty: Black Ops 7’, November 14.   A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty:Read Article",
-    "title_fr": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November"
+    "description_fr": "Note de la rédaction : Ce blog a été mis à jour pour refléter la date de lancement correcte de « Call of Duty : Black Ops 7 », le 14 novembre.   Un frisson croustillant est dans l'air — et l'action aussi. GeForce prépare MAINTENANT le mois de novembre avec 23 jeux sur le cloud, y compris le lancement très attendu de Call of Duty :Lire l'article",
+    "title_fr": "Lancez-vous dans le jeu avec plus de 20 titres rejoignant GeForce DÈS NOVEMBRE"
   },
   {
     "title": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development",
@@ -22,8 +22,21 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-16T01:52:17.007010",
-    "description_fr": "Physical AI models — which power robots, autonomous vehicles and other intelligent machines — must be safe, generalized for dynamic scenarios and capable of perceiving, reasoning and operating in real time.",
-    "title_fr": "Into the Omniverse: Open World Foundation Models Generate Synthetic Worlds for Physical AI Development"
+    "description_fr": "Les modèles physiques d'IA — qui alimentent les robots, les véhicules autonomes et d'autres machines intelligentes — doivent être sûrs, généralisés pour les scénarios dynamiques et capables de percevoir, de raisonner et de fonctionner en temps réel.",
+    "title_fr": "Dans l'univers : les modèles de la Open World Foundation génèrent des mondes synthétiques pour le développement de l'IA physique"
+  },
+  {
+    "title": "Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race",
+    "url": "https://www.artificialintelligence-news.com/news/dubai-ai-government-efficiency-speed-exclusive/",
+    "description": "When Dubai launched its State of AI Report in April 2025, revealing over 100 high-impact AI use cases, the emirate wasn’t just showcasing technological prowess—it was making a calculated bet that speed, not spending, would determine which cities win the global race for AI-powered governance. In an exclusive interview, Matar Al Hemeiri, Chief Executive of Digital Dubai […]The postExclusive: Dubai’s",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/PICTURE_H.E.-Matar-Al-Hemeiri-1024x753.jpg",
+    "published_date": "2025-11-16",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-16T06:31:50.478823",
+    "description_fr": "When Dubai launched its State of AI Report in April 2025, revealing over 100 high-impact AI use cases, the emirate wasn’t just showcasing technological prowess—it was making a calculated bet that speed, not spending, would determine which cities win the global race for AI-powered governance. In an exclusive interview, Matar Al Hemeiri, Chief Executive of Digital Dubai […]The postExclusive: Dubai’s",
+    "title_fr": "Exclusive: Dubai’s Digital Government chief says speed trumps spending in AI efficiency race"
   },
   {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
@@ -841,8 +854,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-14T12:45:26.397216",
-    "description_fr": "Les résultats du piratage assisté par l'IA ne sont pas aussi impressionnants que beaucoup pourraient nous le faire croire.",
-    "title_fr": "Les chercheurs remettent en question l'affirmation anthropique selon laquelle l'attaque assistée par IA était autonome à 90 %"
+    "description_fr": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
+    "title_fr": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous"
   },
   {
     "title": "You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon",
@@ -854,8 +867,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T12:45:27.161080",
-    "description_fr": "Les développeurs de chatbots et les géants de la vente au détail se battent pour les données des utilisateurs car ils jettent les bases d'un avenir dans lequel les agents IA peuvent faire tous vos achats en ligne à votre place.",
-    "title_fr": "Vous ne serez pas en mesure de décharger vos achats des Fêtes vers des agents IA de sitôt"
+    "description_fr": "Chatbot developers and retail giants are battling over user data as they lay the foundation for a future in which AI agents can do all your online shopping for you.",
+    "title_fr": "You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon"
   },
   {
     "title": "Anthropic details cyber espionage campaign orchestrated by AI",
@@ -6485,18 +6498,5 @@
     "collected_at": "2025-11-06T18:32:54.561717",
     "description_fr": "Presented by ArmAI is no longer confined to the cloud or data centers. Increasingly, it’s running directly where data is created — in devices, sensors, and networks at the edge. This shift toward on-device intelligence is being driven by latency, privacy, and cost concerns that companies are confronting as they continue their investments in AI.For leadership teams, the opportunity is clear, says C",
     "title_fr": "The compute rethink: Scaling AI where data lives, at the edge"
-  },
-  {
-    "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
-    "url": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/",
-    "description": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/crabs_hero-1152x648.jpg",
-    "published_date": "2025-11-06",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-06T18:32:56.861953",
-    "description_fr": "Christmas Island facility would support naval surveillance in strategic Indo-Pacific waters.",
-    "title_fr": "Google plans secret AI military outpost on tiny island overrun by crabs"
   }
 ]
