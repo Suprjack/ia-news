@@ -1,5 +1,44 @@
 [
   {
+    "title": "From shiny object to sober reality: The vector database story, two years later",
+    "url": "https://venturebeat.com/ai/from-shiny-object-to-sober-reality-the-vector-database-story-two-years-later",
+    "description": "When I first wrote“Vector databases: Shiny object syndrome and the case of a missing unicorn”in March 2024, the industry was awash in hype. Vector databases were positioned as thenext big thing— a must-have infrastructure layer for the gen AI era. Billions of venture dollars flowed, developers rushed to integrate embeddings into their pipelines and analysts breathlessly tracked funding rounds forP",
+    "image_url": "",
+    "published_date": "2025-11-17",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-17T01:48:00.771364",
+    "description_fr": "When I first wrote“Vector databases: Shiny object syndrome and the case of a missing unicorn”in March 2024, the industry was awash in hype. Vector databases were positioned as thenext big thing— a must-have infrastructure layer for the gen AI era. Billions of venture dollars flowed, developers rushed to integrate embeddings into their pipelines and analysts breathlessly tracked funding rounds forP",
+    "title_fr": "From shiny object to sober reality: The vector database story, two years later"
+  },
+  {
+    "title": "World Press Photo’s Print Sale Lets You Own Part of Photography’s History",
+    "url": "https://petapixel.com/2025/11/16/world-press-photos-print-sale-lets-you-own-part-of-photographys-history/",
+    "description": "World Press Photo is celebrating 70 iconic photographs taken over the past 70 years with a print sale: 70 Prints for 70 Years. Some of these shots have never been sold as prints before.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/world-press-photo-70-featured.jpg",
+    "published_date": "2025-11-17",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-17T01:48:15.409923",
+    "description_fr": "World Press Photo is celebrating 70 iconic photographs taken over the past 70 years with a print sale: 70 Prints for 70 Years. Some of these shots have never been sold as prints before.[Read More]",
+    "title_fr": "World Press Photo’s Print Sale Lets You Own Part of Photography’s History"
+  },
+  {
+    "title": "Projected Abliteration",
+    "url": "https://huggingface.co/blog/grimjim/projected-abliteration",
+    "description": "Projected Abliteration",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/65c992424936ab38ecf706b0/aq7vuHFPO1S93fwJk0Cuq.jpeg",
+    "published_date": "2025-11-17",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-17T01:48:31.310990",
+    "description_fr": "Projected Abliteration",
+    "title_fr": "Projected Abliteration"
+  },
+  {
     "title": "Fall Into Gaming With 20+ Titles Joining GeForce NOW in November",
     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-november-2025-games/",
     "description": "Editor’s note: This blog has been updated to reflect the correct launch date for ‘Call of Duty: Black Ops 7’, November 14.   A crisp chill’s in the air — and so is the action. GeForce NOW is packing November with 23 games hitting the cloud, including the launch of the highly anticipated Call of Duty:Read Article",
@@ -74,8 +113,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-16T18:29:12.372464",
-    "description_fr": "According to a new report from the International Energy Agency, the world will spend $580 billion on data centers this year — $40 billion more than will be spent finding new oil supplies.",
-    "title_fr": "How much of the AI data center boom will be powered by renewable energy?"
+    "description_fr": "Selon un nouveau rapport de l'Agence internationale de l'énergie, le monde dépensera 580 milliards de $ en centres de données cette année — 40 milliards de $ de plus que ce qui sera dépensé pour trouver de nouveaux approvisionnements en pétrole.",
+    "title_fr": "Dans quelle mesure le boom des centres de données d'IA sera-t-il alimenté par des énergies renouvelables ?"
   },
   {
     "title": "Human-centric IAM is failing: Agentic AI requires a new identity control plane",
@@ -87,8 +126,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-16T18:29:14.112540",
-    "description_fr": "The race to deployagentic AI is on. Across the enterprise, systems that can plan, take actions and collaborate across business applications promise unprecedented efficiency. But in the rush to automate, a critical component is being overlooked: Scalable security. We are building a workforce of digital employees without giving them a secure way to log in, access data and do their jobs without creat",
-    "title_fr": "Human-centric IAM is failing: Agentic AI requires a new identity control plane"
+    "description_fr": "La course au déploiement d'une IA authentique est lancée. Dans l'ensemble de l'entreprise, les systèmes capables de planifier, de prendre des mesures et de collaborer entre les applications professionnelles promettent une efficacité sans précédent. Mais dans la course à l'automatisation, un composant essentiel est négligé : la sécurité évolutive. Nous construisons une main-d' œuvre d'employés numériques sans leur donner un moyen sécurisé de se connecter, d'accéder aux données et de faire leur travail sans créer",
+    "title_fr": "L'IAM centrée sur l'humain échoue : Agentic AI nécessite un nouveau plan de contrôle d'identité"
   },
   {
     "title": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed",
@@ -100,8 +139,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-16T18:29:28.812851",
-    "description_fr": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.[Read More]",
-    "title_fr": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed"
+    "description_fr": "En août, je me suis envolé pour les Philippines en tant que photographe de plateau sur un film intitulé « Dyahe Piece » que mon ami Coco Tolentino a écrit et réalisé. Ce n'était pas mon film, et ce n'était pas mon histoire, mais c'est en fait devenu l'un des projets et voyages les plus enrichissants que j'ai réalisés depuis un moment.[En savoir plus]",
+    "title_fr": "Les Philippines étaient la réinitialisation créative parfaite dont je ne savais pas avoir besoin"
   },
   {
     "title": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed",
@@ -113,8 +152,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-16T18:29:54.541896",
-    "description_fr": "Back in August, I flew to the Philippines as the set photographer on a film called \"Dyahe Piece\" that my friend Coco Tolentino wrote and directed. It wasn’t my film, and it wasn’t my story, but it actually became one of the most fulfilling projects and trips I’ve done in a while.",
-    "title_fr": "The Philippines Was the Perfect Creative Reset I Didn’t Know I Needed"
+    "description_fr": "En août, je me suis envolé pour les Philippines en tant que photographe de plateau sur un film intitulé « Dyahe Piece » que mon ami Coco Tolentino a écrit et réalisé. Ce n'était pas mon film, et ce n'était pas mon histoire, mais c'est en fait devenu l'un des projets et voyages les plus enrichissants que j'ai réalisés depuis un moment.[En savoir plus]",
+    "title_fr": "Les Philippines étaient la réinitialisation créative parfaite dont je ne savais pas avoir besoin"
   },
   {
     "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
@@ -828,8 +867,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T06:34:13.830416",
-    "description_fr": "Image avec fond noir et bleu avec un exemple d'extrait de code JSON Schema et le logo Gemini scintillant",
-    "title_fr": "Amélioration des sorties structurées dans l'API Gemini"
+    "description_fr": "Image with black and blue background with an example JSON Schema code snippet and the Gemini logo sparkle",
+    "title_fr": "Improving Structured Outputs in the Gemini API"
   },
   {
     "title": "Introducing vibe coding in Google AI Studio",
@@ -841,8 +880,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T06:34:13.831199",
-    "description_fr": "Codage Vibe dans Google AI Studio",
-    "title_fr": "Présentation du vibe coding dans Google AI Studio"
+    "description_fr": "Vibe Coding in Google AI Studio",
+    "title_fr": "Introducing vibe coding in Google AI Studio"
   },
   {
     "title": "L'énergie comme levier stratégique : priorité aux IA européennes",
@@ -867,7 +906,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-14T06:34:30.959289",
-    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prévisible à vos réponses.",
+    "description_fr": "Après le prompt engineering place au contexte engineering. Le contexte permet aux modèles de répondre plus précisément avec un comportement plus prédictible à vos réponses.",
     "title_fr": "Prompts : 5 techniques de context engineering pour gagner en précision"
   },
   {
@@ -880,8 +919,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-14T12:45:18.080493",
-    "description_fr": "OpenAI lance OpenAI pour l'Irlande, en partenariat avec le gouvernement irlandais, Dogpatch Labs et Patch pour aider les PME, les fondateurs et les jeunes constructeurs à utiliser l'IA pour innover, stimuler la productivité et construire la prochaine génération de startups technologiques irlandaises.",
-    "title_fr": "Présentation d'OpenAI pour l'Irlande"
+    "description_fr": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+    "title_fr": "Introducing OpenAI for Ireland"
   },
   {
     "title": "I rode in one of the UK’s first self-driving cars",
@@ -6459,44 +6498,5 @@
     "collected_at": "2025-11-06T18:32:51.584813",
     "description_fr": "Here on Decoder, we’ve talked a lot about generative AI, which is a very big idea that is causing quite a few problems. One thing we keep hearing about over and over again is that generative AI is causing a lot of problems in schools. A lot of people out there, including many of the […]",
     "title_fr": "How AI is fueling an existential crisis in education"
-  },
-  {
-    "title": "Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit",
-    "description": "\"What did Ilya see?\" Two years ago, it was the meme seen 'round the world (or at least 'round the tech industry). OpenAI CEO Sam Altman had been briefly ousted in November 2023 by members of the company's board of directors, including his longtime collaborator and fellow cofounder Ilya Sutskever. The board claimed Altman \"was […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-06",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:51.585400",
-    "description_fr": "\"What did Ilya see?\" Two years ago, it was the meme seen 'round the world (or at least 'round the tech industry). OpenAI CEO Sam Altman had been briefly ousted in November 2023 by members of the company's board of directors, including his longtime collaborator and fellow cofounder Ilya Sutskever. The board claimed Altman \"was […]",
-    "title_fr": "Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony"
-  },
-  {
-    "title": "Foursquare&#8217;s founder launches a new app that talks to you about your neighborhood",
-    "url": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates",
-    "description": "After teasing its development last year, Foursquare co-founder Dennis Crowley has now launched BeeBot: an AI-powered social app for iPhones that talks to you about what’s happening nearby. In his blog announcement, Crowley says BeeBot behaves like a “personalized radio DJ” that provides location-based audio updates through your headphones, telling you about what friends are […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/BeeBot-app-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-06",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:51.586221",
-    "description_fr": "After teasing its development last year, Foursquare co-founder Dennis Crowley has now launched BeeBot: an AI-powered social app for iPhones that talks to you about what’s happening nearby. In his blog announcement, Crowley says BeeBot behaves like a “personalized radio DJ” that provides location-based audio updates through your headphones, telling you about what friends are […]",
-    "title_fr": "Foursquare&#8217;s founder launches a new app that talks to you about your neighborhood"
-  },
-  {
-    "title": "Meta brings its short-form video feed of AI slop to Europe",
-    "url": "https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/",
-    "description": "Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-06T18:32:52.539794",
-    "description_fr": "Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.",
-    "title_fr": "Meta brings its short-form video feed of AI slop to Europe"
   }
 ]
