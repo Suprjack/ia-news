@@ -256,8 +256,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T06:33:33.547724",
-    "description_fr": "With consumers increasingly asking questions to ChatGPT, not Google, product discovery is changing — and the promise to give brands visibility and control over this fast-growing search channel has made Peec AI one of Europe's hottest startups.",
-    "title_fr": "As consumers ditch Google for ChatGPT, Peec AI raises $21M to help brands adapt"
+    "description_fr": "Alors que les consommateurs posent de plus en plus de questions à ChatGPT, et non à Google, la découverte de produits évolue — et la promesse de donner aux marques une visibilité et un contrôle sur ce canal de recherche en pleine croissance a fait de Peec AI l'une des startups les plus en vogue en Europe.",
+    "title_fr": "Alors que les consommateurs abandonnent Google pour ChatGPT, Peec AI lève 21 MILLIONS de $ pour aider les marques à s'adapter"
   },
   {
     "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
@@ -269,8 +269,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-18T06:33:37.290499",
-    "description_fr": "You wouldn't know it from the hype, but the results fail to impress.",
-    "title_fr": "5 AI-developed malware families analyzed by Google fail to work and are easily detected"
+    "description_fr": "Vous ne le sauriez pas grâce au battage médiatique, mais les résultats n'impressionnent pas.",
+    "title_fr": "5 familles de logiciels malveillants développés par l'IA et analysés par Google ne fonctionnent pas et sont facilement détectables"
   },
   {
     "title": "The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next",
@@ -282,8 +282,86 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-18T06:33:42.593041",
-    "description_fr": "Where CPUs once ruled, power efficiency — and then AI — flipped the balance. Extreme co-design across GPUs, networking and software now drives the frontier of science.",
-    "title_fr": "The Great Flip: How Accelerated Computing Redefined Scientific Systems — and What Comes Next"
+    "description_fr": "Là où les processeurs ont autrefois régné, l'efficacité énergétique — puis l'IA — ont inversé la donne. La co-conception extrême entre les GPU, les réseaux et les logiciels repousse désormais les frontières de la science.",
+    "title_fr": "The Great Flip : Comment l'informatique accélérée a redéfini les systèmes scientifiques — et ce qui vient ensuite"
+  },
+  {
+    "title": "Databricks reportedly in talks to raise funding at a $130B+ valuation",
+    "url": "https://techcrunch.com/2025/11/18/databricks-reportedly-in-talks-to-raise-funding-at-a-130b-valuation/",
+    "description": "Databricks is said to be in talks to raise a new round of funding just a few months after its last fundraise, which valued the company at $100 billion.",
+    "image_url": "",
+    "published_date": "2025-11-18",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-18T12:47:18.885210",
+    "description_fr": "Databricks is said to be in talks to raise a new round of funding just a few months after its last fundraise, which valued the company at $100 billion.",
+    "title_fr": "Databricks reportedly in talks to raise funding at a $130B+ valuation"
+  },
+  {
+    "title": "‘Odd Lots’ Cohost Joe Weisenthal Has Predictions About How the AI Bubble Will Burst",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-joe-weisenthal/",
+    "description": "Much of the US economy rests on AI’s future. On this episode of The Big Interview podcast, Odd Lots cohost Joe Weisenthal breaks down why AI’s impact on finance goes beyond billion-dollar investments.",
+    "image_url": "https://media.wired.com/photos/691774387409585b24090a8f/master/pass/Big-Interview-UV-Solo-Joe-Weisenthal-Business.jpg",
+    "published_date": "2025-11-18",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-18T12:47:23.849580",
+    "description_fr": "Much of the US economy rests on AI’s future. On this episode of The Big Interview podcast, Odd Lots cohost Joe Weisenthal breaks down why AI’s impact on finance goes beyond billion-dollar investments.",
+    "title_fr": "‘Odd Lots’ Cohost Joe Weisenthal Has Predictions About How the AI Bubble Will Burst"
+  },
+  {
+    "title": "Bain & Company issues AI Guide for CEOs, opens Singapore hub",
+    "url": "https://www.artificialintelligence-news.com/news/bain-company-issues-ai-guide-for-ceos-and-opens-singapore-hub/",
+    "description": "A new Bain & Company report says many organisations in Southeast Asia are still stuck in early product testing because they treat AI as a set of tools rather than a change in how the business works. In The Southeast Asia CEO’s Guide to AI Transformation, the authors say leaders should first look at how […]The postBain & Company issues AI Guide for CEOs, opens Singapore hubappeared first onAI News.",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published_date": "2025-11-18",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-18T12:47:25.577362",
+    "description_fr": "A new Bain & Company report says many organisations in Southeast Asia are still stuck in early product testing because they treat AI as a set of tools rather than a change in how the business works. In The Southeast Asia CEO’s Guide to AI Transformation, the authors say leaders should first look at how […]The postBain & Company issues AI Guide for CEOs, opens Singapore hubappeared first onAI News.",
+    "title_fr": "Bain & Company issues AI Guide for CEOs, opens Singapore hub"
+  },
+  {
+    "title": "SC25 showcases the next phase of Dell and NVIDIA’s AI partnership",
+    "url": "https://www.artificialintelligence-news.com/news/sc25-showcases-the-next-phase-of-dell-and-nvidia-ai-partnership/",
+    "description": "At SC25, Dell Technologies and NVIDIA introduced new updates to their joint AI platform, aiming to make it easier for organisations to run a wider range of AI workloads, from older models to newer agent-style systems. As more companies scale their AI plans, many run into the same issues. They need to manage a growing […]The postSC25 showcases the next phase of Dell and NVIDIA’s AI partnershipappea",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/image-7.png",
+    "published_date": "2025-11-18",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-18T12:47:25.579022",
+    "description_fr": "At SC25, Dell Technologies and NVIDIA introduced new updates to their joint AI platform, aiming to make it easier for organisations to run a wider range of AI workloads, from older models to newer agent-style systems. As more companies scale their AI plans, many run into the same issues. They need to manage a growing […]The postSC25 showcases the next phase of Dell and NVIDIA’s AI partnershipappea",
+    "title_fr": "SC25 showcases the next phase of Dell and NVIDIA’s AI partnership"
+  },
+  {
+    "title": "Ton Ecosystem partners to help Telegram’s decentralised AI network unseat OpenAI",
+    "url": "https://www.artificialintelligence-news.com/news/ton-ecosystem-partners-to-help-telegrams-decentralised-ai-network-unseat-openai/",
+    "description": "Telegram’s Cocoon AI network is getting ready for prime time with a massive deployment of graphics processing units courtesy of one of the Ton blockchain ecosystem’s leading investors, AlphaTON Capital. AlphaTON is working with SingularityNET, CUDO Compute and Vertical Data to deploy a huge fleet of high-performance GPUs on the network, housed in a sustainably-powered […]The postTon Ecosystem part",
+    "image_url": "",
+    "published_date": "2025-11-18",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-18T12:47:25.587958",
+    "description_fr": "Telegram’s Cocoon AI network is getting ready for prime time with a massive deployment of graphics processing units courtesy of one of the Ton blockchain ecosystem’s leading investors, AlphaTON Capital. AlphaTON is working with SingularityNET, CUDO Compute and Vertical Data to deploy a huge fleet of high-performance GPUs on the network, housed in a sustainably-powered […]The postTon Ecosystem part",
+    "title_fr": "Ton Ecosystem partners to help Telegram’s decentralised AI network unseat OpenAI"
+  },
+  {
+    "title": "To Think or Not to Think: A Router for Hybrid LLMs",
+    "url": "https://huggingface.co/blog/AmirMohseni/reasoning-router",
+    "description": "To Think or Not to Think: A Router for Hybrid LLMs",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/65e1bdb336a669a4ca5dab7d/XzxXRFbs6-Sgd8RyoIjYV.png",
+    "published_date": "2025-11-18",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-18T12:47:51.722626",
+    "description_fr": "To Think or Not to Think: A Router for Hybrid LLMs",
+    "title_fr": "To Think or Not to Think: A Router for Hybrid LLMs"
   },
   {
     "title": "From shiny object to sober reality: The vector database story, two years later",
@@ -751,7 +829,7 @@
     "category": "general",
     "collected_at": "2025-11-17T18:32:25.615788",
     "description_fr": "Auteur : Olga Zharuk, CPO, Teqblaze Lorsqu'il s'agit d'appliquer l'IA à la programmation, deux choses comptent le plus : la performance et la sécurité des données. J'ai vu trop d'audits de sécurité internes signaler les services d'IA tiers comme des points d'exposition. Accorder aux agents d'IA tiers l'accès aux données propriétaires du flux d'enchères introduit une exposition inutile que de nombreuses organisations ne sont plus disposées à […]Le mo postLocal AI",
-    "title_fr": "Modèles d'IA locaux : comment garder le contrôle du flux d'enchères sans perdre vos données"
+    "title_fr": "Local AI models: How to keep control of the bidstream without losing your data"
   },
   {
     "title": "How Levi Strauss is using AI for its DTC-first business model",
@@ -763,8 +841,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-17T18:32:25.617533",
-    "description_fr": "Dans sa quête d'un premier modèle commercial direct-to-consumer (DTC), Levi Strauss intègre l'IA et les plateformes cloud dans ses activités de base. L'entreprise de prêt-à-porter de près de 175 ans tire parti des technologies Microsoft pour moderniser ses expériences de consommation et améliorer sa productivité interne. L'approche de Levi Strauss fournit une étude de cas pour d'autres entreprises dans l'utilisation d'une technologie unifiée […]The postHo",
-    "title_fr": "Comment Levi Strauss utilise l'IA pour son modèle commercial DTC-first"
+    "description_fr": "In its pursuit of a direct-to-consumer (DTC) first business model, Levi Strauss is weaving AI and cloud platforms into its core operations. The nearly 175-year-old apparel company is leveraging Microsoft technologies to modernise its consumer experiences and improve internal productivity. Levi Strauss’ approach provides a case study for other enterprises in using a unified technology […]The postHo",
+    "title_fr": "How Levi Strauss is using AI for its DTC-first business model"
   },
   {
     "title": "Quantitative finance experts believe graduates ill-equipped for AI future",
@@ -6420,83 +6498,5 @@
     "collected_at": "2025-11-07T18:31:18.729452",
     "description_fr": "The PetaPixel team has been hard at work expanding our Sample Gallery library and today we have added a total of eight new galleries from the latest cameras and lenses, including the brand-new Canon R6 Mark III, the Sony 100mm f/2.8 Macro GM, and many others.[Read More]",
     "title_fr": "Massive RAW Sample Gallery Update: Canon R6 Mark III, Sony 100mm f/2.8 Macro GM, and More"
-  },
-  {
-    "title": "Samsung Reportedly Making Camera System That Captures 320MP Photos",
-    "url": "https://petapixel.com/2025/11/07/samsung-reportedly-making-camera-system-that-captures-320mp-photos/",
-    "description": "Samsung is reportedly developing a new image signal processing pipeline, dubbed \"Exynos 2600,\" that could support a single 320-megapixel camera or up to three 108-megapixel image sensors simultaneously.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/samsung-isocell-hp2-graphic.jpg",
-    "published_date": "2025-11-07",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-07T18:31:18.730034",
-    "description_fr": "Samsung is reportedly developing a new image signal processing pipeline, dubbed \"Exynos 2600,\" that could support a single 320-megapixel camera or up to three 108-megapixel image sensors simultaneously.[Read More]",
-    "title_fr": "Samsung Reportedly Making Camera System That Captures 320MP Photos"
-  },
-  {
-    "title": "Nikon Sold a Lot of Cameras and Lenses But Still Lost Money",
-    "url": "https://petapixel.com/2025/11/07/nikon-sold-a-lot-of-cameras-and-lenses-but-still-lost-money/",
-    "description": "Nikon lost nearly 5 billion yen ($31.3 million) from April to September 2025, primarily because of U.S. tariff policy. It is the company's first operating loss in the first half of a fiscal year in five years. However, the company's imaging division remains strong.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/05/nikon-logo-outside-hq.jpg",
-    "published_date": "2025-11-07",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-07T18:31:18.730636",
-    "description_fr": "Nikon lost nearly 5 billion yen ($31.3 million) from April to September 2025, primarily because of U.S. tariff policy. It is the company's first operating loss in the first half of a fiscal year in five years. However, the company's imaging division remains strong.[Read More]",
-    "title_fr": "Nikon Sold a Lot of Cameras and Lenses But Still Lost Money"
-  },
-  {
-    "title": "Pocket Dispo Pro Lens Repurposes Disposable Film Camera Optics",
-    "url": "https://petapixel.com/2025/11/07/pocket-dispo-pro-lens-repurposes-disposable-film-camera-optics/",
-    "description": "Pocket Dispo has released a new \"Pro\" version of its popular pinhole lens. The latest version may look similar to the original Pocket Dispo at first glance, but it has been rebuilt from the ground up, introducing some key improvements, including a new adjustable focus ring.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/pocket-dispo-pro-pshot-2.jpg",
-    "published_date": "2025-11-07",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-07T18:31:18.731378",
-    "description_fr": "Pocket Dispo has released a new \"Pro\" version of its popular pinhole lens. The latest version may look similar to the original Pocket Dispo at first glance, but it has been rebuilt from the ground up, introducing some key improvements, including a new adjustable focus ring.[Read More]",
-    "title_fr": "Pocket Dispo Pro Lens Repurposes Disposable Film Camera Optics"
-  },
-  {
-    "title": "Classement compar:IA : des votes des utilisateurs au classement participatif des modèles",
-    "url": "https://huggingface.co/blog/comparIA/publication-du-premier-classement",
-    "description": "Classement compar:IA : des votes des utilisateurs au classement participatif des modèles",
-    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/667d6f513a685cd30f542fef/ipB8pJRbVIK2FJOOEGUjC.png",
-    "published_date": "2025-11-07",
-    "source": "Hugging Face",
-    "source_type": "website",
-    "category": "llms",
-    "collected_at": "2025-11-07T18:31:34.650501",
-    "description_fr": "Classement compar:IA : des votes des utilisateurs au classement participatif des modèles",
-    "title_fr": "Classement compar:IA : des votes des utilisateurs au classement participatif des modèles"
-  },
-  {
-    "title": "How CRED is tapping AI to deliver premium customer experiences",
-    "url": "https://openai.com/index/cred-swamy-seetharaman",
-    "description": "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction.",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-06T01:46:24.462301",
-    "description_fr": "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction.",
-    "title_fr": "How CRED is tapping AI to deliver premium customer experiences"
-  },
-  {
-    "title": "How Chime is redefining marketing through AI",
-    "url": "https://openai.com/index/chime-vineet-mehra",
-    "description": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of growth.",
-    "image_url": "",
-    "published_date": "2025-11-06",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-06T01:46:24.462757",
-    "description_fr": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of growth.",
-    "title_fr": "How Chime is redefining marketing through AI"
   }
 ]
