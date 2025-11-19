@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T06:33:46.132140",
-    "description_fr": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-    "title_fr": "Introducing Aardvark: OpenAI’s agentic security researcher"
+    "description_fr": "OpenAI présente Aardvark, un chercheur en sécurité alimenté par l'IA qui trouve, valide et aide à corriger les vulnérabilités logicielles à grande échelle de manière autonome. Le système est en version bêta privée. Inscrivez-vous pour participer aux tests précoces.",
+    "title_fr": "Présentation d'Aardvark : le chercheur en sécurité agentique d'OpenAI"
   },
   {
     "title": "New tools in Google AI Studio to explore, debug and share logs",
@@ -347,8 +347,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T06:33:48.015855",
-    "description_fr": "Google AI Studio logo on a plain black background",
-    "title_fr": "New tools in Google AI Studio to explore, debug and share logs"
+    "description_fr": "Logo Google AI Studio sur fond noir uni",
+    "title_fr": "Nouveaux outils dans Google AI Studio pour explorer, déboguer et partager les journaux"
   },
   {
     "title": "TikTok now lets you choose how much AI-generated content you want to see",
@@ -360,8 +360,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T06:33:51.887725",
-    "description_fr": "With the new AI-generated content control, users who want to see less of this sort of content can dial things down, while those who enjoy it can choose to see more of it.",
-    "title_fr": "TikTok now lets you choose how much AI-generated content you want to see"
+    "description_fr": "Avec le nouveau contrôle de contenu généré par l'IA, les utilisateurs qui veulent voir moins de ce type de contenu peuvent composer des numéros, tandis que ceux qui l'apprécient peuvent choisir d'en voir plus.",
+    "title_fr": "TikTok vous permet maintenant de choisir la quantité de contenu généré par l'IA que vous souhaitez voir"
   },
   {
     "title": "Leveraging the clinician’s expertise with agentic AI",
@@ -373,8 +373,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T06:33:54.811591",
-    "description_fr": "Leveraging the clinician’s expertise with agentic AI",
-    "title_fr": "Leveraging the clinician’s expertise with agentic AI"
+    "description_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique",
+    "title_fr": "Tirer parti de l'expertise du clinicien avec une IA agentique"
   },
   {
     "title": "Chatbots are surprisingly effective at debunking conspiracy theories",
@@ -386,8 +386,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T06:33:54.813558",
-    "description_fr": "It’s become a truism that facts alone don’t change people’s minds. Perhaps nowhere is this more clear than when it comes to conspiracy theories: Many people believe that you can’t talk conspiracists out of their beliefs.  But that’s not necessarily true. It turns out that many conspiracy believers do respond to evidence and arguments—information that…",
-    "title_fr": "Chatbots are surprisingly effective at debunking conspiracy theories"
+    "description_fr": "C'est devenu un truisme que les faits seuls ne changent pas l'esprit des gens. Cela n'est peut-être nulle part plus clair qu'en ce qui concerne les théories du complot : beaucoup de gens croient que vous ne pouvez pas parler des conspirationnistes en dehors de leurs croyances.  Mais ce n'est pas nécessairement vrai. Il s'avère que de nombreux adeptes du complot réagissent aux preuves et aux arguments - des informations qui...",
+    "title_fr": "Les chatbots sont étonnamment efficaces pour démystifier les théories du complot"
   },
   {
     "title": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
@@ -399,8 +399,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-19T06:34:24.174847",
-    "description_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency",
-    "title_fr": "KV Caching Explained: Optimizing Transformer Inference Efficiency"
+    "description_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur",
+    "title_fr": "Mise en cache KV expliquée : Optimisation de l'efficacité de l'inférence du transformateur"
   },
   {
     "title": "Why Did MiniMax M2 End Up as a Full Attention Model?",
@@ -412,8 +412,190 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-19T06:34:24.176594",
-    "description_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?",
-    "title_fr": "Why Did MiniMax M2 End Up as a Full Attention Model?"
+    "description_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?",
+    "title_fr": "Pourquoi le MiniMax M2 est-il devenu un modèle à pleine attention ?"
+  },
+  {
+    "title": "OpenAI and Target team up on new AI-powered experiences",
+    "url": "https://openai.com/index/target-partnership",
+    "description": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.",
+    "image_url": "",
+    "published_date": "2025-11-19",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-19T12:47:40.422070",
+    "description_fr": "OpenAI and Target are partnering to bring a new Target app to ChatGPT, offering personalized shopping and faster checkout. Target will also expand its use of ChatGPT Enterprise to boost productivity and guest experiences.",
+    "title_fr": "OpenAI and Target team up on new AI-powered experiences"
+  },
+  {
+    "title": "At our Research@ Poland event we shared how AI is helping us solve big challenges.",
+    "url": "https://blog.google/technology/research/ai-collaboration-poland-2025/",
+    "description": "From AI education to disaster response, see how collaboration is at the heart of the work at Google Research.",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/researchpoland_social.max-600x600.format-webp.webp",
+    "published_date": "2025-11-19",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-19T12:47:43.445024",
+    "description_fr": "From AI education to disaster response, see how collaboration is at the heart of the work at Google Research.",
+    "title_fr": "At our Research@ Poland event we shared how AI is helping us solve big challenges."
+  },
+  {
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
+    "description": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "image_url": "",
+    "published_date": "2025-11-19",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-19T12:47:44.458511",
+    "description_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "title_fr": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac"
+  },
+  {
+    "title": "Europe is scaling back its landmark privacy and AI laws",
+    "url": "https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes",
+    "description": "After years of staring down the world’s biggest tech companies and setting the bar for tough regulation worldwide, Europe has blinked. Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) and relaxing or delaying landmark AI rules in an effort to cut red […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-19",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:45.327354",
+    "description_fr": "After years of staring down the world’s biggest tech companies and setting the bar for tough regulation worldwide, Europe has blinked. Under intense pressure from industry and the US government, Brussels is stripping protections from its flagship General Data Protection Regulation (GDPR) and relaxing or delaying landmark AI rules in an effort to cut red […]",
+    "title_fr": "Europe is scaling back its landmark privacy and AI laws"
+  },
+  {
+    "title": "AI, my unexpected daily travel companion",
+    "url": "https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero",
+    "description": "I was starting to doubt it would ever happen, but I finally found a regular, helpful use for AI: vanlife travel planner. I'm not a student and I don't code. I am, however, on day 48 of my van tour through Europe with my wife and dog. We travel without a specific itinerary, chasing the […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/IMG_3588.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-19",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:45.328008",
+    "description_fr": "I was starting to doubt it would ever happen, but I finally found a regular, helpful use for AI: vanlife travel planner. I'm not a student and I don't code. I am, however, on day 48 of my van tour through Europe with my wife and dog. We travel without a specific itinerary, chasing the […]",
+    "title_fr": "AI, my unexpected daily travel companion"
+  },
+  {
+    "title": "As Lovable hits $200M ARR, its CEO credits staying in Europe for its success",
+    "url": "https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/",
+    "description": "Lovable CEO Anton Osika said he credits ignoring advice to move to Silicon Valley for the AI coding company's success.",
+    "image_url": "",
+    "published_date": "2025-11-19",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:46.588849",
+    "description_fr": "Lovable CEO Anton Osika said he credits ignoring advice to move to Silicon Valley for the AI coding company's success.",
+    "title_fr": "As Lovable hits $200M ARR, its CEO credits staying in Europe for its success"
+  },
+  {
+    "title": "Quantum physicists have shrunk and “de-censored” DeepSeek R1",
+    "url": "https://www.technologyreview.com/2025/11/19/1128119/quantum-physicists-compress-and-deconsor-deepseekr1/",
+    "description": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.  The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller…",
+    "image_url": "",
+    "published_date": "2025-11-19",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:50.171058",
+    "description_fr": "A group of quantum physicists claims to have created a version of the powerful reasoning AI model DeepSeek R1 that strips out the censorship built into the original by its Chinese creators.  The scientists at Multiverse Computing, a Spanish firm specializing in quantum-inspired AI techniques, created DeepSeek R1 Slim, a model that is 55% smaller…",
+    "title_fr": "Quantum physicists have shrunk and “de-censored” DeepSeek R1"
+  },
+  {
+    "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
+    "url": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/",
+    "description": "New \"computational Turing test\" reportedly catches AI pretending to be human with 80% accuracy.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/frowny_bagboy-1152x648.jpg",
+    "published_date": "2025-11-19",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-19T12:47:51.404628",
+    "description_fr": "New \"computational Turing test\" reportedly catches AI pretending to be human with 80% accuracy.",
+    "title_fr": "Researchers surprised that with AI, toxicity is harder to fake than intelligence"
+  },
+  {
+    "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
+    "url": "https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/",
+    "description": "AI companion app faces legal and regulatory pressure over child safety concerns.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/robot_no_sign_3-1152x648.jpg",
+    "published_date": "2025-11-19",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-19T12:47:51.405422",
+    "description_fr": "AI companion app faces legal and regulatory pressure over child safety concerns.",
+    "title_fr": "After teen death lawsuits, Character.AI will restrict chats for under-18 users"
+  },
+  {
+    "title": "Young Mormons Built an App to Help Men Quit Gooning",
+    "url": "https://www.wired.com/story/young-mormons-built-an-app-to-help-men-quit-gooning/",
+    "description": "The Relay app allows users to track their porn-free streaks and get group support. Its creators say they’re taking a stand against porn and AI erotica.",
+    "image_url": "https://media.wired.com/photos/6915080af58fd3f62fa4c3d6/master/pass/culture_genz_men_porn_gooning.jpg",
+    "published_date": "2025-11-19",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:52.532231",
+    "description_fr": "The Relay app allows users to track their porn-free streaks and get group support. Its creators say they’re taking a stand against porn and AI erotica.",
+    "title_fr": "Young Mormons Built an App to Help Men Quit Gooning"
+  },
+  {
+    "title": "Gartner Data & Analytics Summit unveils expanded AI agenda for 2026",
+    "url": "https://www.artificialintelligence-news.com/news/gartner-data-analytics-summit-unveils-expanded-ai-agenda-for-2026/",
+    "description": "By 2027, half of all business decisions will be augmented or automated by AI agents for decision intelligence. This seismic shift is changing how organisations operate, and AI leaders are under pressure to adapt, innovate, and guide their teams through complexity. Gartner Data & Analytics Summit 2026 is designed to help these leaders meet their […]The postGartner Data & Analytics Summit unveils ex",
+    "image_url": "",
+    "published_date": "2025-11-19",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-19T12:47:54.676189",
+    "description_fr": "By 2027, half of all business decisions will be augmented or automated by AI agents for decision intelligence. This seismic shift is changing how organisations operate, and AI leaders are under pressure to adapt, innovate, and guide their teams through complexity. Gartner Data & Analytics Summit 2026 is designed to help these leaders meet their […]The postGartner Data & Analytics Summit unveils ex",
+    "title_fr": "Gartner Data & Analytics Summit unveils expanded AI agenda for 2026"
+  },
+  {
+    "title": "Photography Studios Make Up Over Half of Top-Rated US Women-Owned Businesses",
+    "url": "https://petapixel.com/2025/11/19/photography-studios-make-up-over-half-of-top-rated-us-women-owned-businesses/",
+    "description": "More than half of the top-rated women-owned businesses in the U.S. are photography studios, according to a new study.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/women-photographers.jpg",
+    "published_date": "2025-11-19",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-19T12:48:01.437023",
+    "description_fr": "More than half of the top-rated women-owned businesses in the U.S. are photography studios, according to a new study.[Read More]",
+    "title_fr": "Photography Studios Make Up Over Half of Top-Rated US Women-Owned Businesses"
+  },
+  {
+    "title": "Astronaut Captures Spectacular Aurora Lights Dancing Above the United States",
+    "url": "https://petapixel.com/2025/11/19/astronaut-captures-spectacular-aurora-lights-dancing-above-the-united-states/",
+    "description": "\"I've never seen aurora from below, but up here, it's a frequent show,\" says astronaut Zena Cardman, who currently resides onboard the International Space Station.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/ISS-Aurora-Lights.jpg",
+    "published_date": "2025-11-19",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-19T12:48:01.437661",
+    "description_fr": "\"I've never seen aurora from below, but up here, it's a frequent show,\" says astronaut Zena Cardman, who currently resides onboard the International Space Station.[Read More]",
+    "title_fr": "Astronaut Captures Spectacular Aurora Lights Dancing Above the United States"
+  },
+  {
+    "title": "Apple TV’s New Logo Animation Was Handmade by Human Creatives",
+    "url": "https://petapixel.com/2025/11/19/apple-tvs-new-logo-animation-was-handmade-by-human-creatives/",
+    "description": "Apple TV viewers may have begun noticing a new mnemonic playing before a show streams. While it's easy to assume it is a computer-generated animation, it was in fact handmade by human creatives.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Apple-TV-Logo.jpg",
+    "published_date": "2025-11-19",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-19T12:48:01.438275",
+    "description_fr": "Apple TV viewers may have begun noticing a new mnemonic playing before a show streams. While it's easy to assume it is a computer-generated animation, it was in fact handmade by human creatives.[Read More]",
+    "title_fr": "Apple TV’s New Logo Animation Was Handmade by Human Creatives"
   },
   {
     "title": "Doppel’s AI defense system stops attacks before they spread",
@@ -725,7 +907,7 @@
     "category": "general",
     "collected_at": "2025-11-18T12:47:23.849580",
     "description_fr": "Une grande partie de l'économie américaine repose sur l'avenir de l'IA. Dans cet épisode du podcast The Big Interview, Joe Weisenthal, co-animateur d'Odd Lots, explique pourquoi l'impact de l'IA sur la finance dépasse les investissements d'un milliard de dollars.",
-    "title_fr": "Le cohost ‘Odd Lots’ Joe Weisenthal a des prédictions sur la façon dont la bulle d'IA éclatera"
+    "title_fr": "‘Odd Lots’ Cohost Joe Weisenthal Has Predictions About How the AI Bubble Will Burst"
   },
   {
     "title": "Bain & Company issues AI Guide for CEOs, opens Singapore hub",
@@ -737,8 +919,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T12:47:25.577362",
-    "description_fr": "Un nouveau rapport de Bain & Company indique que de nombreuses organisations en Asie du Sud-Est sont toujours bloquées dans les premiers tests de produits parce qu'elles traitent l'IA comme un ensemble d'outils plutôt que comme un changement dans le fonctionnement de l'entreprise. Dans The Southeast Asia CEO's Guide to AI Transformation, les auteurs disent que les dirigeants devraient d'abord examiner comment […]The postBain & Company publie un guide sur l'IA pour les PDG, ouvre le hub de Singapour et apparaît en premier sur AI News.",
-    "title_fr": "Bain & Company publie un guide sur l'IA pour les PDG, ouvre un hub à Singapour"
+    "description_fr": "A new Bain & Company report says many organisations in Southeast Asia are still stuck in early product testing because they treat AI as a set of tools rather than a change in how the business works. In The Southeast Asia CEO’s Guide to AI Transformation, the authors say leaders should first look at how […]The postBain & Company issues AI Guide for CEOs, opens Singapore hubappeared first onAI News.",
+    "title_fr": "Bain & Company issues AI Guide for CEOs, opens Singapore hub"
   },
   {
     "title": "SC25 showcases the next phase of Dell and NVIDIA’s AI partnership",
@@ -750,8 +932,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T12:47:25.579022",
-    "description_fr": "Lors de la SC25, Dell Technologies et NVIDIA ont introduit de nouvelles mises à jour de leur plate-forme conjointe d'IA, dans le but de permettre aux organisations d'exécuter plus facilement un plus large éventail de charges de travail d'IA, des modèles plus anciens aux systèmes plus récents de type agent. Alors que de plus en plus d'entreprises mettent à l'échelle leurs plans d'IA, beaucoup se heurtent aux mêmes problèmes. Ils doivent gérer une croissance […]Le postSC25 présente la prochaine phase du partenariat en IA entre Dell et NVIDIAappea",
-    "title_fr": "SC25 présente la prochaine phase du partenariat en IA entre Dell et NVIDIA"
+    "description_fr": "At SC25, Dell Technologies and NVIDIA introduced new updates to their joint AI platform, aiming to make it easier for organisations to run a wider range of AI workloads, from older models to newer agent-style systems. As more companies scale their AI plans, many run into the same issues. They need to manage a growing […]The postSC25 showcases the next phase of Dell and NVIDIA’s AI partnershipappea",
+    "title_fr": "SC25 showcases the next phase of Dell and NVIDIA’s AI partnership"
   },
   {
     "title": "Ton Ecosystem partners to help Telegram’s decentralised AI network unseat OpenAI",
@@ -6316,187 +6498,5 @@
     "collected_at": "2025-11-11T01:47:15.393634",
     "description_fr": "Google started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgraded with Gemini. It’s actually useful now beyond asking for […]",
     "title_fr": "Google says its confusing Gemini Home rollout is going just great"
-  },
-  {
-    "title": "Is Wall Street losing faith in AI?",
-    "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
-    "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
-    "image_url": "",
-    "published_date": "2025-11-09",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-09T01:49:08.966779",
-    "description_fr": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
-    "title_fr": "Is Wall Street losing faith in AI?"
-  },
-  {
-    "title": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI",
-    "url": "https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/",
-    "description": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
-    "image_url": "",
-    "published_date": "2025-11-09",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-09T01:49:08.967196",
-    "description_fr": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
-    "title_fr": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI"
-  },
-  {
-    "title": "What could possibly go wrong if an enterprise replaces all its engineers with AI?",
-    "url": "https://venturebeat.com/ai/what-could-possibly-go-wrong-if-an-enterprise-replaces-all-its-engineers",
-    "description": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
-    "image_url": "",
-    "published_date": "2025-11-09",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-09T01:49:13.305276",
-    "description_fr": "AI coding,vibe codingandagentic swarmhave made a dramatic and astonishing recent market entrance, with the AI Code Tools market valued at$4.8 billion and expected to grow at a 23% annual rate.  Enterprises are grappling with AI coding agents and what do about expensive human coders.They don’t lack for advice.  OpenAI’s CEO estimates that AI can performover 50% of what human engineers can do.  Six ",
-    "title_fr": "What could possibly go wrong if an enterprise replaces all its engineers with AI?"
-  },
-  {
-    "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
-    "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/",
-    "description": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-1202018501-1152x648.jpg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T01:49:16.199094",
-    "description_fr": "Risks to BIG-IP users include supply-chain attacks, credential loss, and vulnerability exploits.",
-    "title_fr": "Thousands of customers imperiled after nation-state ransacks F5’s network"
-  },
-  {
-    "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
-    "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/",
-    "description": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/haiku45_hero.jpg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T01:49:16.199325",
-    "description_fr": "Tiny, fast model hits coding scores similar to GPT-5 and Sonnet 4.",
-    "title_fr": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost"
-  },
-  {
-    "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
-    "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
-    "description": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T06:30:19.280828",
-    "description_fr": "Packages downloaded from NPM can fetch dependencies from untrusted sites.",
-    "title_fr": "NPM flooded with malicious packages downloaded more than 86,000 times"
-  },
-  {
-    "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
-    "url": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/",
-    "description": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T06:30:19.281580",
-    "description_fr": "Ruling holds that defeating end-to-end encryption in WhatsApp harms Meta's business.",
-    "title_fr": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware"
-  },
-  {
-    "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
-    "url": "https://arstechnica.com/security/2025/10/hackers-bullet-proof-hosts-deliver-malware-from-blockchains/",
-    "description": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T06:30:19.281813",
-    "description_fr": "Malicious payloads stored on Ethereum and BNB blockchains are immune to takedowns.",
-    "title_fr": "Nation-state hackers deliver malware from “bulletproof” blockchains"
-  },
-  {
-    "title": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in.",
-    "url": "https://arstechnica.com/ai/2025/10/ars-live-recap-is-the-ai-bubble-about-to-pop-ed-zitron-weighs-in/",
-    "description": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/ai_bubble_hero2-1152x648.jpg",
-    "published_date": "2025-11-09",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-09T06:30:19.282023",
-    "description_fr": "Despite connection hiccups, we covered OpenAI's finances, nuclear power, and Sam Altman.",
-    "title_fr": "Ars Live recap: Is the AI bubble about to pop? Ed Zitron weighs in."
-  },
-  {
-    "title": "What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool",
-    "url": "https://www.wired.com/story/what-is-adobe-firefly/",
-    "description": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here’s how to make the most of it.",
-    "image_url": "https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/master/pass/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png",
-    "published_date": "2025-11-09",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-09T18:27:44.241269",
-    "description_fr": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here’s how to make the most of it.",
-    "title_fr": "What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool"
-  },
-  {
-    "title": "This Photographer Successfully Shot 82-Year-Old Film",
-    "url": "https://petapixel.com/2025/11/09/this-photographer-successfully-shot-82-year-old-film/",
-    "description": "Photographer Nick LoPresti loves film. As his YouTube channel shows, his adoration for the medium often manifests in \"silly\" videos centered on wild, ambitious projects. LoPresti's latest video demonstrates the intersection of his passion for analog photography and his willingness to embrace any challenge. LoPresti, perhaps against his better judgment, shot on 82-year-old film.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/lopresti-82-year-old-film.jpg",
-    "published_date": "2025-11-09",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-09T18:27:55.658195",
-    "description_fr": "Photographer Nick LoPresti loves film. As his YouTube channel shows, his adoration for the medium often manifests in \"silly\" videos centered on wild, ambitious projects. LoPresti's latest video demonstrates the intersection of his passion for analog photography and his willingness to embrace any challenge. LoPresti, perhaps against his better judgment, shot on 82-year-old film.[Read More]",
-    "title_fr": "This Photographer Successfully Shot 82-Year-Old Film"
-  },
-  {
-    "title": "Understanding prompt injections: a frontier security challenge",
-    "url": "https://openai.com/index/prompt-injections",
-    "description": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
-    "image_url": "",
-    "published_date": "2025-11-08",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-08T01:39:59.435733",
-    "description_fr": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
-    "title_fr": "Understanding prompt injections: a frontier security challenge"
-  },
-  {
-    "title": "Knowledge preservation powered by ChatGPT",
-    "url": "https://openai.com/index/dai-nippon-printing",
-    "description": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
-    "image_url": "",
-    "published_date": "2025-11-08",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-08T01:39:59.438274",
-    "description_fr": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
-    "title_fr": "Knowledge preservation powered by ChatGPT"
-  },
-  {
-    "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
-    "url": "https://blog.google/inside-google/company-announcements/oklahoma-workforce-talent-pipeline/",
-    "description": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oklahoma_Social.max-600x600.format-webp.webp",
-    "published_date": "2025-11-08",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-08T01:40:02.243820",
-    "description_fr": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
-    "title_fr": "Google is investing in Oklahoma’s workforce and talent pipeline."
   }
 ]
