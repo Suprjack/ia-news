@@ -1,5 +1,395 @@
 [
   {
+    "title": "Strengthening our safety ecosystem with external testing",
+    "url": "https://openai.com/index/strengthening-safety-with-external-testing",
+    "description": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:44:59.154936",
+    "description_fr": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+    "title_fr": "Strengthening our safety ecosystem with external testing"
+  },
+  {
+    "title": "How evals drive the next chapter in AI for businesses",
+    "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+    "description": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:44:59.155392",
+    "description_fr": "Learn how evals help businesses define, measure, and improve AI performance—reducing risk, boosting productivity, and driving strategic advantage.",
+    "title_fr": "How evals drive the next chapter in AI for businesses"
+  },
+  {
+    "title": "How Scania is accelerating work with AI across its global workforce",
+    "url": "https://openai.com/index/scania",
+    "description": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:44:59.156190",
+    "description_fr": "Description: Global manufacturer Scania is scaling AI with ChatGPT Enterprise. With team-based onboarding and strong guardrails, AI is boosting productivity, quality, and innovation.",
+    "title_fr": "How Scania is accelerating work with AI across its global workforce"
+  },
+  {
+    "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+    "url": "https://openai.com/index/chatgpt-for-veterans",
+    "description": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:44:59.158290",
+    "description_fr": "OpenAI is offering U.S. servicemembers and veterans within 12 months of retirement or separation a free year of ChatGPT Plus to support their transition to civilian life. The tools can help with resumes, interviews, education, and planning for what’s next.",
+    "title_fr": "Free ChatGPT for transitioning U.S. servicemembers and veterans"
+  },
+  {
+    "title": "How AI is giving Northern Ireland teachers time back",
+    "url": "https://blog.google/technology/google-deepmind/ai-classroom-northern-ireland/",
+    "description": "Rowandale Primary School teacher assisting two primary school students working on laptops at a classroom table.",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rach.max-600x600.format-webp.webp",
+    "published_date": "2025-11-20",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:45:02.364256",
+    "description_fr": "Rowandale Primary School teacher assisting two primary school students working on laptops at a classroom table.",
+    "title_fr": "How AI is giving Northern Ireland teachers time back"
+  },
+  {
+    "title": "Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk",
+    "url": "https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/",
+    "description": "Nvidia's earnings were dominated by its data center business.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:06.965687",
+    "description_fr": "Nvidia's earnings were dominated by its data center business.",
+    "title_fr": "Nvidia’s record $57B revenue and upbeat forecast quiets AI bubble talk"
+  },
+  {
+    "title": "VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market",
+    "url": "https://techcrunch.com/2025/11/19/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/",
+    "description": "Founders and investors alike are obsessed with AI, and even Neundorfer said her firm, January Ventures, is looking at ways to use AI to make their work more efficient, such as helping to do due diligence on the market and competition.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:06.966072",
+    "description_fr": "Founders and investors alike are obsessed with AI, and even Neundorfer said her firm, January Ventures, is looking at ways to use AI to make their work more efficient, such as helping to do due diligence on the market and competition.",
+    "title_fr": "VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market"
+  },
+  {
+    "title": "Function Health raises $298M Series B at $2.5B valuation",
+    "url": "https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/",
+    "description": "From electronic health records and blood tests to the stream of data from wearable devices, the amount of health information people generate is accelerating rapidly. Yet, many users struggle to connect this trove of data in a meaningful way and actually use it to improve their health. Function Health wants to consolidate health data and make it usable for its customers.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:06.966386",
+    "description_fr": "From electronic health records and blood tests to the stream of data from wearable devices, the amount of health information people generate is accelerating rapidly. Yet, many users struggle to connect this trove of data in a meaningful way and actually use it to improve their health. Function Health wants to consolidate health data and make it usable for its customers.",
+    "title_fr": "Function Health raises $298M Series B at $2.5B valuation"
+  },
+  {
+    "title": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform",
+    "url": "https://techcrunch.com/2025/11/19/warner-music-settles-copyright-lawsuit-with-udio-signs-deal-for-ai-music-platform/",
+    "description": "The subscription service will allow users to make remixes, covers, and new songs using the voices of artists and compositions of songwriters who choose to participate.",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:06.966655",
+    "description_fr": "The subscription service will allow users to make remixes, covers, and new songs using the voices of artists and compositions of songwriters who choose to participate.",
+    "title_fr": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform"
+  },
+  {
+    "title": "Why January Ventures is funding underrepresented AI founders",
+    "url": "https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/",
+    "description": "While everyone’s chasing the next AI infrastructure play in San Francisco, some of the most defensible AI companies are being built by founders with deep expertise in legacy industries — and they’re not getting funded. January Ventures aims to fill that gap, writing pre-seed checks for underrepresented founders transforming healthcare, manufacturing, and supply chain with […]",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:06.966940",
+    "description_fr": "While everyone’s chasing the next AI infrastructure play in San Francisco, some of the most defensible AI companies are being built by founders with deep expertise in legacy industries — and they’re not getting funded. January Ventures aims to fill that gap, writing pre-seed checks for underrepresented founders transforming healthcare, manufacturing, and supply chain with […]",
+    "title_fr": "Why January Ventures is funding underrepresented AI founders"
+  },
+  {
+    "title": "OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally",
+    "url": "https://venturebeat.com/ai/openai-debuts-gpt-5-1-codex-max-coding-model-and-it-already-completed-a-24",
+    "description": "OpenAI hasintroduced GPT‑5.1-Codex-Max, a new frontier agentic coding model now available in its Codex developer environment. The release marks a significant step forward in AI-assisted software engineering, offering improved long-horizon reasoning, efficiency, and real-time interactive capabilities. GPT‑5.1-Codex-Max will now replace GPT‑5.1-Codex as the default model across Codex-integrated surf",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:08.462231",
+    "description_fr": "OpenAI hasintroduced GPT‑5.1-Codex-Max, a new frontier agentic coding model now available in its Codex developer environment. The release marks a significant step forward in AI-assisted software engineering, offering improved long-horizon reasoning, efficiency, and real-time interactive capabilities. GPT‑5.1-Codex-Max will now replace GPT‑5.1-Codex as the default model across Codex-integrated surf",
+    "title_fr": "OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally"
+  },
+  {
+    "title": "Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs",
+    "url": "https://venturebeat.com/ai/metas-dreamgym-framework-trains-ai-agents-in-a-simulated-world-to-cut",
+    "description": "Researchers at Meta, the University of Chicago, and UC Berkeley have developed a new framework that addresses the high costs, infrastructure complexity, and unreliable feedback associated with using reinforcement learning (RL) to train large language model (LLM) agents. The framework,DreamGym, simulates an RL environment to train agents for complex applications. As it progresses through the traini",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:08.557544",
+    "description_fr": "Researchers at Meta, the University of Chicago, and UC Berkeley have developed a new framework that addresses the high costs, infrastructure complexity, and unreliable feedback associated with using reinforcement learning (RL) to train large language model (LLM) agents. The framework,DreamGym, simulates an RL environment to train agents for complex applications. As it progresses through the traini",
+    "title_fr": "Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs"
+  },
+  {
+    "title": "Reimagining cybersecurity in the era of AI and quantum",
+    "url": "https://www.technologyreview.com/2025/11/10/1127774/reimagining-cybersecurity-in-the-era-of-ai-and-quantum/",
+    "description": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This…",
+    "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/11/CISCO-iStock-2156608663.jpg",
+    "published_date": "2025-11-20",
+    "source": "MIT Technology Review AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:09.630926",
+    "description_fr": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This…",
+    "title_fr": "Reimagining cybersecurity in the era of AI and quantum"
+  },
+  {
+    "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+    "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/",
+    "description": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/cloudflare-error-1152x648-1763584433.jpg",
+    "published_date": "2025-11-20",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-20T01:45:10.739304",
+    "description_fr": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
+    "title_fr": "Massive Cloudflare outage was triggered by file that suddenly doubled in size"
+  },
+  {
+    "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+    "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
+    "description": "Integration of Copilot Actions into Windows is off by default, but for how long?",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+    "published_date": "2025-11-20",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "category": "tech",
+    "collected_at": "2025-11-20T01:45:10.739619",
+    "description_fr": "Integration of Copilot Actions into Windows is off by default, but for how long?",
+    "title_fr": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data"
+  },
+  {
+    "title": "Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical",
+    "url": "https://www.wired.com/story/nvidia-third-quarter-2026-earnings/",
+    "description": "Record sales, a strong financial forecast, and CEO Jensen Huang’s impassioned arguments on his company's earnings call weren’t enough to push Nvidia shares back to their October high.",
+    "image_url": "https://media.wired.com/photos/691cbe7e6c9e033305e9f35a/master/pass/Nvidia-Earnnings-Blackwell-AI-Chip-Business-2244922892.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.751600",
+    "description_fr": "Record sales, a strong financial forecast, and CEO Jensen Huang’s impassioned arguments on his company's earnings call weren’t enough to push Nvidia shares back to their October high.",
+    "title_fr": "Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical"
+  },
+  {
+    "title": "Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics",
+    "url": "https://www.wired.com/story/google-hires-cto-boston-dynamics-demis-hassabis-android/",
+    "description": "DeepMind’s chief says he envisions Gemini as an operating system for physical robots. The company has hired Aaron Saunders to help make that a reality.",
+    "image_url": "https://media.wired.com/photos/691e477b5cd82181399f7fe5/master/pass/Google-DeepMind-Hires-Former-CTO-of-Boston-Dynamics-as-Company-Pushes-Deeper-Into-Robotics-Business-2223617397.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.751870",
+    "description_fr": "DeepMind’s chief says he envisions Gemini as an operating system for physical robots. The company has hired Aaron Saunders to help make that a reality.",
+    "title_fr": "Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics"
+  },
+  {
+    "title": "The Zelos-450 Pellet Grill Has Features Missing on Grills Triple Its Price",
+    "url": "https://www.wired.com/story/an-ai-enabled-pellet-grill-is-a-dumb-idea-buy-this-one-anyway/",
+    "description": "Brisk It's Zelos-450 boasts gimmicky generative AI. However, it's a stellar piece of hardware, especially at this price.",
+    "image_url": "https://media.wired.com/photos/691e4c4c8ac5d19ad334a51e/master/pass/An%20AI-Enabled%20Pellet%20Grill%20Is%20a%20Dumb%20Idea.%20Buy%20This%20One%20Anyway.png",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.752092",
+    "description_fr": "Brisk It's Zelos-450 boasts gimmicky generative AI. However, it's a stellar piece of hardware, especially at this price.",
+    "title_fr": "The Zelos-450 Pellet Grill Has Features Missing on Grills Triple Its Price"
+  },
+  {
+    "title": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/",
+    "description": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for month, as well as the news of the week.",
+    "image_url": "https://media.wired.com/photos/6917a37e2044cfe2895c0ed5/master/pass/Uncanny-Valley-News-Update-DHS-Chicago-Security-496280562.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.752312",
+    "description_fr": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for month, as well as the news of the week.",
+    "title_fr": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers"
+  },
+  {
+    "title": "The Biggest AI Companies Met to Find a Better Path for Chatbot Companions",
+    "url": "https://www.wired.com/story/the-biggest-ai-companies-met-to-find-a-better-path-for-chatbot-companions/",
+    "description": "In a closed-door workshop led by Anthropic and Stanford, leading AI startups and researchers discussed guidelines for chatbot companions, especially for younger users.",
+    "image_url": "https://media.wired.com/photos/691cb1f756a665de7347321b/master/pass/Model-Behavior-AI-Companion-Roleplay-Guidelines-Business.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.752509",
+    "description_fr": "In a closed-door workshop led by Anthropic and Stanford, leading AI startups and researchers discussed guidelines for chatbot companions, especially for younger users.",
+    "title_fr": "The Biggest AI Companies Met to Find a Better Path for Chatbot Companions"
+  },
+  {
+    "title": "The US Needs an Open Source AI Intervention to Beat China",
+    "url": "https://www.wired.com/story/us-needs-open-source-ai-model-intervention-china/",
+    "description": "Depending on foreign-made open models is both a supply chain risk and an innovation problem, experts say.",
+    "image_url": "https://media.wired.com/photos/691e0c4a938b1c03614e8454/master/pass/AI-Lab-US-Needs-Own-AI-Models-Business.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:11.752699",
+    "description_fr": "Depending on foreign-made open models is both a supply chain risk and an innovation problem, experts say.",
+    "title_fr": "The US Needs an Open Source AI Intervention to Beat China"
+  },
+  {
+    "title": "Marc-Antoine Ledieu (Ledieu Avocats) : Digital Omnibus : \"La révision du RGPD proposée par la Commission européenne permet de stimuler l'innovation dans l'IA\"",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1546163-digital-omnibus-la-revision-du-rgpd-que-propose-la-commission-europeenne-permet-de-stimuler-l-innovation-dans-l-ia/",
+    "description": "Présenté par la Commission européenne ce 19 novembre, le Digital Omnibus vise à assouplir un RGPD jugé trop contraignant pour la croissance économique européenne. Il doit être examiné par le Parlement européen.",
+    "image_url": "https://img-0.journaldunet.com/3mtuMJxdaOXL1-9N3U-954GzOR0=/1280x/smart/aee218a4fd184768a2d6b6d9495c5ff8/ccmcms-jdn/39529769.jpg",
+    "published_date": "2025-11-20",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:17.661787",
+    "description_fr": "Présenté par la Commission européenne ce 19 novembre, le Digital Omnibus vise à assouplir un RGPD jugé trop contraignant pour la croissance économique européenne. Il doit être examiné par le Parlement européen.",
+    "title_fr": "Marc-Antoine Ledieu (Ledieu Avocats) : Digital Omnibus : \"La révision du RGPD proposée par la Commission européenne permet de stimuler l'innovation dans l'IA\""
+  },
+  {
+    "title": "Webb Found an Ancient, Greedy Black Hole Growing Too Fast",
+    "url": "https://petapixel.com/2025/11/19/webb-found-an-ancient-greedy-black-hole-growing-too-fast/",
+    "description": "Scientists using the NASA/ESA/CSA James Webb Space Telescope (JWST) have confirmed the presence of an actively growing supermassive black hole in a galaxy observed just 570 million years after the Big Bang. It's a greedy blackhole, consuming matter and growing at a shocking rate that flies in the face of expectations.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/webb-black-hole-ancient-galaxy-featured.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.468063",
+    "description_fr": "Scientists using the NASA/ESA/CSA James Webb Space Telescope (JWST) have confirmed the presence of an actively growing supermassive black hole in a galaxy observed just 570 million years after the Big Bang. It's a greedy blackhole, consuming matter and growing at a shocking rate that flies in the face of expectations.[Read More]",
+    "title_fr": "Webb Found an Ancient, Greedy Black Hole Growing Too Fast"
+  },
+  {
+    "title": "Atomos Ninja TX Series Now Offers Much More Camera Control",
+    "url": "https://petapixel.com/2025/11/19/atomos-ninja-tx-series-now-offers-much-more-camera-control/",
+    "description": "Atomos has introduced a significant new firmware update that adds full camera control to the CFexpress-based Ninja TX GO and Ninja TX monitor-recorders. Announced at InterBEE 2025, the update allows filmmakers to adjust key camera functions directly from the monitor’s touchscreen interface, offering a more streamlined and ergonomic workflow on set.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Atomos-Ninja-TX-and-Ninja-TX-GO-Update-PetaPixel-BG.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.468780",
+    "description_fr": "Atomos has introduced a significant new firmware update that adds full camera control to the CFexpress-based Ninja TX GO and Ninja TX monitor-recorders. Announced at InterBEE 2025, the update allows filmmakers to adjust key camera functions directly from the monitor’s touchscreen interface, offering a more streamlined and ergonomic workflow on set.[Read More]",
+    "title_fr": "Atomos Ninja TX Series Now Offers Much More Camera Control"
+  },
+  {
+    "title": "Prism Lens FX’s Shield Series Solves the 4×5 Filter’s Biggest Problems",
+    "url": "https://petapixel.com/2025/11/19/prism-lens-fxs-shield-series-solves-the-4x5-filters-biggest-problems/",
+    "description": "Prism Lens FX, known for its professional cinema filters, has announced the Shield Series of cinema filters, a redesigned approach to the traditional 4x5 that promises improved performance and usability in fast-paced video workflows.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/SHIELD_SERIES_HQ.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.469418",
+    "description_fr": "Prism Lens FX, known for its professional cinema filters, has announced the Shield Series of cinema filters, a redesigned approach to the traditional 4x5 that promises improved performance and usability in fast-paced video workflows.[Read More]",
+    "title_fr": "Prism Lens FX’s Shield Series Solves the 4×5 Filter’s Biggest Problems"
+  },
+  {
+    "title": "Arri to Close Two Facilities Amid Rapidly Changing Cinema Landscape",
+    "url": "https://petapixel.com/2025/11/19/arri-to-close-two-facilities-amid-rapidly-changing-cinema-landscape/",
+    "description": "Amid Arri's ongoing financial challenges and the difficult professional cinema landscape, the German company announced this week that it will cut jobs and close two locations primarily focused on producing lighting equipment.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/08/arri-sale-featured.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.470039",
+    "description_fr": "Amid Arri's ongoing financial challenges and the difficult professional cinema landscape, the German company announced this week that it will cut jobs and close two locations primarily focused on producing lighting equipment.[Read More]",
+    "title_fr": "Arri to Close Two Facilities Amid Rapidly Changing Cinema Landscape"
+  },
+  {
+    "title": "Shoot, Share, Surprise: Photo Gifts They’ll Love",
+    "url": "https://petapixel.com/2025/11/19/shoot-share-surprise-photo-gifts-theyll-love/",
+    "description": "Whether you’re shopping for a seasoned pro or someone just discovering the joy of capturing moments, the right gear can make inspiration come to life. This curated gift guide highlights photography products that elevate creativity, sharpen skills, and make shooting more enjoyable -- ranging from essential tools to delightful extras any photographer would love to unwrap.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/PetaPixel_GiftGuide_592831024_XL-1600x840.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.470678",
+    "description_fr": "Whether you’re shopping for a seasoned pro or someone just discovering the joy of capturing moments, the right gear can make inspiration come to life. This curated gift guide highlights photography products that elevate creativity, sharpen skills, and make shooting more enjoyable -- ranging from essential tools to delightful extras any photographer would love to unwrap.[Read More]",
+    "title_fr": "Shoot, Share, Surprise: Photo Gifts They’ll Love"
+  },
+  {
+    "title": "TTArtisan’s $127 AF 23mm f/1.8 Lens Is Now Available for Sony and Nikon",
+    "url": "https://petapixel.com/2025/11/19/ttartisans-127-af-23mm-f-1-8-lens-is-now-available-for-sony-and-nikon/",
+    "description": "TTArtisan has released its AF 23mm f/1.8 APS-C prime for Sony E and Nikon Z, as promised, expanding the lens beyond the Fujifilm X version that debuted earlier this year. Priced at just $127, the lens continues TTArtisan’s push toward affordable autofocus primes across multiple systems.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/ttartisan-af-23-e-z-featured.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T01:45:22.471292",
+    "description_fr": "TTArtisan has released its AF 23mm f/1.8 APS-C prime for Sony E and Nikon Z, as promised, expanding the lens beyond the Fujifilm X version that debuted earlier this year. Priced at just $127, the lens continues TTArtisan’s push toward affordable autofocus primes across multiple systems.[Read More]",
+    "title_fr": "TTArtisan’s $127 AF 23mm f/1.8 Lens Is Now Available for Sony and Nikon"
+  },
+  {
+    "title": "Introducing Cogito v2.1",
+    "url": "https://huggingface.co/blog/deepcogito/cogito-v2-1",
+    "description": "Introducing Cogito v2.1",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/5fe16a29e69f7b521398f73b/qKx7SKgZrs0y5YbbQZcdQ.png",
+    "published_date": "2025-11-20",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:45:38.184241",
+    "description_fr": "Introducing Cogito v2.1",
+    "title_fr": "Introducing Cogito v2.1"
+  },
+  {
+    "title": "🌳 QAT: The Art of Growing a Bonsai Model",
+    "url": "https://huggingface.co/blog/onekq/qat-bonsai",
+    "description": "🌳 QAT: The Art of Growing a Bonsai Model",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/669dbd709a4bf63e08f1ddc2/aV10ZJPPzH5LbnHFZNqc7.png",
+    "published_date": "2025-11-20",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-20T01:45:38.187184",
+    "description_fr": "🌳 QAT: The Art of Growing a Bonsai Model",
+    "title_fr": "🌳 QAT: The Art of Growing a Bonsai Model"
+  },
+  {
     "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
     "url": "https://openai.com/index/notion",
     "description": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion 3.0.",
@@ -607,8 +997,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:20.645744",
-    "description_fr": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
-    "title_fr": "Building more with GPT-5.1-Codex-Max"
+    "description_fr": "Présentation de GPT-5.1-Codex-Max, un modèle de codage agentique plus rapide et plus intelligent pour Codex. Le modèle est conçu pour un travail à long terme, à l'échelle du projet, avec un raisonnement amélioré et une efficacité symbolique.",
+    "title_fr": "Construire plus avec GPT-5.1-Codex-Max"
   },
   {
     "title": "Teacher Access Terms",
@@ -620,8 +1010,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:20.646118",
-    "description_fr": "Teacher Access Terms outline how verified educators may use ChatGPT for Teachers, covering eligibility, account management, and data privacy requirements.",
-    "title_fr": "Teacher Access Terms"
+    "description_fr": "Les conditions d'accès des enseignants décrivent comment les éducateurs vérifiés peuvent utiliser ChatGPT pour les enseignants, couvrant les exigences d'éligibilité, de gestion de compte et de confidentialité des données.",
+    "title_fr": "Conditions d'accès des enseignants"
   },
   {
     "title": "A free version of ChatGPT built for teachers",
@@ -633,8 +1023,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:20.646464",
-    "description_fr": "ChatGPT for Teachers is a secure workspace with education‑grade privacy and admin controls. Free for verified U.S. K–12 educators through June 2027.",
-    "title_fr": "A free version of ChatGPT built for teachers"
+    "description_fr": "ChatGPT pour les enseignants est un espace de travail sécurisé avec des contrôles de confidentialité et d'administration de niveau éducatif. Gratuit pour les éducateurs américains vérifiés de la maternelle à la 12e année jusqu'en juin 2027.",
+    "title_fr": "Une version gratuite de ChatGPT conçue pour les enseignants"
   },
   {
     "title": "GPT-5.1-Codex-Max System Card",
@@ -646,8 +1036,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:20.646758",
-    "description_fr": "This system card outlines the comprehensive safety measures implemented for GPT‑5.1-CodexMax. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
-    "title_fr": "GPT-5.1-Codex-Max System Card"
+    "description_fr": "Cette carte système décrit les mesures de sécurité complètes mises en œuvre pour GPT‑5.1-CodexMax. Il détaille à la fois les mesures d'atténuation au niveau du modèle, telles que la formation spécialisée en matière de sécurité pour les tâches nuisibles et les injections rapides, et les mesures d'atténuation au niveau du produit, telles que le sandboxing des agents et l'accès au réseau configurable.",
+    "title_fr": "Carte système GPT-5.1-Codex-Max"
   },
   {
     "title": "Understanding prompt injections: a frontier security challenge",
@@ -659,8 +1049,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:20.648757",
-    "description_fr": "Prompt injections are a frontier security challenge for AI systems. Learn how these attacks work and how OpenAI is advancing research, training models, and building safeguards for users.",
-    "title_fr": "Understanding prompt injections: a frontier security challenge"
+    "description_fr": "Les injections rapides sont un défi de sécurité frontalier pour les systèmes d'IA. Découvrez comment ces attaques fonctionnent et comment OpenAI fait progresser la recherche, les modèles de formation et la mise en place de mesures de protection pour les utilisateurs.",
+    "title_fr": "Comprendre les injections rapides : un défi de sécurité aux frontières"
   },
   {
     "title": "Google is investing in Oklahoma’s workforce and talent pipeline.",
@@ -672,8 +1062,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-19T18:33:22.469109",
-    "description_fr": "AI is creating new opportunities for Oklahomans to learn, grow and succeed. Google is committed to making sure the Sooner State is not just ready for this transformation…",
-    "title_fr": "Google is investing in Oklahoma’s workforce and talent pipeline."
+    "description_fr": "L'IA crée de nouvelles opportunités pour les Oklahomans d'apprendre, de grandir et de réussir. Google s'engage à faire en sorte que le Earlyer State ne soit pas seulement prêt pour cette transformation…",
+    "title_fr": "Google investit dans la main-d' œuvre et le vivier de talents de l'Oklahoma."
   },
   {
     "title": "This viral AI pen didn&#8217;t help me cheat",
@@ -685,8 +1075,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T18:33:25.261100",
-    "description_fr": "A college student recently told me about the latest tech designed to help students cheat - and it wasn't ChatGPT. It was an actual, physical gadget marketed in YouTube ads as the workaround to physical, hardcopy tests, which are back in vogue now as AI tears through higher education like a tornado. (One example is […]",
-    "title_fr": "This viral AI pen didn&#8217;t help me cheat"
+    "description_fr": "Un étudiant m'a récemment parlé de la dernière technologie conçue pour aider les étudiants à tricher - et ce n'était pas ChatGPT. C'était un véritable gadget physique commercialisé dans les publicités YouTube comme solution de contournement des tests physiques sur papier, qui sont de retour en vogue maintenant que l'IA déchire l'enseignement supérieur comme une tornade. (Un exemple est […]",
+    "title_fr": "Ce stylo viral AI ne m'a pas aidé à tricher"
   },
   {
     "title": "TikTok is letting users control how much AI content they see",
@@ -698,8 +1088,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T18:33:25.261821",
-    "description_fr": "TikTok is testing a new control that will let users manage how much AI-generated content appears in their video feed on the app. To help make the filter more effective, the app will also soon start adding invisible watermarks to AI content. The new AI slider will appear along with TikTok’s other content controls under […]",
-    "title_fr": "TikTok is letting users control how much AI content they see"
+    "description_fr": "TikTok teste un nouveau contrôle qui permettra aux utilisateurs de gérer la quantité de contenu généré par l'IA qui apparaît dans leur flux vidéo sur l'application. Pour rendre le filtre plus efficace, l'application commencera également bientôt à ajouter des filigranes invisibles au contenu de l'IA. Le nouveau curseur d'IA apparaîtra avec les autres contrôles de contenu de TikTok sous […]",
+    "title_fr": "TikTok permet aux utilisateurs de contrôler la quantité de contenu d'IA qu'ils voient"
   },
   {
     "title": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows",
@@ -711,8 +1101,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T18:33:26.485123",
-    "description_fr": "According to Amazon, the feature \"utilizes generative AI to create theatrical-quality season recaps with synchronized narration, dialogue, and music.\"",
-    "title_fr": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows"
+    "description_fr": "Selon Amazon, la fonctionnalité « utilise l'IA générative pour créer des récapitulatifs de saison de qualité théâtrale avec une narration, un dialogue et une musique synchronisés ».",
+    "title_fr": "Prime Video d'Amazon obtient des récapitulatifs vidéo générés par l'IA pour certaines émissions de télévision"
   },
   {
     "title": "YC-backed Poly relaunches as a cloud-hosted file storage with AI search",
@@ -724,8 +1114,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T18:33:26.485443",
-    "description_fr": "Poly's cloud based file storage system with AI-powered search lets you search through text, images, audio, and video.",
-    "title_fr": "YC-backed Poly relaunches as a cloud-hosted file storage with AI search"
+    "description_fr": "Le système de stockage de fichiers basé sur le cloud de Poly avec recherche basée sur l'IA vous permet de rechercher du texte, des images, de l'audio et de la vidéo.",
+    "title_fr": "Poly soutenu par YC se relance en tant que stockage de fichiers hébergé dans le cloud avec recherche d'IA"
   },
   {
     "title": "Adobe to buy Semrush for $1.9 billion",
@@ -737,8 +1127,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-19T18:33:26.485689",
-    "description_fr": "Adobe said it would offer $12 per share for Semrush, almost double the latter's closing price of $6.89 on Tuesday, before news of the deal.",
-    "title_fr": "Adobe to buy Semrush for $1.9 billion"
+    "description_fr": "Adobe a déclaré qu'il offrirait 12 $ par action pour Semrush, soit presque le double du cours de clôture de 6,89 $ de ce dernier mardi, avant l'annonce de la transaction.",
+    "title_fr": "Adobe rachète Semrush pour 1,9 milliard $"
   },
   {
     "title": "Target joins OpenAI’s growing list of retail apps",
@@ -1053,6 +1443,45 @@
     "title_fr": "The Pharmome Map: a comprehensive public dataset for drug-target interaction modeling"
   },
   {
+    "title": "Here’s the Trump executive order that would ban state AI laws",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws",
+    "description": "President Donald Trump is considering signing an executive order as soon as Friday that would give the federal government unilateral power over regulating artificial intelligence, including the creation of an \"AI Litigation Task Force\" overseen by the attorney general, \"whose sole responsibility shall be to challenge State AI laws.\" According to a draft of the […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2194990747.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-19",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:05.398552",
+    "description_fr": "President Donald Trump is considering signing an executive order as soon as Friday that would give the federal government unilateral power over regulating artificial intelligence, including the creation of an \"AI Litigation Task Force\" overseen by the attorney general, \"whose sole responsibility shall be to challenge State AI laws.\" According to a draft of the […]",
+    "title_fr": "Here’s the Trump executive order that would ban state AI laws"
+  },
+  {
+    "title": "Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in three months",
+    "url": "https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue",
+    "description": "Nvidia just sold more AI chips than it's ever sold before, blowing past its own estimates in today's Q3 2026 earnings. Not only did it pull in a record $57 billion in revenue - and roughly $4,000 of pure profit per second - it grew its data center business by $10 billion in a single […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-19",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:05.399266",
+    "description_fr": "Nvidia just sold more AI chips than it's ever sold before, blowing past its own estimates in today's Q3 2026 earnings. Not only did it pull in a record $57 billion in revenue - and roughly $4,000 of pure profit per second - it grew its data center business by $10 billion in a single […]",
+    "title_fr": "Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in three months"
+  },
+  {
+    "title": "Google’s new Scholar Labs search uses AI to find relevant studies",
+    "url": "https://www.theverge.com/news/823213/google-scholar-labs-ai-search",
+    "description": "Google has announced it's testing a new AI-powered search tool, Scholar Labs, that's designed to answer detailed research questions. But its demonstration highlighted a bigger question about finding \"good\" science studies. How much will scientists trust a tool that forgoes typical ways of gauging a study's popularity with the scientific establishment in favor of reading […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-19",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T01:45:05.399875",
+    "description_fr": "Google has announced it's testing a new AI-powered search tool, Scholar Labs, that's designed to answer detailed research questions. But its demonstration highlighted a bigger question about finding \"good\" science studies. How much will scientists trust a tool that forgoes typical ways of gauging a study's popularity with the scientific establishment in favor of reading […]",
+    "title_fr": "Google’s new Scholar Labs search uses AI to find relevant studies"
+  },
+  {
     "title": "Doppel’s AI defense system stops attacks before they spread",
     "url": "https://openai.com/index/doppel",
     "description": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
@@ -1062,8 +1491,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-18T01:45:57.688235",
-    "description_fr": "Découvrez comment Doppel utilise le GPT-5 et le réglage fin de renforcement (RFT) d'OpenAI pour arrêter les attaques de deepfake et d'usurpation d'identité avant qu'elles ne se propagent, réduisant la charge de travail des analystes de 80 % et réduisant la réponse aux menaces de quelques heures à quelques minutes.",
-    "title_fr": "Le système de défense IA de Doppel arrête les attaques avant qu'elles ne se propagent"
+    "description_fr": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
+    "title_fr": "Doppel’s AI defense system stops attacks before they spread"
   },
   {
     "title": "Built to benefit everyone",
@@ -1075,8 +1504,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-18T01:45:57.688559",
-    "description_fr": "La recapitalisation d'OpenAI renforce la gouvernance axée sur la mission, élargissant les ressources pour s'assurer que l'IA profite à tous tout en faisant progresser l'innovation de manière responsable.",
-    "title_fr": "Construit pour profiter à tous"
+    "description_fr": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+    "title_fr": "Built to benefit everyone"
   },
   {
     "title": "Investing in America 2025",
@@ -1088,8 +1517,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-18T01:46:00.328671",
-    "description_fr": "Les investissements importants de Google dans l'infrastructure technique américaine, la R&D et la main-d' œuvre aideront les États-Unis à continuer de dominer le monde dans le domaine de l'IA.",
-    "title_fr": "Investir en Amérique 2025"
+    "description_fr": "Google’s deep investments in American technical infrastructure, R&D and the workforce will help the U.S. continue to lead the world in AI.",
+    "title_fr": "Investing in America 2025"
   },
   {
     "title": "Meet the 11 startups using AI to build a safer digital future in Latin America",
@@ -1101,8 +1530,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-18T01:46:00.330463",
-    "description_fr": "Google for Startups Accelerator : AI for Cybersecurity Class of 2025 avec dix logos de partenaires.",
-    "title_fr": "Rencontrez les 11 startups qui utilisent l'IA pour construire un avenir numérique plus sûr en Amérique latine"
+    "description_fr": "Google for Startups Accelerator: AI for Cybersecurity Class of 2025 with ten partner logos.",
+    "title_fr": "Meet the 11 startups using AI to build a safer digital future in Latin America"
   },
   {
     "title": "Voice Cloning with Consent",
@@ -1114,8 +1543,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-18T01:46:01.672305",
-    "description_fr": "Clonage vocal avec consentement",
-    "title_fr": "Clonage vocal avec consentement"
+    "description_fr": "Voice Cloning with Consent",
+    "title_fr": "Voice Cloning with Consent"
   },
   {
     "title": "a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on",
@@ -1127,8 +1556,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T01:46:03.587920",
-    "description_fr": "Un super PAC soutenu par Andreessen Horowitz, OpenAI et d'autres leaders technologiques a ciblé la campagne du Congrès d'Alex Bores, membre de l'Assemblée de New York, marquant sa première attaque contre un législateur soutenant la réglementation de l'IA.",
-    "title_fr": "a16z-backed super PAC is targeting Alex Bores, sponsor of New York's AI safety bill — he says bring it on"
+    "description_fr": "A super PAC backed by Andreessen Horowitz, OpenAI, and other tech leaders has targeted New York Assembly member Alex Bores' congressional campaign, marking its first attack against a lawmaker supporting AI regulation.",
+    "title_fr": "a16z-backed super PAC is targeting Alex Bores, sponsor of New York’s AI safety bill — he says bring it on"
   },
   {
     "title": "Phi-4 proves that a 'data-first' SFT methodology is the new differentiator",
@@ -1140,8 +1569,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T01:46:05.340949",
-    "description_fr": "Les ingénieurs en IA recherchent souvent la performance en augmentant les paramètres et les données de LLM, mais la tendance vers des modèles plus petits, plus efficaces et mieux ciblés s'est accélérée. La méthodologie de réglage fin Phi-4 est l'exemple public le plus propre d'une approche de formation que les équipes des petites entreprises peuvent copier. Il montre comment un ensemble de données soigneusement choisi et une stratégie de réglage fin peuvent faire concurrencer un modèle 14B avec des modèles beaucoup plus grands",
-    "title_fr": "Phi-4 prouve qu'une méthodologie SFT « data-first » est le nouveau différentiateur"
+    "description_fr": "AI engineers often chase performance by scaling up LLM parameters and data, but the trend toward smaller, more efficient, and better-focused models has accelerated.ThePhi-4 fine-tuning methodologyis the cleanest public example of a training approach that smaller enterprise teams can copy. It shows how a carefully chosen dataset and fine-tuning strategy can make a 14B model compete with much larger",
+    "title_fr": "Phi-4 proves that a 'data-first' SFT methodology is the new differentiator"
   },
   {
     "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
@@ -1153,8 +1582,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-18T01:46:07.941962",
-    "description_fr": "Des flottes d'ordinateurs portables provenant de résidences américaines ont donné l'apparence que les travailleurs se trouvaient aux États-Unis.",
-    "title_fr": "5 plaider coupable à une ferme d'ordinateurs portables et à un stratagème de vol d'identité pour décrocher des emplois en informatique aux États-Unis pour les Nord-Coréens"
+    "description_fr": "Fleets of laptops run from US residences gave appearance workers were in the US.",
+    "title_fr": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs"
   },
   {
     "title": "The 4 Things You Need for a Tech Bubble",
@@ -1166,8 +1595,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-18T01:46:08.995790",
-    "description_fr": "Dans cet épisode d'Uncanny Valley, l'invité Brian Merchant nous guide à travers un cadre historique qu'il a utilisé pour analyser si l'IA correspond aux signes classiques d'une bulle économique - et ce que cela signifie pour nous tous.",
-    "title_fr": "Les 4 choses dont vous avez besoin pour une bulle technologique"
+    "description_fr": "On this episode of Uncanny Valley, guest Brian Merchant walks us through a historical framework he used to analyze whether AI fits the classic signs of an economic bubble—and what that means for all of us.",
+    "title_fr": "The 4 Things You Need for a Tech Bubble"
   },
   {
     "title": "Accelerated Computing, Networking Drive Supercomputing in Age of AI",
@@ -1179,8 +1608,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-18T01:46:12.487672",
-    "description_fr": "Lors de la SC25, NVIDIA a dévoilé des avancées dans les DPU NVIDIA BlueField, la mise en réseau de nouvelle génération, l'informatique quantique, la recherche nationale, la physique de l'IA et plus encore — alors que les systèmes accélérés ouvrent le prochain chapitre du supercalcul de l'IA. NVIDIA a également mis en évidence les innovations en matière de stockage alimentées par l'unité de traitement de données NVIDIA BlueField-4, qui fait partie de la plate-forme BlueField complète qui accélère l'infrastructure d'IA gigascale",
-    "title_fr": "Informatique accélérée, supercalculateur de lecteur de réseau à l'ère de l'IA"
+    "description_fr": "At SC25, NVIDIA unveiled advances across NVIDIA BlueField DPUs, next-generation networking, quantum computing, national research, AI physics and more — as accelerated systems drive the next chapter in AI supercomputing. NVIDIA also highlighted storage innovations powered by the NVIDIA BlueField-4 data processing unit, part of the full-stack BlueField platform that accelerates gigascale AI infrastr",
+    "title_fr": "Accelerated Computing, Networking Drive Supercomputing in Age of AI"
   },
   {
     "title": "NVIDIA Accelerates AI for Over 80 New Science Systems Worldwide",
@@ -6069,434 +6498,5 @@
     "collected_at": "2025-11-11T01:47:31.322793",
     "description_fr": "Award-winning photographers documenting immigration arrests in New York City have witnessed far-flung strife and conflict, but nothing quite like this.[Read More]",
     "title_fr": "Award-Winning Photographers Describe Emotional Toll of Documenting ICE Arrests"
-  },
-  {
-    "title": "Bird Photographer of the Year Won’t Elaborate on Why It Disqualified Winner",
-    "url": "https://petapixel.com/2025/11/10/bird-photographer-of-the-year-2025-wont-elaborate-on-why-it-disqualified-winner/",
-    "description": "Bird Photographer of the Year 2025 has disqualified one of its Silver Award winners after the image \"did not meet the competition's authenticity requirements.\"[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/BPOTY-Winner-Disqualified.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T01:47:31.323455",
-    "description_fr": "Bird Photographer of the Year 2025 has disqualified one of its Silver Award winners after the image \"did not meet the competition's authenticity requirements.\"[Read More]",
-    "title_fr": "Bird Photographer of the Year Won’t Elaborate on Why It Disqualified Winner"
-  },
-  {
-    "title": "Mint Addresses Major Rollei 35AF Complaint: You Can Now Use Filters",
-    "url": "https://petapixel.com/2025/11/10/mint-addresses-major-rollei-35af-complaint-you-can-now-use-filters/",
-    "description": "Mint has announced a new Rollei 35AF filter kit that successfully addresses one of the last remaining complaints from the original run of the brand-new camera from last year.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Mint-Addresses-Major-Rollei-35AF-Complaint-You-Can-Now-Use-Filters.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T01:47:31.324127",
-    "description_fr": "Mint has announced a new Rollei 35AF filter kit that successfully addresses one of the last remaining complaints from the original run of the brand-new camera from last year.[Read More]",
-    "title_fr": "Mint Addresses Major Rollei 35AF Complaint: You Can Now Use Filters"
-  },
-  {
-    "title": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research.",
-    "url": "https://blog.google/technology/research/deepsomatic-an-open-source-ai-model-is-speeding-up-genetic-analysis-for-cancer-research/",
-    "description": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DeepSomatic_Hero.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T06:34:38.676732",
-    "description_fr": "An overview of DeepSomatic, a new AI tool that helps identify complex genetic variants in cancer cells.",
-    "title_fr": "DeepSomatic, an open-source AI model, is speeding up genetic analysis for cancer research."
-  },
-  {
-    "title": "Introducing Veo 3.1 and advanced capabilities in Flow",
-    "url": "https://blog.google/technology/ai/veo-updates-flow/",
-    "description": "Veo 3.1 text with stills from generated videos",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Veo3.1_Social_v3.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T06:34:38.676971",
-    "description_fr": "Veo 3.1 text with stills from generated videos",
-    "title_fr": "Introducing Veo 3.1 and advanced capabilities in Flow"
-  },
-  {
-    "title": "6 new ways Google is protecting you from scams",
-    "url": "https://blog.google/technology/safety-security/how-google-protects-against-scams-2025/",
-    "description": "Man viewing phishing text, woman viewing \"wrong password\" screen, centered blue Google shield.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scams_Herov2.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T06:34:38.677233",
-    "description_fr": "Man viewing phishing text, woman viewing \"wrong password\" screen, centered blue Google shield.",
-    "title_fr": "6 new ways Google is protecting you from scams"
-  },
-  {
-    "title": "Our latest commitments in AI and learning",
-    "url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
-    "description": "Video sharing the future of AI & Learning with examples from classrooms from around the world",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/commitments_in_AI_and_learning_.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T12:46:03.172138",
-    "description_fr": "Video sharing the future of AI & Learning with examples from classrooms from around the world",
-    "title_fr": "Our latest commitments in AI and learning"
-  },
-  {
-    "title": "Leveling up your developer experience in Google AI Studio",
-    "url": "https://blog.google/technology/developers/ai-studio-updates-more-control/",
-    "description": "One Playground in Google AI Studio",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/video_thumbnail.max-600x600.format-webp_euAfg98.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T12:46:03.173894",
-    "description_fr": "One Playground in Google AI Studio",
-    "title_fr": "Leveling up your developer experience in Google AI Studio"
-  },
-  {
-    "title": "10 years of genomics research at Google",
-    "url": "https://blog.google/technology/research/ten-years-google-genomics/",
-    "description": "Blue graphic DNA double helix with text: \"A decade of genomics research at Google.\"",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Timeline-Thumbnail-1920.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T12:46:03.174130",
-    "description_fr": "Blue graphic DNA double helix with text: \"A decade of genomics research at Google.\"",
-    "title_fr": "10 years of genomics research at Google"
-  },
-  {
-    "title": "Samsung brings a generative AI-powered Bixby to its TVs",
-    "url": "https://www.theverge.com/news/818355/samsung-tvs-bixby-generative-ai-conversational",
-    "description": "Samsung is rolling out new conversational AI across its 2025 TVs that lets users ask questions about what’s on the screen and beyond it. First announced in September, the generative AI update is rolling out now with support for several languages. Vision AI Companion is based on an upgraded, generative AI-based version of Samsung’s virtual […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-vision-ai-companion-bixby-tv.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-11",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T12:46:05.623501",
-    "description_fr": "Samsung is rolling out new conversational AI across its 2025 TVs that lets users ask questions about what’s on the screen and beyond it. First announced in September, the generative AI update is rolling out now with support for several languages. Vision AI Companion is based on an upgraded, generative AI-based version of Samsung’s virtual […]",
-    "title_fr": "Samsung brings a generative AI-powered Bixby to its TVs"
-  },
-  {
-    "title": "The Former Staffer Calling Out OpenAI’s Erotica Claims",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/",
-    "description": "Steven Adler used to lead product safety at OpenAI. On this week’s episode of The Big Interview, he talks about what AI users should know about their bots.",
-    "image_url": "https://media.wired.com/photos/690ce26735f1df352f792505/master/pass/Big-Interview-UV-Solo-Steven-Adler-IMG_3501.jpg",
-    "published_date": "2025-11-11",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T12:46:09.963043",
-    "description_fr": "Steven Adler used to lead product safety at OpenAI. On this week’s episode of The Big Interview, he talks about what AI users should know about their bots.",
-    "title_fr": "The Former Staffer Calling Out OpenAI’s Erotica Claims"
-  },
-  {
-    "title": "Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know",
-    "url": "https://www.artificialintelligence-news.com/news/moonshot-ai-gpt-5-claude-comparison-china-breakthrough/",
-    "description": "A Chinese AI startup, Moonshot, has disrupted expectations in artificial intelligence development after its Kimi K2 Thinking model surpassed OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5 across multiple performance benchmarks, sparking renewed debate about whether America’s AI dominance is being challenged by cost-efficient Chinese innovation. Beijing-based Moonshot AI, valued at US$3.3 billion",
-    "image_url": "https://s.w.org/images/core/emoji/16.0.1/72x72/1f680.png",
-    "published_date": "2025-11-11",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T12:46:12.054695",
-    "description_fr": "A Chinese AI startup, Moonshot, has disrupted expectations in artificial intelligence development after its Kimi K2 Thinking model surpassed OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5 across multiple performance benchmarks, sparking renewed debate about whether America’s AI dominance is being challenged by cost-efficient Chinese innovation. Beijing-based Moonshot AI, valued at US$3.3 billion",
-    "title_fr": "Chinese AI startup Moonshot outperforms GPT-5 and Claude Sonnet 4.5: What you need to know"
-  },
-  {
-    "title": "AI Photo of a Fire Sparks Panic at High School",
-    "url": "https://petapixel.com/2025/11/11/ai-photo-of-a-fire-sparks-panic-at-high-school/",
-    "description": "An AI-generated image sparked confusion and concern at Bellaire High School in Houston yesterday after a picture falsely showing the school on fire circulated on social media.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Firefighter.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T12:46:22.098070",
-    "description_fr": "An AI-generated image sparked confusion and concern at Bellaire High School in Houston yesterday after a picture falsely showing the school on fire circulated on social media.[Read More]",
-    "title_fr": "AI Photo of a Fire Sparks Panic at High School"
-  },
-  {
-    "title": "Introduction to State Space Models (SSM)",
-    "url": "https://huggingface.co/blog/lbourdois/get-on-the-ssm-train",
-    "description": "Introduction to State Space Models (SSM)",
-    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/613b0a62a14099d5afed7830/pLuqSIYaNYhUqdjxlNrFn.png",
-    "published_date": "2025-11-11",
-    "source": "Hugging Face",
-    "source_type": "website",
-    "category": "llms",
-    "collected_at": "2025-11-11T12:46:37.934346",
-    "description_fr": "Introduction to State Space Models (SSM)",
-    "title_fr": "Introduction to State Space Models (SSM)"
-  },
-  {
-    "title": "6 new things you can do with AI in Google Photos",
-    "url": "https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/",
-    "description": "Image with the Google Photos logo and the words Edit, Create and Search with visuals of different AI features.",
-    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GP_Nov_AI_Feature_Blog_Post_Her.max-600x600.format-webp.webp",
-    "published_date": "2025-11-11",
-    "source": "Google AI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T18:31:47.921585",
-    "description_fr": "Image with the Google Photos logo and the words Edit, Create and Search with visuals of different AI features.",
-    "title_fr": "6 new things you can do with AI in Google Photos"
-  },
-  {
-    "title": "mmBERT: ModernBERT goes Multilingual",
-    "url": "https://huggingface.co/blog/mmbert",
-    "description": "mmBERT: ModernBERT goes Multilingual",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T18:31:48.912214",
-    "description_fr": "mmBERT: ModernBERT goes Multilingual",
-    "title_fr": "mmBERT: ModernBERT goes Multilingual"
-  },
-  {
-    "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "url": "https://huggingface.co/blog/embeddinggemma",
-    "description": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "Hugging Face Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-11T18:31:48.912425",
-    "description_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "title_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model"
-  },
-  {
-    "title": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’",
-    "url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
-    "description": "AI chatbots “pose serious risks to individuals vulnerable to eating disorders,” researchers warned on Monday. They report that tools from companies like Google and OpenAI are doling out dieting advice, tips on how to hide disorders, and AI-generated “thinspiration.”  The researchers, from Stanford and the Center for Democracy & Technology, identified numerous ways publicly available […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ca7270eb.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-11",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:50.468121",
-    "description_fr": "AI chatbots “pose serious risks to individuals vulnerable to eating disorders,” researchers warned on Monday. They report that tools from companies like Google and OpenAI are doling out dieting advice, tips on how to hide disorders, and AI-generated “thinspiration.”  The researchers, from Stanford and the Center for Democracy & Technology, identified numerous ways publicly available […]",
-    "title_fr": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’"
-  },
-  {
-    "title": "Google Photos lets iPhone users edit images by describing changes",
-    "url": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update",
-    "description": "Google is rolling out several AI updates to its Google Photos app, including iOS support for conversational edits, more accurate facial editing, and new AI tools. This means the “Help me edit” feature that lets you describe how you want Google’s AI to change your photos will be available to iPhone users, following its release […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-11",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:50.468940",
-    "description_fr": "Google is rolling out several AI updates to its Google Photos app, including iOS support for conversational edits, more accurate facial editing, and new AI tools. This means the “Help me edit” feature that lets you describe how you want Google’s AI to change your photos will be available to iPhone users, following its release […]",
-    "title_fr": "Google Photos lets iPhone users edit images by describing changes"
-  },
-  {
-    "title": "ElevenLabs’ new AI marketplace lets brands use famous voices for ads",
-    "url": "https://www.theverge.com/news/818470/elevenlabs-iconic-voice-marketplace-ai-audio",
-    "description": "ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements. The AI audio startup says its new Iconic Voice Marketplace resolves some of the ethical concerns around using AI-generated celebrity voices by providing brands with the “consent-based, performer-first approach the industry has been calling […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-11",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:50.470593",
-    "description_fr": "ElevenLabs is launching an online marketplace that allows companies to license AI-replicated voices of famous figures for their content and advertisements. The AI audio startup says its new Iconic Voice Marketplace resolves some of the ethical concerns around using AI-generated celebrity voices by providing brands with the “consent-based, performer-first approach the industry has been calling […]",
-    "title_fr": "ElevenLabs’ new AI marketplace lets brands use famous voices for ads"
-  },
-  {
-    "title": "Immortality startup Eternos pivots to a personal AI that sounds like you",
-    "url": "https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/",
-    "description": "Uare.ai raised $10.3 million in seed funding led by Mayfield and Boldstart Ventures.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:51.723315",
-    "description_fr": "Uare.ai raised $10.3 million in seed funding led by Mayfield and Boldstart Ventures.",
-    "title_fr": "Immortality startup Eternos pivots to a personal AI that sounds like you"
-  },
-  {
-    "title": "How AI startups should be thinking about product-market fit",
-    "url": "https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/",
-    "description": "Two experienced investors share their tips for founders and operators hoping to nail product-market fit at their AI startups.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:51.723645",
-    "description_fr": "Two experienced investors share their tips for founders and operators hoping to nail product-market fit at their AI startups.",
-    "title_fr": "How AI startups should be thinking about product-market fit"
-  },
-  {
-    "title": "Wonderful raised $100M Series A to put AI agents on the front lines of customer service",
-    "url": "https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/",
-    "description": "Israeli AI agent startup Wonderful has raised $100 million in a Series A round led by Index Ventures, with participation from Insight Partners, IVP, Bessemer, and Vine Ventures. The large round, in a market already crowded with AI agent startups, suggests Wonderful has convinced top tier investors it’s not just another GPT wrapper, but a company building the infrastructure and orchestration that c",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:51.724014",
-    "description_fr": "Israeli AI agent startup Wonderful has raised $100 million in a Series A round led by Index Ventures, with participation from Insight Partners, IVP, Bessemer, and Vine Ventures. The large round, in a market already crowded with AI agent startups, suggests Wonderful has convinced top tier investors it’s not just another GPT wrapper, but a company building the infrastructure and orchestration that c",
-    "title_fr": "Wonderful raised $100M Series A to put AI agents on the front lines of customer service"
-  },
-  {
-    "title": "Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup",
-    "url": "https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/",
-    "description": "Yann LeCun, a chief AI scientist at Meta, is planning to leave the company to build his own startup, which will focus on continuing his work on world models.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:51.724431",
-    "description_fr": "Yann LeCun, a chief AI scientist at Meta, is planning to leave the company to build his own startup, which will focus on continuing his work on world models.",
-    "title_fr": "Meta’s chief AI scientist Yann LeCun reportedly plans to leave to build his own startup"
-  },
-  {
-    "title": "A former physician has launched Robyn, an empathetic AI companion",
-    "url": "https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/",
-    "description": "Robyn wants to position it self as an empathetic chatbot and not as a companion or a therapy app",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:51.724730",
-    "description_fr": "Robyn wants to position it self as an empathetic chatbot and not as a companion or a therapy app",
-    "title_fr": "A former physician has launched Robyn, an empathetic AI companion"
-  },
-  {
-    "title": "ClickFix may be the biggest security threat your family has never heard of",
-    "url": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/",
-    "description": "Relatively new technique can bypass many endpoint protections.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-    "published_date": "2025-11-11",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-11T18:31:55.524142",
-    "description_fr": "Relatively new technique can bypass many endpoint protections.",
-    "title_fr": "ClickFix may be the biggest security threat your family has never heard of"
-  },
-  {
-    "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
-    "url": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/",
-    "description": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_treasurechest_1-1152x648.jpg",
-    "published_date": "2025-11-11",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-11T18:31:55.525195",
-    "description_fr": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "title_fr": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses"
-  },
-  {
-    "title": "Wiz: Security lapses emerge amid the global AI race",
-    "url": "https://www.artificialintelligence-news.com/news/wiz-security-lapses-emerge-amid-global-ai-race/",
-    "description": "According to Wiz, the race among AI companies is causing many to overlook basic security hygiene practices. 65 percent of the 50 leading AI firms the cybersecurity firm analysed had leaked verified secrets on GitHub. The exposures include API keys, tokens, and sensitive credentials, often buried in code repositories that standard security tools do not […]The postWiz: Security lapses emerge amid th",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
-    "published_date": "2025-11-11",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T18:31:59.167444",
-    "description_fr": "According to Wiz, the race among AI companies is causing many to overlook basic security hygiene practices. 65 percent of the 50 leading AI firms the cybersecurity firm analysed had leaked verified secrets on GitHub. The exposures include API keys, tokens, and sensitive credentials, often buried in code repositories that standard security tools do not […]The postWiz: Security lapses emerge amid th",
-    "title_fr": "Wiz: Security lapses emerge amid the global AI race"
-  },
-  {
-    "title": "The Rollei 35AF is in the Midst of a ‘No Man’s Sky’ Redemption Arc",
-    "url": "https://petapixel.com/2025/11/11/the-rollei-35af-is-in-the-midst-of-a-no-mans-sky-redemption-arc/",
-    "description": "Sean Murray, the founder of Hello Games, was once one of the most derided figures in video gaming. In 2016, he and his studio released No Man's Sky, a game that was so disappointing at launch that it was jokingly called \"One Man's Lie.\" Nine years later, and Murray has earned that respect back by delivering the game he originally promised -- and more.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/The-Rollei-35AF-is-in-the-Midst-of-a-No-Mans-Sky-Redemption-Arc.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.584184",
-    "description_fr": "Sean Murray, the founder of Hello Games, was once one of the most derided figures in video gaming. In 2016, he and his studio released No Man's Sky, a game that was so disappointing at launch that it was jokingly called \"One Man's Lie.\" Nine years later, and Murray has earned that respect back by delivering the game he originally promised -- and more.[Read More]",
-    "title_fr": "The Rollei 35AF is in the Midst of a ‘No Man’s Sky’ Redemption Arc"
-  },
-  {
-    "title": "Canon Already Can’t Make Enough 45mm f/1.2 Lenses to Meet Demand",
-    "url": "https://petapixel.com/2025/11/11/canon-already-cant-make-enough-45mm-f-1-2-lenses-to-meet-demand/",
-    "description": "The new $459 Canon RF 45mm f/1.2 STMlens is already proving too popular ahead of its December release. Canon Japan has warned photographers that it will be unable to fulfill all current preorders at launch.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/canon-rf-45mm-featured.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.584926",
-    "description_fr": "The new $459 Canon RF 45mm f/1.2 STMlens is already proving too popular ahead of its December release. Canon Japan has warned photographers that it will be unable to fulfill all current preorders at launch.[Read More]",
-    "title_fr": "Canon Already Can’t Make Enough 45mm f/1.2 Lenses to Meet Demand"
-  },
-  {
-    "title": "Steve Schapiro Took So Many Photos He Lost the Use of His Left Eye",
-    "url": "https://petapixel.com/2025/11/11/steve-schapiro-took-so-many-photos-he-lost-the-use-of-his-left-eye/",
-    "description": "The documentary Steve Schapiro: Being Everywhere has revealed that the famous American photographer was having difficulty keeping his left eye open toward the end of his life because of how many photos he had taken.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Steve-Schapiro2.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.585681",
-    "description_fr": "The documentary Steve Schapiro: Being Everywhere has revealed that the famous American photographer was having difficulty keeping his left eye open toward the end of his life because of how many photos he had taken.[Read More]",
-    "title_fr": "Steve Schapiro Took So Many Photos He Lost the Use of His Left Eye"
-  },
-  {
-    "title": "11 Years & 1M Cards Strong: RUGGED and Warrantied for Life!",
-    "url": "https://petapixel.com/2025/11/11/11-years-1m-cards-strong-rugged-and-warrantied-for-life/",
-    "description": "For more than a decade, Delkin BLACK has been synonymous with rugged, professional-grade memory — trusted by photographers who shoot in the harshest environments on Earth. Since the line’s debut in 2014, over one million BLACK cards have gone into the field, empowering photographers from the Arctic tundra to the Sahara dunes — and everywhere in between.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/11-Years-1M-Cards-Strong-RUGGED-and-Warrantied-for-Life.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.586378",
-    "description_fr": "For more than a decade, Delkin BLACK has been synonymous with rugged, professional-grade memory — trusted by photographers who shoot in the harshest environments on Earth. Since the line’s debut in 2014, over one million BLACK cards have gone into the field, empowering photographers from the Arctic tundra to the Sahara dunes — and everywhere in between.[Read More]",
-    "title_fr": "11 Years & 1M Cards Strong: RUGGED and Warrantied for Life!"
-  },
-  {
-    "title": "Generative AI Gemini Nano Banana is Now Inside Google Photos",
-    "url": "https://petapixel.com/2025/11/11/generative-ai-gemini-nano-banana-is-now-inside-google-photos/",
-    "description": "Google is updating Photos with six more AI-powered tools, including several that are powered by Nano Banana, which is one of Googles most popular and successful generative AI models.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Gemini-Nano-Banana-is-Now-Inside-Google-Photos.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.587071",
-    "description_fr": "Google is updating Photos with six more AI-powered tools, including several that are powered by Nano Banana, which is one of Googles most popular and successful generative AI models.[Read More]",
-    "title_fr": "Generative AI Gemini Nano Banana is Now Inside Google Photos"
-  },
-  {
-    "title": "Arri Film Lab Brings Film’s Look and Feel to Digital Cinema",
-    "url": "https://petapixel.com/2025/11/11/arri-film-lab-brings-films-look-and-feel-to-digital-cinema/",
-    "description": "Arri, one of the biggest brands in all of digital cinema, launched a new tool that aims to make digital video look more analog. Arri Film Lab is an OpenFX plugin that integrates into industry-standard color grading workflows and gives filmmakers and editors creative tools to make their digital videos, regardless of what camera they used, look like they were shot on film.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/arri-filmlab-featured.jpg",
-    "published_date": "2025-11-11",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-11T18:32:09.587822",
-    "description_fr": "Arri, one of the biggest brands in all of digital cinema, launched a new tool that aims to make digital video look more analog. Arri Film Lab is an OpenFX plugin that integrates into industry-standard color grading workflows and gives filmmakers and editors creative tools to make their digital videos, regardless of what camera they used, look like they were shot on film.[Read More]",
-    "title_fr": "Arri Film Lab Brings Film’s Look and Feel to Digital Cinema"
   }
 ]
