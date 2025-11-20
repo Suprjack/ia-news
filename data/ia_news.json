@@ -166,7 +166,7 @@
     "category": "general",
     "collected_at": "2025-11-20T01:45:09.630926",
     "description_fr": "L'IA et les technologies quantiques reconfigurent radicalement le fonctionnement de la cybersécurité, redéfinissant la vitesse et l'échelle avec lesquelles les défenseurs numériques et leurs adversaires peuvent fonctionner. La militarisation des outils d'IA pour les cyberattaques se révèle déjà un adversaire digne des défenses actuelles. De la reconnaissance aux rançongiciels, les cybercriminels peuvent automatiser les attaques plus rapidement que jamais avec l'IA. Cela…",
-    "title_fr": "Réinventer la cybersécurité à l'ère de l'IA et du quantum"
+    "title_fr": "Reimagining cybersecurity in the era of AI and quantum"
   },
   {
     "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
@@ -399,8 +399,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-20T06:33:05.537577",
-    "description_fr": "Image with the Google Photos logo and the words Edit, Create and Search with visuals of different AI features.",
-    "title_fr": "6 new things you can do with AI in Google Photos"
+    "description_fr": "Image avec le logo Google Photos et les mots Modifier, Créer et Rechercher avec des visuels de différentes fonctionnalités d'IA.",
+    "title_fr": "6 nouvelles choses que vous pouvez faire avec l'IA dans Google Photos"
   },
   {
     "title": "Our latest commitments in AI and learning",
@@ -412,8 +412,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-20T06:33:05.537866",
-    "description_fr": "Video sharing the future of AI & Learning with examples from classrooms from around the world",
-    "title_fr": "Our latest commitments in AI and learning"
+    "description_fr": "Vidéo partageant l'avenir de l'IA et de l'apprentissage avec des exemples de salles de classe du monde entier",
+    "title_fr": "Nos derniers engagements en matière d'IA et d'apprentissage"
   },
   {
     "title": "mmBERT: ModernBERT goes Multilingual",
@@ -425,8 +425,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-20T06:33:06.456661",
-    "description_fr": "mmBERT: ModernBERT goes Multilingual",
-    "title_fr": "mmBERT: ModernBERT goes Multilingual"
+    "description_fr": "mmBERT : ModernBERT devient multilingue",
+    "title_fr": "mmBERT : ModernBERT devient multilingue"
   },
   {
     "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
@@ -438,8 +438,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-20T06:33:06.456899",
-    "description_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-    "title_fr": "Welcome EmbeddingGemma, Google's new efficient embedding model"
+    "description_fr": "Bienvenue à EmbeddingGemma, le nouveau modèle d'intégration efficace de Google",
+    "title_fr": "Bienvenue à EmbeddingGemma, le nouveau modèle d'intégration efficace de Google"
   },
   {
     "title": "ClickFix may be the biggest security threat your family has never heard of",
@@ -451,8 +451,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-20T06:33:11.551550",
-    "description_fr": "Relatively new technique can bypass many endpoint protections.",
-    "title_fr": "ClickFix may be the biggest security threat your family has never heard of"
+    "description_fr": "Une technique relativement nouvelle peut contourner de nombreuses protections des paramètres.",
+    "title_fr": "ClickFix est peut-être la plus grande menace à la sécurité dont votre famille n'a jamais entendu parler"
   },
   {
     "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
@@ -464,8 +464,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-20T06:33:11.552448",
-    "description_fr": "It could be \"one of the biggest IPOs of all time,\" according to Reuters.",
-    "title_fr": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses"
+    "description_fr": "Il pourrait s'agir de « l'une des plus grandes introductions en bourse de tous les temps », selon Reuters.",
+    "title_fr": "ChatGPT Maker envisagerait une introduction en bourse de 1 000 milliards de $ malgré des pertes trimestrielles importantes"
   },
   {
     "title": "Trump Takes Aim at State AI Laws in Draft Executive Order",
@@ -477,8 +477,125 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T06:33:12.673191",
-    "description_fr": "The draft order, obtained by WIRED, instructs the US Justice Department to sue states that pass laws regulating AI.",
-    "title_fr": "Trump Takes Aim at State AI Laws in Draft Executive Order"
+    "description_fr": "Le projet d'ordonnance, obtenu par WIRED, charge le ministère américain de la Justice de poursuivre les États qui adoptent des lois réglementant l'IA.",
+    "title_fr": "Trump vise les lois de l'État sur l'IA dans le projet de décret"
+  },
+  {
+    "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "url": "https://huggingface.co/blog/anylanguagemodel",
+    "description": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "image_url": "",
+    "published_date": "2025-11-20",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-20T12:45:54.375211",
+    "description_fr": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+    "title_fr": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms"
+  },
+  {
+    "title": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech",
+    "url": "https://www.wired.com/story/cisco-aging-technical-infrastructure/",
+    "description": "Generative AI is making it even easier for attackers to exploit old and often forgotten network equipment. Replacing it takes investment, but Cisco is making the case that it’s worth it.",
+    "image_url": "https://media.wired.com/photos/691e0b0e68b99f43f58a29f6/master/pass/sec-servers-outdated-2202160650.jpg",
+    "published_date": "2025-11-20",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T12:46:00.932692",
+    "description_fr": "Generative AI is making it even easier for attackers to exploit old and often forgotten network equipment. Replacing it takes investment, but Cisco is making the case that it’s worth it.",
+    "title_fr": "With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech"
+  },
+  {
+    "title": "Lightweight LLM powers Japanese enterprise AI deployments",
+    "url": "https://www.artificialintelligence-news.com/news/lightweight-llm-enterprise-deployment-single-gpu/",
+    "description": "Enterprise AI deployment has been facing a fundamental tension: organisations need sophisticated language models but baulk at the infrastructure costs and energy consumption of frontier systems.  NTT Inc.’s recent launch of tsuzumi 2, a lightweight large language model (LLM) running on a single GPU, demonstrates how businesses are resolving this constraint—with early deployments showing performanc",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/11/251020ac.jpg",
+    "published_date": "2025-11-20",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T12:46:02.609270",
+    "description_fr": "Enterprise AI deployment has been facing a fundamental tension: organisations need sophisticated language models but baulk at the infrastructure costs and energy consumption of frontier systems.  NTT Inc.’s recent launch of tsuzumi 2, a lightweight large language model (LLM) running on a single GPU, demonstrates how businesses are resolving this constraint—with early deployments showing performanc",
+    "title_fr": "Lightweight LLM powers Japanese enterprise AI deployments"
+  },
+  {
+    "title": "+39% de productivité : comment (vraiment) bien utiliser les agents de code",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1546167-39-de-productivite-comment-vraiment-bien-utiliser-les-agents-de-code/",
+    "description": "Une étude menée par l'Université de Chicago démontre comment les agents de code dégagent un vrai gain de productivité au sein des organisations qui les adoptent.",
+    "image_url": "https://img-0.journaldunet.com/TskPJTDKez7vM1o7Xuf2cCyWGzk=/1280x/smart/ad4b5b57d93941f689d8f0ca1d303506/ccmcms-jdn/39529787.jpg",
+    "published_date": "2025-11-20",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T12:46:06.087988",
+    "description_fr": "Une étude menée par l'Université de Chicago démontre comment les agents de code dégagent un vrai gain de productivité au sein des organisations qui les adoptent.",
+    "title_fr": "+39% de productivité : comment (vraiment) bien utiliser les agents de code"
+  },
+  {
+    "title": "Florent Rogeon : \"Avec l'IA, DocuWare IDP transforme la gestion documentaire\"",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1546023-florent-rogeon-avec-l-ia-docuware-idp-transforme-la-gestion-documentaire/",
+    "description": "Florent Rogeon (DocuWare) revient sur les usages du traitement intelligent des documents dopé à l'IA et son rôle dans la digitalisation des PME, notamment face à la réforme de la facture électronique.",
+    "image_url": "https://img-0.journaldunet.com/kg4iLlHbjXOhSQdfcbR6Cbd2G7Y=/1280x/smart/8403c04e4f374bf5aa2632dead761d0e/ccmcms-jdn/39529440.jpg",
+    "published_date": "2025-11-20",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-20T12:46:06.088574",
+    "description_fr": "Florent Rogeon (DocuWare) revient sur les usages du traitement intelligent des documents dopé à l'IA et son rôle dans la digitalisation des PME, notamment face à la réforme de la facture électronique.",
+    "title_fr": "Florent Rogeon : \"Avec l'IA, DocuWare IDP transforme la gestion documentaire\""
+  },
+  {
+    "title": "Photographer Captures Insane Moment Man Rushes Toward a Pack of Wild Wolves",
+    "url": "https://petapixel.com/2025/11/20/photographer-captures-insane-moment-man-rushes-toward-a-pack-of-wild-wolves/",
+    "description": "A photographer in Yellowstone National Park captured the moment a \"very foolish\" man decided to taunt a pack of wolves.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Black-wolf.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T12:46:10.352286",
+    "description_fr": "A photographer in Yellowstone National Park captured the moment a \"very foolish\" man decided to taunt a pack of wolves.[Read More]",
+    "title_fr": "Photographer Captures Insane Moment Man Rushes Toward a Pack of Wild Wolves"
+  },
+  {
+    "title": "Photographer Captures First-Ever Images of an Orca Being Born in the Wild",
+    "url": "https://petapixel.com/2025/11/20/photographer-captures-first-ever-images-of-an-orca-being-born-in-the-wild/",
+    "description": "A photographer was on hand to document the dramatic birth of a killer whale calf, capturing what scientists say is the first verified imagery of an orca being born in the wild and of its first hour of life.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Orca-Whale-Birth9.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T12:46:10.352976",
+    "description_fr": "A photographer was on hand to document the dramatic birth of a killer whale calf, capturing what scientists say is the first verified imagery of an orca being born in the wild and of its first hour of life.[Read More]",
+    "title_fr": "Photographer Captures First-Ever Images of an Orca Being Born in the Wild"
+  },
+  {
+    "title": "Trump’s Draft Executive Order Targets States Enacting AI Transparency Laws",
+    "url": "https://petapixel.com/2025/11/20/trumps-draft-executive-order-targets-states-enacting-ai-transparency-laws/",
+    "description": "President Donald Trump is mulling an executive order that would block state laws requiring AI companies to publish transparency reports and disclose how they train models.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2024/03/eu-ai-act-3.jpg",
+    "published_date": "2025-11-20",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-20T12:46:10.353606",
+    "description_fr": "President Donald Trump is mulling an executive order that would block state laws requiring AI companies to publish transparency reports and disclose how they train models.[Read More]",
+    "title_fr": "Trump’s Draft Executive Order Targets States Enacting AI Transparency Laws"
+  },
+  {
+    "title": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/apriel-h1",
+    "description": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/63d3095c2727d7888cbb54e2/Uv-Lx8PVGviqokfOyYlCN.png",
+    "published_date": "2025-11-20",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-20T12:46:26.452413",
+    "description_fr": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models",
+    "title_fr": "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models"
   },
   {
     "title": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
@@ -750,8 +867,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-19T01:46:37.457231",
-    "description_fr": "Canon Inc. et sa filiale américaine, Canon USA, font face à une nouvelle action en contrefaçon de brevet intentée par la société irlandaise Malikie Innovations Ltd. La poursuite allègue que les appareils photo, les imprimantes et l'application mobile compagnon de Canon utilisent la technologie Wi-Fi couverte par six brevets détenus par Malikie qui concernent la façon dont les appareils se connectent sans fil aux réseaux ou aux applications pour des tâches telles que le partage et l'impression de photos.[En savoir plus]",
-    "title_fr": "Canon fait face à une action en justice concernant le Wi-Fi dans les caméras et les imprimantes"
+    "description_fr": "Canon Inc. and its U.S. subsidiary, Canon USA, are facing a new patent infringement lawsuit filed by Irish company Malikie Innovations Ltd. The suit alleges that Canon’s cameras, printers, and companion mobile app use Wi-Fi technology covered by six patents held by Malikie that pertain to how devices wirelessly connect to networks or apps for tasks such as photo sharing and printing.[Read More]",
+    "title_fr": "Canon Faces Lawsuit Over Wi-Fi in Cameras and Printers"
   },
   {
     "title": "Chris Niccolls and Jordan Drake Return to The Camera Store (For One Day)",
@@ -763,8 +880,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-19T01:46:37.457870",
-    "description_fr": "Chris Niccolls et Jordan Drake sont de retour à The Camera Store (TCS), où leur carrière a commencé ! Pour une seule journée et pour fêter les 250 000 abonnés, le duo revient derrière le comptoir pour reprendre ses anciens rôles.[En savoir plus]",
-    "title_fr": "Chris Niccolls et Jordan Drake de retour à The Camera Store (pour une journée)"
+    "description_fr": "Chris Niccolls and Jordan Drake are returning to The Camera Store (TCS), where their career started! For one day only and in celebration of reaching 250,000 subscribers, the duo are heading back behind the counter to reprise their old roles.[Read More]",
+    "title_fr": "Chris Niccolls and Jordan Drake Return to The Camera Store (For One Day)"
   },
   {
     "title": "Zeniko Launches $50 Universal Dual Dial Retro Mini Flash",
@@ -6381,122 +6498,5 @@
     "collected_at": "2025-11-12T18:31:42.513938",
     "description_fr": "Norm-Preserving Biprojected Abliteration",
     "title_fr": "Norm-Preserving Biprojected Abliteration"
-  },
-  {
-    "title": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options",
-    "url": "https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets",
-    "description": "OpenAI is releasing GPT-5.1 today, an update to the flagship model it released in August. OpenAI calls it an “upgrade” to GPT-5 that “makes ChatGPT smarter and more enjoyable to talk to.” The new models include GPT-5.1 Instant and GPT-5.1 Thinking. The former is “warmer, more intelligent, and better at following your instructions” than its […]",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Personality-Presets.png?quality=90&strip=all&crop=0,0,100,100",
-    "published_date": "2025-11-12",
-    "source": "The Verge AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:47:57.835754",
-    "description_fr": "OpenAI is releasing GPT-5.1 today, an update to the flagship model it released in August. OpenAI calls it an “upgrade” to GPT-5 that “makes ChatGPT smarter and more enjoyable to talk to.” The new models include GPT-5.1 Instant and GPT-5.1 Thinking. The former is “warmer, more intelligent, and better at following your instructions” than its […]",
-    "title_fr": "OpenAI says the brand-new GPT-5.1 is &#8216;warmer&#8217; and has more &#8216;personality&#8217; options"
-  },
-  {
-    "title": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees",
-    "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/",
-    "description": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.075539",
-    "description_fr": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
-    "title_fr": "Lovable says it’s nearing 8 million users as the year-old AI coding startup eyes more corporate employees"
-  },
-  {
-    "title": "The circular money problem at the heart of AI’s biggest deals",
-    "url": "https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/",
-    "description": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is raising questions about whether AI’s biggest deals are creating real economic value or just moving money in circles.  […]",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.085065",
-    "description_fr": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is raising questions about whether AI’s biggest deals are creating real economic value or just moving money in circles.  […]",
-    "title_fr": "The circular money problem at the heart of AI’s biggest deals"
-  },
-  {
-    "title": "A better way of thinking about the AI bubble",
-    "url": "https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/",
-    "description": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.085405",
-    "description_fr": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
-    "title_fr": "A better way of thinking about the AI bubble"
-  },
-  {
-    "title": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal",
-    "url": "https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/",
-    "description": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.085680",
-    "description_fr": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
-    "title_fr": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal"
-  },
-  {
-    "title": "Google brings Gemini to the Google TV Streamer",
-    "url": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/",
-    "description": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.086203",
-    "description_fr": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
-    "title_fr": "Google brings Gemini to the Google TV Streamer"
-  },
-  {
-    "title": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively",
-    "url": "https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can",
-    "description": "Meta has just released a newmultilingual automatic speech recognition (ASR) systemsupporting 1,600+ languages — dwarfing OpenAI’s open source Whisper model, which supports just 99.Is architecture also allows developers to extend that support to thousands more. Through a feature called zero-shot in-context learning, users can provide a few paired examples of audio and text in a new language at infe",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.960229",
-    "description_fr": "Meta has just released a newmultilingual automatic speech recognition (ASR) systemsupporting 1,600+ languages — dwarfing OpenAI’s open source Whisper model, which supports just 99.Is architecture also allows developers to extend that support to thousands more. Through a feature called zero-shot in-context learning, users can provide a few paired examples of audio and text in a new language at infe",
-    "title_fr": "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively"
-  },
-  {
-    "title": "Chronosphere takes on Datadog with AI that explains itself, not just outages",
-    "url": "https://venturebeat.com/ai/chronosphere-takes-on-datadog-with-ai-that-explains-itself-not-just-outages",
-    "description": "Chronosphere, a New York-based observability startupvalued at $1.6 billion, announced Monday it will launchAI-Guided Troubleshootingcapabilities designed to help engineers diagnose and fix production software failures — a problem that has intensified as artificial intelligence tools accelerate code creation while making systems harder to debug.The new features combine AI-driven analysis with what ",
-    "image_url": "",
-    "published_date": "2025-11-11",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-11T01:47:16.966544",
-    "description_fr": "Chronosphere, a New York-based observability startupvalued at $1.6 billion, announced Monday it will launchAI-Guided Troubleshootingcapabilities designed to help engineers diagnose and fix production software failures — a problem that has intensified as artificial intelligence tools accelerate code creation while making systems harder to debug.The new features combine AI-driven analysis with what ",
-    "title_fr": "Chronosphere takes on Datadog with AI that explains itself, not just outages"
-  },
-  {
-    "title": "Researchers isolate memorization from reasoning in AI neural networks",
-    "url": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/",
-    "description": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
-    "published_date": "2025-11-11",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-11T01:47:19.230465",
-    "description_fr": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
-    "title_fr": "Researchers isolate memorization from reasoning in AI neural networks"
   }
 ]
