@@ -633,8 +633,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:38.531042",
-    "description_fr": "OpenAI is exploring mechanistic interpretability to understand how neural networks reason. Our new sparse model approach could make AI systems more transparent and support safer, more reliable behavior.",
-    "title_fr": "Understanding neural networks through sparse circuits"
+    "description_fr": "OpenAI explore l'interprétabilité mécaniste pour comprendre comment les réseaux neuronaux raisonnent. Notre nouvelle approche de modèle clairsemé pourrait rendre les systèmes d'IA plus transparents et favoriser un comportement plus sûr et plus fiable.",
+    "title_fr": "Comprendre les réseaux neuronaux à travers des circuits clairsemés"
   },
   {
     "title": "Private AI Compute: our next step in building private and helpful AI",
@@ -646,8 +646,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:40.500395",
-    "description_fr": "Private AI Compute infographic: Secured data flow from mobile device to Gemini Models and Google TPU.",
-    "title_fr": "Private AI Compute: our next step in building private and helpful AI"
+    "description_fr": "Infographie privée AI Compute : flux de données sécurisées de l'appareil mobile vers Gemini Models et Google TPU.",
+    "title_fr": "Private AI Compute : notre prochaine étape dans la construction d'une IA privée et utile"
   },
   {
     "title": "Building for an Open Future - our new partnership with Google Cloud",
@@ -659,8 +659,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.249419",
-    "description_fr": "Building for an Open Future - our new partnership with Google Cloud",
-    "title_fr": "Building for an Open Future - our new partnership with Google Cloud"
+    "description_fr": "Construire pour un avenir ouvert - notre nouveau partenariat avec Google Cloud",
+    "title_fr": "Construire pour un avenir ouvert - notre nouveau partenariat avec Google Cloud"
   },
   {
     "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
@@ -672,8 +672,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.250347",
-    "description_fr": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
-    "title_fr": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face"
+    "description_fr": "Google Cloud C4 apporte une amélioration de 70% du coût total de possession sur GPT OSS avec Intel et Hugging Face",
+    "title_fr": "Google Cloud C4 apporte une amélioration de 70% du coût total de possession sur GPT OSS avec Intel et Hugging Face"
   },
   {
     "title": "Get your VLM running in 3 simple steps on Intel CPUs",
@@ -685,8 +685,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.250495",
-    "description_fr": "Get your VLM running in 3 simple steps on Intel CPUs",
-    "title_fr": "Get your VLM running in 3 simple steps on Intel CPUs"
+    "description_fr": "Faites fonctionner votre VLM en 3 étapes simples sur les processeurs Intel",
+    "title_fr": "Faites fonctionner votre VLM en 3 étapes simples sur les processeurs Intel"
   },
   {
     "title": "SOTA OCR with Core ML and dots.ocr",
@@ -698,8 +698,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.250677",
-    "description_fr": "SOTA OCR with Core ML and dots.ocr",
-    "title_fr": "SOTA OCR with Core ML and dots.ocr"
+    "description_fr": "OCR SOTA avec Core ML et dots.ocr",
+    "title_fr": "OCR SOTA avec Core ML et dots.ocr"
   },
   {
     "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
@@ -711,8 +711,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.250862",
-    "description_fr": "Introducing RTEB: A New Standard for Retrieval Evaluation",
-    "title_fr": "Introducing RTEB: A New Standard for Retrieval Evaluation"
+    "description_fr": "Présentation de RTEB : une nouvelle norme pour l'évaluation de la récupération",
+    "title_fr": "Présentation de RTEB : une nouvelle norme pour l'évaluation de la récupération"
   },
   {
     "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
@@ -724,8 +724,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-21T06:34:42.251032",
-    "description_fr": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-    "title_fr": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models"
+    "description_fr": "Accélération de l'agent Qwen3-8B sur Intel® Core™ Ultra avec des modèles de brouillon ajustés en profondeur",
+    "title_fr": "Accélération de l'agent Qwen3-8B sur Intel® Core™ Ultra avec des modèles de brouillon ajustés en profondeur"
   },
   {
     "title": "OpenAI’s new LLM exposes the secrets of how AI really works",
@@ -737,8 +737,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T06:34:46.112953",
-    "description_fr": "ChatGPT maker OpenAI has built an experimental large language model that is far easier to understand than typical models. That’s a big deal, because today’s LLMs are black boxes: Nobody fully understands how they do what they do. Building a model that is more transparent sheds light on how LLMs work in general, helping researchers…",
-    "title_fr": "OpenAI’s new LLM exposes the secrets of how AI really works"
+    "description_fr": "ChatGPT maker OpenAI a construit un modèle expérimental de grand langage qui est beaucoup plus facile à comprendre que les modèles typiques. C'est un gros problème, car les LLM d'aujourd' hui sont des boîtes noires : personne ne comprend parfaitement comment ils font ce qu'ils font. Construire un modèle plus transparent met en lumière le fonctionnement des LLM en général, aidant les chercheurs…",
+    "title_fr": "Le nouveau LLM d'OpenAI expose les secrets du fonctionnement réel de l'IA"
   },
   {
     "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
@@ -750,8 +750,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T06:34:46.114397",
-    "description_fr": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it’s a big step toward more general-purpose agents and better real-world robots.    Google DeepMind first demoed SIMA (which stands for “scalable instructable multiworld agent”) last year. But…",
-    "title_fr": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3"
+    "description_fr": "Google DeepMind a créé un nouvel agent de jeu vidéo appelé Sima 2 qui peut naviguer et résoudre des problèmes dans un large éventail de mondes virtuels 3D. La société affirme que c'est un grand pas vers des agents plus polyvalents et de meilleurs robots du monde réel.    Google DeepMind a fait la première démonstration de Sima (qui signifie « agent multi-monde évolutif et instructif ») l'année dernière. Mais…",
+    "title_fr": "Google DeepMind utilise Gemini pour former les agents dans Goat Simulator 3"
   },
   {
     "title": "AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo",
@@ -763,8 +763,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-21T06:34:52.534385",
-    "description_fr": "Editor’s note: This post is part of Think SMART, a series focused on how leading AI service providers, developers and enterprises can boost their inference performance and return on investment with the latest advancements from NVIDIA’s full-stack inference platform. NVIDIA Blackwell delivers the highest performance and efficiency, and lowest total cost of ownership across everyRead Article",
-    "title_fr": "AWS, Google, Microsoft and OCI Boost AI Inference Performance for Cloud Customers With NVIDIA Dynamo"
+    "description_fr": "Note de l'éditeur : Cet article fait partie de Think SMART, une série axée sur la façon dont les principaux fournisseurs de services d'IA, les développeurs et les entreprises peuvent améliorer leurs performances d'inférence et leur retour sur investissement avec les dernières avancées de la plate-forme d'inférence complète de NVIDIA. NVIDIA Blackwell offre les performances et l'efficacité les plus élevées et le coût total de possession le plus bas pour chaque article Read",
+    "title_fr": "AWS, Google, Microsoft et OCI améliorent les performances de l'inférence IA pour les clients du cloud avec NVIDIA Dynamo"
   },
   {
     "title": "GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud",
@@ -776,8 +776,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-21T06:34:52.534775",
-    "description_fr": "Chaos has entered the chat. It’s GFN Thursday, and things are getting intense with the launch of Call of Duty: Black Ops 7, streaming at launch this week on GeForce NOW. Dive straight into the chaos across devices — underpowered laptops, Macs, and Steam Decks. Power up the week with 12 new games to streamRead Article",
-    "title_fr": "GeForce NOW Enlists ‘Call of Duty: Black Ops 7’ for the Cloud"
+    "description_fr": "Chaos est entré dans le chat. C'est jeudi GFN, et les choses deviennent intenses avec le lancement de Call of Duty : Black Ops 7, diffusé lors du lancement cette semaine sur GeForce MAINTENANT. Plongez directement dans le chaos à travers les appareils — ordinateurs portables, Mac et Steam Decks sous-alimentés. Dynamisez la semaine avec 12 nouveaux jeux à diffuserLire l'article",
+    "title_fr": "GeForce fait MAINTENANT appel à « Call of Duty : Black Ops 7 » pour le cloud"
   },
   {
     "title": "GPT-5 est mort, vive GPT-5.1",
@@ -802,7 +802,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T06:34:53.815219",
-    "description_fr": "Il fut un temps où seul l'artiste pouvait vivre de l'inutile. Tous les autres étaient condamnés à l'utile. L'arrivée de l'IA répare cette injustice.",
+    "description_fr": "Il fut un temps où seul l'artiste pouvait vivre de l'inutile. Tous les autres étaient condamnés à l'utilité. L'arrivée de l'air répare cette injustice.",
     "title_fr": "Grâce à l'IA, je sais faire plein de choses inutiles"
   },
   {
@@ -815,8 +815,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-21T06:35:36.200220",
-    "description_fr": "The New York Historical will open an exhibition this fall that explores the importance of photography in documenting and understanding the immigrant experience of New York City.",
-    "title_fr": "Photographs Reveal Generations of Immigrant Life in New York City"
+    "description_fr": "The New York Historical ouvrira une exposition cet automne qui explore l'importance de la photographie pour documenter et comprendre l'expérience immigrante de la ville de New York.",
+    "title_fr": "Les photographies révèlent des générations de vie immigrée à New York"
   },
   {
     "title": "Leica Q3 Monochrom Review: Q3 is Back in Black (and White)",
@@ -828,8 +828,164 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-21T06:35:36.202775",
-    "description_fr": "Leica is by far the leading company to create monochromatic versions of its most popular camera models, and that is because, love it or hate it, black and white exclusive cameras sell really well. Now the Leica Q3 gets the Monochrom treatment that we've seen in the recent Q2 and M11 models. It comes with a higher price at $7,790 and the limitation of only shooting monochromatic images, but it also",
-    "title_fr": "Leica Q3 Monochrom Review: Q3 is Back in Black (and White)"
+    "description_fr": "Leica est de loin la principale entreprise à créer des versions monochromatiques de ses modèles d'appareils photo les plus populaires, et c'est parce que, qu'on l'aime ou qu'on le déteste, les appareils photo exclusifs en noir et blanc se vendent très bien. Maintenant, le Leica Q3 reçoit le traitement Monochrom que nous avons vu dans les récents modèles Q2 et M11. Il est livré avec un prix plus élevé à 7 790 $ et la limitation de ne prendre que des images monochromatiques, mais il est également",
+    "title_fr": "Leica Q3 Monochrom Review : Q3 est de retour en noir (et blanc)"
+  },
+  {
+    "title": "Google Pixel and Golden Goose partner to  bring AI to global ateliers",
+    "url": "https://blog.google/products/pixel/google-pixel-and-golden-goose-partner-to-bring-ai-to-global-ateliers/",
+    "description": "A triptych showing details of a Golden Goose and Google Gemini co-creation experience, including tools, a phone, store window display, and sneaker customization.",
+    "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2025-11-13_10.23.26_.max-600x600.format-webp.webp",
+    "published_date": "2025-11-21",
+    "source": "Google AI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-21T12:44:12.090711",
+    "description_fr": "A triptych showing details of a Golden Goose and Google Gemini co-creation experience, including tools, a phone, store window display, and sneaker customization.",
+    "title_fr": "Google Pixel and Golden Goose partner to  bring AI to global ateliers"
+  },
+  {
+    "title": "The new silicon valley (literally)",
+    "url": "https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley",
+    "description": "Arizona's economy was once dominated by the \"five C's\": cotton, cattle, citrus, copper, and climate. But a new C has emerged that could grow to overshadow the rest: chips. New semiconductor manufacturing facilities are springing up across the greater Phoenix area, stretching across blocks of new roads with names like \"Processor Parkway\" and \"Transistor Terrace.\" […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258008_phoenix_semiconductors_CVirginia5.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-21",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-21T12:44:14.522469",
+    "description_fr": "Arizona's economy was once dominated by the \"five C's\": cotton, cattle, citrus, copper, and climate. But a new C has emerged that could grow to overshadow the rest: chips. New semiconductor manufacturing facilities are springing up across the greater Phoenix area, stretching across blocks of new roads with names like \"Processor Parkway\" and \"Transistor Terrace.\" […]",
+    "title_fr": "The new silicon valley (literally)"
+  },
+  {
+    "title": "Google’s Nano Banana Pro generates excellent conspiracy fuel",
+    "url": "https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel",
+    "description": "It was really easy getting Google's Gemini app to make an image of a second shooter at Dealey Plaza, the White House ablaze, and Mickey Mouse flying a plane into the Twin Towers. We asked and it complied. There were few filters or guardrails, another sign that the battle over generative AI content moderation and […]",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ai-label-4-crop.png?quality=90&strip=all&crop=0,0,100,100",
+    "published_date": "2025-11-21",
+    "source": "The Verge AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-21T12:44:14.523127",
+    "description_fr": "It was really easy getting Google's Gemini app to make an image of a second shooter at Dealey Plaza, the White House ablaze, and Mickey Mouse flying a plane into the Twin Towers. We asked and it complied. There were few filters or guardrails, another sign that the battle over generative AI content moderation and […]",
+    "title_fr": "Google’s Nano Banana Pro generates excellent conspiracy fuel"
+  },
+  {
+    "title": "Apple’s Most Overlooked App Just Got a Lot Better",
+    "url": "https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/",
+    "description": "Apple Shortcuts, which lets users write custom automations, recently earned some new capabilities thanks to Apple Intelligence. Here,s how to make the most of this upgrade.",
+    "image_url": "https://media.wired.com/photos/691cd4e1b5114981d80a2f8d/master/pass/gear-apple-shortcuts-2234517515.jpg",
+    "published_date": "2025-11-21",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-21T12:44:20.990807",
+    "description_fr": "Apple Shortcuts, which lets users write custom automations, recently earned some new capabilities thanks to Apple Intelligence. Here,s how to make the most of this upgrade.",
+    "title_fr": "Apple’s Most Overlooked App Just Got a Lot Better"
+  },
+  {
+    "title": "A $100 Million AI Super PAC Targeted New York Democrat Alex Bores. He Thinks It Backfired",
+    "url": "https://www.wired.com/story/alex-bores-andreessen-horowitz-super-pac-ai-regulation-new-york/",
+    "description": "Leading the Future said it will spend millions to keep Alex Bores out of Congress. It might be helping him instead.",
+    "image_url": "https://media.wired.com/photos/691baf4cd791a56f18525bb6/master/pass/Alex-Bores-QnA-Business-AP25262090128678.jpg",
+    "published_date": "2025-11-21",
+    "source": "Wired AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-21T12:44:20.991062",
+    "description_fr": "Leading the Future said it will spend millions to keep Alex Bores out of Congress. It might be helping him instead.",
+    "title_fr": "A $100 Million AI Super PAC Targeted New York Democrat Alex Bores. He Thinks It Backfired"
+  },
+  {
+    "title": "ChatGPT group chats may help teams bring AI into daily planning",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-group-chats-may-help-teams-bring-ai-into-daily-planning/",
+    "description": "OpenAI has introduced group chats inside ChatGPT, giving people a way to bring up to 20 others into a shared conversation with the chatbot. The feature is now available to all logged-in users after a short pilot earlier this month, and it shifts ChatGPT from a mostly one-on-one tool to something that supports small-group collaboration. […]The postChatGPT group chats may help teams bring AI into da",
+    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
+    "published_date": "2025-11-21",
+    "source": "AI News",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-21T12:44:22.845908",
+    "description_fr": "OpenAI has introduced group chats inside ChatGPT, giving people a way to bring up to 20 others into a shared conversation with the chatbot. The feature is now available to all logged-in users after a short pilot earlier this month, and it shifts ChatGPT from a mostly one-on-one tool to something that supports small-group collaboration. […]The postChatGPT group chats may help teams bring AI into da",
+    "title_fr": "ChatGPT group chats may help teams bring AI into daily planning"
+  },
+  {
+    "title": "You Can Now Ask Google Gemini Whether an Image is AI-Generated or Not",
+    "url": "https://petapixel.com/2025/11/21/you-can-now-ask-google-gemini-whether-an-image-is-ai-generated-or-not/",
+    "description": "Google has a new feature that allows users to find out whether an image is AI-generated or not -- a much-needed tool in a world of AI slop.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Google-AI-Image-Detector.jpg",
+    "published_date": "2025-11-21",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-21T12:44:33.732357",
+    "description_fr": "Google has a new feature that allows users to find out whether an image is AI-generated or not -- a much-needed tool in a world of AI slop.[Read More]",
+    "title_fr": "You Can Now Ask Google Gemini Whether an Image is AI-Generated or Not"
+  },
+  {
+    "title": "Face à la pénurie de serveurs IA, OpenAI mise sur un partenariat stratégique avec Foxconn",
+    "url": "https://siecledigital.fr/2025/11/21/face-a-la-penurie-de-serveurs-ia-openai-mise-sur-un-partenariat-strategique-avec-foxconn/",
+    "description": "Face à la pénurie de serveurs IA, OpenAI mise sur un partenariat stratégique avec Foxconn",
+    "image_url": "https://siecledigital.fr/wp-content/uploads/2025/11/Foxconn-940x550.jpg",
+    "published_date": "2025-11-21",
+    "source": "Siècle Digital",
+    "source_type": "website",
+    "category": "general",
+    "collected_at": "2025-11-21T12:45:01.136098",
+    "description_fr": "Face à la pénurie de serveurs IA, OpenAI mise sur un partenariat stratégique avec Foxconn",
+    "title_fr": "Face à la pénurie de serveurs IA, OpenAI mise sur un partenariat stratégique avec Foxconn"
+  },
+  {
+    "title": "Elon Musk prédit la fin de l’argent et du travail grâce à l’IA",
+    "url": "https://siecledigital.fr/2025/11/21/elon-musk-predit-la-fin-de-largent-et-du-travail-grace-a-lia/",
+    "description": "Elon Musk prédit la fin de l’argent et du travail grâce à l’IA",
+    "image_url": "https://siecledigital.fr/wp-content/uploads/2025/11/musk-1-940x550.jpg",
+    "published_date": "2025-11-21",
+    "source": "Siècle Digital",
+    "source_type": "website",
+    "category": "general",
+    "collected_at": "2025-11-21T12:45:01.136671",
+    "description_fr": "Elon Musk prédit la fin de l’argent et du travail grâce à l’IA",
+    "title_fr": "Elon Musk prédit la fin de l’argent et du travail grâce à l’IA"
+  },
+  {
+    "title": "OpenAI transforme ChatGPT en espace social avec des conversations jusqu’à 20 personnes",
+    "url": "https://siecledigital.fr/2025/11/21/openai-transforme-chatgpt-en-espace-social-avec-des-conversations-jusqua-20-personnes/",
+    "description": "OpenAI transforme ChatGPT en espace social avec des conversations jusqu’à 20 personnes",
+    "image_url": "https://siecledigital.fr/wp-content/uploads/2025/11/groupe-chatgpt-940x550.jpg",
+    "published_date": "2025-11-21",
+    "source": "Siècle Digital",
+    "source_type": "website",
+    "category": "general",
+    "collected_at": "2025-11-21T12:45:01.137162",
+    "description_fr": "OpenAI transforme ChatGPT en espace social avec des conversations jusqu’à 20 personnes",
+    "title_fr": "OpenAI transforme ChatGPT en espace social avec des conversations jusqu’à 20 personnes"
+  },
+  {
+    "title": "Nano Banana Pro : Google passe à la vitesse supérieure dans l’IA visuelle",
+    "url": "https://siecledigital.fr/2025/11/21/nano-banana-pro-google-passe-a-la-vitesse-superieure-dans-lia-visuelle/",
+    "description": "Nano Banana Pro : Google passe à la vitesse supérieure dans l’IA visuelle",
+    "image_url": "https://siecledigital.fr/wp-content/uploads/2025/11/Nano-Banana-Pro-940x550.jpg",
+    "published_date": "2025-11-21",
+    "source": "Siècle Digital",
+    "source_type": "website",
+    "category": "general",
+    "collected_at": "2025-11-21T12:45:01.137574",
+    "description_fr": "Nano Banana Pro : Google passe à la vitesse supérieure dans l’IA visuelle",
+    "title_fr": "Nano Banana Pro : Google passe à la vitesse supérieure dans l’IA visuelle"
+  },
+  {
+    "title": "Hundreds of SmallRig Photo and Video Products Are Up to 30% Off",
+    "url": "https://petapixel.com/author/kategaribaldi/",
+    "description": "SmallRig has rolled out its most extensive Black Friday promotions yet, offering significant discounts across tripods, batteries, lights, phone cages, mobile accessories, and rigging tools. With savings of up to 30%, creators can upgrade key pieces of kit at some of the lowest prices of the year.",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/SmallRig-Black-Friday-Deals-PetaPixel-BG-300x157.jpg",
+    "published_date": "2025-11-21",
+    "source": "PetaPixel",
+    "source_type": "website",
+    "category": "creative",
+    "collected_at": "2025-11-21T12:45:04.808354",
+    "description_fr": "SmallRig has rolled out its most extensive Black Friday promotions yet, offering significant discounts across tripods, batteries, lights, phone cages, mobile accessories, and rigging tools. With savings of up to 30%, creators can upgrade key pieces of kit at some of the lowest prices of the year.",
+    "title_fr": "Hundreds of SmallRig Photo and Video Products Are Up to 30% Off"
   },
   {
     "title": "Strengthening our safety ecosystem with external testing",
@@ -933,7 +1089,7 @@
     "category": "general",
     "collected_at": "2025-11-20T01:45:06.966386",
     "description_fr": "Des dossiers de santé électroniques et des tests sanguins au flux de données provenant des appareils portables, la quantité d'informations sur la santé que les gens génèrent s'accélère rapidement. Pourtant, de nombreux utilisateurs ont du mal à connecter cette mine de données de manière significative et à l'utiliser pour améliorer leur santé. Function Health souhaite consolider les données de santé et les rendre utilisables pour ses clients.",
-    "title_fr": "Function Health lève 298 M $ de série B à une valorisation de 2,5 M $"
+    "title_fr": "Function Health raises $298M Series B at $2.5B valuation"
   },
   {
     "title": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform",
@@ -945,8 +1101,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:06.966655",
-    "description_fr": "Le service d'abonnement permettra aux utilisateurs de faire des remixes, des reprises et de nouvelles chansons en utilisant les voix des artistes et les compositions des auteurs-compositeurs qui choisissent de participer.",
-    "title_fr": "Warner Music règle le litige sur les droits d'auteur avec Udio, signe un accord pour la plateforme musicale AI"
+    "description_fr": "The subscription service will allow users to make remixes, covers, and new songs using the voices of artists and compositions of songwriters who choose to participate.",
+    "title_fr": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform"
   },
   {
     "title": "Why January Ventures is funding underrepresented AI founders",
@@ -958,8 +1114,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:06.966940",
-    "description_fr": "Alors que tout le monde poursuit le prochain jeu d'infrastructure d'IA à San Francisco, certaines des entreprises d'IA les plus défendables sont construites par des fondateurs ayant une profonde expertise dans les industries traditionnelles — et elles ne sont pas financées. January Ventures vise à combler cette lacune en rédigeant des chèques de pré-amorçage pour les fondateurs sous-représentés, transformant les soins de santé, la fabrication et la chaîne d'approvisionnement avec […]",
-    "title_fr": "Pourquoi January Ventures finance les fondateurs de l'IA sous-représentés"
+    "description_fr": "While everyone’s chasing the next AI infrastructure play in San Francisco, some of the most defensible AI companies are being built by founders with deep expertise in legacy industries — and they’re not getting funded. January Ventures aims to fill that gap, writing pre-seed checks for underrepresented founders transforming healthcare, manufacturing, and supply chain with […]",
+    "title_fr": "Why January Ventures is funding underrepresented AI founders"
   },
   {
     "title": "OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally",
@@ -971,8 +1127,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:08.462231",
-    "description_fr": "OpenAI a introduit GPT‑5.1-Codex-Max, un nouveau modèle de codage agentique de frontière maintenant disponible dans son environnement de développement Codex. Cette version marque une étape importante dans l'ingénierie logicielle assistée par IA, offrant un raisonnement à long horizon, une efficacité et des capacités interactives en temps réel améliorés. GPT‑5.1-Codex-Max remplacera désormais GPT‑ 5.1-Codex comme modèle par défaut pour les surfs intégrées au Codex",
-    "title_fr": "OpenAI lance le modèle de codage GPT‑ 5.1-Codex-Max et a déjà effectué une tâche de 24 heures en interne"
+    "description_fr": "OpenAI hasintroduced GPT‑5.1-Codex-Max, a new frontier agentic coding model now available in its Codex developer environment. The release marks a significant step forward in AI-assisted software engineering, offering improved long-horizon reasoning, efficiency, and real-time interactive capabilities. GPT‑5.1-Codex-Max will now replace GPT‑5.1-Codex as the default model across Codex-integrated surf",
+    "title_fr": "OpenAI debuts GPT‑5.1-Codex-Max coding model and it already completed a 24-hour task internally"
   },
   {
     "title": "Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs",
@@ -984,8 +1140,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:08.557544",
-    "description_fr": "Des chercheurs de Meta, de l'Université de Chicago et de l'UC Berkeley ont développé un nouveau cadre qui traite des coûts élevés, de la complexité de l'infrastructure et des commentaires peu fiables associés à l'utilisation de l'apprentissage par renforcement (RL) pour former des agents de modèles linguistiques de grande taille (LLM). Le framework,DreamGym, simule un environnement RL pour former des agents pour des applications complexes. Au fur et à mesure de sa progression dans le traini",
-    "title_fr": "Le cadre DreamGym de Meta forme des agents d'IA dans un monde simulé pour réduire les coûts d'apprentissage par renforcement"
+    "description_fr": "Researchers at Meta, the University of Chicago, and UC Berkeley have developed a new framework that addresses the high costs, infrastructure complexity, and unreliable feedback associated with using reinforcement learning (RL) to train large language model (LLM) agents. The framework,DreamGym, simulates an RL environment to train agents for complex applications. As it progresses through the traini",
+    "title_fr": "Meta’s DreamGym framework trains AI agents in a simulated world to cut reinforcement learning costs"
   },
   {
     "title": "Reimagining cybersecurity in the era of AI and quantum",
@@ -997,8 +1153,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:09.630926",
-    "description_fr": "L'IA et les technologies quantiques reconfigurent radicalement le fonctionnement de la cybersécurité, redéfinissant la vitesse et l'échelle avec lesquelles les défenseurs numériques et leurs adversaires peuvent fonctionner. La militarisation des outils d'IA pour les cyberattaques se révèle déjà un adversaire digne des défenses actuelles. De la reconnaissance aux rançongiciels, les cybercriminels peuvent automatiser les attaques plus rapidement que jamais avec l'IA. Cela…",
-    "title_fr": "Réinventer la cybersécurité à l'ère de l'IA et du quantum"
+    "description_fr": "AI and quantum technologies are dramatically reconfiguring how cybersecurity functions, redefining the speed and scale with which digital defenders and their adversaries can operate. The weaponization of AI tools for cyberattacks is already proving a worthy opponent to current defenses. From reconnaissance to ransomware, cybercriminals can automate attacks faster than ever before with AI. This…",
+    "title_fr": "Reimagining cybersecurity in the era of AI and quantum"
   },
   {
     "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
@@ -1010,8 +1166,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-20T01:45:10.739304",
-    "description_fr": "« Je crains que ce soit le grand botnet flexing », a déclaré le PDG. Mais la panne était auto-infligée.",
-    "title_fr": "Une panne massive de Cloudflare a été déclenchée par un fichier qui a soudainement doublé de taille"
+    "description_fr": "\"I worry this is the big botnet flexing,\" CEO said. But outage was self-inflicted.",
+    "title_fr": "Massive Cloudflare outage was triggered by file that suddenly doubled in size"
   },
   {
     "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
@@ -1023,8 +1179,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-20T01:45:10.739619",
-    "description_fr": "L'intégration des actions Copilot dans Windows est désactivée par défaut, mais pendant combien de temps ?",
-    "title_fr": "Les critiques se moquent après que Microsoft ait averti que la fonctionnalité d'IA pouvait infecter les machines et voler des données"
+    "description_fr": "Integration of Copilot Actions into Windows is off by default, but for how long?",
+    "title_fr": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data"
   },
   {
     "title": "Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical",
@@ -1036,8 +1192,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:11.751600",
-    "description_fr": "Les ventes record, les prévisions financières solides et les arguments passionnés du PDG Jensen Huang concernant les résultats de son entreprise n'ont pas suffi à ramener les actions de Nvidia à leur sommet d'octobre.",
-    "title_fr": "Le PDG de Nvidia rejette les préoccupations d'une bulle d'IA. Les investisseurs restent sceptiques"
+    "description_fr": "Record sales, a strong financial forecast, and CEO Jensen Huang’s impassioned arguments on his company's earnings call weren’t enough to push Nvidia shares back to their October high.",
+    "title_fr": "Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical"
   },
   {
     "title": "Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics",
@@ -1049,8 +1205,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:11.751870",
-    "description_fr": "Le chef de DeepMind dit qu'il envisage Gemini comme un système d'exploitation pour les robots physiques. L'entreprise a embauché Aaron Saunders pour l'aider à en faire une réalité.",
-    "title_fr": "Google DeepMind embauche un ancien directeur technique de Boston Dynamics alors que l'entreprise se lance dans la robotique"
+    "description_fr": "DeepMind’s chief says he envisions Gemini as an operating system for physical robots. The company has hired Aaron Saunders to help make that a reality.",
+    "title_fr": "Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics"
   },
   {
     "title": "The Zelos-450 Pellet Grill Has Features Missing on Grills Triple Its Price",
@@ -1062,8 +1218,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:11.752092",
-    "description_fr": "Brisk It's Zelos-450 dispose d'une IA générative gadget. Cependant, c'est une pièce de matériel stellaire, surtout à ce prix.",
-    "title_fr": "Le gril à granulés Zelos-450 a des caractéristiques manquantes sur les grils trois fois son prix"
+    "description_fr": "Brisk It's Zelos-450 boasts gimmicky generative AI. However, it's a stellar piece of hardware, especially at this price.",
+    "title_fr": "The Zelos-450 Pellet Grill Has Features Missing on Grills Triple Its Price"
   },
   {
     "title": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers",
@@ -1075,8 +1231,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-20T01:45:11.752312",
-    "description_fr": "Dans cet épisode d'Uncanny Valley, nous discutons de notre scoop sur la façon dont le Department of Homeland Security a collecté illégalement les données des résidents de Chicago pour le mois, ainsi que les nouvelles de la semaine.",
-    "title_fr": "Roundup CÂBLÉ : violation de la vie privée du DHS, affaires romantiques de l'IA et arnaqueurs de texte de Google Sues"
+    "description_fr": "In this episode of Uncanny Valley, we discuss our scoop about how the Department of Homeland Security illegally collected Chicago residents’ data for month, as well as the news of the week.",
+    "title_fr": "WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers"
   },
   {
     "title": "The Biggest AI Companies Met to Find a Better Path for Chatbot Companions",
@@ -1920,8 +2076,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-20T18:33:23.993776",
-    "description_fr": "The New York Historical will open an exhibition this fall that explores the importance of photography in documenting and understanding the immigrant experience of New York City.[Read More]",
-    "title_fr": "Photographs Reveal Generations of Immigrant Life in New York City"
+    "description_fr": "The New York Historical ouvrira une exposition cet automne qui explore l'importance de la photographie pour documenter et comprendre l'expérience immigrante de la ville de New York.",
+    "title_fr": "Les photographies révèlent des générations de vie immigrée à New York"
   },
   {
     "title": "Ulanzi Enters Audio Market With $50 A200 Mini Mic",
@@ -1998,8 +2154,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-20T18:33:23.997450",
-    "description_fr": "Leica is by far the leading company to create monochromatic versions of its most popular camera models, and that is because, love it or hate it, black and white exclusive cameras sell really well. Now the Leica Q3 gets the Monochrom treatment that we've seen in the recent Q2 and M11 models. It comes with a higher price at $7,790 and the limitation of only shooting monochromatic images, but it also",
-    "title_fr": "Leica Q3 Monochrom Review: Q3 is Back in Black (and White)"
+    "description_fr": "Leica est de loin la principale entreprise à créer des versions monochromatiques de ses modèles d'appareils photo les plus populaires, et c'est parce que, qu'on l'aime ou qu'on le déteste, les appareils photo exclusifs en noir et blanc se vendent très bien. Maintenant, le Leica Q3 reçoit le traitement Monochrom que nous avons vu dans les récents modèles Q2 et M11. Il est livré avec un prix plus élevé à 7 790 $ et la limitation de ne prendre que des images monochromatiques, mais il est également",
+    "title_fr": "Leica Q3 Monochrom Review : Q3 est de retour en noir (et blanc)"
   },
   {
     "title": "The Leica Q3 Monochrom Has a Dedicated Black-and-White 60MP Sensor",
@@ -6342,161 +6498,5 @@
     "collected_at": "2025-11-13T01:47:52.256972",
     "description_fr": "OpenAI and AWS have entered a multi-year, $38 billion partnership to scale advanced AI workloads. AWS will provide world-class infrastructure and compute capacity to power OpenAI’s next generation of models.",
     "title_fr": "AWS and OpenAI announce multi-year strategic partnership"
-  },
-  {
-    "title": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake",
-    "url": "https://techcrunch.com/2025/11/12/chad-the-brainrot-ide-is-a-new-y-combinator-backed-product-so-wild-people-thought-it-was-fake/",
-    "description": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
-    "image_url": "",
-    "published_date": "2025-11-13",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:47:59.418404",
-    "description_fr": "Chad: The Brainrot IDE is an actual product that pairs vibe coding with brainrot activities like gambling, Tinder and games.",
-    "title_fr": "‘Chad: The Brainrot IDE’ is a new Y Combinator-backed product so wild, people thought it was fake"
-  },
-  {
-    "title": "ElevenLabs strike deals with celebs to create AI audio",
-    "url": "https://techcrunch.com/2025/11/12/elevenlabs-strike-deals-with-celebs-to-create-ai-audio/",
-    "description": "ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices.",
-    "image_url": "",
-    "published_date": "2025-11-13",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:47:59.418725",
-    "description_fr": "ElevenLabs struck a deal with actors Michael Caine and Matthew McConaughey to AI-generate their voices.",
-    "title_fr": "ElevenLabs strike deals with celebs to create AI audio"
-  },
-  {
-    "title": "Court rules that OpenAI violated German copyright law; ordered it to pay damages",
-    "url": "https://techcrunch.com/2025/11/12/court-rules-that-openai-violated-german-copyright-law-ordered-it-to-pay-damages/",
-    "description": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
-    "image_url": "",
-    "published_date": "2025-11-13",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:47:59.419055",
-    "description_fr": "A German court ruled that OpenAI’s ChatGPT violated the nation’s copyright laws by training its language models on licensed musical work without permission.",
-    "title_fr": "Court rules that OpenAI violated German copyright law; ordered it to pay damages"
-  },
-  {
-    "title": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget",
-    "url": "https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on",
-    "description": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.Chinese social networking companyWeibo's AI division recently released its open source VibeThinker-1.5B—a 1.5 billion parameter large language model (LLM) that is a fine-tuned variant of rival Chinese tech firmAlibaba's Qwen2.5-Math-1.5B.It's available now for free download and usage b",
-    "image_url": "",
-    "published_date": "2025-11-13",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:00.517217",
-    "description_fr": "Another day in late 2025, another impressive result from a Chinese company in open source artificial intelligence.Chinese social networking companyWeibo's AI division recently released its open source VibeThinker-1.5B—a 1.5 billion parameter large language model (LLM) that is a fine-tuned variant of rival Chinese tech firmAlibaba's Qwen2.5-Math-1.5B.It's available now for free download and usage b",
-    "title_fr": "Weibo's new open source AI model VibeThinker-1.5B outperforms DeepSeek-R1 on $7,800 post-training budget"
-  },
-  {
-    "title": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
-    "url": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
-    "description": "ChatGPT is about to become faster and more conversational asOpenAIupgrades itsflagship model GPT-5to GPT-5.1.OpenAIannouncedtwo updates to the GPT-5 series: GPT-5.1 Instant and GPT-5.1 Thinking. Both models are now accessible on ChatGPT.GPT-5.1 Instant, essentially the default and most-used model, is now “warmer, more intelligent, and better at following your instructions,” according to OpenAI. Me",
-    "image_url": "",
-    "published_date": "2025-11-13",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:00.525285",
-    "description_fr": "ChatGPT is about to become faster and more conversational asOpenAIupgrades itsflagship model GPT-5to GPT-5.1.OpenAIannouncedtwo updates to the GPT-5 series: GPT-5.1 Instant and GPT-5.1 Thinking. Both models are now accessible on ChatGPT.GPT-5.1 Instant, essentially the default and most-used model, is now “warmer, more intelligent, and better at following your instructions,” according to OpenAI. Me",
-    "title_fr": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5"
-  },
-  {
-    "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
-    "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/",
-    "description": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/aaGettyImages-862457080-1152x648.jpg",
-    "published_date": "2025-11-13",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-13T01:48:02.849072",
-    "description_fr": "New controls attempt to please critics on both sides with a balance between bland and habit-forming.",
-    "title_fr": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities"
-  },
-  {
-    "title": "Anthropic’s Claude Takes Control of a Robot Dog",
-    "url": "https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/",
-    "description": "Anthropic believes AI models will increasingly reach into the physical world. To understand where things are headed, it asked Claude to program a quadruped.",
-    "image_url": "https://media.wired.com/photos/69138b24895cf8d67bbadf97/master/pass/AI-Lab-Claude-Hacks-Robot-Dog-Business.jpg",
-    "published_date": "2025-11-13",
-    "source": "Wired AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:03.676183",
-    "description_fr": "Anthropic believes AI models will increasingly reach into the physical world. To understand where things are headed, it asked Claude to program a quadruped.",
-    "title_fr": "Anthropic’s Claude Takes Control of a Robot Dog"
-  },
-  {
-    "title": "OpenAI, la visibilité à tout-va",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545711-openai-la-visibilite-a-tout-va-au-mepris-des-lois/",
-    "description": "OpenAI impose ses innovations via la \"stratégie du fait accompli\", au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
-    "image_url": "https://img-0.journaldunet.com/ymDv64yw0jTNxr0OCLb6ec0Pdjk=/1280x/smart/5cb004c7d7cd4eb092fce848f2d11b2d/user-jdn/39528231-stephane-audouin.jpg",
-    "published_date": "2025-11-13",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:09.281800",
-    "description_fr": "OpenAI impose ses innovations via la \"stratégie du fait accompli\", au mépris des droits d'auteur et du droit à l'image. Sans régulation, la création s'appauvrit, menaçant l'écosystème créatif.",
-    "title_fr": "OpenAI, la visibilité à tout-va"
-  },
-  {
-    "title": "Performances, vitesse, prix : le coup de force de Grok-4 Fast",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545739-performances-vitesse-prix-le-coup-de-force-de-grok-4-fast/",
-    "description": "Lancé par xAI en septembre dernier, Grok-4 Fast affiche des performances on-par avec la majorité des modèles de raisonnement propriétaire pour un prix plus qu'attractif.",
-    "image_url": "https://img-0.journaldunet.com/lvkikfaZdFDa3Tp8-0uqhDBP7NI=/1280x/smart/16c651ded0f048378c678a5c08d3b74c/ccmcms-jdn/39528927.png",
-    "published_date": "2025-11-13",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:09.282224",
-    "description_fr": "Lancé par xAI en septembre dernier, Grok-4 Fast affiche des performances on-par avec la majorité des modèles de raisonnement propriétaire pour un prix plus qu'attractif.",
-    "title_fr": "Performances, vitesse, prix : le coup de force de Grok-4 Fast"
-  },
-  {
-    "title": "L'intelligence artificielle ou la nouvelle géonumérique du pouvoir",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545705-l-intelligence-artificielle-ou-la-nouvelle-geonumerique-du-pouvoir/",
-    "description": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent infrastructures, ressources et recherche.",
-    "image_url": "https://img-0.journaldunet.com/FhiUvDw-FDt_nWwImKwH5qSLHyA=/1280x/smart/545f2497372c49d7a45cb67be10ab7ec/user-jdn/39523110-natacha-ryanni.jpg",
-    "published_date": "2025-11-13",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:09.282627",
-    "description_fr": "L'intelligence artificielle déplace le pouvoir mondial : la géonumérique appartient à ceux qui contrôlent infrastructures, ressources et recherche.",
-    "title_fr": "L'intelligence artificielle ou la nouvelle géonumérique du pouvoir"
-  },
-  {
-    "title": "L'IA éthique, un levier stratégique de confiance et d'innovation",
-    "url": "https://www.journaldunet.com/intelligence-artificielle/1545741-l-ia-ethique-un-levier-strategique-de-confiance-et-d-innovation/",
-    "description": "Compte tenu du potentiel considérable de l'IA, il est important d'en préserver l'objectif initial : une utilisation éthique.",
-    "image_url": "https://img-0.journaldunet.com/cPaqgTjz4XcHhSKuQ98xcDPFzDI=/1280x/smart/bd3e50f6e8224f629ba05ecaa5dd8b72/user-jdn/39521977-yari-franzini.jpg",
-    "published_date": "2025-11-13",
-    "source": "Journal du Net - IA",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-13T01:48:09.283004",
-    "description_fr": "Compte tenu du potentiel considérable de l'IA, il est important d'en préserver l'objectif initial : une utilisation éthique.",
-    "title_fr": "L'IA éthique, un levier stratégique de confiance et d'innovation"
-  },
-  {
-    "title": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera",
-    "url": "https://petapixel.com/2025/11/12/bizarre-add-on-turns-the-insta360-ace-pro-2-into-an-instant-camera/",
-    "description": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.[Read More]",
-    "image_url": "https://petapixel.com/assets/uploads/2025/11/Camera-in-hand-with-Pocket-Printer-4-featured.jpg",
-    "published_date": "2025-11-13",
-    "source": "PetaPixel - AI",
-    "source_type": "rss",
-    "category": "creative",
-    "collected_at": "2025-11-13T01:48:15.014825",
-    "description_fr": "Insta360 has announced a bunch of products and bundles for its Leica co-engineered Ace Pro 2 action camera, including new lenses, a grip, additional Leica color profiles, and a wild portable Pocket Printer that makes the Ace Pro 2 the world's first action camera-turned-instant camera.[Read More]",
-    "title_fr": "Bizarre Add-On Turns the Insta360 Ace Pro 2 Into an Instant Camera"
   }
 ]
