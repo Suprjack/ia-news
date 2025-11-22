@@ -295,8 +295,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:17.079714",
-    "description_fr": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
-    "title_fr": "Introducing OpenAI for Ireland"
+    "description_fr": "OpenAI lance OpenAI pour l'Irlande, en partenariat avec le gouvernement irlandais, Dogpatch Labs et Patch pour aider les PME, les fondateurs et les jeunes constructeurs à utiliser l'IA pour innover, stimuler la productivité et construire la prochaine génération de startups technologiques irlandaises.",
+    "title_fr": "Présentation d'OpenAI pour l'Irlande"
   },
   {
     "title": "Streaming datasets: 100x More Efficient",
@@ -308,8 +308,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:20.418285",
-    "description_fr": "Streaming datasets: 100x More Efficient",
-    "title_fr": "Streaming datasets: 100x More Efficient"
+    "description_fr": "Ensembles de données de streaming : 100 fois plus efficaces",
+    "title_fr": "Ensembles de données de streaming : 100 fois plus efficaces"
   },
   {
     "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
@@ -321,8 +321,8 @@
     "source_type": "rss",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:20.418462",
-    "description_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
-    "title_fr": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning"
+    "description_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert",
+    "title_fr": "huggingface_hub v1.0 : Cinq ans de construction de la base de l'apprentissage automatique ouvert"
   },
   {
     "title": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech",
@@ -334,8 +334,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-22T06:30:22.922817",
-    "description_fr": "Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons. When he walks into a room of executives twice or three times his age, he says, there's initial skepticism. \"Who the hell is this young guy and how does he know what he's talking about?\"",
-    "title_fr": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech"
+    "description_fr": "L'âge et les antécédents de Young – des choses qui pourraient sembler des inconvénients lorsqu'il s'agit d'industries plus établies – sont devenus ses armes secrètes. Quand il entre dans une pièce de cadres deux ou trois fois son âge, dit-il, il y a un scepticisme initial. \"Qui est ce jeune type et comment sait-il de quoi il parle ?\"",
+    "title_fr": "Comment le chemin improbable de ce fondateur vers la Silicon Valley pourrait devenir un avantage dans la technologie industrielle"
   },
   {
     "title": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous",
@@ -347,8 +347,8 @@
     "source_type": "rss",
     "category": "tech",
     "collected_at": "2025-11-22T06:30:25.923764",
-    "description_fr": "The results of AI-assisted hacking aren't as impressive as many might have us believe.",
-    "title_fr": "Researchers question Anthropic claim that AI-assisted attack was 90% autonomous"
+    "description_fr": "Les résultats du piratage assisté par l'IA ne sont pas aussi impressionnants que beaucoup pourraient nous le faire croire.",
+    "title_fr": "Les chercheurs remettent en question l'affirmation anthropique selon laquelle l'attaque assistée par IA était autonome à 90 %"
   },
   {
     "title": "Text-to-image Architectural Experiments",
@@ -360,8 +360,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:57.531082",
-    "description_fr": "Text-to-image Architectural Experiments",
-    "title_fr": "Text-to-image Architectural Experiments"
+    "description_fr": "Expériences d'architecture texte-image",
+    "title_fr": "Expériences d'architecture texte-image"
   },
   {
     "title": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
@@ -373,8 +373,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:57.533049",
-    "description_fr": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases",
-    "title_fr": "ViDoRe V3: a comprehensive evaluation of retrieval for enterprise use-cases"
+    "description_fr": "ViDoRe V3 : une évaluation complète de la récupération pour les cas d'utilisation d'entreprise",
+    "title_fr": "ViDoRe V3 : une évaluation complète de la récupération pour les cas d'utilisation d'entreprise"
   },
   {
     "title": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
@@ -386,8 +386,34 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-22T06:30:57.534349",
-    "description_fr": "How to make NeuTTS-air generate over 200 seconds of audio in a single second.",
-    "title_fr": "How to make NeuTTS-air generate over 200 seconds of audio in a single second."
+    "description_fr": "Comment faire en sorte que NeuTTS-air génère plus de 200 secondes d'audio en une seule seconde.",
+    "title_fr": "Comment faire en sorte que NeuTTS-air génère plus de 200 secondes d'audio en une seule seconde."
+  },
+  {
+    "title": "AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications",
+    "url": "https://blogs.nvidia.com/blog/ways-to-bring-agentic-ai-to-computer-vision-applications/",
+    "description": "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots. The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transformRead Article",
+    "image_url": "https://blogs.nvidia.com/wp-content/uploads/2025/11/image2.png",
+    "published_date": "2025-11-22",
+    "source": "NVIDIA Blog",
+    "source_type": "rss",
+    "category": "hardware",
+    "collected_at": "2025-11-22T12:39:21.550424",
+    "description_fr": "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots. The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transformRead Article",
+    "title_fr": "AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications"
+  },
+  {
+    "title": "Cline : un seul agent de code, tous les LLM, zéro contrainte",
+    "url": "https://www.journaldunet.com/intelligence-artificielle/1545857-cline-un-seul-agent-de-code-tous-les-llm-zero-contrainte/",
+    "description": "Cline peut être utilisé avec la majorité des providers de LLM du marché, y compris ceux open source.",
+    "image_url": "https://img-0.journaldunet.com/cjSjS9OvRKuMDuJ-hjPC7e7z--0=/1280x/smart/0b84c4dcd3374f7c923e6b353ee24276/ccmcms-jdn/39529121.png",
+    "published_date": "2025-11-22",
+    "source": "Journal du Net - IA",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-22T12:39:23.209286",
+    "description_fr": "Cline peut être utilisé avec la majorité des providers de LLM du marché, y compris ceux open source.",
+    "title_fr": "Cline : un seul agent de code, tous les LLM, zéro contrainte"
   },
   {
     "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
@@ -855,7 +881,7 @@
     "category": "general",
     "collected_at": "2025-11-21T01:46:02.872459",
     "description_fr": "Cerebras et Groq proposent une tarification au token, particulièrement pertinente pour une utilisation avec un agent de code.",
-    "title_fr": "Cerebras vs Groq : quel accélérateur d'air choisir ?"
+    "title_fr": "Cerebras vs Groq : quel accélérateur d'IA choisir ?"
   },
   {
     "title": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots",
@@ -867,7 +893,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:46:06.564278",
-    "description_fr": "L'articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "description_fr": "L’articleUn Français sur deux souhaiterait déléguer une partie de son travail à des robotsest apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
     "title_fr": "Un Français sur deux souhaiterait déléguer une partie de son travail à des robots"
   },
   {
@@ -880,8 +906,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:46:06.564953",
-    "description_fr": "L'articleQuels sont les composants d'un bon projet d'intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
-    "title_fr": "Quels sont les composants d'un bon projet d'intelligence artificielle ?"
+    "description_fr": "L’articleQuels sont les composants d’un bon projet d’intelligence artificielle ?est apparu en premier surMaddyness - Le média pour comprendre l'économie de demain.",
+    "title_fr": "Quels sont les composants d’un bon projet d’intelligence artificielle ?"
   },
   {
     "title": "WhiteWall’s Pro-Quality Coffee Table Books Now Have More Personality",
@@ -893,8 +919,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-21T01:46:07.753192",
-    "description_fr": "L'excellent livre de table à café de WhiteWall est maintenant beaucoup plus personnalisé grâce à 36 nouvelles options de papier d'extrémité coloré. WhiteWall affirme que les nouvelles options de personnalisation font de son Coffee Table Book une option encore plus professionnelle pour les photographes afin de présenter leur travail.[En savoir plus]",
-    "title_fr": "Les livres de table à café Pro-Quality de WhiteWall ont maintenant plus de personnalité"
+    "description_fr": "WhiteWall's excellent Coffee Table Book is now much more personalized thanks to 36 new colorful endpaper options. WhiteWall says the new customization options make its Coffee Table Book an even more professional option for photographers to showcase their work.[Read More]",
+    "title_fr": "WhiteWall’s Pro-Quality Coffee Table Books Now Have More Personality"
   },
   {
     "title": "NYA-EVO Has a New 60L Adventure Backpack That Expands to 80L",
@@ -906,7 +932,7 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-21T01:46:07.753875",
-    "description_fr": "NYA-EVO a annoncé un nouveau sac à dos d'aventure Fjord 80 qui peut compacter aussi petit que 60L mais passer à 80L, selon les besoins du photographe.[En savoir plus]",
+    "description_fr": "NYA-EVO has announced a new Fjord 80 adventure backpack that can compact as small as 60L but grow to 80L, depending on the needs of the photographer.[Read More]",
     "title_fr": "NYA-EVO Has a New 60L Adventure Backpack That Expands to 80L"
   },
   {
@@ -971,8 +997,8 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-21T01:46:36.982937",
-    "description_fr": "L'excellent livre de table à café de WhiteWall est maintenant beaucoup plus personnalisé grâce à 36 nouvelles options de papier d'extrémité coloré. WhiteWall affirme que les nouvelles options de personnalisation font de son Coffee Table Book une option encore plus professionnelle pour les photographes afin de présenter leur travail.[En savoir plus]",
-    "title_fr": "Les livres de table à café Pro-Quality de WhiteWall ont maintenant plus de personnalité"
+    "description_fr": "WhiteWall's excellent Coffee Table Book is now much more personalized thanks to 36 new colorful endpaper options. WhiteWall says the new customization options make its Coffee Table Book an even more professional option for photographers to showcase their work.",
+    "title_fr": "WhiteWall’s Pro-Quality Coffee Table Books Now Have More Personality"
   },
   {
     "title": "NYA-EVO Has a New 60L Adventure Backpack That Expands to 80L",
@@ -984,7 +1010,7 @@
     "source_type": "website",
     "category": "creative",
     "collected_at": "2025-11-21T01:46:36.983682",
-    "description_fr": "NYA-EVO a annoncé un nouveau sac à dos d'aventure Fjord 80 qui peut compacter aussi petit que 60L mais passer à 80L, selon les besoins du photographe.[En savoir plus]",
+    "description_fr": "NYA-EVO has announced a new Fjord 80 adventure backpack that can compact as small as 60L but grow to 80L, depending on the needs of the photographer.",
     "title_fr": "NYA-EVO Has a New 60L Adventure Backpack That Expands to 80L"
   },
   {
@@ -6472,31 +6498,5 @@
     "collected_at": "2025-11-14T01:47:06.448343",
     "description_fr": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
     "title_fr": "A single point of failure triggered the Amazon outage affecting millions"
-  },
-  {
-    "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
-    "url": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
-    "description": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/browser-security-threat-1152x627.jpg",
-    "published_date": "2025-11-14",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-14T01:47:06.448544",
-    "description_fr": "At least one CVE could weaken defenses put in place following 2008 disclosure.",
-    "title_fr": "Cache poisoning vulnerabilities found in 2 DNS resolving apps"
-  },
-  {
-    "title": "IBM: Data silos are holding back enterprise AI",
-    "url": "https://www.artificialintelligence-news.com/news/ibm-data-silos-are-holding-back-enterprise-ai/",
-    "description": "According to IBM, the primary barrier holding back enterprise AI isn’t the technology itself but the persistent issue of data silos. Ed Lovely, VP and Chief Data Officer at IBM, describes data silos as the “Achilles’ heel” of modern data strategy. Lovely made the comments following the release of a new study from the IBM […]The postIBM: Data silos are holding back enterprise AIappeared first onAI ",
-    "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/10/image-10.png",
-    "published_date": "2025-11-14",
-    "source": "AI News",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:09.738728",
-    "description_fr": "According to IBM, the primary barrier holding back enterprise AI isn’t the technology itself but the persistent issue of data silos. Ed Lovely, VP and Chief Data Officer at IBM, describes data silos as the “Achilles’ heel” of modern data strategy. Lovely made the comments following the release of a new study from the IBM […]The postIBM: Data silos are holding back enterprise AIappeared first onAI ",
-    "title_fr": "IBM: Data silos are holding back enterprise AI"
   }
 ]
