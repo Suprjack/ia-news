@@ -399,8 +399,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-22T12:39:21.550424",
-    "description_fr": "Editor’s note: This post is part of the AI On blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots. The series also highlights the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transformRead Article",
-    "title_fr": "AI On: 3 Ways to Bring Agentic AI to Computer Vision Applications"
+    "description_fr": "Note de l'éditeur : Cet article fait partie de la série de blogs AI On, qui explore les dernières techniques et applications du monde réel de l'IA agentique, des chatbots et des copilotes. La série met également en évidence le logiciel et le matériel NVIDIA alimentant les agents d'IA avancés, qui constituent la base des moteurs de requêtes d'IA qui recueillent des informations et effectuent des tâches pour transformerLire l'article",
+    "title_fr": "AI On : 3 façons d'apporter l'IA agentique aux applications de vision par ordinateur"
   },
   {
     "title": "Cline : un seul agent de code, tous les LLM, zéro contrainte",
@@ -412,8 +412,73 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-22T12:39:23.209286",
-    "description_fr": "Cline peut être utilisé avec la majorité des providers de LLM du marché, y compris ceux open source.",
+    "description_fr": "Cline peut être utilisé avec la majorité des fournisseurs de LLM du marché, y compris ceux open source.",
     "title_fr": "Cline : un seul agent de code, tous les LLM, zéro contrainte"
+  },
+  {
+    "title": "Meta wants to get into the electricity trading business",
+    "url": "https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/",
+    "description": "In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity.",
+    "image_url": "",
+    "published_date": "2025-11-22",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-22T18:29:32.817077",
+    "description_fr": "In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity.",
+    "title_fr": "Meta wants to get into the electricity trading business"
+  },
+  {
+    "title": "Bruce Gilden’s Street Photos Reveal the Underbelly of England",
+    "url": "https://petapixel.com/2025/11/22/bruce-gilden-empire-england-uk/",
+    "description": "\"The older I get, the closer I get,\" says street photographer Bruce Gilden. Now in his seventies, Gilden's latest book examines photographs he made in the U.K. across the 1970s and 2000s -- when he was very, very close to his subjects.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Bruce-Gilden-Empire.jpg",
+    "published_date": "2025-11-22",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-22T18:29:54.387503",
+    "description_fr": "\"The older I get, the closer I get,\" says street photographer Bruce Gilden. Now in his seventies, Gilden's latest book examines photographs he made in the U.K. across the 1970s and 2000s -- when he was very, very close to his subjects.[Read More]",
+    "title_fr": "Bruce Gilden’s Street Photos Reveal the Underbelly of England"
+  },
+  {
+    "title": "How Photographers Can Maximize Holiday Revenue With Lumaprints",
+    "url": "https://petapixel.com/2025/11/22/how-photographers-can-maximize-holiday-revenue-with-lumaprints/",
+    "description": "As the year races toward the holidays, photographers face a surge in demand for meaningful gifts and home décor. With November and December offering the strongest print sales of the year, here are our favorite tips and key strategies for turning that seasonal momentum into real revenue with Lumaprints.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Lumaprints-Nov-PetaPixel-BG-6.jpg",
+    "published_date": "2025-11-22",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-22T18:29:54.388183",
+    "description_fr": "As the year races toward the holidays, photographers face a surge in demand for meaningful gifts and home décor. With November and December offering the strongest print sales of the year, here are our favorite tips and key strategies for turning that seasonal momentum into real revenue with Lumaprints.[Read More]",
+    "title_fr": "How Photographers Can Maximize Holiday Revenue With Lumaprints"
+  },
+  {
+    "title": "Magnum Photographer Shines a Light on Spain’s Alienated Youth",
+    "url": "https://petapixel.com/2025/11/22/magnum-photographer-shines-a-light-on-spains-alienated-youth/",
+    "description": "A Magnum photographer has released new work that focuses on young people living in the peripheries of Spain -- reflecting the alienation and uncertainty of the present era.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Lua-Ribeira-Agony-in-Garden.jpg",
+    "published_date": "2025-11-22",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-22T18:29:54.388803",
+    "description_fr": "A Magnum photographer has released new work that focuses on young people living in the peripheries of Spain -- reflecting the alienation and uncertainty of the present era.[Read More]",
+    "title_fr": "Magnum Photographer Shines a Light on Spain’s Alienated Youth"
+  },
+  {
+    "title": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
+    "url": "https://huggingface.co/blog/cwolff/sqale",
+    "description": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
+    "image_url": "https://cdn-avatars.huggingface.co/v1/production/uploads/65d65a40531e0bc924f0b1a3/TWS4x4mT2N8mz7ne2U11u.png",
+    "published_date": "2025-11-22",
+    "source": "Hugging Face",
+    "source_type": "website",
+    "category": "llms",
+    "collected_at": "2025-11-22T18:30:10.408194",
+    "description_fr": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
+    "title_fr": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset"
   },
   {
     "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
@@ -842,7 +907,7 @@
     "category": "general",
     "collected_at": "2025-11-21T01:46:02.871261",
     "description_fr": "L'analyse du comportement humain par l'intelligence artificielle est une réalité, elle s'impose dans le domaine de la compréhension des interactions sociales, des décisions d'achat et des processus cognitifs. Cette technologie, L'IA désormais déployée dans de nombreux secteurs, soulève des questions essentielles sur ses objectifs réels et ses implications pour la société.",
-    "title_fr": "L'IA est réellement au service de l'humanité"
+    "title_fr": "L'IA est-elle réellement au service de l'humanité"
   },
   {
     "title": "L'intelligence artificielle, pression évolutive et levier d'éducation augmentée",
@@ -854,8 +919,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:46:02.871674",
-    "description_fr": "Nous proposons d'explorer les enjeux contemporains liés à l'intégration de l'intelligence artificielle dans les systèmes éducatifs, en mobilisant une approche interdisciplinaire.",
-    "title_fr": "Intelligence artificielle, pression évolutive et levier d'éducation augmentée"
+    "description_fr": "Nous proposons d'explorer les enjeux contemporains liés à l'intégration de l'intelligence artificielle dans les systèmes éducatifs, en mobilisant une approche interdisciplinaires.",
+    "title_fr": "L'intelligence artificielle, pression évolutive et levier d'éducation augmentée"
   },
   {
     "title": "Paage lève près de 2 millions pour transformer les followers en clients grâce à l'IA",
@@ -6433,70 +6498,5 @@
     "collected_at": "2025-11-14T01:47:02.800151",
     "description_fr": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
     "title_fr": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’"
-  },
-  {
-    "title": "Coding assistant Cursor raises $2.3B 5 months after its previous round",
-    "url": "https://techcrunch.com/2025/11/13/coding-assistant-cursor-raises-2-3b-5-months-after-its-previous-round/",
-    "description": "Cursor plans to use the capital to continue developing Composer, the AI model the vibe-coding startup released in October.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:02.800940",
-    "description_fr": "Cursor plans to use the capital to continue developing Composer, the AI model the vibe-coding startup released in October.",
-    "title_fr": "Coding assistant Cursor raises $2.3B 5 months after its previous round"
-  },
-  {
-    "title": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more",
-    "url": "https://venturebeat.com/ai/baidu-unveils-proprietary-ernie-5-beating-gpt-5-performance-on-charts",
-    "description": "Mere hours after OpenAI updated its flagship foundation modelGPT-5 to GPT-5.1, promising reduced token usage overall and a more pleasant personality with more preset options, Chinese search giantBaidu unveiled its next-generation foundation model, ERNIE 5.0,alongside a suite of AI product upgrades and strategic international expansions.The goal: to position as a global contender in the increasingl",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:03.883308",
-    "description_fr": "Mere hours after OpenAI updated its flagship foundation modelGPT-5 to GPT-5.1, promising reduced token usage overall and a more pleasant personality with more preset options, Chinese search giantBaidu unveiled its next-generation foundation model, ERNIE 5.0,alongside a suite of AI product upgrades and strategic international expansions.The goal: to position as a global contender in the increasingl",
-    "title_fr": "Baidu unveils proprietary ERNIE 5 beating GPT-5 performance on charts, document understanding and more"
-  },
-  {
-    "title": "Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world",
-    "url": "https://venturebeat.com/ai/alembic-melted-gpus-chasing-causal-a-i-now-its-running-one-of-the-fastest",
-    "description": "Alembic Technologieshas raised$145 million in Series Band growth funding at a valuation 13 times higher than its previous round, betting that the next competitive advantage in artificial intelligence will come not from better language models but from proprietary data and causal reasoning.The San Francisco-based startup, which builds AI systems that identifycause-and-effect relationshipsrather than",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "VentureBeat AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:03.900949",
-    "description_fr": "Alembic Technologieshas raised$145 million in Series Band growth funding at a valuation 13 times higher than its previous round, betting that the next competitive advantage in artificial intelligence will come not from better language models but from proprietary data and causal reasoning.The San Francisco-based startup, which builds AI systems that identifycause-and-effect relationshipsrather than",
-    "title_fr": "Alembic melted GPUs chasing causal A.I. — now it's running one of the fastest supercomputers in the world"
-  },
-  {
-    "title": "OpenAI signs massive AI compute deal with Amazon",
-    "url": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/",
-    "description": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/hiding_hero_1-1152x648.jpg",
-    "published_date": "2025-11-14",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-14T01:47:06.447494",
-    "description_fr": "Deal will provide access to hundreds of thousands of Nvidia chips that power ChatGPT.",
-    "title_fr": "OpenAI signs massive AI compute deal with Amazon"
-  },
-  {
-    "title": "A single point of failure triggered the Amazon outage affecting millions",
-    "url": "https://arstechnica.com/gadgets/2025/10/a-single-point-of-failure-triggered-the-amazon-outage-affecting-millions/",
-    "description": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-    "published_date": "2025-11-14",
-    "source": "Ars Technica",
-    "source_type": "rss",
-    "category": "tech",
-    "collected_at": "2025-11-14T01:47:06.448343",
-    "description_fr": "A DNS manager in a single region of Amazon's sprawling network touched off a 16-hour debacle.",
-    "title_fr": "A single point of failure triggered the Amazon outage affecting millions"
   }
 ]
