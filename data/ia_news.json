@@ -9,8 +9,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-23T01:59:30.955777",
-    "description_fr": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
-    "title_fr": "Trump administration might not fight state AI regulations after all"
+    "description_fr": "Une ordonnance de l'administration Trump ciblant la réglementation de l'IA au niveau de l'État serait en attente.",
+    "title_fr": "L'administration Trump pourrait ne pas combattre les réglementations de l'État en matière d'IA après tout"
   },
   {
     "title": "Waymo gets regulatory approval to expand across Bay Area and Southern California",
@@ -22,8 +22,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-23T01:59:30.956099",
-    "description_fr": "Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across more of the Golden State.”",
-    "title_fr": "Waymo gets regulatory approval to expand across Bay Area and Southern California"
+    "description_fr": "Waymo continue d'étendre sa portée, la société robotaxi ayant annoncé vendredi qu'elle était désormais « officiellement autorisée à conduire de manière entièrement autonome dans une plus grande partie du Golden State ».",
+    "title_fr": "Waymo obtient l'approbation réglementaire pour s'étendre à la région de la baie et au sud de la Californie"
   },
   {
     "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
@@ -35,8 +35,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-23T01:59:31.833068",
-    "description_fr": "Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confidently outputting incorrect information. In high-stakes domains like finance, medicine or autonomous systems, such unreliability is unacceptable.EnterLean4, an open-source programming language and interactive theorem prover becoming a key tool to inje",
-    "title_fr": "Lean4: How the theorem prover works and why it's the new competitive edge in AI"
+    "description_fr": "Les grands modèles linguistiques (LLM) ont étonné le monde par leurs capacités, mais ils restent en proie à l'imprévisibilité et aux hallucinations – produisant en toute confiance des informations incorrectes. Dans des domaines à fort enjeu comme la finance, la médecine ou les systèmes autonomes, une telle fiabilité est inacceptable.EnterLean4, un langage de programmation open source et un démonstrateur de théorème interactif devenant un outil clé pour inje",
+    "title_fr": "Lean4 : Comment fonctionne le démonstrateur de théorème et pourquoi c'est le nouvel avantage concurrentiel de l'IA"
   },
   {
     "title": "The Mount Etna Eruption Photo that Won $200,000 at HIPA 2025",
@@ -48,8 +48,21 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-23T02:01:17.704876",
-    "description_fr": "HIPA, the world's most profitable photo contest, announced its 2025 winners with the theme Power on 11th November in Dubai, the most populous city in the United Arab Emirates.[Read More]",
-    "title_fr": "The Mount Etna Eruption Photo that Won $200,000 at HIPA 2025"
+    "description_fr": "HIPA, le concours photo le plus rentable au monde, a annoncé ses lauréats 2025 avec le thème Power le 11 novembre à Dubaï, la ville la plus peuplée des Émirats arabes unis.[En savoir plus]",
+    "title_fr": "La photo de l'éruption de l'Etna qui a remporté 200 000 $ à l'HIPA 2025"
+  },
+  {
+    "title": "Introducing group chats in ChatGPT",
+    "url": "https://openai.com/index/group-chats-in-chatgpt",
+    "description": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together.",
+    "image_url": "",
+    "published_date": "2025-11-23",
+    "source": "OpenAI Blog",
+    "source_type": "rss",
+    "category": "llms",
+    "collected_at": "2025-11-23T06:31:47.965234",
+    "description_fr": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together.",
+    "title_fr": "Introducing group chats in ChatGPT"
   },
   {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
@@ -868,7 +881,7 @@
     "category": "general",
     "collected_at": "2025-11-21T01:45:56.970962",
     "description_fr": "Le dernier modèle d'image IA de Google est bien meilleur que la version précédente pour générer du texte dans les images. Vous pouvez vous attendre à ce que les entreprises se déchaînent avec cette mise à jour.",
-    "title_fr": "Pratique avec le générateur d'images Nano Banana Pro de Google"
+    "title_fr": "Hands On With Google’s Nano Banana Pro Image Generator"
   },
   {
     "title": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China",
@@ -880,8 +893,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:45:56.971254",
-    "description_fr": "Un procureur fédéral a allégué qu'un défendeur s'était vanté que son père « s'était engagé dans des affaires similaires pour le Parti communiste chinois ».",
-    "title_fr": "4 personnes accusées de complot présumé pour faire passer clandestinement des superordinateurs et des puces Nvidia en Chine"
+    "description_fr": "A federal prosecutor alleged that one defendant boasted that his father “had engaged in similar business for the Chinese Communist Party.”",
+    "title_fr": "4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China"
   },
   {
     "title": "How the Royal Navy is using AI to cut its recruitment workload",
@@ -893,8 +906,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:45:58.737061",
-    "description_fr": "La Royal Navy remet la première ligne de ses opérations de recrutement à un avatar d'IA en temps réel appelé Atlas. Atlas est alimenté par un grand modèle linguistique et a été déployé pour répondre aux questions de sous-mariniers potentiels. Le déploiement montre comment l'IA peut soutenir le passage d'un triage lent basé sur du texte à un automatisme rapide et immersif […]Le postComment la Royal Navy utilise l'IA pour réduire son travail de recrutement",
-    "title_fr": "Comment la Royal Navy utilise l'IA pour réduire sa charge de travail de recrutement"
+    "description_fr": "The Royal Navy is handing the first line of its recruitment operations to a real-time AI avatar called Atlas. Atlas is powered by a large language model and has been deployed to field questions from prospective submariners. The deployment shows how AI can support a shift from slow text-based triage to fast and immersive automated […]The postHow the Royal Navy is using AI to cut its recruitment wor",
+    "title_fr": "How the Royal Navy is using AI to cut its recruitment workload"
   },
   {
     "title": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark",
@@ -906,7 +919,7 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-21T01:46:00.695997",
-    "description_fr": "À l'ère du raisonnement de l'IA, la formation de modèles plus intelligents et plus capables est essentielle pour faire évoluer l'intelligence. Fournir les performances massives pour répondre à cette nouvelle ère nécessite des percées à travers les GPU, les processeurs, les cartes réseau, les réseaux évolutifs et évolutifs, les architectures système et des montagnes de logiciels et d'algorithmes. Dans MLPerf Training v5.1 — le dernier tour d'une longue sérieLire l'article",
+    "description_fr": "In the age of AI reasoning, training smarter, more capable models is critical to scaling intelligence. Delivering the massive performance to meet this new age requires breakthroughs across GPUs, CPUs, NICs, scale-up and scale-out networking, system architectures, and mountains of software and algorithms. In MLPerf Training v5.1 — the latest round in a long-running seriesRead Article",
     "title_fr": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark"
   },
   {
@@ -6485,18 +6498,5 @@
     "collected_at": "2025-11-14T01:46:56.899644",
     "description_fr": "Philips is scaling AI literacy with ChatGPT Enterprise, training 70,000 employees to use AI responsibly and improve healthcare outcomes worldwide.",
     "title_fr": "How Philips Is scaling AI literacy across 70,000 employees"
-  },
-  {
-    "title": "Introducing GPT-5.1 for developers",
-    "url": "https://openai.com/index/gpt-5-1-for-developers",
-    "description": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-14T01:46:56.900021",
-    "description_fr": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
-    "title_fr": "Introducing GPT-5.1 for developers"
   }
 ]
