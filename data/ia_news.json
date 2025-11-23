@@ -1,5 +1,57 @@
 [
   {
+    "title": "Trump administration might not fight state AI regulations after all",
+    "url": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+    "description": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+    "image_url": "",
+    "published_date": "2025-11-23",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-23T01:59:30.955777",
+    "description_fr": "A Trump administration order targeting state-level AI regulation is reportedly on hold.",
+    "title_fr": "Trump administration might not fight state AI regulations after all"
+  },
+  {
+    "title": "Waymo gets regulatory approval to expand across Bay Area and Southern California",
+    "url": "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/",
+    "description": "Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across more of the Golden State.”",
+    "image_url": "",
+    "published_date": "2025-11-23",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-23T01:59:30.956099",
+    "description_fr": "Waymo continues to expand its reach, with the robotaxi company posting Friday that it’s now “officially authorized to drive fully autonomously across more of the Golden State.”",
+    "title_fr": "Waymo gets regulatory approval to expand across Bay Area and Southern California"
+  },
+  {
+    "title": "Lean4: How the theorem prover works and why it's the new competitive edge in AI",
+    "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+    "description": "Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confidently outputting incorrect information. In high-stakes domains like finance, medicine or autonomous systems, such unreliability is unacceptable.EnterLean4, an open-source programming language and interactive theorem prover becoming a key tool to inje",
+    "image_url": "",
+    "published_date": "2025-11-23",
+    "source": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "general",
+    "collected_at": "2025-11-23T01:59:31.833068",
+    "description_fr": "Large language models (LLMs) have astounded the world with their capabilities, yet they remain plagued by unpredictability and hallucinations – confidently outputting incorrect information. In high-stakes domains like finance, medicine or autonomous systems, such unreliability is unacceptable.EnterLean4, an open-source programming language and interactive theorem prover becoming a key tool to inje",
+    "title_fr": "Lean4: How the theorem prover works and why it's the new competitive edge in AI"
+  },
+  {
+    "title": "The Mount Etna Eruption Photo that Won $200,000 at HIPA 2025",
+    "url": "https://petapixel.com/2025/11/22/the-mount-etna-eruption-photo-that-won-200000-at-hipa-2025/",
+    "description": "HIPA, the world's most profitable photo contest, announced its 2025 winners with the theme Power on 11th November in Dubai, the most populous city in the United Arab Emirates.[Read More]",
+    "image_url": "https://petapixel.com/assets/uploads/2025/11/Gianluca-Gianferrari-copy-1600x840.jpg",
+    "published_date": "2025-11-23",
+    "source": "PetaPixel - AI",
+    "source_type": "rss",
+    "category": "creative",
+    "collected_at": "2025-11-23T02:01:17.704876",
+    "description_fr": "HIPA, the world's most profitable photo contest, announced its 2025 winners with the theme Power on 11th November in Dubai, the most populous city in the United Arab Emirates.[Read More]",
+    "title_fr": "The Mount Etna Eruption Photo that Won $200,000 at HIPA 2025"
+  },
+  {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
     "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
     "description": "This GPT-5 system card addendum provides updated safety metrics for GPT-5.1 Instant and Thinking, including new evaluations for mental health and emotional reliance.",
@@ -425,8 +477,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-22T18:29:32.817077",
-    "description_fr": "In order to accelerate the construction of new power plants needed to provide energy for its data centers, Meta is looking to get into the business of trading electricity.",
-    "title_fr": "Meta wants to get into the electricity trading business"
+    "description_fr": "Afin d'accélérer la construction de nouvelles centrales électriques nécessaires pour fournir de l'énergie à ses centres de données, Meta cherche à se lancer dans le négoce d'électricité.",
+    "title_fr": "Meta veut se lancer dans le négoce d'électricité"
   },
   {
     "title": "Bruce Gilden’s Street Photos Reveal the Underbelly of England",
@@ -438,8 +490,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-22T18:29:54.387503",
-    "description_fr": "\"The older I get, the closer I get,\" says street photographer Bruce Gilden. Now in his seventies, Gilden's latest book examines photographs he made in the U.K. across the 1970s and 2000s -- when he was very, very close to his subjects.[Read More]",
-    "title_fr": "Bruce Gilden’s Street Photos Reveal the Underbelly of England"
+    "description_fr": "« Plus je vieillis, plus je me rapproche », explique le photographe de rue Bruce Gilden. Maintenant dans la soixantaine, le dernier livre de Gilden examine les photographies qu'il a faites au Royaume-Uni dans les années 1970 et 2000 - quand il était très, très proche de ses sujets.[En savoir plus]",
+    "title_fr": "Les photos de rue de Bruce Gilden révèlent les dessous de l'Angleterre"
   },
   {
     "title": "How Photographers Can Maximize Holiday Revenue With Lumaprints",
@@ -451,8 +503,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-22T18:29:54.388183",
-    "description_fr": "As the year races toward the holidays, photographers face a surge in demand for meaningful gifts and home décor. With November and December offering the strongest print sales of the year, here are our favorite tips and key strategies for turning that seasonal momentum into real revenue with Lumaprints.[Read More]",
-    "title_fr": "How Photographers Can Maximize Holiday Revenue With Lumaprints"
+    "description_fr": "Alors que l'année se rapproche des vacances, les photographes sont confrontés à une forte demande de cadeaux et de décorations pour la maison. Alors que novembre et décembre offrent les meilleures ventes d'impression de l'année, voici nos conseils préférés et nos stratégies clés pour transformer cet élan saisonnier en revenus réels avec Lumaprints.[En savoir plus]",
+    "title_fr": "Comment les photographes peuvent maximiser les revenus de vacances avec Lumaprints"
   },
   {
     "title": "Magnum Photographer Shines a Light on Spain’s Alienated Youth",
@@ -464,8 +516,8 @@
     "source_type": "rss",
     "category": "creative",
     "collected_at": "2025-11-22T18:29:54.388803",
-    "description_fr": "A Magnum photographer has released new work that focuses on young people living in the peripheries of Spain -- reflecting the alienation and uncertainty of the present era.[Read More]",
-    "title_fr": "Magnum Photographer Shines a Light on Spain’s Alienated Youth"
+    "description_fr": "Un photographe de Magnum a publié un nouveau travail qui se concentre sur les jeunes vivant dans les périphéries de l'Espagne - reflétant l'aliénation et l'incertitude de l'époque actuelle.[En savoir plus]",
+    "title_fr": "Magnum Photographer met en lumière la jeunesse exilée d'Espagne"
   },
   {
     "title": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
@@ -477,8 +529,8 @@
     "source_type": "website",
     "category": "llms",
     "collected_at": "2025-11-22T18:30:10.408194",
-    "description_fr": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset",
-    "title_fr": "🧠 SQaLe: Enabling new Text-to-SQL models with our massive dataset"
+    "description_fr": "🧠 SQaLe : Activation de nouveaux modèles Text-to-SQL avec notre jeu de données massif",
+    "title_fr": "🧠 SQaLe : Activation de nouveaux modèles Text-to-SQL avec notre jeu de données massif"
   },
   {
     "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
@@ -855,7 +907,7 @@
     "category": "hardware",
     "collected_at": "2025-11-21T01:46:00.695997",
     "description_fr": "À l'ère du raisonnement de l'IA, la formation de modèles plus intelligents et plus capables est essentielle pour faire évoluer l'intelligence. Fournir les performances massives pour répondre à cette nouvelle ère nécessite des percées à travers les GPU, les processeurs, les cartes réseau, les réseaux évolutifs et évolutifs, les architectures système et des montagnes de logiciels et d'algorithmes. Dans MLPerf Training v5.1 — le dernier tour d'une longue sérieLire l'article",
-    "title_fr": "NVIDIA gagne chaque formation MLPerf v5.1 Benchmark"
+    "title_fr": "NVIDIA Wins Every MLPerf Training v5.1 Benchmark"
   },
   {
     "title": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs",
@@ -867,8 +919,8 @@
     "source_type": "rss",
     "category": "hardware",
     "collected_at": "2025-11-21T01:46:00.696363",
-    "description_fr": "Les assistants d'IA basés sur un modèle de grand langage (LLM) sont de puissants outils de productivité, mais sans le contexte et les informations appropriés, ils peuvent avoir du mal à fournir des réponses nuancées et pertinentes. Bien que la plupart des applications de chat basées sur LLM permettent aux utilisateurs de fournir quelques fichiers pour le contexte, ils n'ont souvent pas accès à toutes les informations enfouies dans les diapositives, les notes, les PDF et les imagesLire l'article",
-    "title_fr": "Plus rapide qu'un clic : la recherche d'agent d'hyperlien est maintenant disponible sur les PC NVIDIA RTX"
+    "description_fr": "Large language model (LLM)-based AI assistants are powerful productivity tools, but without the right context and information, they can struggle to provide nuanced, relevant answers. While most LLM-based chat apps allow users to supply a few files for context, they often don’t have access to all the information buried across slides, notes, PDFs and imagesRead Article",
+    "title_fr": "Faster Than a Click: Hyperlink Agent Search Now Available on NVIDIA RTX PCs"
   },
   {
     "title": "Yann LeCun quitte Meta : le désaccord qui révèle la crise de vision de l'IA",
@@ -880,7 +932,7 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:46:02.870388",
-    "description_fr": "Le départ de Yann LeCun met en lumière la crise de vision qui s'oppose à la science de long terme à la logique économique de court terme dans l'air.",
+    "description_fr": "Le départ de Yann LeCun met en lumière la crise de vision qui oppose la science de long terme à la logique économique de court terme dans l'IA.",
     "title_fr": "Yann LeCun quitte Meta : le désaccord qui révèle la crise de vision de l'IA"
   },
   {
@@ -893,8 +945,8 @@
     "source_type": "rss",
     "category": "general",
     "collected_at": "2025-11-21T01:46:02.870840",
-    "description_fr": "Dans un contexte de numérisation accélérée, l'intelligence artificielle révolutionne la gestion documentaire.",
-    "title_fr": "Productivité et sécurité : comment l'a réinvente la gestion des documents sensibles"
+    "description_fr": "Dans un contexte de numérisation accéléré, l'intelligence artificielle révolutionne la gestion documentaire.",
+    "title_fr": "Productivité et sécurité : comment l'IA réinvente la gestion des documents sensibles"
   },
   {
     "title": "L'IA est-elle réellement au service de l'humanité",
@@ -6446,57 +6498,5 @@
     "collected_at": "2025-11-14T01:46:56.900021",
     "description_fr": "GPT-5.1 is now available in the API, bringing faster adaptive reasoning, extended prompt caching, improved coding performance, and new apply_patch and shell tools.",
     "title_fr": "Introducing GPT-5.1 for developers"
-  },
-  {
-    "title": "Piloting group chats in ChatGPT",
-    "url": "https://openai.com/index/group-chats-in-chatgpt",
-    "description": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-14T01:46:56.900444",
-    "description_fr": "We’re piloting group chats in ChatGPT to make collaboration simple. Bring others—and ChatGPT—into one shared conversation to plan, brainstorm, and create together.",
-    "title_fr": "Piloting group chats in ChatGPT"
-  },
-  {
-    "title": "Introducing IndQA",
-    "url": "https://openai.com/index/introducing-indqa",
-    "description": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "OpenAI Blog",
-    "source_type": "rss",
-    "category": "llms",
-    "collected_at": "2025-11-14T01:46:56.902509",
-    "description_fr": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-    "title_fr": "Introducing IndQA"
-  },
-  {
-    "title": "VCs abandon old rules for a ‘funky time’ of investing in AI startups",
-    "url": "https://techcrunch.com/2025/11/13/vcs-abandon-old-rules-for-a-funky-time-of-investing-in-ai-startups/",
-    "description": "The goalposts are moving for AI startups when it comes to  growth, product features, and just about everything else.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:02.799811",
-    "description_fr": "The goalposts are moving for AI startups when it comes to  growth, product features, and just about everything else.",
-    "title_fr": "VCs abandon old rules for a ‘funky time’ of investing in AI startups"
-  },
-  {
-    "title": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’",
-    "url": "https://techcrunch.com/2025/11/13/apples-new-app-review-guidelines-clamp-down-on-apps-sharing-personal-data-with-third-party-ai/",
-    "description": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
-    "image_url": "",
-    "published_date": "2025-11-14",
-    "source": "TechCrunch AI",
-    "source_type": "rss",
-    "category": "general",
-    "collected_at": "2025-11-14T01:47:02.800151",
-    "description_fr": "Apple updates its App Store rules to restrict apps from sharing personal data with third-party AI without disclosure and explicit permission.",
-    "title_fr": "Apple’s new App Review Guidelines clamp down on apps sharing personal data with ‘third-party AI’"
   }
 ]
